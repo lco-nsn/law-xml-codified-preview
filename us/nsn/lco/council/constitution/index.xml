@@ -364,12 +364,12 @@
     <text>Washington D.C.</text>
     <text>Date: November 2, 1966</text>
   </procedural-data>
-  <text>Legislative History</text>
-  <text>Includes:</text>
-  <text>Amendment I Approved April 7, 1969</text>
-  <text>Amendments II through X Approved December 23, 1974</text>
-  <text>Amendments XI through XIV approved December 21, 1978</text>
-  <text>Amendments XV through XVIII Approved August 29, 1980</text>
-  <text>Amendments XIX through XXII Approved September 23, 1986</text>
-  <text>Amendments XXIII and XXIV Approved February 10, 1992; see Thomas v. United States, 141 F. Supp. 2d 1185 (W.D. Wisc 2001)</text>
+  <annotations>
+    <annotation type="Legislative History">Amendment I Approved April 7, 1969</annotation>
+    <annotation type="Legislative History">Amendments II through X Approved December 23, 1974</annotation>
+    <annotation type="Legislative History">Amendments XI through XIV approved December 21, 1978</annotation>
+    <annotation type="Legislative History">Amendments XV through XVIII Approved August 29, 1980</annotation>
+    <annotation type="Legislative History">Amendments XIX through XXII Approved September 23, 1986</annotation>
+    <annotation type="Legislative History">Amendments XXIII and XXIV Approved February 10, 1992; see Thomas v. United States, 141 F. Supp. 2d 1185 (W.D. Wisc 2001)</annotation>
+  </annotations>
 </document>
