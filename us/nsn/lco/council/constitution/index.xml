@@ -7,8 +7,9 @@
       <citation type="const" url="./adopted/const.pdf"/>
     </citations>
   </meta>
-  <preamble>We, the members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin, in order to secure the advantages of local self-government for ourselves and our children and to organize for our common welfare, do hereby establish this Constitution and Bylaws.</preamble>
   <container>
+    <heading>Constitution of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</heading>
+    <preamble>We, the members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin, in order to secure the advantages of local self-government for ourselves and our children and to organize for our common welfare, do hereby establish this Constitution and Bylaws.</preamble>
     <container>
       <prefix>Article</prefix>
       <num>I</num>
@@ -288,7 +289,7 @@
     </container>
   </container>
   <container>
-    <heading>BYLAWS</heading>
+    <heading>Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</heading>
     <container>
       <prefix>Article</prefix>
       <num>I</num>
