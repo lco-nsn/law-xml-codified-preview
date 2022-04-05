@@ -7,11 +7,9 @@
       <citation type="const" url="./adopted/const.pdf"/>
     </citations>
   </meta>
-  <container id="const">
+  <container>
     <heading>Constitution of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</heading>
-    <container id="preamble">
-      <preamble>We, the members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin, in order to secure the advantages of local self-government for ourselves and our children and to organize for our common welfare, do hereby establish this Constitution and Bylaws.</preamble>
-    </container>
+    <text>We, the members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin, in order to secure the advantages of local self-government for ourselves and our children and to organize for our common welfare, do hereby establish this Constitution and Bylaws.</text>
     <container>
       <prefix>Article</prefix>
       <num>I</num>
@@ -291,7 +289,7 @@
       <text>It shall be the duty of the Secretary of the Interior to call an election on any proposed amendment upon request by majority vote of the Lac Courte Oreilles Governing Board or upon petition of at least 75 qualified voters of the Band.</text>
     </container>
   </container>
-  <container id="bylaws">
+  <container>
     <heading>Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</heading>
     <container>
       <prefix>Article</prefix>
