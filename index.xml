@@ -18,10 +18,25 @@
         <repository name="lco-nsn/law-xml" commit="9d38f630eef16b1120b2fe96a1f3d58734808401"/>
       </repositories>
       <platform version="2.6.0" reproducible="false"/>
-      <build-date>2022-04-12</build-date>
+      <build-date>2022-04-14</build-date>
       <codified-date>1966-11-02</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/lco/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/lco/council/code/index.xml"/>
+  <collection name="us/nsn/mohican/council/resolutions">
+    <heading>Tribal Governing Board Resolutions.</heading>
+    <text>Resolutions impacting the Lac Courte Oreilles Tribal Code are provided for reference and the convenience of Stockbridge-Munsee Tribal Law Library users. The list of resolutions for changes prior to codification in 2021 may be incomplete.</text>
+    <xi:include href="./us/nsn/lco/council/resolutions/2021/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2020/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2019/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2017/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2016/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2015/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2012/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2007/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2006/index.xml"/>
+    <xi:include href="./us/nsn/lco/council/resolutions/2005/index.xml"/>
+  </collection>
 </library>
