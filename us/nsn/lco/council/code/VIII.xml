@@ -1525,7 +1525,7 @@
       <section>
         <num>4.52</num>
         <heading>Detention Authorized</heading>
-        <text>Every law enforcement officer is hereby authorized to detain any minor an officer reasonably             believes is violating the provisions of <cite path="VIII|4">this chapter</cite> until such time as the parent, guardian or person having legal custody of the minor shall be immediately notified as soon as possible thereafter report to the police or sheriff's department for the purpose of taking physical custody of the minor and shall sign a release for him or her. If no response is received, the police or sheriff's department shall cite the minor under the applicable section of this ordinance, and if a parent or guardian cannot be located, deliver the minor to his or her residence if the conditions at the residence are suitable. If conditions at the residence are unsuitable, or if the minor is under ten (10) years of age, the police or sheriff's department shall refer the minor and request a transfer of custody to the Lac Courte Oreilles Indian Child Welfare Department or Sawyer County Social Services Department.</text>
+        <text>Every law enforcement officer is hereby authorized to detain any minor an officer reasonably believes is violating the provisions of <cite path="VIII|4">this chapter</cite> until such time as the parent, guardian or person having legal custody of the minor shall be immediately notified as soon as possible thereafter report to the police or sheriff's department for the purpose of taking physical custody of the minor and shall sign a release for him or her. If no response is received, the police or sheriff's department shall cite the minor under the applicable section of this ordinance, and if a parent or guardian cannot be located, deliver the minor to his or her residence if the conditions at the residence are suitable. If conditions at the residence are unsuitable, or if the minor is under ten (10) years of age, the police or sheriff's department shall refer the minor and request a transfer of custody to the Lac Courte Oreilles Indian Child Welfare Department or Sawyer County Social Services Department.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1543,7 +1543,8 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Subsequent Offense - Minor. Any minor who has been warned in the manner provided in Section 4.52(a) and who thereafter shall violate Section 4.50(a) or (b) shall, upon conviction thereof, forfeit not less than One Dollar ($1.00) nor more than Twenty-Five Dollars ($25.00), together with the cost of prosecution. The Lac Courte Oreilles Tribal Court may also ) order the child cited herein to perform community service appropriate to the age of the minor and circumstances of the violation. The parent, guardian or person having legal custody of the minor cited herein is responsible to the court to see that the minor complies with the court-ordered community service.</text>
+          <text>Subsequent Offense - Minor. Any minor who has been warned in the manner provided in Section 4.52(a) and who thereafter shall violate Section 4.50(a) or (b) shall, upon conviction thereof, forfeit not less than One Dollar ($1.00) nor more than Twenty-Five Dollars ($25.00), together with the cost of prosecution. The Lac Courte Oreilles Tribal Court may also</text>
+          <text>order the child cited herein to perform community service appropriate to the age of the minor and circumstances of the violation. The parent, guardian or person having legal custody of the minor cited herein is responsible to the court to see that the minor complies with the court-ordered community service.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1954,7 +1955,7 @@
           </para>
           <para>
             <num>(11)</num>
-            <text>A fuseless device that is designed to produce audible or visible effects or audible or visible effects, and that contains less than one-quarter grain of explosive mixture.</text>
+            <text>A useless device that is designed to produce audible or visible effects or audible or visible effects, and that contains less than one-quarter grain of explosive mixture.</text>
           </para>
           <para>
             <num>(12)</num>
@@ -2201,8 +2202,7 @@
       <section>
         <num>4.80</num>
         <heading>Severability</heading>
-        <text>The provisions of this Ordinance are severable. If any provision of this Ordinance or its application to any person or circumstance is held invalid, such invalidity shall not affect other</text>
-        <text>provisions or applications of this Ordinance which can be given effect without the invalid provision or application.</text>
+        <text>The provisions of this Ordinance are severable. If any provision of this Ordinance or its application to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of this Ordinance which can be given effect without the invalid provision or application.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -2885,9 +2885,11 @@
             <num>(d)</num>
             <text>that failure to pay the amount of the fine or appear before the LCO tribal court on the date set for hearing, shall result in entry of a default judgment and an award of relief in accordance with this ordinance.</text>
           </para>
-          <aftertext>
-            <strong>Sec 4.116 Forfeiture</strong>
-          </aftertext>
+          <annotations/>
+        </section>
+        <section>
+          <num>4.116</num>
+          <heading>Forfeiture</heading>
           <para>
             <num>(a)</num>
             <text>If the LCO tribal court finds that a violation of this ordinance has been committed, it may impose a forfeiture of not more than Five Thousand Dollars and 00/100 ($5000.00). The LCO tribal court may also reduce or suspend any fine on the condition that the owner or keeper fully comply with the order, or if the animal's owner or keeper proves that the violation has been corrected (for example, that the dog's vaccinations have been brought up to date).</text>
@@ -2929,6 +2931,8 @@
             <num>(b)</num>
             <text>The LCO tribal court shall uphold any decision of the department subject to appeal unless it finds by preponderance of the evidence that such decision was arbitrary, capricious, an abuse of discretion or otherwise was contrary to the ordinance.</text>
           </para>
+          <aftertext>Approved by Lac Courte Oreilles Tribal Governing Board</aftertext>
+          <aftertext>Resolution No. 07-45 on May 7, 2007</aftertext>
           <annotations/>
         </section>
       </container>
@@ -3024,7 +3028,7 @@
       <section>
         <num>4.127</num>
         <heading>Definitions</heading>
-        <text>Any term not defined in <cite path="VIII|4|XII|4.127">this Section</cite> shall be given its ordinary meaning, and the below terms  shall have the following meanings, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="VIII|4|XII|4.127">this Section</cite> shall be given its ordinary meaning, and the below terms shall have the following meanings, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text>Tribal Lands means any land or interest in land within the exterior boundaries of the Reservation, which is held in trust by the United States of America for the Tribe or its members, or held by the Tribe in fee or in any other form.</text>
@@ -3057,11 +3061,8 @@
           <num>(a)</num>
           <text>enters upon the real property of another that is posted to prohibit trespassing, is fenced or contains obvious outward signs of habitability without permission of the owner or the owner's agent;</text>
         </para>
-        <para>
-          <num>(b)</num>
-          <text>any Non-Member who enters Tribal Lands or Tribal Waters that are not</text>
-          <text>specifically posted as open to the public.</text>
-        </para>
+        <aftertext>)	(b) any Non-Member who enters Tribal Lands or Tribal Waters that are not</aftertext>
+        <aftertext>specifically posted as open to the public.</aftertext>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -3203,7 +3204,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The Tribe's jurisdiction "extend[s] to all lands and waters within the territory of the band..." Constitution, Article I, Section 2.</text>
+          <text>The Tribe's jurisdiction "extend[s] to all lands and waters within the territory of the band...Constitution, Article I, Section 2.</text>
         </para>
         <para>
           <num>(c)</num>
