@@ -1543,8 +1543,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Subsequent Offense - Minor. Any minor who has been warned in the manner provided in Section 4.52(a) and who thereafter shall violate Section 4.50(a) or (b) shall, upon conviction thereof, forfeit not less than One Dollar ($1.00) nor more than Twenty-Five Dollars ($25.00), together with the cost of prosecution. The Lac Courte Oreilles Tribal Court may also</text>
-          <text>order the child cited herein to perform community service appropriate to the age of the minor and circumstances of the violation. The parent, guardian or person having legal custody of the minor cited herein is responsible to the court to see that the minor complies with the court-ordered community service.</text>
+          <text>Subsequent Offense - Minor. Any minor who has been warned in the manner provided in Section 4.52(a) and who thereafter shall violate Section 4.50(a) or (b) shall, upon conviction thereof, forfeit not less than One Dollar ($1.00) nor more than Twenty-Five Dollars ($25.00), together with the cost of prosecution. The Lac Courte Oreilles Tribal Court may also order the child cited herein to perform community service appropriate to the age of the minor and circumstances of the violation. The parent, guardian or person having legal custody of the minor cited herein is responsible to the court to see that the minor complies with the court-ordered community service.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2217,6 +2216,7 @@
       <num>XI</num>
       <heading>Animal Control Ordinance</heading>
       <container>
+        <num path-omit="true">I</num>
         <heading>General Provisions</heading>
         <section>
           <num>4.81</num>
@@ -2416,6 +2416,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">II</num>
         <heading>Licensing and Vaccination</heading>
         <section>
           <num>4.89</num>
@@ -2453,6 +2454,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">III</num>
         <heading>Restraint of Animals</heading>
         <section>
           <num>4.91</num>
@@ -2506,6 +2508,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">IV</num>
         <heading>Animal Bites</heading>
         <section>
           <num>4.96</num>
@@ -2521,6 +2524,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">V</num>
         <heading>Treatment of Animals</heading>
         <section>
           <num>4.98</num>
@@ -2602,6 +2606,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">VI</num>
         <heading>Impoundment</heading>
         <section>
           <num>4.104</num>
@@ -2931,8 +2936,6 @@
             <num>(b)</num>
             <text>The LCO tribal court shall uphold any decision of the department subject to appeal unless it finds by preponderance of the evidence that such decision was arbitrary, capricious, an abuse of discretion or otherwise was contrary to the ordinance.</text>
           </para>
-          <aftertext>Approved by Lac Courte Oreilles Tribal Governing Board</aftertext>
-          <aftertext>Resolution No. 07-45 on May 7, 2007</aftertext>
           <annotations/>
         </section>
       </container>
@@ -3061,8 +3064,10 @@
           <num>(a)</num>
           <text>enters upon the real property of another that is posted to prohibit trespassing, is fenced or contains obvious outward signs of habitability without permission of the owner or the owner's agent;</text>
         </para>
-        <aftertext>)	(b) any Non-Member who enters Tribal Lands or Tribal Waters that are not</aftertext>
-        <aftertext>specifically posted as open to the public.</aftertext>
+        <para>
+          <num>(b)</num>
+          <text>any Non-Member who enters Tribal Lands or Tribal Waters that are not specifically posted as open to the public.</text>
+        </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>

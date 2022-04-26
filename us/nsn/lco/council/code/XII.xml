@@ -1345,10 +1345,22 @@
             <para>
               <num>(i)</num>
               <text>A person having responsibility for a management contract; and/or any person who has authority:</text>
-              <text>1) To hire and fire employees; and/or</text>
-              <text>2) To set up working policy for the gaming operation; and/or</text>
-              <text>3) The chief financial officer or other person who has financial management responsibility.</text>
-              <text>4) Any other gaming employee the Tribe designates.</text>
+              <para>
+                <num>(1)</num>
+                <text>To hire and fire employees; and/or</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>To set up working policy for the gaming operation; and/or</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The chief financial officer or other person who has financial management responsibility.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Any other gaming employee the Tribe designates.</text>
+              </para>
             </para>
           </para>
         </para>
@@ -1583,10 +1595,22 @@
             <para>
               <num>(iii)</num>
               <text>A summary of the information presented in the investigative report, including:</text>
-              <text>1) licenses that have previously been denied;</text>
-              <text>2) gaming licenses that have been revoked, even if subsequently reinstated;</text>
-              <text>3) every known criminal charge brought against the applicant within the last 10 years of the date of the application; and</text>
-              <text>4) every felony offense of which the applicant has been convicted or any ongoing prosecution; and</text>
+              <para>
+                <num>(1)</num>
+                <text>licenses that have previously been denied;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>gaming licenses that have been revoked, even if subsequently reinstated;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>every known criminal charge brought against the applicant within the last 10 years of the date of the application; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>every felony offense of which the applicant has been convicted or any ongoing prosecution; and</text>
+              </para>
             </para>
             <para>
               <num>(iv)</num>
@@ -3457,7 +3481,10 @@
             <para>
               <num>(iv)</num>
               <text><u>Exclusions</u>.</text>
-              <text>1)	<u>Military</u>. Military is excluded as the product does not comply with the Military Lending Act's APR requirements.</text>
+              <para>
+                <num>(1)</num>
+                <text><u>Military</u>. Military is excluded as the product does not comply with the Military Lending Act's APR requirements.</text>
+              </para>
             </para>
             <para>
               <num>(v)</num>
@@ -3968,6 +3995,539 @@
         <text>Application Fee to become a Financial Services Licensee (subject to wavier at the sole and absolute discretion of the Authority	$250.00.</text>
         <text>Application Fee to become an Employee of a Financial Services Licensee	$25.00.</text>
         <text>Application Fee to become a Vendor Licensee	$500.00</text>
+        <annotations/>
+      </section>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3</num>
+    <heading>Workers' Compensation Ordinance of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>1</num>
+      <heading>General Provisions</heading>
+      <section>
+        <num>1</num>
+        <heading>Purpose</heading>
+        <text>By the adoption of this Ordinance, the Tribal Governing Board of Lac Courte Oreilles Band of Lake Superior Chippewa Indians intends to provide the benefits outlined herein to Employees of the Lac Courte Oreilles Tribe and Enterprises located on the Lac Courte Oreilles Reservation, for all injuries or illness resulting out of the employment relationship with the Employer. The effective date of this Ordinance is October 14, 2005.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>2</num>
+        <heading>Exclusive Remedy</heading>
+        <text>When no other liability exists for compensable liability, all Employees are covered for compensable bodily injuries or illness when on the Employer's premise or where Employer has instructed Employee to leave the premise in conjunction with duties associated with his/her job.</text>
+        <text>The Lac Courte Oreilles Tribal Government's sovereign immunity applies to this ordinance. The use of benefits and rights under this Ordinance are the Employees' exclusive remedy against Lac Courte Oreilles Tribal Government and Enterprises.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>2</num>
+      <heading>Definitions</heading>
+      <section>
+        <num>3</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(1)</num>
+          <text>Accident</text>
+        </para>
+        <aftertext>An event that is sudden, unexpected and unforeseen by the injured person.</aftertext>
+        <para>
+          <num>(2)</num>
+          <text>Claim</text>
+          <text>A written request for Worker's Compensation benefits under this Ordinance.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Claims Administrator/Managed Care Provider</text>
+          <text>"Claims Administrator/Managed Care Provider", with whom the Employer has contracted with to act on behalf of the Employer for compliance with this Ordinance and to evaluate Worker's Compensation claims.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Compensable Injury</text>
+          <text>A bodily illness or accident to an Employee while performing the specified duties and services associated with employment in or on the premises of the Employer. Injuries due to repetitive or cumulative trauma may be deemed compensable if the condition is determined to be solely related to the employment and the Employee has no prior treatment history of a pre-existing condition.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Disability</text>
+          <text>The actual incapacity to perform the tasks usually encountered in the Employee's employment and the wage loss resulting there from, or physical impairment of the body that may or may not be incapacitating.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Employee</text>
+          <text>An individual hired by the Employer who performs specified duties and services at an established wage or salary.  An employee of Lac Courte Oreilles Tribal Government and Enterprises is covered, whether they are employed full-time, part-time, temporarily or seasonally. Employees are covered while in the course and scope of employment for Lac Courte Oreilles Tribal Government and Enterprises, whether on or off the reservation. Employee includes persons who are serving community service, fire department volunteers, first responders, assigned from the county jail Huber program and summer youth workers. If there is a question as to whether or not you are covered, check with your Director/Supervisor/Manager.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Employer</text>
+          <text>The Lac Courte Oreilles Tribal Government and Enterprises</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Insurance Appeal Board</text>
+          <text>An appeal board consisting of five individuals appointed by the Tribal Governing Board who will hear an appeal filed by an Employee in accordance with Section 11/Appeals. The Board shall be comprised of one medical professional, a human resources representative, the employee's immediate supervisor and two members of the Lac Courte Oreilles Insurance Task Force.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>MMI</text>
+          <text>Maximum Medical Improvement means the date after which no further significant lasting improvement to a personal injury can reasonably be anticipated.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Occupation Disease</text>
+          <text>A harm that results from occupational exposure but is not so sudden or traumatic as to fit within the definition of an accident. It includes systemic infections and exposure to toxins/poison fumes in the work environment usually over a long period of time.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Plan Administrator</text>
+          <text>"Plan Administrator" means the person appointed by the Lac Courte Oreilles Tribal Governing Board, who will serve at the direction of the Employer to administer this Ordinance in accordance with its terms. Also referred to as the Employer's Insurance Officer.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Premises</text>
+          <text>The specific geographic area within which the Employee fulfills the Employee's duties and responsibilities to the Employer in the normal course of employment.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Rehabilitations</text>
+          <text>Vocational Rehabilitation is a tool used to assist the employee in returning to work.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>The Plan</text>
+          <text>The Lac Courte Oreilles Tribal Government Workers' Compensation Ordinance.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>Weekly Wage</text>
+          <text>Weekly wage is arrived at by multiplying the daily wage by the number of days or fraction of days normally worked</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>3</num>
+      <heading>Eligibility</heading>
+      <section>
+        <num>4</num>
+        <heading>Persons Eligible</heading>
+        <text>The following people are eligible to apply for compensation under this Ordinance.</text>
+        <para>
+          <num>(1)</num>
+          <text>Employees.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Beneficiaries of the Employee, if the accident or occupational disease results in the death of the Employee. Defined as:</text>
+          <para>
+            <num>(a)</num>
+            <text>The surviving legal spouse of the Employee</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Dependent child/children of the Employee</text>
+            <para>
+              <num>(i)</num>
+              <text>This includes individuals who have not reached the age of 18 and are the natural or legally adopted child/children, stepchild, legal ward, or orphan of the Employee.</text>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text>This does not include minor child/children who are not dependents or who are not supported by the Employee.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any payments to or on account of a minor dependent beneficiary collected under this Ordinance terminate when such a dependent child/children reach the age of 18 years, unless the dependent child/children is physically or mentally incapacitated or is under the age of 25 years and enrolled as a full-time student at a high school, college, university, vocational or technical school. (If the dependent child is physically or mentally incapacitated, payments continue until he/she shall cease to be dependent. If an enrolled full-time student, payments terminate when the dependent child/children reach the age of 25 years or ceases to be a full-time student, whichever occurs first.)</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <num>5</num>
+        <heading>Conditions of Liability</heading>
+        <para>
+          <num>(1)</num>
+          <text>Liability under this Ordinance shall exist against an Employer where the following conditions occur</text>
+          <para>
+            <num>(a)</num>
+            <text>The Employee sustains the injury in the course of his/her employment</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Where, at the time of the injury, both the Employer and Employee are subject to the provisions of this Ordinance.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Where, at the time of the injury, the Employee is performing service growing out of and incidental to his/her employment</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The premises of the Employer include the premises of any other person on whose premises the Employee performs service.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Any Firefighter or First Responder Volunteer, responding to a call for assistance outside the limits of his/her village, unless that response is in violation of law, is performing service growing out of and incidental to employment</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Every Employee whose employment requires the Employee to travel shall be deemed to be performing service growing out of and incidental to the Employee's employment at all times while on a trip, except when engaged in a deviation for private or personal purpose. Any accident or disease arising out of a hazard of such service shall be deemed to arise out of the Employee's employment</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Within 14 days of notice of an injury to Employer, the Claims Administrator/Managed Care Provider will either pay or formally deny the Employee's claim.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Exclusions</text>
+          <text>To qualify for Worker's Compensation benefits under this Ordinance, an injury, illness or death must arise out of and in the course of the Employee's employment with the Employer. No benefits under this Ordinance shall be allowed for any injury, illness or death caused by or arising for the following:</text>
+        </para>
+        <para>
+          <num>(a)</num>
+          <text>Gross negligence by the injured Employee.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Disobedience, refusal or failure by the injured Employee to use a safety device or appliance furnished by the Employer which if used would have reasonably prevented or significantly reduced the likelihood of the injury, illness or death.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Horseplay engaged in by the injured Employee, which significantly contributes to the injury, illness or death.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The injured Employee's intoxication, use of any illegal substance or abuse of any prescription medication which contributes to the Employee's injury, illness or death. Any Employee suspected of being under the influence of alcohol or drugs when the injury occurs shall be subject to drug testing conducted by the Lac Courte Oreilles Health Center or other appropriate drug testing facility.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Self-inflicted injury, including suicide.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>A pre-existing condition, including a degenerative condition, established by medical evidence, whether pre- or post-injury, which significantly causes, aggravates, or otherwise contributes to the disability or need for medical treatment.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Employee's failure, prior to commencement of employment, to disclose a physical condition, which prevented the Employee from safely performing the work for which the Employee was hired or which was a substantial contributing factor to the injury.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Act by a third person or fellow employee intended to injure the Employee for personal reasons, and not directly against the Employee as an Employee or because of employment</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <num>6</num>
+        <heading>Right of Action When a Third Party Liable</heading>
+        <text>Whenever an injury for which benefits are payable under this Ordinance occurs under circumstances creating a legal liability in a person other than the Employer, the injured Employee may either claim benefits under this Ordinance or proceed at law against such other person to recover damages, but the Employee shall not collect from both.</text>
+        <text>If the Employee proceeds against a person other than the Employer with respect to such an injury or condition and recovers any amount, that action shall constitute an irrevocable election to proceed against such person and the Employee shall have no rights to any compensation from the Employer under this Ordinance with respect to such injury or condition.</text>
+        <text>If benefits have been awarded or paid under this Ordinance, and the Employee has suffered damages for which a person other than the Employer is legally liable on account of the same injury or condition for which benefits were paid, the Employer may collect in its own name or that of the injured Employee an amount equal to the amount of benefits paid by the Employer to the Employee. Acceptance of benefits under this Ordinance constitutes an assignment of the Employee's rights to the Employer to the extent benefits are paid or payable.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>4</num>
+      <heading>Procedures</heading>
+      <section>
+        <num>7</num>
+        <heading>Submission of Claims</heading>
+        <text>Under this Ordinance, all claims made by the Employee for work related injuries/illness must be submitted to his/her immediate Supervisor/Director/Manager as soon as possible, but no later than three workdays after the incident occurs. The Employee is to complete a <em><u>First Report of Injury/Illness</u></em> form and a <em><u>Patient Authorization for Release of Information</u></em> form and submit them to their Supervisor/Director/Manager, who then co-signs the <em><u>First Report of Injury/Illness</u></em> form and immediately forwards both forms on to the Employer's Insurance Office. The Insurance Office will review the Report, and if warranted, will then, in a timely manner, forward the Report to the Claims Administrator/Managed Care Provider for evaluation and determination as to whether it is a valid claim under this Ordinance. The Claims Administrator/Managed Care Provider will, within fourteen (14) workdays of their receipt of the Report, provide written notice to the Employer's Insurance Office as to whether the claim has been approved or denied. The Insurance Office will notify the appropriate personnel of the decision. If approved, the Employer's Insurance Office will process payment of benefits due and related health care expenses incurred as a result of this injury/illness.</text>
+        <text>If denied, the Claims Administrator shall forward a written notice to the Employee and Plan Administrator. This notice shall contain the specific reason for the denial and clearly state the facts forming the basis of the denial. The denial must include information identifying the Employee, date of claimed injury, claim number, and instructions to the Employee of the rules and time limitations involved in the appeal process. The burden of proof of these facts is on the Employer. The facts arising under <cite path="XII|3|4|7">this section</cite> shall be determined by a preponderance of the evidence.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>8</num>
+        <heading>Limtation of Claims and Reports</heading>
+        <text>No compensation shall be due under this Ordinance unless the Employee provides the Employer with notice <em>of</em> such claim as outlined in Section 7 of this Ordinance. In the case of mental or physical incapacity, the period of limitation shall be extended for fifteen (15) workdays from the initial date of occurrence. A repetitive traumatic injury or occupational disease is deemed to have occurred when the Supervisor/Director/Manager is notified that the injury or disease caused the Employee to be unable to work.</text>
+        <text>The Plan Administrator shall supply the Employee's Supervisor/Director/Manager with any forms that may be required for completion, specifically the<u> Report of Work Ability</u> form that must be completed and submitted after each visit by the Employee with their Medical Provider. It is the responsibility of the Supervisor/Director/Manager to give such forms to the Employee for completion by either the Employee, their primary physician or approved Medical Provider. It is the responsibility of the Employee to return all completed forms to their Supervisor/Director/Manager, who will then immediately forward them on to the Plan Administrator.</text>
+        <text>All medical records are to be forwarded to the Claims Administrator/Managed Care Provider. The Employee must continue to keep the Employer notified and advised during the course of treatment The Employee must cooperate with Employer in obtaining all related medical records. A failure to do so may result in the termination of benefits. The Employee shall not return to work without a written release from the primary physician or approved Medical Provider and the authorization from the Plan Administrator.</text>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>5</num>
+      <heading>Benefits</heading>
+      <section>
+        <num>9</num>
+        <heading>Medical Care, Benefits and Examination of Claims</heading>
+        <para>
+          <num>(1)</num>
+          <text>Medical Care</text>
+          <para>
+            <num>(a)</num>
+            <text>A licensed professional Health Care Provider must provide medical care. The treating medical doctor is referred to as the primary physician. The primary physician can only make referral to a chiropractor or another physician, such as a specialist, and approval must be sought from the Claims Administrator/Managed Care Provider. The Employee may not change primary physicians or seek treatment from another referral physician without the approval of the Employer and the Claims Administrator/Managed Care Provider. Only medical expenses ordered by the primary physician or the approved referral physician are payable under the Plan.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The primary physician or approved referral physician can also refer the Employee to a rehabilitation consultant, which will assist the Employee in their return to work If the Employee fails to cooperate with that consultant, medical and other benefits will cease immediately.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Surgical charges are payable only if pro-certification has been obtained and medical necessity recommendation has been determined by the Claims Administrator/ Managed Care Provider.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Medical invoices should be paid as soon as reasonably possible, but no later than thirty (30) calendar days of receiving the invoices and medical records.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The Plan will pay the cost of all reasonable and necessary charges related to the worker's injury/illness after investigation of the validity of the worker's compensation injury/illness subject to the following restrictions:</text>
+            <para>
+              <num>(i)</num>
+              <text>The employee must have all follow-up care in the treatment of the worker's illness/injury with a licensed professional Health Care Provider. After the second visit, the Employee may not change providers without approval from the Claims Administrator/Manager Care Provider.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The Plan will pay the reasonable and necessary medical costs and the cost of medicines, supplies and equipment of a therapeutic nature that are necessary for treatment of the injury or illness</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>The Plan will pay surgical charges only when the surgery is done on an "emergency" basis, or if it has been pre-certified by the Claims Administrator/Managed Care Provider, who may request a second opinion before approving any procedures.</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>The Plan will reimburse the Employee for cost of mileage (if documented), and other related expenses, except childcare, necessary to obtain medical treatment, if approved by the Employer, Claims Administrator/Managed Care Provider.</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>If the Employee fails to appear for a scheduled appointment without notification to the Claims Administrator/Managed Care Provider within one business day of that appointment, then the Employer's responsibility for payment of all benefits will cease immediately. Only one rescheduled date per appointment is allowed under this Plan.</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>The Claims Administrator/Managed Care Provider may contract for services of a rehabilitation consultant to assist the Employee in return to work efforts. If the Employee fails to cooperate in the return to work process, all benefits will cease immediately.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Primary Physician</text>
+          <text>An Employee may receive initial emergency care from a Hospital ER, Urgent Care Facility or primary physician for treatment of a compensable injury. The Employee must receive follow-up care with a licensed professional Health Care Provider approved by the Claims Administrator/Managed Care Provider within seven (7) business days of initial treatment. If this policy is not adhered to it may result in denial of worker's compensation benefits.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Referral to Specialty Providers</text>
+          <text>The Employee must receive the referral to specialty provider from the Medical Provider approved by the Claims Administrator/Managed Care Provider, If this policy is not adhered to it may result in denial of the worker's compensation benefits.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Alternative Health Care Provider</text>
+          <text>If an Employee is dissatisfied with the medical treatment offered by the primary physician and/or approved referral physician, the Employee shall submit a written statement to the Claims Administrator/Managed Care Provider indicating the dissatisfaction and the reasons for it. Based on this statement, an agreement may be reached between the Employee and the Claims Administrator/Managed Care Provider to permit the Employee to seek an alternative Health Care Provider. The following conditions shall also apply:</text>
+          <para>
+            <num>(a)</num>
+            <text>The Employee must receive prior approval from the Claims Administrator/Managed Care Provider before receiving any treatment/service from the alternate medical provider chosen by the Employee.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If the Employee foils to obtain prior approval from the Claims Administrator/Managed Care Provider for the selected alternative Health Care Provider, the Plan shall not be responsible for any expense incurred as a result of that service/treatment.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Other Health Care Providers used by the Employee may confer with and obtain information on the Employee's condition from the primary physician, approved referral physician or IME provider.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Examination of Claims</text>
+          <text>Whenever an injured Employee claims compensation, the Employee must submit to an <em>Independent Medical Examination/Evaluation (IME),</em> or second opinion, when requested by the Claims Administrator/Managed Care Provider. The Claims Administrator/Managed Care Provider may schedule an Employee for an <em>Independent Medical Examination</em> or evaluation at any time during the Employee's course of medical treatment. The expense for this service, except expense for child care, will be paid by the Plan. If an Employee unreasonably fails to appear for a scheduled IME, all medical and other benefits will cease immediately.</text>
+          <text>The Claims Administrator/Manage Care Provider will provide the Employee with a written request for IME and shall notify the Employee at least five (5) workdays prior of the proposed date, time and place of examination/evaluation, and the identity of the Health Care Provider that will provide the service. Only one rescheduled date per appointment is allowed under this Plan.</text>
+          <text>The Employee is entitled to have a physician or other Health Care Provider selected by the Employee, present at any scheduled examination/evaluation, and is entitled to receive a copy of all reports prepared by the examining physician immediately upon receipt of those reports by the Claims Administrator/Managed Care Provider or the Lac Courte Oreilles Insurance Appeal Board.</text>
+          <text>The physician or Health Care Provider shall furnish to the Claims Administrator/Managed Care Provider a legible duplicate of all reports, bills and other written material requested. Any person who refuses to provide duplicates of written material in the person's custody that is required under the Ordinance shall be liable for reasonable and necessary costs including reasonable attorney fees.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Temporary Total Disability</text>
+          <text>Benefits are payable when the disability results solely from a bodily injury arising in and out of the course of employment with the Lac Courte Oreilles Tribal Government. The benefits are calculated as sixty-seven (67%) of the weekly wage of the Employee at the time of the injury, and subject to a maximum of $450.00 per week. The daily wage will be calculated by using the average of the prior 26 work weeks. Disability benefits are paid only if the disability is evidenced by medical opinion based on examination and treatment rendered at the time of the claimed disability and requires an Independent Medical Examination.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Temporary Partial Disability</text>
+          <text>This benefit represents sixty-seven (67%) of the difference between the pre-injury weekly wage and weekly wage the Employee earns after returning to light duty restricted modified work if the wage loss is due solely to the injury and disability suffered while in the course and scope of the employment with the Lac Courte Oreilles Tribal Government. Temporary partial disability benefits are subject to the same maximums and restrictions as temporary total disability benefits.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Permanent Partial Disability</text>
+          <text>This benefit will compensate the injured Employee for any permanent loss/loss of use of a body part suffered as a result of compensable bodily injury. The designated percentage of the disability rating is multiplied by the weekly permanent disability benefit, which determines the dollar amount payable to the Employee and is allocated in one lump sum. Permanent partial disability benefits are not payable concurrently with temporary total/temporary partial benefits. To determine Permanent Partial Disability the health care provider must use the American Medical Association's "Guide to the Evaluation of Permanent Partial Impairment,'' 5<sup>th</sup> Edition.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Waiting Period</text>
+          <text>For All Employees: Vacation or sick time benefits may be used for the first three (3) scheduled days lost. When verified that the Employee's claim is a legitimate work related claim and the employee is off work for ten or more calendar days, compensation is payable beginning with the first day of disability. Vacation and sick time benefits may be reconciled if used.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Dependency Benefits</text>
+          <text>If an Employee dies from a work related injury or illness leaving a legal spouse and/or dependent child/children, the Employer shall make payments to the legal spouse and/or dependent child/children in an amount equal to sixty-seven percent (67%) of the Employee's average weekly wage at the time of the Employees injury or illness to a maximum of $450.00 per week. This amount will be evenly distributed to the surviving issue, if the legal spouse is deceased.</text>
+          <text>As determined by the Plan Administrator, payments to the legal spouse shall be for a maximum of one (1) year, terminating upon the remarriage or death of the spouse, whichever comes first. Payments to a dependent child/children shall be made until the dependent child/children reaches the age of 18 unless the dependent child/children is a full-time student or determined by medical evidence to be physically or mentally incapable of self-support, in which case payment shall be made to age 25.</text>
+        </para>
+        <annotations/>
+      </section>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>6</num>
+      <heading>Review</heading>
+      <section>
+        <num>10</num>
+        <heading>Fraudulent Claims/Reporting and Investigations</heading>
+        <text>If the Employer, Plan Administrator or Claims Administrator/Managed Care Provider has evidence that a claim is false or fraudulent the claim shall be denied and the Plan Administrator shall report the matter to the Lac Courte Oreilles Insurance Appeal Board designated by the Lac Courte Oreilles Tribal Governing Board within 10 business days. The Lac Courte Oreilles Insurance Appeal Board may require an investigation for an allegedly false or fraudulent claim. On any investigation, the results shall be reported to the Lac Courte Oreilles Insurance Appeal Board. If based on the investigation, the Lac Courte Oreilles Insurance Appeal Board has a reasonable basis to believe that a violation of a State or Federal criminal code has occurred; the Lac Courte Oreilles Insurance Appeal Board may refer the results of the investigation to the Lac Courte Oreilles Tribal Court for final resolution.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>11</num>
+        <heading>Appeals</heading>
+        <text>If the Employee is dissatisfied with the decision of the Claims Administrator/Managed Care Provider relative to a denial of claimed injury, the Employee may request a hearing before the Lac Courte Oreilles Insurance Appeal Board designated by the Lac Courte Oreilles Tribal Governing Board. The request must be in writing and the Employee must file it within thirty days (30) of the denial date. The decision of the Lac Courte Oreilles Insurance Appeal Board is final and the Employee can pursue no further action.</text>
+        <text>All testimony at any hearing held under this Ordinance shall be recorded by a recording machine and said duplicate of such recordings will be made available to the Employee or Employer upon written request to the Lac Courte Oreilles Insurance Appeal Board.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>12</num>
+        <heading>Apportionment of Liability</heading>
+        <text>If it is established at the Lac Courte Oreilles Insurance Appeal Board hearing that two (2) or more parties have each contributed to a physical or mental condition for which benefits would be otherwise due, liability for such benefits shall be apportioned according to the proof of the relative contribution to disability resulting from the injury or illness.</text>
+        <text>If after the Lac Courte Oreilles Insurance Appeal Board hearing, it has been determined that an injured Employee is entitled to compensation but that there remains in dispute only the issue of which of two (2) or more parties are liable for that compensation and one of the parties is the Employer, the Lac Courte Oreilles Insurance Appeal Board may recommend that the Employer pay the prorated share in an amount, time and manner as determined. If the Lac Courte Oreilles Insurance Appeal Board later determines another party is liable for compensation, reimbursement will be sought from the responsible party.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>13</num>
+        <heading>Department Forms and Records</heading>
+        <text>The Lac Courte Oreilles Insurance Office shall print and furnish free to any Employee such blank forms as it shall deem requisite to facilitate efficient administration of this Ordinance; it shall keep such record books or records as it shall deem requisite for the proper and efficient administration of the Ordinance.</text>
+        <text>Records maintained that reveal the identity of an Employee who claims worker's compensation benefits, nature of claimed injury, past or present medical condition, extent <em>of</em> disability, amount, type or duration of benefits paid to the Employee or any financial information provided to the Plan Administrator or Claims Administrator/Managed Care Provider is confidential and not open for inspection. The Plan Administrator may deny a request made or refuse to honor a subpoena issued by an attorney of record in a civil or criminal action or special proceeding to inspect and copy a record that is confidential under this paragraph, unless one of the following applies:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Employee who is the subject of the record or an attorney or authorized agent of that Employee makes a written request. An Attorney or authorized agent of the Employee who is subject of a record shall provide a written authorization for inspection and copying from the Employee if requested by the Plan Administrator or Claims Administrator/Managed Care Provider for use pursuant to this Ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A court of competent jurisdiction orders the Plan Administrator or Claims</text>
+          <text>Administrator/Managed Care Provider to release the record.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The requester is the subunit of the department that administers child support and spousal support or a county child support agency under Wis. Stat S59.53 (5), the request is made under the Wis. Stat S. 49.22 (2m) and the request is limited to the name and address of the Employee who is the subject of the record, the name and address of the Employee's Employer and any financial information about the Employee contained in the record.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Federal or State Department of Revenue requests the record for the purpose of locating a person, who has failed to file tax returns, who has under reported taxable income or who is a delinquent taxpayer, identifying fraudulent tax returns; or providing information for tax-related prosecutions.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <num>14</num>
+        <heading>Maximum Limitations</heading>
+        <text>The maximum medical benefits under this Ordinance available to Employees is limited to one (1) year from the first date of injury or illness with a 26 week maximum for combined Temporary Total Disability and Temporary Partial Disability benefits.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>15</num>
+        <heading>Burial Expenses</heading>
+        <text>In all cases where death of the Employee proximately results from a work-related injury or illness, the Lac Courte Oreilles Tribal Government will provide burial expenses in an amount not to exceed $7,500.00.</text>
+        <text>Sec. 16/PERMANENT/PARTIAL IMPAIRMENT</text>
+        <text>Benefits shall be paid according to the following schedule. Permanent impairment must be based upon medical evidence.</text>
+        <text>
+          <u>For Total Loss of the Following Body Parts</u>
+        </text>
+        <text>(by amputation or total loss of use)</text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Body Parts</th>
+                <th>Benefits</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Thumb</td>
+                <td>$3,000.00</td>
+              </tr>
+              <tr>
+                <td>Index Finger</td>
+                <td>$3,500.00</td>
+              </tr>
+              <tr>
+                <td>Middle Finger</td>
+                <td>$3,000.00</td>
+              </tr>
+              <tr>
+                <td>Ring Finger</td>
+                <td>$2,500.00</td>
+              </tr>
+              <tr>
+                <td>Small Finger</td>
+                <td>$2,500.00</td>
+              </tr>
+              <tr>
+                <td>Great Toe</td>
+                <td>$2,000.00</td>
+              </tr>
+              <tr>
+                <td>One or More Toes (not Great Toe)</td>
+                <td>$4,000.00</td>
+              </tr>
+              <tr>
+                <td>Hand</td>
+                <td>$8,000.00</td>
+              </tr>
+              <tr>
+                <td>Arm</td>
+                <td>$9,500.00</td>
+              </tr>
+              <tr>
+                <td>Foot</td>
+                <td>$9,000.00</td>
+              </tr>
+              <tr>
+                <td>Leg</td>
+                <td>$10,000.00</td>
+              </tr>
+              <tr>
+                <td>Back</td>
+                <td>$10,500.00</td>
+              </tr>
+              <tr>
+                <td>Internal Organ</td>
+                <td>$10,000.00</td>
+              </tr>
+              <tr>
+                <td>Sight of One Eye</td>
+                <td>$10,000.00</td>
+              </tr>
+              <tr>
+                <td>Sight of Both Eyes</td>
+                <td>$20,000.00</td>
+              </tr>
+              <tr>
+                <td>Hearing in One Ear</td>
+                <td>$8,000.00</td>
+              </tr>
+              <tr>
+                <td>Hearing in Both Ears</td>
+                <td>$16,000.00</td>
+              </tr>
+              <tr>
+                <td>Permanent Disfigurement/Scarring</td>
+                <td>$1,000.00 (Only for face head, neck, or dorsa of the hands.)</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <annotations/>
+      </section>
+      <section>
+        <num>17</num>
+        <heading>Return to Work</heading>
+        <text>Positions will be held for an Employee with legitimate compensable injury or illness for up to three (3) months for the return of the Employee. The Employer, at the end of three (3) months, can reassess the Employee's position and may fill that position with a permanent replacement Employee. Prior to return to work, the Employee must be cleared for return to work through the primary physician or approved Medical Provider, and a completed <em><u>Report of Work Ability</u></em> form must be submitted as set forth in Section 8 of this Ordinance.</text>
+        <text>The Employer will make every effort to provide light duty and modified work to the injured Employee after the injured employee has sought medical treatment and has provided the Employer with the appropriate <em><u>Return to Work Restrictions</u></em> paperwork. If an injured Employee refuses the light duty or modified work position offered by the Employer, all medical and other benefits will cease immediately. Light duties will be facilitated through the Employer when deemed appropriate by the Claims Administrator/Managed Care Provider.</text>
+        <annotations/>
+      </section>
+      <section>
+        <num>18</num>
+        <heading>Sovereign Immunity</heading>
+        <text>By approval of this Ordinance, the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in no way waives its inherent sovereignty and retains all rights and privileges, including but not limited to, sovereign immunity.</text>
+        <text>WHEN THE RETURN TO WORK DOCUMENT INDICATES THE EMPLOYEE CAN RETURN TO WORK WITH NO RESTRICTIONS, ALL BENEFITS RELATED TO THE INJURY/ILLNESS SHALL CEASE.</text>
         <annotations/>
       </section>
     </container>
@@ -5429,6 +5989,7 @@
       <num>9</num>
       <heading>Limited Liability Companies Wholly-Owned by the Tribe</heading>
       <container>
+        <num path-omit="true">1</num>
         <heading>General Provisions for Tribally-Owned LLC's</heading>
         <section>
           <num>911</num>
@@ -5505,6 +6066,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">2</num>
         <heading>Special Formation Requirements for Tribally-Owned LLC's</heading>
         <section>
           <num>921</num>
@@ -5564,6 +6126,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">3</num>
         <heading>Management of Tribally-Owned LLC's</heading>
         <section>
           <num>931</num>
@@ -5598,6 +6161,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">4</num>
         <heading>Decisions and Voting for Tribally-Owned LLC's</heading>
         <section>
           <num>941</num>
@@ -5614,6 +6178,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">5</num>
         <heading>Distributions for Tribally-Owned LLC's</heading>
         <section>
           <num>951</num>
@@ -5630,6 +6195,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">6</num>
         <heading>Additional Reports and Audits</heading>
         <section>
           <num>961</num>
@@ -5657,6 +6223,7 @@
         </section>
       </container>
       <container>
+        <num path-omit="true">7</num>
         <heading>Actions Against Tribally-Owned LLC's</heading>
         <section>
           <num>971</num>

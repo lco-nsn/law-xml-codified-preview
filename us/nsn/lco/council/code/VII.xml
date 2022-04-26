@@ -7119,12 +7119,16 @@
             <num>(e)</num>
             <text>34% for five children or more.</text>
           </para>
-          <aftertext>EXAMPLE: Payer's gross monthly income is $3,000.00 and there is one minor child in the case. $3,000.00 x 17% = $510.00 monthly child support obligation.</aftertext>
+          <aftertext>
+            <em>EXAMPLE: Payer's gross monthly income is $3,000.00 and there is one minor child in the case. $3,000.00 x 17% = $510.00 monthly child support obligation.</em>
+          </aftertext>
         </para>
         <para>
           <num>(2)</num>
           <text>Serial Payer Credits. If a payer has more than one child support case, the amount of the prior child support order shall be deducted from his or her gross income and then multiplied by the percentages above.</text>
-          <text>EXAMPLE: The payer has a monthly gross income of $3,000.00 and has a prior child support obligation of $510.00 per month. There is one minor child in the second case. $3,000.00 -$510.00 = $2,490.00 adjusted gross income. $2,490.00 x 17% = $423.30 monthly child support obligation for the second case.</text>
+          <text>
+            <em>EXAMPLE: The payer has a monthly gross income of $3,000.00 and has a prior child support obligation of $510.00 per month. There is one minor child in the second case. $3,000.00 -$510.00 = $2,490.00 adjusted gross income. $2,490.00 x 17% = $423.30 monthly child support obligation for the second case.</em>
+          </text>
         </para>
         <para>
           <num>(3)</num>
@@ -7141,11 +7145,21 @@
             <num>(c)</num>
             <text>Child support is based on each parent's income multiplied by the appropriate percentage standard and then multiplied by 150% (household maintenance expenditures for each parent), then multiplied by the percentage of time the other parent has with the children and then offsetting each parent's child support obligation against each other to determine child support for the month.</text>
           </para>
-          <aftertext>EXAMPLE: Parent A monthly gross income of $3,000.00. Parent B monthly gross income of $2,000.00. One child in the case and spends 100 overnights (110/365 = 27%) per year with Parent A. The remaining 265 overnights (265/365 = 73%) are spent with Parent B.</aftertext>
-          <aftertext>Parent A obligation is $3,000.00 x 17% = $510.00. $510.00 x 150% = $765.00. $765.00 x 73% = $558.45.</aftertext>
-          <aftertext>Parent B obligation is $2,000.00 x 17% = $340.00. $340.00 x 150% = $510.00. $510.00 x 27% = $137.70.</aftertext>
-          <aftertext>Parent A's monthly obligation of $558.45 minus Parent B's monthly obligation of $137.70 = $420.75.</aftertext>
-          <aftertext>Conclusion: Parent A pays Parent B $420.75 per month for child support.</aftertext>
+          <aftertext>
+            <em>EXAMPLE: Parent A monthly gross income of $3,000.00. Parent B monthly gross income of $2,000.00. One child in the case and spends 100 overnights (110/365 = 27%) per year with Parent A. The remaining 265 overnights (265/365 = 73%) are spent with Parent B.</em>
+          </aftertext>
+          <aftertext>
+            <em>Parent A obligation is $3,000.00 x 17% = $510.00. $510.00 x 150% = $765.00. $765.00 x 73% = $558.45.</em>
+          </aftertext>
+          <aftertext>
+            <em>Parent B obligation is $2,000.00 x 17% = $340.00. $340.00 x 150% = $510.00. $510.00 x 27% = $137.70.</em>
+          </aftertext>
+          <aftertext>
+            <em>Parent A's monthly obligation of $558.45 minus Parent B's monthly obligation of $137.70 = $420.75.</em>
+          </aftertext>
+          <aftertext>
+            <em>Conclusion: Parent A pays Parent B $420.75 per month for child support.</em>
+          </aftertext>
         </para>
         <para>
           <num>(4)</num>
@@ -7174,9 +7188,15 @@
               <text>5 children = 6.8% for each child (34% divided by 5).</text>
             </para>
           </para>
-          <aftertext>EXAMPLE: Parent A monthly gross income of $3,000.00. Parent B monthly gross income of $2,000.00. There are three minor children. Two children reside with Parent B and one child resides with Parent A.</aftertext>
-          <aftertext>Parent A obligation is $3,000.00 x 19.34% (two children) = $580.20. Parent B obligation is $2,000.00 x 9.67% (one child) = $193.40. Parent A's monthly obligation of $580.20 minus Parent B's monthly obligation of $193.40 = $386.80.</aftertext>
-          <aftertext>Conclusion: Parent A pays Parent B $386.80 per month for child support for two (2) children.</aftertext>
+          <aftertext>
+            <em>EXAMPLE: Parent A monthly gross income of $3,000.00. Parent B monthly gross income of $2,000.00. There are three minor children. Two children reside with Parent B and one child resides with Parent A.</em>
+          </aftertext>
+          <aftertext>
+            <em>Parent A obligation is $3,000.00 x 19.34% (two children) = $580.20. Parent B obligation is $2,000.00 x 9.67% (one child) = $193.40. Parent A's monthly obligation of $580.20 minus Parent B's monthly obligation of $193.40 = $386.80.</em>
+          </aftertext>
+          <aftertext>
+            <em>Conclusion: Parent A pays Parent B $386.80 per month for child support for two (2) children.</em>
+          </aftertext>
         </para>
         <para>
           <num>(5)</num>
