@@ -15,10 +15,10 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="lco-nsn/law-xml" commit="daba3a970c3923807eb1f3152ced28f0a74dcb0a"/>
+        <repository name="lco-nsn/law-xml" commit="32179ac255c230590e18bdd3b93aaaf97862b77d"/>
       </repositories>
       <platform version="2.6.0" reproducible="false"/>
-      <build-date>2022-04-26</build-date>
+      <build-date>2022-04-27</build-date>
       <codified-date>2022-04-15</codified-date>
     </build>
   </meta>

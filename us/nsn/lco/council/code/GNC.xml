@@ -2296,8 +2296,9 @@
       <heading>Animal Control Ordinance</heading>
       <prefix>Subchapter</prefix>
       <container>
-        <num path-omit="true">1</num>
+        <num>1</num>
         <heading>General Provisions</heading>
+        <prefix/>
         <section>
           <num>GNC.4.11.010</num>
           <heading>Title</heading>
@@ -2512,8 +2513,9 @@
         </section>
       </container>
       <container>
-        <num path-omit="true">2</num>
+        <num>2</num>
         <heading>Licensing and Vaccination</heading>
+        <prefix/>
         <section>
           <num>GNC.4.11.090</num>
           <heading>Licensing</heading>
@@ -2554,8 +2556,9 @@
         </section>
       </container>
       <container>
-        <num path-omit="true">3</num>
+        <num>3</num>
         <heading>Restraint of Animals</heading>
+        <prefix/>
         <section>
           <num>GNC.4.11.110</num>
           <heading>Collar or Harness</heading>
@@ -2618,8 +2621,9 @@
         </section>
       </container>
       <container>
-        <num path-omit="true">4</num>
+        <num>4</num>
         <heading>Animal Bites</heading>
+        <prefix/>
         <section>
           <num>GNC.4.11.160</num>
           <heading>Reporting</heading>
@@ -2638,8 +2642,9 @@
         </section>
       </container>
       <container>
-        <num path-omit="true">5</num>
+        <num>5</num>
         <heading>Treatment of Animals</heading>
+        <prefix/>
         <section>
           <num>GNC.4.11.180</num>
           <heading>Food, Water and Health</heading>
@@ -2732,8 +2737,9 @@
         </section>
       </container>
       <container>
-        <num path-omit="true">6</num>
+        <num>6</num>
         <heading>Impoundment</heading>
+        <prefix/>
         <section>
           <num>GNC.4.11.240</num>
           <heading>Authority to Impound</heading>
