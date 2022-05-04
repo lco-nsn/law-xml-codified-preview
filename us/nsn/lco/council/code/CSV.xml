@@ -67,7 +67,7 @@
       <section>
         <num>CSV.1.1.020</num>
         <heading>Authority</heading>
-        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1(p) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "regulate, by enactment of ordinances, the activities of hunting, fishing, ricing, trapping or boating by members and non-members of all lands and waters described in Article I, Section 1, including the power to impose license fees or taxes upon members and non-members for such activities."</text>
+        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(p)">Article V, § 1(p) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "regulate, by enactment of ordinances, the activities of hunting, fishing, ricing, trapping or boating by members and non-members of all lands and waters described in Article I, Section 1, including the power to impose license fees or taxes upon members and non-members for such activities."</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-62"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-94"/>
@@ -1351,7 +1351,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Subject to sub<cite path="§CSV.1.4.050|(b)">Section CSV.1.4.050(b)</cite>, conduct routine inspections of a tribal natural resources harvesting permit or a member's tribal identification card required by <cite path="§CSV.1.3.030|(c)">Section CSV.1.3.030(c)</cite> of this ordinance;</text>
+            <text>Subject to <cite path="§CSV.1.4.050|(b)">Section CSV.1.4.050(b)</cite>, conduct routine inspections of a tribal natural resources harvesting permit or a member's tribal identification card required by <cite path="§CSV.1.3.030|(c)">Section CSV.1.3.030(c)</cite> of this ordinance;</text>
           </para>
           <para>
             <num>(3)</num>
@@ -1380,7 +1380,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The inspections authorized by sub<cite path="§CSV.1.4.050|(a)|(2)">Section CSV.1.4.050(a)(2)</cite> shall be conducted in a manner and at such times and locations as are reasonable and appropriate in the ordinary course of routine enforcement activities.</text>
+          <text>The inspections authorized by <cite path="§CSV.1.4.050|(a)|(2)">Section CSV.1.4.050(a)(2)</cite> shall be conducted in a manner and at such times and locations as are reasonable and appropriate in the ordinary course of routine enforcement activities.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-62"/>
@@ -1634,12 +1634,12 @@
         <text>Weweni idash ezhi-wiindamaageyaan nimisiwendaan iwidi keyaa niigaan da-gikendang anishinaabe yo, yo gaa-miinind gaa-miinigoyang da-ganawendamang ezhi-manidoowaadak yo`o, yo`o wiisiniwin. Geget...geget gi-mino-ayaamin gi-mino-bimaadizimin gikendamang ano giigidowinan gaa-izhi-miinigoyang gaye`ii midewaajimon. Weweni dash nimisawendaan geget weweni da-noondang y`ow ezhi-naajimoyaan gaye niin. Gaawiin anishaa ni-izhichigesii. Miinawaa gaawiin, gaawiin ninagowenimaasii awiiya niin. Weweni nimiinaa ya`o ezhi-dibaajimoyaan kina oshkinaj-anishinaabe. O niijaanis miinawaa ongow anishinaabeg owid keyaa niigaan waa-ondaadizijig. Miigwech yi`o taagozi dash ishkwaaj niin dibaajimoyaan.</text>
         <annotations>
           <annotation type="Editor's Notes">
-            <text>Wild Rice Teaching by Bawdwaywidun (Eddie Benton) from Dibaajimowinan: Anishinaabe Stories of Culture and Respect, Great Lakes Indian Fish and Wildlife Commission, Odanah, WI: July 2013.</text>
             <text>As the Anishinaabe was told before the white man arrived. There were seven spirits that came to tell the Anishinaabe about what was going to happen with the coming of the white man. These are the teachings that were given that I am going to talk about. The Anishinaabe did not walk away from it. They gathered all the mide teachings, the objects they used such as our grandfather drum, our rattles, mide items and all that is used for the midewiwin. They lifted their sacred items and they all left from there together before the Menominee Indians left, the ones that are known as such they were given the rice, the sacred rice that is called the anishinaabe was told to travel towards the west. As you arrive where it stands, where it lays in the water that sacred rice. This is where you will know the land that is for the Indian will be. This is what they were told. The Menominee where the first to bring the rice (to us…). It was in a sack, as we know of it.</text>
             <text>Then in birch bark and the songs, spirit songs and the wild rice bird that is called. That wild rice bird, that same one that flew up with the spirits as they were leaving. As they come and check it out, looked at it. And this is how we still know it. This sacred food, the spirit put it here for the Indian, for the Ojibwe, for the Potawatomie and the Odawa and the Menominee and the Shawnee that are called. And also the Kickapoo Indians that are called as such. This is spirit food that was given by the spirit. This is where it came from, you will not find anywhere else, that which was given to the Anishinaabe. The Anishinaabe was told to take care of the rice and the rice will take care of you. The rice will never disappear as long as you take great care of it. And also offer your tobacco before you get into a canoe. Someone will speak to the spirit…that spirit that is in the water. This is the one that you speak to before you get into the canoe. As we proceed to pick rice…you shall respect all things. This is what we were told. Always remember the spirit, never forget the spirit.</text>
             <text>The creator is the one that put this rice to be growing here on earth. That is why we offer tobacco so that we carry on these sacred teachings. To know these teachings, not only to think about it but to know it, not any ole way, not to think about them in any ole way, but to really know the teachings, this is what we were told. That is why tobacco is used before the rice is picked. This where we give our thanks for the sacredness of the rice, as we give thanks. This where we give our thanks to take care of and to make it we are not doing enough to take care of it, we don’t give enough voice to it. We do not waste any of it, we take great care of it so that we can feed our children, so that we can feed the ones that are hungry.</text>
             <text>As I give these teachings, I want this to be carried on so that the Anishinaabe will know this that was given as we take care of the sacredness of the food. We lead a good life when we remember the sacred teachings that we were given. I wish my teaching to be carried on to those that hear this. I do not do this for nothing. And I am not trying to step over the boundaries of other’s teachings. I give my teachings with respect to all the young people. And the future generation. I give thanks whenever I finish a teaching.</text>
           </annotation>
+          <annotation type="Editor's Notes">Wild Rice Teaching by Bawdwaywidun (Eddie Benton) from Dibaajimowinan: Anishinaabe Stories of Culture and Respect, Great Lakes Indian Fish and Wildlife Commission, Odanah, WI: July 2013.</annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-62"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-94"/>
           <annotation type="Prior Codifications">§CSV.1.5.010 was formerly codified as VI LCOTCL §1.501</annotation>
@@ -4659,7 +4659,7 @@
     <text class="center">
       <strong>Preamble</strong>
     </text>
-    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to implement its inherent Anishinaabe rights to utilize the natural resources found in ceded territories for subsistence, medicinal, cultural, religious and economic purposes, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, Section 1 (o) and (q) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to "promulgate and enact ordinances governing the conduct of Tribal citizens (members) in the exercise of rights to hunt, fish, trap, gather wild rice and other usual rights of occupancy throughout the off­reservation area covered by the jurisdiction of the Band" Article V, Section 1 (o);  "establish a tribal court for the purpose of enforcing tribal ordinance, to appoint tribal game wardens, and to provide by appropriate ordinances, for fines, imprisonment or confiscation of equipment for violation of such    ordinances" Article V, Section 1 (q). It is the purpose of this ordinance to provide an orderly system for tribal control and regulation of hunting, fishing and gathering on the off-reservation lands ceded by the Tribe in the Treaty of 1837, 7 Stat. 536, and the Treaty of 1842, 7 Stat. 591; and provide a means to promote public health and safety and the conservation and management of fish, wildlife and plant populations in the ceded territory through the regulation of member harvesting activities occurring there consistent with the <em>Natural Resource Management Plans for the Northern Wisconsin Ceded Territories</em> and the <em>Chippewa Intertribal Agreement Governing Resource Management and Regulation of Off-Reservation Treaty Rights in the Ceded Territory</em>.</text>
+    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to implement its inherent Anishinaabe rights to utilize the natural resources found in ceded territories for subsistence, medicinal, cultural, religious and economic purposes, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(o)">Article V, Section 1 (o)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">(q)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to "promulgate and enact ordinances governing the conduct of Tribal citizens (members) in the exercise of rights to hunt, fish, trap, gather wild rice and other usual rights of occupancy throughout the off­reservation area covered by the jurisdiction of the Band" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(o)">Article V, Section 1 (o)</cite>;  "establish a tribal court for the purpose of enforcing tribal ordinance, to appoint tribal game wardens, and to provide by appropriate ordinances, for fines, imprisonment or confiscation of equipment for violation of such    ordinances" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, Section 1 (q)</cite>. It is the purpose of this ordinance to provide an orderly system for tribal control and regulation of hunting, fishing and gathering on the off-reservation lands ceded by the Tribe in the Treaty of 1837, 7 Stat. 536, and the Treaty of 1842, 7 Stat. 591; and provide a means to promote public health and safety and the conservation and management of fish, wildlife and plant populations in the ceded territory through the regulation of member harvesting activities occurring there consistent with the <em>Natural Resource Management Plans for the Northern Wisconsin Ceded Territories</em> and the <em>Chippewa Intertribal Agreement Governing Resource Management and Regulation of Off-Reservation Treaty Rights in the Ceded Territory</em>.</text>
     <container>
       <num>CSV.2.1</num>
       <heading>Introduction</heading>
@@ -4675,7 +4675,7 @@
       <section>
         <num>CSV.2.1.020</num>
         <heading>Authority</heading>
-        <text>This ordinance is enacted pursuant to Article V, Section 1(o) and (q) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        <text>This ordinance is enacted pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(o)">Article V, Section 1 (o)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">(q)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         <annotations>
           <annotation type="Prior Codifications">§CSV.2.1.020 was formerly codified as VI LCOTCL §2.102</annotation>
         </annotations>
@@ -5107,7 +5107,7 @@
           <text><u>Shining Wild Animals While Hunting or Possessing Weapons Prohibited</u>.</text>
           <para>
             <num>(1)</num>
-            <text><u>Prohibition</u>. Except as otherwise provided in <cite path="VI|2|2.3|2.314|(3)|(a)|(b)">subs. (b)</cite>, no member shall use or possess with intent to use a light for shining wild animals while the member is hunting or in possession of a firearm, bow and arrow or crossbow.</text>
+            <text><u>Prohibition</u>. Except as otherwise provided in <cite path="§CSV.2.3.140|(c)|(2)">Section CSV.2.3.140(c)(2)</cite>, no member shall use or possess with intent to use a light for shining wild animals while the member is hunting or in possession of a firearm, bow and arrow or crossbow.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5155,7 +5155,7 @@
           <text><u>Shining Wild Animals After 10 P.M. During Certain Times of the Year Prohibited</u>.</text>
           <para>
             <num>(1)</num>
-            <text><u>Prohibition</u>. Except as otherwise provided in <cite path="VI|2|2.3|2.314|(4)|(a)|(b)">subs. (b)</cite>, no member shall use or possess with intent to use a light for shining wild animals between 10 p.m. and 7 a.m. from the day after labor day to the first Sunday following New Year's Day or as otherwise provided by a GLIFWC Commission Order.</text>
+            <text><u>Prohibition</u>. Except as otherwise provided in <cite path="§CSV.2.3.140|(d)|(2)">Section CSV.2.3.140(d)(2)</cite>, no member shall use or possess with intent to use a light for shining wild animals between 10 p.m. and 7 a.m. from the day after labor day to the first Sunday following New Year's Day or as otherwise provided by a GLIFWC Commission Order.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5235,7 +5235,7 @@
           <num>(a)</num>
           <para>
             <num>(1)</num>
-            <text><u>Certificate of Accomplishment Required</u>.  Except as provided in <cite path="VI|2|2.3|2.317|(1)|(a)|(b)">subs. (b)</cite>, no member born on or after January 1, 1977 may hunt while possessing a firearm, bow and arrow or crossbow unless the member has been issued a certificate of accomplishment under a tribal hunter education and firearm safety course.</text>
+            <text><u>Certificate of Accomplishment Required</u>.  Except as provided in <cite path="§CSV.2.3.170|(a)|(2)">Section CSV.2.3.170(a)(2)</cite>, no member born on or after January 1, 1977 may hunt while possessing a firearm, bow and arrow or crossbow unless the member has been issued a certificate of accomplishment under a tribal hunter education and firearm safety course.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -5440,7 +5440,7 @@
             <text><u>Prohibitions; Motorboats and Vehicles; Highways and Roadways</u>.</text>
             <para>
               <num>(A)</num>
-              <text>Except as provided in <cite path="VI|2|2.3|2.321|(3)|(b)|(c)">subs. (c)</cite>, no member shall place, possess, or transport a firearm, bow or crossbow in or on a motorboat with the motor running, unless one of the following applies:</text>
+              <text>Except as provided in <cite path="§CSV.2.3.210|(c)|(3)">Section CSV.2.3.210(c)(3)</cite>, no member shall place, possess, or transport a firearm, bow or crossbow in or on a motorboat with the motor running, unless one of the following applies:</text>
               <para>
                 <num>(i)</num>
                 <text>The firearm is unloaded.</text>
@@ -5456,7 +5456,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>Except as provided in <cite path="VI|2|2.3|2.321|(3)|(b)|(b)">subs. (b)</cite>(vi) or <cite path="VI|2|2.3|2.321|(3)|(b)|(c)">subs. (c)</cite>, no member shall place, possess or transport a firearm, bow or crossbow in or on a vehicle, unless one of the following applies:</text>
+              <text>Except as provided in <cite path="§CSV.2.3.210|(c)|(2)">Section CSV.2.3.210(c)(2)</cite>(vi) or <cite path="§CSV.2.3.210|(c)|(3)">Section CSV.2.3.210(c)(3)</cite>, no member shall place, possess or transport a firearm, bow or crossbow in or on a vehicle, unless one of the following applies:</text>
               <para>
                 <num>(i)</num>
                 <text>The firearm is unloaded.</text>
@@ -5472,19 +5472,19 @@
             </para>
             <para>
               <num>(C)</num>
-              <text>Except as provided in <cite path="VI|2|2.3|2.321|(3)|(b)|(c)">subs. (c)</cite>, no member shall load or discharge a firearm or shoot an arrow from a bow or crossbow in or from a vehicle.</text>
+              <text>Except as provided in <cite path="§CSV.2.3.210|(c)|(3)">Section CSV.2.3.210(c)(3)</cite>, no member shall load or discharge a firearm or shoot an arrow from a bow or crossbow in or from a vehicle.</text>
             </para>
             <para>
               <num>(D)</num>
-              <text>Except as provided in <cite path="VI|2|2.3|2.321|(3)|(b)|(c)">subs. (c)</cite>, no member shall discharge a firearm or shoot an arrow from a bow or crossbow from or across a highway or within 50 feet of the center of a roadway.</text>
+              <text>Except as provided in <cite path="§CSV.2.3.210|(c)|(3)">Section CSV.2.3.210(c)(3)</cite>, no member shall discharge a firearm or shoot an arrow from a bow or crossbow from or across a highway or within 50 feet of the center of a roadway.</text>
             </para>
             <para>
               <num>(E)</num>
-              <text>Except as provided in <cite path="VI|2|2.3|2.321|(3)|(b)|(c)">subs. (c)</cite>, no member shall hunt while possessing a loaded firearm or strung bow or crossbow within 50 feet of roadway's center.</text>
+              <text>Except as provided in <cite path="§CSV.2.3.210|(c)|(3)">Section CSV.2.3.210(c)(3)</cite>, no member shall hunt while possessing a loaded firearm or strung bow or crossbow within 50 feet of roadway's center.</text>
             </para>
             <para>
               <num>(F)</num>
-              <text>Except as provided in <cite path="VI|2|2.3|2.321|(3)|(b)|(c)">subs. (c)</cite>, no member shall within 1,000 feet from the grounds of a school, or in a state park, state fish hatchery, or tribally designated wildlife area, have in or on a vehicle, or in his or her possession, or under his or her control a firearm, bow or crossbow, unless the firearm is unloaded and encased or locked in a firearm rack that is on a motor vehicle or unless the bow or crossbow is unstrung or is enclosed in a carrying case.</text>
+              <text>Except as provided in <cite path="§CSV.2.3.210|(c)|(3)">Section CSV.2.3.210(c)(3)</cite>, no member shall within 1,000 feet from the grounds of a school, or in a state park, state fish hatchery, or tribally designated wildlife area, have in or on a vehicle, or in his or her possession, or under his or her control a firearm, bow or crossbow, unless the firearm is unloaded and encased or locked in a firearm rack that is on a motor vehicle or unless the bow or crossbow is unstrung or is enclosed in a carrying case.</text>
             </para>
           </para>
           <para>
@@ -5492,35 +5492,35 @@
             <text><u>Exceptions</u>.</text>
             <para>
               <num>(A)</num>
-              <text><cite path="VI|2|2.3|2.321|(3)|(c)|(b)">Subs. (b)</cite> (i), (ii), (iii) and (iv) shall not apply to any person authorized by <cite path="§CSV.2.4.020">Section CSV.2.4.020</cite> to enforce the provisions of this ordinance who, in the line of duty places, possesses, transports, loads or discharges a firearm in, on or from a vehicle or motorboat or discharges a firearm from or across a highway or within 50 feet of the center of a highway.</text>
+              <text><cite path="§CSV.2.3.210|(c)|(2)">Section CSV.2.3.210(c)(2)</cite> (i), (ii), (iii) and (iv) shall not apply to any person authorized by <cite path="§CSV.2.4.020">Section CSV.2.4.020</cite> to enforce the provisions of this ordinance who, in the line of duty places, possesses, transports, loads or discharges a firearm in, on or from a vehicle or motorboat or discharges a firearm from or across a highway or within 50 feet of the center of a highway.</text>
             </para>
             <para>
               <num>(B)</num>
-              <text><cite path="VI|2|2.3|2.321|(3)|(c)|(b)">Subs. (b)</cite>(i), (ii) and (vi) shall not apply to a member otherwise authorized by law to place, possess, load, or transport a handgun.</text>
+              <text><cite path="§CSV.2.3.210|(c)|(2)">Section CSV.2.3.210(c)(2)</cite>(i), (ii) and (vi) shall not apply to a member otherwise authorized by law to place, possess, load, or transport a handgun.</text>
             </para>
             <para>
               <num>(C)</num>
-              <text><cite path="VI|2|2.3|2.321|(3)|(c)|(b)">Subs. (b)</cite>(ii) shall not prohibit a member from placing or possessing a firearm on a vehicle that is stationary.</text>
+              <text><cite path="§CSV.2.3.210|(c)|(2)">Section CSV.2.3.210(c)(2)</cite>(ii) shall not prohibit a member from placing or possessing a firearm on a vehicle that is stationary.</text>
             </para>
             <para>
               <num>(D)</num>
-              <text><cite path="VI|2|2.3|2.321|(3)|(c)|(b)">Subs. (b)</cite>(ii) and (iii) shall not apply to a member in or on a stationary vehicle which is parked off a highway and parked more than 50 feet from the center of the roadway.</text>
+              <text><cite path="§CSV.2.3.210|(c)|(2)">Section CSV.2.3.210(c)(2)</cite>(ii) and (iii) shall not apply to a member in or on a stationary vehicle which is parked off a highway and parked more than 50 feet from the center of the roadway.</text>
             </para>
             <para>
               <num>(E)</num>
-              <text><cite path="VI|2|2.3|2.321|(3)|(c)|(b)">Subs. (b)</cite>(ii) and (iii) shall not apply to a member legally hunting from a stationary non-motorized vehicle that is not attached to a motor vehicle.</text>
+              <text><cite path="§CSV.2.3.210|(c)|(2)">Section CSV.2.3.210(c)(2)</cite>(ii) and (iii) shall not apply to a member legally hunting from a stationary non-motorized vehicle that is not attached to a motor vehicle.</text>
             </para>
             <para>
               <num>(F)</num>
-              <text><cite path="VI|2|2.3|2.321|(3)|(c)|(b)">Subs. (b)</cite>(iv) and (v) shall not apply to a member who is lawfully hunting small game with a shotgun loaded with shotshell or chilled shot number BB or smaller, if the surface of the highway or roadway is anything other than concrete or blacktop.</text>
+              <text><cite path="§CSV.2.3.210|(c)|(2)">Section CSV.2.3.210(c)(2)</cite>(iv) and (v) shall not apply to a member who is lawfully hunting small game with a shotgun loaded with shotshell or chilled shot number BB or smaller, if the surface of the highway or roadway is anything other than concrete or blacktop.</text>
             </para>
             <para>
               <num>(G)</num>
-              <text><cite path="VI|2|2.3|2.321|(3)|(c)|(b)">Subs. (b)</cite>(ii), (iii), (iv) and (v) shall not apply to a member who possesses a valid disabled hunters permit issued pursuant to <cite path="§CSV.2.3.320">Section CSV.2.3.320</cite> of this ordinance and who is hunting in or on a stationary vehicle in accordance with the provisions of that permit.</text>
+              <text><cite path="§CSV.2.3.210|(c)|(2)">Section CSV.2.3.210(c)(2)</cite>(ii), (iii), (iv) and (v) shall not apply to a member who possesses a valid disabled hunters permit issued pursuant to <cite path="§CSV.2.3.320">Section CSV.2.3.320</cite> of this ordinance and who is hunting in or on a stationary vehicle in accordance with the provisions of that permit.</text>
             </para>
             <para>
               <num>(H)</num>
-              <text><cite path="VI|2|2.3|2.321|(3)|(c)|(b)">Subs. (b)</cite>(vi) shall not apply to a member who possesses a valid hunting permit in areas of a state park, state fish hatchery, or tribally designated wildlife area which are open to tribal hunting, therein a tribal member may uncase and load their firearm for the purpose of hunting after removing it from their vehicle at the location they will be hunting.</text>
+              <text><cite path="§CSV.2.3.210|(c)|(2)">Section CSV.2.3.210(c)(2)</cite>(vi) shall not apply to a member who possesses a valid hunting permit in areas of a state park, state fish hatchery, or tribally designated wildlife area which are open to tribal hunting, therein a tribal member may uncase and load their firearm for the purpose of hunting after removing it from their vehicle at the location they will be hunting.</text>
             </para>
           </para>
         </para>
@@ -7817,7 +7817,7 @@
             <text><u>Sale to the Tribe</u>. Any member who has lawfully harvested and registered a bear pursuant to this ordinance may sell any tooth, claw, paw or organ which has been severed from the carcass of the bear to the Tribe provided:</text>
             <para>
               <num>(A)</num>
-              <text>the Tribe complies with the provisions of <cite path="VI|2|2.7|2.724|(3)|(c)|(d)">subs. (d)</cite>, below; and</text>
+              <text>the Tribe complies with the provisions of <cite path="§CSV.2.7.240|(c)|(4)">Section CSV.2.7.240(c)(4)</cite>, below; and</text>
             </para>
             <para>
               <num>(B)</num>
@@ -7931,7 +7931,7 @@
             <num>(2)</num>
             <para>
               <num>(A)</num>
-              <text>No member shall sell to any person who is not a member of a signatory tribe the head or skin of any bear registered under <cite path="§CSV.2.7.250">this section</cite> without transferring the entire skin with the head, claws and teeth attached, the registration tag if it has not been or will not be transferred pursuant to <cite path="VI|2|2.7|2.725|(8)|(b)|(a)">subs. (a)</cite>, and such accompanying documents as the Tribe may require to the person to whom the skin is sold.  If the registration tag is not available for transfer under this subsection because of transfer pursuant to <cite path="VI|2|2.7|2.725|(8)|(b)|(a)">subs. (a)</cite>, the member shall transfer a document indicating the carcass tag and registration tag numbers of the bear from which the skin has been removed.</text>
+              <text>No member shall sell to any person who is not a member of a signatory tribe the head or skin of any bear registered under <cite path="§CSV.2.7.250">this section</cite> without transferring the entire skin with the head, claws and teeth attached, the registration tag if it has not been or will not be transferred pursuant to <cite path="§CSV.2.7.250|(h)|(1)">Section CSV.2.7.250(h)(1)</cite>, and such accompanying documents as the Tribe may require to the person to whom the skin is sold.  If the registration tag is not available for transfer under this subsection because of transfer pursuant to <cite path="§CSV.2.7.250|(h)|(1)">Section CSV.2.7.250(h)(1)</cite>, the member shall transfer a document indicating the carcass tag and registration tag numbers of the bear from which the skin has been removed.</text>
             </para>
             <para>
               <num>(B)</num>
@@ -8301,7 +8301,7 @@
         <heading>Hunting Hours</heading>
         <para>
           <num>(a)</num>
-          <text>Except where otherwise expressly authorized by this ordinance, no member shall hunt small game except during the hours prescribed by this <cite path="VI|2|2.8|2.810|(alldatesandtimesgivenareinclusiveandalltimesrefertoCentralStandardTimeandshouldbeadjustedonehourasnecessarytoaccountforDaylightSavingsTime)">section (all dates and times given are inclusive and all times refer to Central Standard Time and should be adjusted one hour as necessary to account for Daylight Savings Time)</cite>.</text>
+          <text>Except where otherwise expressly authorized by this ordinance, no member shall hunt small game except during the hours prescribed by <cite path="§CSV.2.8.100">this section</cite> (all dates and times given are inclusive and all times refer to Central Standard Time and should be adjusted one hour as necessary to account for Daylight Savings Time).</text>
         </para>
         <para>
           <num>(b)</num>
@@ -8894,7 +8894,7 @@
             <num>(2)</num>
             <para>
               <num>(A)</num>
-              <text>No member shall hunt wild turkeys in any area designated pursuant to <cite path="VI|2|2.8|2.826|(8)|(b)|(b)">subs. (b)</cite>(ii) as a wild turkey reintroduction area.</text>
+              <text>No member shall hunt wild turkeys in any area designated pursuant to <cite path="§CSV.2.8.260|(h)|(2)|(B)">Section CSV.2.8.260(h)(2)(B)</cite> as a wild turkey reintroduction area.</text>
             </para>
             <para>
               <num>(B)</num>
@@ -9905,7 +9905,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>For all lakes with an allowable gillnet mesh size of 3.0 inches, 4.0 inches, and 4.5 inches (including lakes with no current data as described in <cite path="VI|2|2.9|2.908|(2)|(i)|(a)">section (a)</cite> above), 3.5 inch mesh nets may also be used. However, for lakes with an allowable mesh size of 3.0 inches the following will apply whenever 3.5 inch mesh nets are used:</text>
+              <text>For all lakes with an allowable gillnet mesh size of 3.0 inches, 4.0 inches, and 4.5 inches (including lakes with no current data as described in <cite path="§CSV.2.9.080|(b)|(1)">Section CSV.2.9.080(b)(1)</cite> above), 3.5 inch mesh nets may also be used. However, for lakes with an allowable mesh size of 3.0 inches the following will apply whenever 3.5 inch mesh nets are used:</text>
               <para>
                 <num>(i)</num>
                 <text>If an adult population estimate is conducted during spring of the year that gillnetting takes place, no reduction to the remaining walleye quota will occur. The Inland Fisheries Technical Working Group (TWG) will continue to evaluate the effects of using 3.5 inch mesh on the number of walleye 20 inches and larger in these lakes.</text>
@@ -10592,7 +10592,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text><u>Special Restrictions</u>. During the special early and extended seasons on the Brule River as provided in sub<cite path="VI|2|2.9|2.925|(3)|(b)|(ii)|(i)">section (i)</cite>, fishing is prohibited one-half hour after sunset to one-half hour before sunrise except when lawfully fishing for smelt.</text>
+              <text><u>Special Restrictions</u>. During the special early and extended seasons on the Brule River as provided in <cite path="§CSV.2.9.250|(c)|(2)|(A)">Section CSV.2.9.250(c)(2)(A)</cite>, fishing is prohibited one-half hour after sunset to one-half hour before sunrise except when lawfully fishing for smelt.</text>
             </para>
           </para>
         </para>
@@ -12638,7 +12638,7 @@
               </para>
               <para>
                 <num>(iii)</num>
-                <text>May not take, transport or possess any golden eagle, merlin or any endangered or threatened species as defined in Section 2.01(4) of this ordinance.</text>
+                <text>May not take, transport or possess any golden eagle, merlin or any endangered or threatened species as defined in <cite path="§CSV.2.2.010|(d)">Section CSV.2.2.010(d)</cite> of this ordinance.</text>
               </para>
             </para>
           </para>
@@ -13153,7 +13153,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>No member shall operate or use a boat unless each Type I, II, III or IV PFD required by sub<cite path="§CSV.2.14.050|(b)|(1)">Section CSV.2.14.050(b)(1)</cite> is readily accessible or unless each Type IV PFD required by sub<cite path="§CSV.2.14.050|(b)|(1)">Section CSV.2.14.050(b)(1)</cite> is immediately available.</text>
+            <text>No member shall operate or use a boat unless each Type I, II, III or IV PFD required by <cite path="§CSV.2.14.050|(b)|(1)">Section CSV.2.14.050(b)(1)</cite> is readily accessible or unless each Type IV PFD required by <cite path="§CSV.2.14.050|(b)|(1)">Section CSV.2.14.050(b)(1)</cite> is immediately available.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -13317,7 +13317,7 @@
     <text class="center">
       <strong>Preamble</strong>
     </text>
-    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to promote the health, safety, and welfare of Lac Courte Oreilles citizens (members) and protect the environment of the Lac Courte Oreilles Reservation, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, §§ 1(s) and (f) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Article V, § 1 (s) and "to manage, lease, permit or otherwise deal with tribal lands, interests in lands or other assets, and to purchase lands, or interests in lands, within or without the reservation" Article V, § 1 (f). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby recognizes that uncontrolled use of the shorelands and pollution of the navigable waters of the Lac Courte Oreilles Reservation would adversely affect the public health, safety and general welfare of Lac Courte Oreilles citizens (members). The Lac Courte Oreilles Tribal Governing Board has the responsibility to promote the health, safety, and welfare, of Lac Courte Oreilles citizens (members); to further the maintenance of safe and healthful conditions; prevent and control water pollution; protect spawning grounds, fish and aquatic life; control building sites, placement of structures; and to preserve shore cover and natural beauty. This ordinance has been adopted for the purpose of protecting the environment of the Lac Courte Oreilles Reservation.</text>
+    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to promote the health, safety, and welfare of Lac Courte Oreilles citizens (members) and protect the environment of the Lac Courte Oreilles Reservation, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, §§ 1(s)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(f)">(f)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1 (s)</cite> and "to manage, lease, permit or otherwise deal with tribal lands, interests in lands or other assets, and to purchase lands, or interests in lands, within or without the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(f)">Article V, § 1 (f)</cite>. Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby recognizes that uncontrolled use of the shorelands and pollution of the navigable waters of the Lac Courte Oreilles Reservation would adversely affect the public health, safety and general welfare of Lac Courte Oreilles citizens (members). The Lac Courte Oreilles Tribal Governing Board has the responsibility to promote the health, safety, and welfare, of Lac Courte Oreilles citizens (members); to further the maintenance of safe and healthful conditions; prevent and control water pollution; protect spawning grounds, fish and aquatic life; control building sites, placement of structures; and to preserve shore cover and natural beauty. This ordinance has been adopted for the purpose of protecting the environment of the Lac Courte Oreilles Reservation.</text>
     <container>
       <num>CSV.7.1</num>
       <heading>General Provisions</heading>
@@ -13334,7 +13334,7 @@
       <section>
         <num>CSV.7.1.020</num>
         <heading>Authority</heading>
-        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, §§ 1(s) and (f) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Article V, § 1 (s) and "to manage, lease, permit or otherwise deal with tribal lands, interests in lands or other assets, and to purchase lands, or interests in lands, within or without the reservation" Article V, § 1 (f).</text>
+        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, §§ 1(s)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(f)">(f)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1 (s)</cite> and "to manage, lease, permit or otherwise deal with tribal lands, interests in lands or other assets, and to purchase lands, or interests in lands, within or without the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(f)">Article V, § 1 (f)</cite>.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-32"/>
           <annotation type="Prior Codifications">§CSV.7.1.020 was formerly codified as VI LCOTCL §7.102</annotation>
@@ -14030,7 +14030,7 @@
     <text class="center">
       <strong>Preamble</strong>
     </text>
-    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1 (h) and (n) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people," Article V, § 1 (h); and "To regulate, by enactment of ordinances, the conduct of business within the territory of the Band, including the power to impose taxes or license fees upon members and non-members doing business within the reservation" Article V, § 1 (n). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes the Agricultural Division of the Lac Courte Oreilles Conservation Department as a governmental instrumentality of the Tribe, and enacts this ordinance which shall establish the purposes, powers and duties of the same. The Agricultural Division shall carry out the requirements of the 2018 Farm Bill as adopted and implemented by the Tribe pursuant to the provisions of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
+    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">(n)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people," <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h)</cite>; and "To regulate, by enactment of ordinances, the conduct of business within the territory of the Band, including the power to impose taxes or license fees upon members and non-members doing business within the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1 (n)</cite>. Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes the Agricultural Division of the Lac Courte Oreilles Conservation Department as a governmental instrumentality of the Tribe, and enacts this ordinance which shall establish the purposes, powers and duties of the same. The Agricultural Division shall carry out the requirements of the 2018 Farm Bill as adopted and implemented by the Tribe pursuant to the provisions of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
     <container>
       <num>CSV.8.1</num>
       <heading>Introduction</heading>
@@ -14047,7 +14047,7 @@
       <section>
         <num>CSV.8.1.020</num>
         <heading>Authority</heading>
-        <text>This Ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1 (h) and (n) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people," Article V, § 1 (h); and "To regulate, by enactment of ordinances, the conduct of business within the territory of the Band, including the power to impose taxes or license fees upon members and non-members doing business within the reservation" Article V, § 1 (n).</text>
+        <text>This Ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">(n)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people," <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h)</cite>; and "To regulate, by enactment of ordinances, the conduct of business within the territory of the Band, including the power to impose taxes or license fees upon members and non-members doing business within the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1 (n)</cite>.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.1.020 was formerly codified as VI LCOTCL §8.102</annotation>

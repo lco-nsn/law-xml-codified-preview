@@ -22,7 +22,7 @@
       <section>
         <num>VEH.5.1.020</num>
         <heading>Authority</heading>
-        <text>LCO possesses the inherent sovereign authority to regulate its territory, and Article V, Section 1(s) of the LCO constitution empowers the tribal governing board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."</text>
+        <text>LCO possesses the inherent sovereign authority to regulate its territory, and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1(s) of the LCO constitution</cite> empowers the tribal governing board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."</text>
         <text>The Lac Courte Oreilles Band of Lake Superior Chippewa Indians has the power and authority to license and register motor vehicles pursuant to its sovereign jurisdiction status and a reciprocal registration exemption agreement that has been entered into between the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and the State of Wisconsin with parallel laws and statutes for cross administration and enforcement purposes.</text>
         <annotations>
           <annotation type="Prior Codifications">§VEH.5.1.020 was formerly codified as IX LCOTCL §5.2</annotation>
@@ -302,7 +302,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Section 5.35 applies to any vehicles registered according to the monthly series system under <cite path="§VEH.5.2.030">this section</cite>.</text>
+          <text><cite path="§VEH.5.11.010">Section VEH.5.11.010</cite> applies to any vehicles registered according to the monthly series system under <cite path="§VEH.5.2.030">this section</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§VEH.5.2.030 was formerly codified as IX LCOTCL §5.11</annotation>
@@ -314,7 +314,7 @@
         <text>The following vehicles shall be registered on a biennial basis:</text>
         <para>
           <num>(a)</num>
-          <text>A motorcycle or moped, as specified in sec. 5.29. The registration period for a motorcycle or moped begins on May 1 of an even-numbered year and ends on April 30 of the next even numbered year.</text>
+          <text>A motorcycle or moped, as specified in <cite path="§VEH.5.7.040">Section VEH.5.7.040</cite>. The registration period for a motorcycle or moped begins on May 1 of an even-numbered year and ends on April 30 of the next even numbered year.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§VEH.5.2.040 was formerly codified as IX LCOTCL §5.12</annotation>
@@ -420,7 +420,7 @@
         <heading>Renewal Applications</heading>
         <para>
           <num>(a)</num>
-          <text>Applications for renewal of registration shall contain the information required in sec. 5.14 (a) for original applications, or such parts thereof as the department deems necessary to assure the proper registration of the vehicle. The department may require that applications for renewal of registration be accompanied by the certificate of title issued for the vehicle only when the true ownership or proper registration of the vehicle is in doubt and cannot be resolved from records maintained by the department.</text>
+          <text>Applications for renewal of registration shall contain the information required in <cite path="§VEH.5.3.010|(a)">Section VEH.5.3.010(a)</cite> for original applications, or such parts thereof as the department deems necessary to assure the proper registration of the vehicle. The department may require that applications for renewal of registration be accompanied by the certificate of title issued for the vehicle only when the true ownership or proper registration of the vehicle is in doubt and cannot be resolved from records maintained by the department.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -492,7 +492,7 @@
         <heading>Design, Procurement and Issuance of Registration Plates</heading>
         <para>
           <num>(a)</num>
-          <text>The department upon registering a vehicle pursuant to sec. 5.09 and sec. 5.35 shall issue to the applicant two (2) registration plates for an automobile, truck, motor home, and one plate for other vehicles. The department upon registering a vehicle pursuant to any other section shall issue one plate unless the department determines that two (2) plates will better serve the interests of law enforcement.</text>
+          <text>The department upon registering a vehicle pursuant to <cite path="IX|5|II|5.09">sec. 5.09</cite> and <cite path="§VEH.5.11.010">Section VEH.5.11.010</cite> shall issue to the applicant two (2) registration plates for an automobile, truck, motor home, and one plate for other vehicles. The department upon registering a vehicle pursuant to any other section shall issue one plate unless the department determines that two (2) plates will better serve the interests of law enforcement.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -604,7 +604,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A registration plate of the same color and design as provided in sec. 5.20 for a vehicle specified under sec. 5.20 which displays the applicable symbol of the authorized special group to which the person belongs and a registration number composed of letters or numbers, or both, not exceeding 6 positions and not less than 1 position, requested by the applicant.</text>
+          <text>A registration plate of the same color and design as provided in <cite path="§VEH.5.4.020">Section VEH.5.4.020</cite> for a vehicle specified under <cite path="§VEH.5.4.020">Section VEH.5.4.020</cite> which displays the applicable symbol of the authorized special group to which the person belongs and a registration number composed of letters or numbers, or both, not exceeding 6 positions and not less than 1 position, requested by the applicant.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -712,7 +712,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Upon satisfactory proof of the loss or destruction of a specialized plate or a personalized plate issued under sec. 5.21, and upon payment of a fee of $4.00 for each plate, the department shall issue a replacement.</text>
+          <text>Upon satisfactory proof of the loss or destruction of a specialized plate or a personalized plate issued under <cite path="§VEH.5.4.030">Section VEH.5.4.030</cite>, and upon payment of a fee of $4.00 for each plate, the department shall issue a replacement.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§VEH.5.6.010 was formerly codified as IX LCOTCL §5.23</annotation>
@@ -762,16 +762,16 @@
           <text>Upon request, the department shall distribute free of charge registration lists compiled under <cite path="§VEH.5.7.020">this section</cite> as follows:</text>
           <para>
             <num>(1)</num>
-            <text>To the Lac Courte Oreilles Law Enforcement Department, one copy of each automobile registration list under <cite path="sec|sec.5|sec.5.26">sec.5.26</cite>.</text>
+            <text>To the Lac Courte Oreilles Law Enforcement Department, one copy of each automobile registration list under <cite path="§VEH.5.7.010">Section VEH.5.7.010</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>To any other public officer or agency that provides in writing reasonable requests for the lists, one copy of each automobile registration list under sec. 5.26.</text>
+            <text>To any other public officer or agency that provides in writing reasonable requests for the lists, one copy of each automobile registration list under <cite path="§VEH.5.7.010">Section VEH.5.7.010</cite>.</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>Except as provided in sec. 5.28 public officers and agencies receiving free copies of registration lists under par. (a) shall keep such lists current and open to public inspection.</text>
+          <text>Except as provided in <cite path="§VEH.5.7.030">Section VEH.5.7.030</cite> public officers and agencies receiving free copies of registration lists under par. (a) shall keep such lists current and open to public inspection.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§VEH.5.7.020 was formerly codified as IX LCOTCL §5.27</annotation>
@@ -789,7 +789,7 @@
           <text>Paragraph (a) does not apply to any of the following:</text>
           <para>
             <num>(1)</num>
-            <text>A person receiving a registration list under sec. 5.27(a) and (b) to perform a legally authorized function.</text>
+            <text>A person receiving a registration list under <cite path="§VEH.5.7.020|(a)">Section VEH.5.7.020(a)</cite> and <cite path="§VEH.5.7.020|(b)">Section VEH.5.7.020(b)</cite> to perform a legally authorized function.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -797,16 +797,16 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>An insurer authorized to write property and casualty insurance in the State of Wisconsin or an agent of the insurer, if the insurer or agent uses the personal identifier designated for non-disclosure under sec. 5.13(b) for purposes of issuing or renewing a policy and related underwriting, billing or processing or paying a claim.</text>
+            <text>An insurer authorized to write property and casualty insurance in the State of Wisconsin or an agent of the insurer, if the insurer or agent uses the personal identifier designated for non-disclosure under <cite path="§VEH.5.2.050|(b)">Section VEH.5.2.050(b)</cite> for purposes of issuing or renewing a policy and related underwriting, billing or processing or paying a claim.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>A person obtaining registration or title information for use in the conduct of a vehicle recall by the manufacturer of the vehicle or an agent of the manufacturer, if the person uses the personal identifiers designated for nondisclosure under sec. 5.13(b).</text>
+            <text>A person obtaining registration or title information for use in the conduct of a vehicle recall by the manufacturer of the vehicle or an agent of the manufacturer, if the person uses the personal identifiers designated for nondisclosure under <cite path="§VEH.5.2.050|(b)">Section VEH.5.2.050(b)</cite>.</text>
           </para>
         </para>
         <para>
           <num>(c)</num>
-          <text>Any person who has received under par. (b) a personal identifier of any person who has made a designation under sec. 5.13(b) shall keep the personal identifier confidential and may not disclose it except for a purpose applicable to that person under par. (b).</text>
+          <text>Any person who has received under par. (b) a personal identifier of any person who has made a designation under <cite path="§VEH.5.2.050|(b)">Section VEH.5.2.050(b)</cite> shall keep the personal identifier confidential and may not disclose it except for a purpose applicable to that person under par. (b).</text>
           <para>
             <num>(1)</num>
             <text>Any person who willfully discloses a personal identifier in violation of <cite path="§VEH.5.7.030">this section</cite> may be subject to a fine of not more than $500 for each violation.</text>
@@ -1079,7 +1079,7 @@
         <text>
           <strong>Computation of Part-Period Fees</strong>
         </text>
-        <text>The annual registration fee shall be paid in full on all vehicles registered pursuant to section 5.11, unless the vehicles comes within one of the following categories, in which event the applicant is liable for the payment of only a part-period fee to be computed in accordance with sec. 5.36(e):</text>
+        <text>The annual registration fee shall be paid in full on all vehicles registered pursuant to <cite path="§VEH.5.2.030">Section VEH.5.2.030</cite>, unless the vehicles comes within one of the following categories, in which event the applicant is liable for the payment of only a part-period fee to be computed in accordance with <cite path="§VEH.5.11.020|(e)">Section VEH.5.11.020(e)</cite>:</text>
         <para>
           <num>(a)</num>
           <text>The vehicle has not previously been registered within this Reservation; or</text>
@@ -1125,11 +1125,11 @@
           <text>Part-period registration fees shall be computed as follows:</text>
           <para>
             <num>(1)</num>
-            <text>For vehicles registered under the conditions in sec. 5.36 (a), (b), or (d), the fee for the current registration period shall be computed on the basis of one-twelfth of the annual registration fee or one twenty-fourth of the biennial registration fee prescribed for the vehicle multiplied by the number of months of the current registration period which have not fully expired on the date the vehicle first is operated by or with the consent of the applicant under circumstances making it subject to registration by the Lac Courte Oreilles. In the case of a vehicle which has not previously been registered or which has not been registered within this Reservation by the present owner since the owner last acquired ownership of the vehicle, the department shall assume that the date of first operation bill of sales evidencing transfer of ownership to the applicant unless he or she files with the department a statement that the vehicle was not so operated until a later date, specifying the date of such first operation. The department may refuse to accept any statement which projects the date of first operation into the future.</text>
+            <text>For vehicles registered under the conditions in <cite path="§VEH.5.11.020|(a)">Section VEH.5.11.020(a)</cite>, <cite path="§VEH.5.11.020|(b)">Section VEH.5.11.020(b)</cite>, or <cite path="§VEH.5.11.020|(d)">Section VEH.5.11.020(d)</cite>, the fee for the current registration period shall be computed on the basis of one-twelfth of the annual registration fee or one twenty-fourth of the biennial registration fee prescribed for the vehicle multiplied by the number of months of the current registration period which have not fully expired on the date the vehicle first is operated by or with the consent of the applicant under circumstances making it subject to registration by the Lac Courte Oreilles. In the case of a vehicle which has not previously been registered or which has not been registered within this Reservation by the present owner since the owner last acquired ownership of the vehicle, the department shall assume that the date of first operation bill of sales evidencing transfer of ownership to the applicant unless he or she files with the department a statement that the vehicle was not so operated until a later date, specifying the date of such first operation. The department may refuse to accept any statement which projects the date of first operation into the future.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>For the registration of a replacement vehicle under the conditions set forth in sec. 5.36(c), or the fee shall be computed as for a vehicle not previously registered in this state, but a credit shall be allowed for the unused portion of the fee paid for the vehicle being replaced. Such credit shall be computed on the basis of one-twelfth of the annual registration fee or one twenty-fourth of the biennial registration fee prescribed for the vehicle being replaced multiplied by the number of months of registration which have not fully expired at the time the vehicle being replaced was junked, traded, sold or removed from jurisdiction of the Lac Courte Oreilles. Except for a vehicle registered on a biennial basis, it is not necessary that the replacement vehicle be of the same type as the one being replaced in order for the applicant to take advantage of the credit but the credit may be applied toward registration of the replacement vehicle only up to the date when the registration of the vehicle being replaced would have expired.</text>
+            <text>For the registration of a replacement vehicle under the conditions set forth in <cite path="§VEH.5.11.020|(c)">Section VEH.5.11.020(c)</cite>, or the fee shall be computed as for a vehicle not previously registered in this state, but a credit shall be allowed for the unused portion of the fee paid for the vehicle being replaced. Such credit shall be computed on the basis of one-twelfth of the annual registration fee or one twenty-fourth of the biennial registration fee prescribed for the vehicle being replaced multiplied by the number of months of registration which have not fully expired at the time the vehicle being replaced was junked, traded, sold or removed from jurisdiction of the Lac Courte Oreilles. Except for a vehicle registered on a biennial basis, it is not necessary that the replacement vehicle be of the same type as the one being replaced in order for the applicant to take advantage of the credit but the credit may be applied toward registration of the replacement vehicle only up to the date when the registration of the vehicle being replaced would have expired.</text>
           </para>
         </para>
         <annotations>
@@ -1141,11 +1141,11 @@
         <heading>Transferred Plates or Plates No Longer in Use</heading>
         <para>
           <num>(a)</num>
-          <text>The transferee of a vehicle registered as provided in sec. 5.11 is not subject to the payment of any registration fee for the remainder of the period for which the vehicle is registered unless, by reason of his or her status or the use to which the vehicle is put, the fee prescribed by law is higher than that paid by the former owner. In such event, the fee shall be computed on the basis of one-twelfth of the difference between the two (2) annual fees multiplied by the number of months of the current registration period which have not fully expired on the date, after the vehicle is acquired by the applicant, when such vehicle is first operated by him or her with his or her consent under circumstances making it subject to registration by the Lac Courte Oreilles.</text>
+          <text>The transferee of a vehicle registered as provided in <cite path="§VEH.5.2.030">Section VEH.5.2.030</cite> is not subject to the payment of any registration fee for the remainder of the period for which the vehicle is registered unless, by reason of his or her status or the use to which the vehicle is put, the fee prescribed by law is higher than that paid by the former owner. In such event, the fee shall be computed on the basis of one-twelfth of the difference between the two (2) annual fees multiplied by the number of months of the current registration period which have not fully expired on the date, after the vehicle is acquired by the applicant, when such vehicle is first operated by him or her with his or her consent under circumstances making it subject to registration by the Lac Courte Oreilles.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>A person retaining a set of plates removed from a vehicle which was junked or transferred, is no longer used on the highways or has been registered as a special interest vehicle under sec. 5.34 may receive credit for the unused portion of the registration fee paid when registering a replacement vehicle of the same type and gross weight.</text>
+          <text>A person retaining a set of plates removed from a vehicle which was junked or transferred, is no longer used on the highways or has been registered as a special interest vehicle under <cite path="§VEH.5.10.010">Section VEH.5.10.010</cite> may receive credit for the unused portion of the registration fee paid when registering a replacement vehicle of the same type and gross weight.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1153,7 +1153,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text><cite path="§VEH.5.11.030">This section</cite> does not apply to vehicles registered at a fee of $5 under sec. 5.32. Such vehicles, whether registered for a full period or part thereof and whether or not previously registered, shall be registered at the full fee. If a person authorized to register a vehicle at a fee of $5 under sec. 5.32 transfers the vehicle to a person not so authorized, the fee payable by the transferee shall be computed as for a vehicle not previously registered by the Lac Courte Oreilles.</text>
+          <text><cite path="§VEH.5.11.030">This section</cite> does not apply to vehicles registered at a fee of $5 under <cite path="§VEH.5.8.010">Section VEH.5.8.010</cite>. Such vehicles, whether registered for a full period or part thereof and whether or not previously registered, shall be registered at the full fee. If a person authorized to register a vehicle at a fee of $5 under <cite path="§VEH.5.8.010">Section VEH.5.8.010</cite> transfers the vehicle to a person not so authorized, the fee payable by the transferee shall be computed as for a vehicle not previously registered by the Lac Courte Oreilles.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -1280,7 +1280,7 @@
       <section>
         <num>VEH.5.12.030</num>
         <heading>Special Registration Plates</heading>
-        <text>Any person who fraudulently procures or uses special registration plates issued under sec. 5.11 of this ordinance shall forfeit not less than $200, nor more than $500.</text>
+        <text>Any person who fraudulently procures or uses special registration plates issued under <cite path="§VEH.5.2.030">Section VEH.5.2.030</cite> of this ordinance shall forfeit not less than $200, nor more than $500.</text>
         <annotations>
           <annotation type="Prior Codifications">§VEH.5.12.030 was formerly codified as IX LCOTCL §5.46</annotation>
         </annotations>
@@ -1306,7 +1306,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Suspension of registration is specified by an authority under sec. 5.49.</text>
+            <text>Suspension of registration is specified by an authority under <cite path="§VEH.5.14.010">Section VEH.5.14.010</cite>.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -1314,7 +1314,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>The licensee of a vehicle registered under section 5.26 has not been compiled with the test or inspection requirements of the State of Wisconsin under <cite path="s|s.110|s.110.20">s.110.20</cite>(6)Wis. Stats.</text>
+            <text>The licensee of a vehicle registered under <cite path="§VEH.5.7.010">Section VEH.5.7.010</cite> has not been compiled with the test or inspection requirements of the State of Wisconsin under <cite path="s|s.110|s.110.20">s.110.20</cite>(6)Wis. Stats.</text>
           </para>
         </para>
         <para>
@@ -1334,7 +1334,7 @@
         <heading>Transfer of Vehicle Ownership While Registration Suspended</heading>
         <para>
           <num>(a)</num>
-          <text>No owner may transfer the ownership or registration of any vehicle whose registration is suspended under sec. 5.47 until the registration is reinstated under sec. 5.47(b) or until the department is satisfied that such transfer is proposed in good faith and not for the purpose or with the effect of defeating the purposes of sec. 5.47(a)(3).</text>
+          <text>No owner may transfer the ownership or registration of any vehicle whose registration is suspended under <cite path="IX|5|subch|5.47">sec. 5.47</cite> until the registration is reinstated under <cite path="§VEH.5.13.010|(b)">Section VEH.5.13.010(b)</cite> or until the department is satisfied that such transfer is proposed in good faith and not for the purpose or with the effect of defeating the purposes of <cite path="§VEH.5.13.010|(a)|(3)">Section VEH.5.13.010(a)(3)</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1342,7 +1342,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text><cite path="§VEH.5.13.020">This section</cite> does not apply to or affect the registration of any vehicle sold by a person who, pursuant to the terms or conditions of any written instrument giving a right of repossession, has exercised such right and has repossessed such vehicle from a person who registration has been suspended under sec. 5.47(a)(3).</text>
+          <text><cite path="§VEH.5.13.020">This section</cite> does not apply to or affect the registration of any vehicle sold by a person who, pursuant to the terms or conditions of any written instrument giving a right of repossession, has exercised such right and has repossessed such vehicle from a person who registration has been suspended under <cite path="§VEH.5.13.010|(a)|(3)">Section VEH.5.13.010(a)(3)</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§VEH.5.13.020 was formerly codified as IX LCOTCL §5.48</annotation>
@@ -1378,7 +1378,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>If the person does not pay the forfeiture or appear in court in response to the citation for a nonmoving traffic violation on the date specified in the citation or, if no date is specified in the citation, within 28 days after the citation is issued, the authority may notify the department in the form and manner prescribed by the department that a citation has been issued to the person and the citation remains unpaid. The authority shall specify whether the department is to suspend the registration of the vehicle involved under sec. 5.47 or refuse registration of any vehicle owned by the person.</text>
+          <text>If the person does not pay the forfeiture or appear in court in response to the citation for a nonmoving traffic violation on the date specified in the citation or, if no date is specified in the citation, within 28 days after the citation is issued, the authority may notify the department in the form and manner prescribed by the department that a citation has been issued to the person and the citation remains unpaid. The authority shall specify whether the department is to suspend the registration of the vehicle involved under <cite path="§VEH.5.13.010">Section VEH.5.13.010</cite> or refuse registration of any vehicle owned by the person.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§VEH.5.14.010 was formerly codified as IX LCOTCL §5.49</annotation>
@@ -1402,7 +1402,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Unless application for re-registration has been made as required by sec. 5.38, it is unlawful for any person to operate or for the owner to consent to being operated on any highway of this jurisdiction any registered vehicle the construction or use of which has been changed so as to make the vehicle subject to a higher fee than the fee at which it currently is registered or which is carrying a greater load than that permitted under the current registration.</text>
+          <text>Unless application for re-registration has been made as required by <cite path="§VEH.5.11.040">Section VEH.5.11.040</cite>, it is unlawful for any person to operate or for the owner to consent to being operated on any highway of this jurisdiction any registered vehicle the construction or use of which has been changed so as to make the vehicle subject to a higher fee than the fee at which it currently is registered or which is carrying a greater load than that permitted under the current registration.</text>
           <para>
             <num>(1)</num>
             <text>Any person who violates par. (a) or (b), where the vehicle used is an automobile, station wagon, or any other vehicle having a gross weight of 10,000 pounds or less, may be required to forfeit not more than $200.</text>

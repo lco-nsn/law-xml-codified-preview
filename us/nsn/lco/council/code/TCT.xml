@@ -4,13 +4,233 @@
   <heading>Tribal Court</heading>
   <prefix>Title</prefix>
   <container>
+    <num>TCT.1</num>
+    <heading>Sovereign Immunity Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+    <prefix>Chapter</prefix>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
+    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to protect and preserve the sovereign immunity of the Tribe, to define the entities and individuals entitled to the protection of such immunity, and to specify the manner in which such immunity may be waived, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby recognizes that Tribal sovereign immunity, as defined in numerous federal court decisions, is an inherent and indispensable aspect of Tribal sovereignty. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians also recognizes that Tribal sovereign immunity affords necessary protection of Tribal resources, and necessary protection for Tribal officers, employees, and agents in both governmental and commercial settings.</text>
+    <container>
+      <num>TCT.1.1</num>
+      <heading>General Provisions</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>TCT.1.1.010</num>
+        <heading>Title</heading>
+        <text>This ordinance shall be known as the Sovereign Immunity Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.1.010 was formerly codified as II LCOTCL §5.101</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.1.1.020</num>
+        <heading>Authority</heading>
+        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…"</text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.1.020 was formerly codified as II LCOTCL §5.102</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.1.1.030</num>
+        <heading>Declaration of Policy</heading>
+        <text>It is the policy of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to exercise its sovereign immunity, and to grant limited waivers of such immunity, as dictated by the best interests of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and its citizens. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians recognizes that Tribal sovereign immunity, as defined in numerous federal court decisions, is an inherent and indispensable aspect of Tribal sovereignty. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians also recognizes that Tribal sovereign immunity affords necessary protection of Tribal resources, and necessary protection for Tribal officers, employees, and agents in both governmental and commercial settings.</text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.1.030 was formerly codified as II LCOTCL §5.103</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.1.1.040</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this ordinance is to protect and preserve the sovereign immunity of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to define the entities and individuals entitled to the protection of such immunity, and to specify the manner in which such immunity may be waived.</text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.1.040 was formerly codified as II LCOTCL §5.104</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.1.1.050</num>
+        <heading>Territorial Applicability</heading>
+        <text>This ordinance shall govern the sovereign immunity of the Tribe pursuant to the provisions of this ordinance within Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.1.050 was formerly codified as II LCOTCL §5.105</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.1.1.060</num>
+        <heading>Effective Date</heading>
+        <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.1.060 was formerly codified as II LCOTCL §5.106</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.1.1.070</num>
+        <heading>Interpretation</heading>
+        <text>The provisions of this ordinance:</text>
+        <para>
+          <num>(a)</num>
+          <text>Shall be interpreted and applied as the minimum requirements applicable to the protection and preservation of the sovereign immunity of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Shall be liberally construed in favor of the Tribe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.1.070 was formerly codified as II LCOTCL §5.107</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.1.1.080</num>
+        <heading>Severability and Non-Liability</heading>
+        <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.1.080 was formerly codified as II LCOTCL §5.108</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.1.1.090</num>
+        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
+        <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.1.090 was formerly codified as II LCOTCL §5.109</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <num>TCT.1.2</num>
+      <heading>Definitions</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>TCT.1.2.010</num>
+        <heading>General Definitions</heading>
+        <text>Any term not defined in <cite path="§TCT.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <para>
+          <num>(a)</num>
+          <text><strong>"Agent"</strong> shall mean a person who is authorized to act on behalf of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians with respect to a specific transaction or transactions. For the purposes of this ordinance, agent shall include all individuals elected or appointed to serve on a board, committee, or commission of the Tribe.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><strong>"Employee"</strong> shall mean any individual who is employed by the Tribe and is subject to the direction and control of the Tribe with respect to the material details of the work performed, or who has the status of an employee under the usual common law rules applicable to determining the employer-employee relationship. For the purposes of this ordinance, employee shall include individuals employed by a tribal entity or Tribally Chartered corporation.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><strong>"Officer"</strong> shall mean a person elected or appointed to serve on a board, committee, or commission of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><strong>"Reservation" or "Reservation Lands"</strong> means those lands located within the exterior boundaries of the Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><strong>"Tribal Entity"</strong> shall mean a corporation or other organization which is wholly owned by the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and is operated for governmental or commercial purposes.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><strong>"Tribe"</strong> shall mean the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, and includes all departments, divisions, business units, and other subdivisions of the Tribe.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><strong>"Tribal Court"</strong> means the court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.2.010 was formerly codified as II LCOTCL §5.201</annotation>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <num>TCT.1.3</num>
+      <heading>General</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>TCT.1.3.010</num>
+        <heading>Sovereign Immunity of the Tribe</heading>
+        <text>The sovereign immunity of the Tribe, including sovereign immunity from suit in any state, federal or Tribal court, is hereby expressly reaffirmed. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against the Tribe unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against officers, employees or agents of the Tribe for actions within the scope of their authority, unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding.</text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.3.010 was formerly codified as II LCOTCL §5.301</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.1.3.020</num>
+        <heading>Sovereign Immunity of Tribal Entities</heading>
+        <text>The sovereign immunity of Tribal Entities, including sovereign immunity from suit in any state, federal or Tribal court, is hereby expressly reaffirmed. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against a Tribal Entity unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against officers, employees or agents of a Tribal Entity for actions within the scope of their authority, unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding.</text>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.3.020 was formerly codified as II LCOTCL §5.302</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.1.3.030</num>
+        <heading>Waiver of Sovereign Immunity</heading>
+        <para>
+          <num>(a)</num>
+          <text>All waivers of sovereign immunity shall be made in accordance with this ordinance.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A limited waiver of sovereign immunity of the Tribe or a Tribal Entity may be effected:</text>
+          <para>
+            <num>(1)</num>
+            <text>by express resolution of the Tribal Governing Board;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>by motion of the Tribal Governing Board in adoption of an employment agreement encompassing a limited waiver of sovereign immunity for purposes of enforcement of the terms of the employment agreement in tribal court; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>by express resolution of the Tribal Governing Board authorizing a limited waiver of immunity to a Tribal Entity to sue and be sued in the Tribal Entities corporate name, upon any contract, claim or obligation arising out of its activities under ordinance or charter, and limited to the liability for the debts or obligations of the Tribal Entity.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Only through express resolution of the Tribal Governing Board, shall the Tribe provide a limited waiver of its sovereign immunity to permit Tribal officers, employees, or agents to testify as witnesses or to produce documents following receipt of a subpoena from a court of competent jurisdiction or a duly authorized official.</text>
+          <para>
+            <num>(1)</num>
+            <text>A limited waiver of sovereign immunity to allow testimony and production of documents shall not extend to and shall not be deemed to include any testimony or the production of any documents which are not directly relevant to the limited purposes expressed in the waiver.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A limited waivers of sovereign immunity shall not be general but shall be specific and limited as to duration, grantee, transaction, assets subject to the waiver, the court having jurisdiction, and applicable law.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>No waiver of sovereign immunity shall be deemed to be consent to the levy of any judgment, lien, or attachment upon Reservation Land(s).</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
+          <annotation type="Prior Codifications">§TCT.1.3.030 was formerly codified as II LCOTCL §5.303</annotation>
+        </annotations>
+      </section>
+    </container>
+  </container>
+  <container>
     <num>TCT.2</num>
     <heading>Rules of Civil Procedure Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
     <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
-    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1 (q) and (s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance…" Article V, § 1 (q); "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and provide for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" Article V, § 1 (s). The following rules are adopted to govern civil proceedings initiated in the Lac Courte Oreilles Tribal Court.</text>
+    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance…" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q)</cite>; "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and provide for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1 (s)</cite>. The following rules are adopted to govern civil proceedings initiated in the Lac Courte Oreilles Tribal Court.</text>
     <container>
       <num>TCT.2.1</num>
       <heading>Introduction</heading>
@@ -29,7 +249,7 @@
       <section>
         <num>TCT.2.1.020</num>
         <heading>Authority</heading>
-        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1 (q) and (s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance…" Article V, § 1 (q); "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and provide for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" Article V, § 1 (s).</text>
+        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance…" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q)</cite>; "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and provide for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1 (s)</cite>.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
@@ -138,7 +358,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>"<strong>Citizen</strong>" shall mean those persons whom are currently citizens (members) of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and those who are entitled to be citizens (members) under provisions in effect, or who fall within the class defined as citizens (members) in <cite doc="Lac Courte Oreilles Constitution and By-laws" path="II">Article II of the Constitution of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>.</text>
+          <text>"<strong>Citizen</strong>" shall mean those persons whom are currently citizens (members) of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and those who are entitled to be citizens (members) under provisions in effect, or who fall within the class defined as citizens (members) in <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|II">Article II of the Constitution of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1843,8 +2063,8 @@
         </para>
         <annotations>
           <annotation type="Commentary">
-            <text>Sub<cite path="§TCT.3.3.010|(a)">Section TCT.3.3.010(a)</cite> safeguards the authority of the Court of Appeals to perform its review function without interference from other governmental agencies either before or after it has acted.</text>
-            <text>Sub<cite path="§TCT.3.3.010|(b)">Section TCT.3.3.010(b)</cite> establishes the authority of the Court of Appeals to review the constitutionality of Tribal Governing Board acts of whatever nature. Because tribal constitutions do not typically provide for a separation of powers between the judiciary and the other functions of the government, some question may be raised as to the implicit authority of the courts to review the acts of tribal government. Whatever the correct answer is to that question, this subsection delegates whatever authority is necessary to perform such review.</text>
+            <text><cite path="§TCT.3.3.010|(a)">Section TCT.3.3.010(a)</cite> safeguards the authority of the Court of Appeals to perform its review function without interference from other governmental agencies either before or after it has acted.</text>
+            <text><cite path="§TCT.3.3.010|(b)">Section TCT.3.3.010(b)</cite> establishes the authority of the Court of Appeals to review the constitutionality of Tribal Governing Board acts of whatever nature. Because tribal constitutions do not typically provide for a separation of powers between the judiciary and the other functions of the government, some question may be raised as to the implicit authority of the courts to review the acts of tribal government. Whatever the correct answer is to that question, this subsection delegates whatever authority is necessary to perform such review.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.3.010 was formerly codified as II LCOTCL §2.4</annotation>
@@ -1853,7 +2073,7 @@
       <section>
         <num>TCT.3.3.020</num>
         <heading>Acceptance of an Appeal</heading>
-        <text>The only review of a Tribal Court order or judgment shall be an appeal to the Lac Courte Oreilles Court of Appeals, as provided in this Code. For all appeals, the Attorney Judge of the Court of Appeals shall conduct a preliminary review of the record on appeal and determine whether the appeal presents an error of law or fact, which may warrant reversal or remand, based upon application of the standard of review stated in Section 2.14. The Attorney Judge may request additional information before any decision is made including, but not limited to, written briefs and/or a hearing. If the Attorney Judge determines that no such error or omission exits, the Attorney Judge shall explain the grounds for dismissal in a written decision. If the Attorney Judge determines that such an issue may exist, the appeal shall be forwarded to the full three- Judge panel which includes the Attorney Judge for a decision.</text>
+        <text>The only review of a Tribal Court order or judgment shall be an appeal to the Lac Courte Oreilles Court of Appeals, as provided in this Code. For all appeals, the Attorney Judge of the Court of Appeals shall conduct a preliminary review of the record on appeal and determine whether the appeal presents an error of law or fact, which may warrant reversal or remand, based upon application of the standard of review stated in <cite path="§TCT.3.4.050">Section TCT.3.4.050</cite>. The Attorney Judge may request additional information before any decision is made including, but not limited to, written briefs and/or a hearing. If the Attorney Judge determines that no such error or omission exits, the Attorney Judge shall explain the grounds for dismissal in a written decision. If the Attorney Judge determines that such an issue may exist, the appeal shall be forwarded to the full three- Judge panel which includes the Attorney Judge for a decision.</text>
         <annotations>
           <annotation type="Commentary">
             <text>This ordinance provides the only method of obtaining review in the Court of Appeals. <cite path="§TCT.3.3.020">This section</cite> eliminates any argument that any Anglo-American common law writs may be pursued for extraordinary relief</text>
@@ -1877,7 +2097,7 @@
       <section>
         <num>TCT.3.3.040</num>
         <heading>What May Be Appealed</heading>
-        <text>Except as otherwise provided by tribal law or resolution, any inal judgment or order of the Tribal Court may be appealed to the Court of Appeals. A final judgment or order is one which disposes of all issues in litigation between at least two parties to a case.</text>
+        <text>Except as otherwise provided by tribal law or resolution, any final judgment or order of the Tribal Court may be appealed to the Court of Appeals. A final judgment or order is one which disposes of all issues in litigation between at least two parties to a case.</text>
         <annotations>
           <annotation type="Commentary">
             <text>Nothing but a final judgment or order may be appealed. If an order in a case leaves other matters to be decided, and does not completely settle all disputed issues between the parties, so that the Tribal Court still has work to do, then the order is not final and an appeal cannot be filed. In cases involving multiple parties, an order or judgment may dispose of all issues between two or more of the parties, and would therefore be appealable. In cases involving multiple issues, an order disposing of one or more issues may leave others as yet unresolved and would therefore not be appealable.</text>
@@ -1905,8 +2125,8 @@
         <annotations>
           <annotation type="Commentary">
             <text>The appeal is started by filing the notice of appeal, a simple form for which a model is provided as Official Form No. 1. A party other than the initial appellant may decide to appeal in light of the initial appellant's appeal and is therefore allowed additional time to do so after service of the first notice of appeal. The interest of parties in the security of judgments entered by the court requires that an appeal must be filed within the time prescribed or be forever waived.</text>
-            <text>Calculation of time is prescribed by Sec. 2.17.</text>
-            <text>Proper methods of service are prescribed by Sec. 2.18.</text>
+            <text>Calculation of time is prescribed by <cite path="§TCT.3.4.080">Section TCT.3.4.080</cite>.</text>
+            <text>Proper methods of service are prescribed by <cite path="§TCT.3.4.090">Section TCT.3.4.090</cite>.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.3.050 was formerly codified as II LCOTCL §2.8</annotation>
@@ -1922,7 +2142,7 @@
         <heading>How an Appeal May Be Taken</heading>
         <para>
           <num>(a)</num>
-          <text>A notice of appeal shall be filed by any party seeking review of a final judgment or order of the Tribal Court. The notice of appeal shall be filed and served, together with the request for transcript required by section 2.09(c), within the time prescribed by sec. 2.8 of <cite path="TCT|TCT.3">this chapter</cite>. The notice of appeal shall bear the caption and case number of the case in the Tribal Court and shall be labeled "Notice of Appeal." The notice of appeal shall identify by date, judge, and case number the judgment or order appealed, and shall state the substance of the judgment or order and whether the appellant appeals from the entirety of the judgment or order or from only part thereof, and if the latter, shall specify the part thereof. The notice of appeal shall also include a brief statement of the grounds for appeal and shall specify the precise relief sought. No appeal shall be dismissed for any formal defects in the notice of appeal as long as the matter appealed is clearly identified and filing and service are timely and properly made. If a notice of appeal does not contain every item required by this subsection, the Court of Appeals may order that the defects be corrected before the case proceeds.</text>
+          <text>A notice of appeal shall be filed by any party seeking review of a final judgment or order of the Tribal Court. The notice of appeal shall be filed and served, together with the request for transcript required by section 2.9(c), within the time prescribed by sec. 2.8 of <cite path="TCT|TCT.3">this chapter</cite>. The notice of appeal shall bear the caption and case number of the case in the Tribal Court and shall be labeled "Notice of Appeal." The notice of appeal shall identify by date, judge, and case number the judgment or order appealed, and shall state the substance of the judgment or order and whether the appellant appeals from the entirety of the judgment or order or from only part thereof, and if the latter, shall specify the part thereof. The notice of appeal shall also include a brief statement of the grounds for appeal and shall specify the precise relief sought. No appeal shall be dismissed for any formal defects in the notice of appeal as long as the matter appealed is clearly identified and filing and service are timely and properly made. If a notice of appeal does not contain every item required by this subsection, the Court of Appeals may order that the defects be corrected before the case proceeds.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1930,11 +2150,11 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>A request for transcript shall be filed with the Clerk of the Tribal Court at the same time the notice of appeal is filed. The request for transcript shall specify those proceedings, or parts thereof, to which any reference will be made in the appeal proceedings and for which the official transcript will be required by the Court of Appeals for its review. Any other party may request transcription of additional proceedings or parts thereof by filing a request no later than 15 days after service of the appellant's notice of appeal and request for transcript. A party requesting a transcript shall the pay the fee prescribed by sec. 2.19(b). No fee shall be required for any transcript requested by the Tribe.</text>
+          <text>A request for transcript shall be filed with the Clerk of the Tribal Court at the same time the notice of appeal is filed. The request for transcript shall specify those proceedings, or parts thereof, to which any reference will be made in the appeal proceedings and for which the official transcript will be required by the Court of Appeals for its review. Any other party may request transcription of additional proceedings or parts thereof by filing a request no later than 15 days after service of the appellant's notice of appeal and request for transcript. A party requesting a transcript shall the pay the fee prescribed by <cite path="II|2|V|2.18|(b)">sec. 2.19(b)</cite>. No fee shall be required for any transcript requested by the Tribe.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>The filing of an appeal does not constitute an automatic stay of the tribal court's judgment or order under sec. 1.54. A motion seeking a stay may be addressed to the tribal court before or after the filing of the notice of appeal.</text>
+          <text>The filing of an appeal does not constitute an automatic stay of the tribal court's judgment or order under <cite path="II|2|subch|1.54">sec. 1.54</cite>. A motion seeking a stay may be addressed to the tribal court before or after the filing of the notice of appeal.</text>
         </para>
         <annotations>
           <annotation type="Commentary">
@@ -1953,7 +2173,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Upon receipt of the notice of appeal and the filing fee, the Clerk of the Court of Appeals shall docket the appeal and shall randomly select, from the roster maintained pursuant to section 4.2, a panel of three judges to serve on the appeal. If any judge refuses to serve or is disqualified from serving under sec. 1.16, the clerk will randomly select another judge to replace him or her.</text>
+          <text>Upon receipt of the notice of appeal and the filing fee, the Clerk of the Court of Appeals shall docket the appeal and shall randomly select, from the roster maintained pursuant to section 4.2, a panel of three judges to serve on the appeal. If any judge refuses to serve or is disqualified from serving under <cite path="II|2|subch|1.16">sec. 1.16</cite>, the clerk will randomly select another judge to replace him or her.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1996,7 +2216,7 @@
         </para>
         <annotations>
           <annotation type="Commentary">
-            <text>The above rules are considered the minimum necessary for allowing the Court of Appeals to conduct its business in an efficient and just fashion. Briefing rules are purposely looser than in other jurisdictions to allow non-lawyers to represent themselves, or if otherwise permitted by the rules of the Tribal Court (see <cite path="TCT|TCT.2">Chapter TCT.2</cite>), to represent others. Briefs are made optional, in recognition that some self-represented parties may not wish to file briefs but may rather wish to present their cases solely in oral argument. The notice of appeal [see <cite path="Sec|Sec.2">Sec.2</cite>. 9(a)] accordingly requires a short statement of the grounds for appeal and of the relief sought. A party may or may not be disadvantaged by failure to file a brief.</text>
+            <text>The above rules are considered the minimum necessary for allowing the Court of Appeals to conduct its business in an efficient and just fashion. Briefing rules are purposely looser than in other jurisdictions to allow non-lawyers to represent themselves, or if otherwise permitted by the rules of the Tribal Court (see <cite path="TCT|TCT.2">Chapter TCT.2</cite>), to represent others. Briefs are made optional, in recognition that some self-represented parties may not wish to file briefs but may rather wish to present their cases solely in oral argument. The notice of appeal [see Sec. 2.9(a)] accordingly requires a short statement of the grounds for appeal and of the relief sought. A party may or may not be disadvantaged by failure to file a brief.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.4.030 was formerly codified as II LCOTCL §2.11</annotation>
@@ -2124,8 +2344,8 @@
         <annotations>
           <annotation type="Commentary">
             <text>Subsections (a) and (d) preserve the basic function of the appeals court as a court of review, not a court of initial determination. The trial court should have the first opportunity to consider all issues in litigation and to see that the record is fully developed.</text>
-            <text>Sub<cite path="§TCT.3.4.070|(b)">Section TCT.3.4.070(b)</cite> protects the court and parties from expending energy on issues that an appellant has no intention of pursuing.</text>
-            <text>Sub<cite path="§TCT.3.4.070|(c)">Section TCT.3.4.070(c)</cite> states the principle that a court will not decide issues over which there is no current controversy. The controversy that existed during trial may be over by the time of appeal. The exception to this rule is the type of case that may occur again but is likely never to survive long enough to receive appellate review. For instance, an individual may wish to challenge a court's suspension of his hunting and fishing rights for a period of three months, but by the completion of the appellate briefing schedule the suspension would be ended and the case moot. Since the issue could recur, but would always become moot before it was ready for decision, the mootness doctrine would be set aside.</text>
+            <text><cite path="§TCT.3.4.070|(b)">Section TCT.3.4.070(b)</cite> protects the court and parties from expending energy on issues that an appellant has no intention of pursuing.</text>
+            <text><cite path="§TCT.3.4.070|(c)">Section TCT.3.4.070(c)</cite> states the principle that a court will not decide issues over which there is no current controversy. The controversy that existed during trial may be over by the time of appeal. The exception to this rule is the type of case that may occur again but is likely never to survive long enough to receive appellate review. For instance, an individual may wish to challenge a court's suspension of his hunting and fishing rights for a period of three months, but by the completion of the appellate briefing schedule the suspension would be ended and the case moot. Since the issue could recur, but would always become moot before it was ready for decision, the mootness doctrine would be set aside.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.4.070 was formerly codified as II LCOTCL §2.15</annotation>
@@ -2249,226 +2469,6 @@
     </container>
   </container>
   <container>
-    <num>TCT.1</num>
-    <heading>Sovereign Immunity Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
-    <text class="center">
-      <strong>Preamble</strong>
-    </text>
-    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to protect and preserve the sovereign immunity of the Tribe, to define the entities and individuals entitled to the protection of such immunity, and to specify the manner in which such immunity may be waived, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby recognizes that Tribal sovereign immunity, as defined in numerous federal court decisions, is an inherent and indispensable aspect of Tribal sovereignty. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians also recognizes that Tribal sovereign immunity affords necessary protection of Tribal resources, and necessary protection for Tribal officers, employees, and agents in both governmental and commercial settings.</text>
-    <container>
-      <num>TCT.1.1</num>
-      <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
-      <section>
-        <num>TCT.1.1.010</num>
-        <heading>Title</heading>
-        <text>This ordinance shall be known as the Sovereign Immunity Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.1.010 was formerly codified as II LCOTCL §5.101</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>TCT.1.1.020</num>
-        <heading>Authority</heading>
-        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…"</text>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.1.020 was formerly codified as II LCOTCL §5.102</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>TCT.1.1.030</num>
-        <heading>Declaration of Policy</heading>
-        <text>It is the policy of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to exercise its sovereign immunity, and to grant limited waivers of such immunity, as dictated by the best interests of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and its citizens. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians recognizes that Tribal sovereign immunity, as defined in numerous federal court decisions, is an inherent and indispensable aspect of Tribal sovereignty. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians also recognizes that Tribal sovereign immunity affords necessary protection of Tribal resources, and necessary protection for Tribal officers, employees, and agents in both governmental and commercial settings.</text>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.1.030 was formerly codified as II LCOTCL §5.103</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>TCT.1.1.040</num>
-        <heading>Purpose</heading>
-        <text>The purpose of this ordinance is to protect and preserve the sovereign immunity of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to define the entities and individuals entitled to the protection of such immunity, and to specify the manner in which such immunity may be waived.</text>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.1.040 was formerly codified as II LCOTCL §5.104</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>TCT.1.1.050</num>
-        <heading>Territorial Applicability</heading>
-        <text>This ordinance shall govern the sovereign immunity of the Tribe pursuant to the provisions of this ordinance within Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.1.050 was formerly codified as II LCOTCL §5.105</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>TCT.1.1.060</num>
-        <heading>Effective Date</heading>
-        <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.1.060 was formerly codified as II LCOTCL §5.106</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>TCT.1.1.070</num>
-        <heading>Interpretation</heading>
-        <text>The provisions of this ordinance:</text>
-        <para>
-          <num>(a)</num>
-          <text>Shall be interpreted and applied as the minimum requirements applicable to the protection and preservation of the sovereign immunity of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Shall be liberally construed in favor of the Tribe;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
-        </para>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.1.070 was formerly codified as II LCOTCL §5.107</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>TCT.1.1.080</num>
-        <heading>Severability and Non-Liability</heading>
-        <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.1.080 was formerly codified as II LCOTCL §5.108</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>TCT.1.1.090</num>
-        <heading>Repeal of Inconsistent Tribal Ordinances</heading>
-        <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.1.090 was formerly codified as II LCOTCL §5.109</annotation>
-        </annotations>
-      </section>
-    </container>
-    <container>
-      <num>TCT.1.2</num>
-      <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
-      <section>
-        <num>TCT.1.2.010</num>
-        <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§TCT.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
-        <para>
-          <num>(a)</num>
-          <text><strong>"Agent"</strong> shall mean a person who is authorized to act on behalf of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians with respect to a specific transaction or transactions. For the purposes of this ordinance, agent shall include all individuals elected or appointed to serve on a board, committee, or commission of the Tribe.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text><strong>"Employee"</strong> shall mean any individual who is employed by the Tribe and is subject to the direction and control of the Tribe with respect to the material details of the work performed, or who has the status of an employee under the usual common law rules applicable to determining the employer-employee relationship. For the purposes of this ordinance, employee shall include individuals employed by a tribal entity or Tribally Chartered corporation.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text><strong>"Officer"</strong> shall mean a person elected or appointed to serve on a board, committee, or commission of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text><strong>"Reservation" or "Reservation Lands"</strong> means those lands located within the exterior boundaries of the Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text><strong>"Tribal Entity"</strong> shall mean a corporation or other organization which is wholly owned by the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and is operated for governmental or commercial purposes.</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text><strong>"Tribe"</strong> shall mean the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, and includes all departments, divisions, business units, and other subdivisions of the Tribe.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text><strong>"Tribal Court"</strong> means the court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
-        </para>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.2.010 was formerly codified as II LCOTCL §5.201</annotation>
-        </annotations>
-      </section>
-    </container>
-    <container>
-      <num>TCT.1.3</num>
-      <heading>General</heading>
-      <prefix>Subchapter</prefix>
-      <section>
-        <num>TCT.1.3.010</num>
-        <heading>Sovereign Immunity of the Tribe</heading>
-        <text>The sovereign immunity of the Tribe, including sovereign immunity from suit in any state, federal or Tribal court, is hereby expressly reaffirmed. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against the Tribe unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against officers, employees or agents of the Tribe for actions within the scope of their authority, unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding.</text>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.3.010 was formerly codified as II LCOTCL §5.301</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>TCT.1.3.020</num>
-        <heading>Sovereign Immunity of Tribal Entities</heading>
-        <text>The sovereign immunity of Tribal Entities, including sovereign immunity from suit in any state, federal or Tribal court, is hereby expressly reaffirmed. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against a Tribal Entity unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding. No suit or other proceeding, including any Tribal proceeding, may be instituted or maintained against officers, employees or agents of a Tribal Entity for actions within the scope of their authority, unless the Tribe has specifically waived sovereign immunity for purposes of such suit or proceeding.</text>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.3.020 was formerly codified as II LCOTCL §5.302</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>TCT.1.3.030</num>
-        <heading>Waiver of Sovereign Immunity</heading>
-        <para>
-          <num>(a)</num>
-          <text>All waivers of sovereign immunity shall be made in accordance with this ordinance.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A limited waiver of sovereign immunity of the Tribe or a Tribal Entity may be effected:</text>
-          <para>
-            <num>(1)</num>
-            <text>by express resolution of the Tribal Governing Board;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>by motion of the Tribal Governing Board in adoption of an employment agreement encompassing a limited waiver of sovereign immunity for purposes of enforcement of the terms of the employment agreement in tribal court; or</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>by express resolution of the Tribal Governing Board authorizing a limited waiver of immunity to a Tribal Entity to sue and be sued in the Tribal Entities corporate name, upon any contract, claim or obligation arising out of its activities under ordinance or charter, and limited to the liability for the debts or obligations of the Tribal Entity.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Only through express resolution of the Tribal Governing Board, shall the Tribe provide a limited waiver of its sovereign immunity to permit Tribal officers, employees, or agents to testify as witnesses or to produce documents following receipt of a subpoena from a court of competent jurisdiction or a duly authorized official.</text>
-          <para>
-            <num>(1)</num>
-            <text>A limited waiver of sovereign immunity to allow testimony and production of documents shall not extend to and shall not be deemed to include any testimony or the production of any documents which are not directly relevant to the limited purposes expressed in the waiver.</text>
-          </para>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>A limited waivers of sovereign immunity shall not be general but shall be specific and limited as to duration, grantee, transaction, assets subject to the waiver, the court having jurisdiction, and applicable law.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>No waiver of sovereign immunity shall be deemed to be consent to the levy of any judgment, lien, or attachment upon Reservation Land(s).</text>
-        </para>
-        <annotations>
-          <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-42"/>
-          <annotation type="Prior Codifications">§TCT.1.3.030 was formerly codified as II LCOTCL §5.303</annotation>
-        </annotations>
-      </section>
-    </container>
-  </container>
-  <container>
     <num>TCT.4</num>
     <heading>Rules of Evidence of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
     <prefix>Chapter</prefix>
@@ -2479,7 +2479,7 @@
       <section>
         <num>TCT.4.1.010</num>
         <heading>Scope</heading>
-        <text>These rules shall apply to all proceedings in Tribal Court. The Tribal Court, subject to the decisions of the Court of Appeals, shall interpret and apply these rules. The policies and rationales underlying the Federal Rules of Evidence and the Wisconsin Rules of Evidence may be cited as persuasive authority, but the Court may base its rulings on alternative policies and rationales that are more suited to the Tribe, and the Federal Rules and Wisconsin Rules shall not be controlling. The Tribal Court shall in all cases be allowed to adjust the application of these rules to fit the circumstances of the case as provided in sec. 110.03.</text>
+        <text>These rules shall apply to all proceedings in Tribal Court. The Tribal Court, subject to the decisions of the Court of Appeals, shall interpret and apply these rules. The policies and rationales underlying the Federal Rules of Evidence and the Wisconsin Rules of Evidence may be cited as persuasive authority, but the Court may base its rulings on alternative policies and rationales that are more suited to the Tribe, and the Federal Rules and Wisconsin Rules shall not be controlling. The Tribal Court shall in all cases be allowed to adjust the application of these rules to fit the circumstances of the case as provided in <cite path="II|6|subch|110.03">sec. 110.03</cite>.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 04-26"/>
           <annotation type="Prior Codifications">§TCT.4.1.010 was formerly codified as II LCOTCL §150.01</annotation>
@@ -2847,7 +2847,7 @@
       <section>
         <num>TCT.4.5.030</num>
         <heading>Specific Writings</heading>
-        <text>Writings of the character set forth in <cite path="§TCT.4.5.030">this section</cite> are admissible, subject to the authentication requirements of Section 154.04.</text>
+        <text>Writings of the character set forth in <cite path="§TCT.4.5.030">this section</cite> are admissible, subject to the authentication requirements of <cite path="II|6|154|154.04">Section 154.04</cite>.</text>
         <para>
           <num>(a)</num>
           <text><em>Records of regularly conducted activity.</em> A memorandum, report, record, or data compilation, in any form, of acts events, conditions, opinions, or diagnosis, made at or near the time by, or from information transmitted by, a person with knowledge, all in the course of a regularly conducted activity, as shown by the testimony of the custodian or other qualified witness, unless the sources of information or other circumstances indicate lack of trustworthiness.</text>
@@ -3073,7 +3073,7 @@
           </para>
           <para>
             <num>(6)</num>
-            <text>Any writing specified in Sec. 154.03.</text>
+            <text>Any writing specified in <cite path="§TCT.4.5.030">Section TCT.4.5.030</cite>.</text>
           </para>
         </para>
         <annotations>
