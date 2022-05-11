@@ -15,11 +15,11 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="lco-nsn/law-xml" commit="116a3c85fc51861cb9dd6208626f754bfb41e0e1"/>
+        <repository name="lco-nsn/law-xml" commit="c1f4aa0539565599587363684076c7641b412de8"/>
       </repositories>
       <platform version="2.6.0" reproducible="false"/>
-      <build-date>2022-05-03</build-date>
-      <codified-date>2022-04-15</codified-date>
+      <build-date>2022-05-11</build-date>
+      <codified-date>2022-06-01</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/lco/council/constitution/index.xml"/>
@@ -41,4 +41,5 @@
     <xi:include href="./us/nsn/lco/council/resolutions/2004/index.xml"/>
     <xi:include href="./us/nsn/lco/council/resolutions/1990/index.xml"/>
   </collection>
+  <xi:include href="./us/nsn/lco/council/drafting-manual/index.xml"/>
 </library>
