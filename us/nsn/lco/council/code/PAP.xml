@@ -705,7 +705,7 @@
         <heading>Orientation</heading>
         <para>
           <num>(a)</num>
-          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
+          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1189,7 +1189,7 @@
         <heading>Compensatory Time</heading>
         <para>
           <num>(a)</num>
-          <text>The Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek. Time paid for PTO or other paid leave does not count as hours worked for purposes of calculating compensatory in a work week.</text>
+          <text>The Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1217,6 +1217,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-27"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-73"/>
           <annotation type="Prior Codifications">§PAP.1.6.040 was formerly codified as XIV LCOTCL §1.604</annotation>
+          <annotation app="2022-05-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-48" eff="2022-05-23" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1270,7 +1271,7 @@
       <section>
         <num>PAP.1.6.080</num>
         <heading>Workers' Compensation</heading>
-        <text>The Tribe carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The Tribe carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code for additional guidelines.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-82"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-106"/>
@@ -5562,7 +5563,7 @@
     </container>
     <container>
       <num>PAP.2.10</num>
-      <heading>Contracts, Clauses, and Soliciatation</heading>
+      <heading>Contracts, Clauses, and Solicitation</heading>
       <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.10.010</num>
@@ -6874,7 +6875,7 @@
       </section>
       <section>
         <num>PAP.3.4.030</num>
-        <heading>Privately Owned Vehicle (Pov)</heading>
+        <heading>Privately Owned Vehicle (POV)</heading>
         <para>
           <num>(a)</num>
           <text>Employees who use a POV for business travel must have in effect at all times, and provide the Human Resource Department with, a valid driver's license and proof of current comprehensive automobile insurance, including liability insurance and coverage limits satisfactory to the Tribe, on January 1<sup>st</sup> and July 1<sup>st</sup> of each year, and upon request.</text>
@@ -7089,7 +7090,7 @@
     </container>
     <container>
       <num>PAP.3.6</num>
-      <heading>Miscelleanous</heading>
+      <heading>Miscellaneous</heading>
       <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.6.010</num>
@@ -7292,7 +7293,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Violations shall be subject to the <cite path="§PAP.1.12.020">Section PAP.1.12.020</cite> of the Tribal Government Personnel Manual, titled "Grounds for Disciplinary Action;" the procedures under that section will be followed regarding any violations under this manual. All violations are subject to discipline up to and including termination. The tribe reserves the right to pursue recovery for any funds deemed to be used in violation under this manual by current and former employees, including criminal and civil remedies.</text>
+          <text>Violations shall be subject to the <cite path="XIV|1|1.2|1.1202">14 LCOTCL § 1.202</cite> of the Tribal Government Personnel Manual, titled "Grounds for Disciplinary Action;" the procedures under that section will be followed regarding any violations under this manual. All violations are subject to discipline up to and including termination. The tribe reserves the right to pursue recovery for any funds deemed to be used in violation under this manual by current and former employees, including criminal and civil remedies.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-98"/>
@@ -7882,7 +7883,7 @@
       <section>
         <num>PAP.4.4.120</num>
         <heading>Orientation</heading>
-        <text>All new employees will be provided an orientation within the first five (5) days of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code, and day-to-day procedures. The LCOHA Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
+        <text>All new employees will be provided an orientation within the first five (5) days of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code, and day-to-day procedures. The LCOHA Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-12"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-14"/>
@@ -8207,7 +8208,7 @@
         <heading>Compensatory Time</heading>
         <para>
           <num>(a)</num>
-          <text>The LCOHA Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time or overtime for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek. Time paid for PTO or other paid leave does not count as hours worked for purposes of calculating compensatory in a work week.</text>
+          <text>The LCOHA Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time or overtime for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -8230,6 +8231,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-14"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-75"/>
           <annotation type="Prior Codifications">§PAP.4.6.040 was formerly codified as XIV LCOTCL §4.604</annotation>
+          <annotation app="2022-05-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-48" eff="2022-05-23" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8268,7 +8270,7 @@
       <section>
         <num>PAP.4.6.080</num>
         <heading>Workers' Compensation</heading>
-        <text>The LCOHA carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The LCOHA carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code for additional guidelines.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-12"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-14"/>
@@ -11190,7 +11192,7 @@
         <heading>Orientation</heading>
         <para>
           <num>(a)</num>
-          <text>All new employees will be provided an orientation checklist within the first day of employment, and will be provided: this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code, HIPAA, Cultural Sensitivity, OSHA, risk management, infection control, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment. Supervisors will provide further direction relevant to the operation of their department.</text>
+          <text>All new employees will be provided an orientation checklist within the first day of employment, and will be provided: this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code, HIPAA, Cultural Sensitivity, OSHA, risk management, infection control, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment. Supervisors will provide further direction relevant to the operation of their department.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -11597,7 +11599,7 @@
         <heading>Compensatory Time</heading>
         <para>
           <num>(a)</num>
-          <text>The Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek. Time paid for PTO or other paid leave does not count as hours worked for purposes of calculating compensatory in a work week.</text>
+          <text>The Human Resource Director, or designee, will classify and consistently review the classification of employees as either Exempt or Non-exempt. Exempt employees are compensated on a salary basis and will not accrue compensatory time for hours worked in excess of forty (40) hours in a workweek. Non-exempt employees will accrue, in lieu of overtime compensation, compensatory time for authorized hours worked in excess of forty (40) hours in a workweek.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -11621,6 +11623,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-28"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-76"/>
           <annotation type="Prior Codifications">§PAP.5.6.040 was formerly codified as XIV LCOTCL §5.604</annotation>
+          <annotation app="2022-05-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-48" eff="2022-05-23" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -11662,7 +11665,7 @@
       <section>
         <num>PAP.5.6.080</num>
         <heading>Workers' Compensation</heading>
-        <text>The LCO-CHC carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The LCO-CHC carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code for additional guidelines.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-104"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-13"/>
@@ -12696,7 +12699,7 @@
           <text><u>Policy</u>.</text>
           <para>
             <num>(1)</num>
-            <text>Employees are expected to represent themselves, and the LCO-CHC, in a professional manner, which includes appropriate clothing, grooming and hygiene habits. Thus all staff members are expected to dress in professional or business casual attire. In general, business casual means dressing professionally, looking relaxed yet neat and pulled together and no visible hickies and facial piercings. Scrub uniforms and closed shoes for medical staff, business casual for all other staff (example would be khakis, dress pants, nice sweater, blouses, but absolutely no obscene or graphic shirts, shorts, or flip-flops). Blue jeans without rips will be permitted only on casual Fridays or by Maintenance staff. Sports Jerseys/shirts are allowed on Fridays or designated game day.</text>
+            <text>Employees are expected to represent themselves, and the LCO-CHC, in a professional manner, which includes appropriate clothing, grooming and hygiene habits. Thus all staff members are expected to dress in professional or business casual attire. In general, business casual means dressing professionally, looking relaxed yet neat and pulled together and no visible hickeys and facial piercings. Scrub uniforms and closed shoes for medical staff, business casual for all other staff (example would be khakis, dress pants, nice sweater, blouses, but absolutely no obscene or graphic shirts, shorts, or flip-flops). Blue jeans without rips will be permitted only on casual Fridays or by Maintenance staff. Sports Jerseys/shirts are allowed on Fridays or designated game day.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -14816,7 +14819,7 @@
         <heading>Orientation</heading>
         <para>
           <num>(a)</num>
-          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
+          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, all required forms for employment, benefits, a copy of <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director, or designee, will also answer any questions which may arise throughout the course of employment.  Supervisors will provide further direction relevant to the operation of their department.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -15349,7 +15352,7 @@
       <section>
         <num>PAP.7.6.080</num>
         <heading>Workers' Compensation</heading>
-        <text>The School carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The School carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her department head or director by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code for additional guidelines.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-81"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-89"/>
@@ -15644,7 +15647,7 @@
           <text><u>Funeral Leave</u>.</text>
           <para>
             <num>(1)</num>
-            <text>All full-time employees will be given upto five (5) day leave without loss of pay for funeral services for immediate family. Immediate family includes the following:</text>
+            <text>All full-time employees will be given up to five (5) days leave without loss of pay for funeral services for immediate family. Immediate family includes the following:</text>
             <para>
               <num>(A)</num>
               <text>Husband, Wife, Son, Daughter, Mother, Father, Brother, Sister, Grandparent, Grandchild, Niece, Nephew, Aunt and Uncle (including great-grandparents, in-laws, and step-relationship, etc.), including a partner who has been in a relationship for a period of time or in relationship under Ojibwe tradition and practices.</text>
@@ -17683,7 +17686,7 @@
       <section>
         <num>PAP.7.13.070</num>
         <heading>Travel Policy</heading>
-        <text>All employees of the School shall comply with Travel law and policy of the Tribe as established in <cite path="PAP|PAP.3">Chapter PAP.3</cite> of the LCOTCL – Travel Policies and Procedures. This Travel Policy establishes the rules governing travel by all employees of the Tribe, including all employees of the School in the performance of their official job duties on behalf of the School ("Business Travel") and the purchase or use of modes of transportation, such as Personal Automobiles, School or Tribal vehicles, rental vehicles, tolls, parking, accommodations, air fare, etc (collectively "Travel Services").</text>
+        <text>All employees of the School shall comply with Travel law and policy of the Tribe as established in <cite path="PAP|PAP.3">Chapter PAP.3</cite> of the LCOTCL – Travel Policies and Procedures. This Travel Policy establishes the rules governing travel by all employees of the Tribe, including all employees of the School in the performance of their official job duties on behalf of the School ("Business Travel") and the purchase or use of modes of transportation, such as Personal Automobiles, School or Tribal vehicles, rental vehicles, tolls, parking, accommodations, air fare, etc. (collectively "Travel Services").</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-81"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-89"/>
@@ -22381,7 +22384,7 @@
         <heading>Workers' Compensation</heading>
         <para>
           <num>(a)</num>
-          <text>The Gaming Enterprises carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for team member's medical treatment and a portion of any income lost while recovering. A team member must report any work-related injury or illness to his or her Director/Manager by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code<strong>.</strong></text>
+          <text>The Gaming Enterprises carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for team member's medical treatment and a portion of any income lost while recovering. A team member must report any work-related injury or illness to his or her Director/Manager by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code<strong>.</strong></text>
           <para>
             <num>(1)</num>
             <text>The Director/Manager will then ensure that the Security and Human Resource departments are notified for completion of an accident report and for the investigation of the injury.</text>
@@ -22409,7 +22412,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Refer to the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code for additional guidelines.</text>
+          <text>Refer to the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code for additional guidelines.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-107"/>
@@ -24882,7 +24885,7 @@
       </section>
       <section>
         <num>PAP.9.11.080</num>
-        <heading>Availability of Counseling and Asstiance (Self-Disclosure)</heading>
+        <heading>Availability of Counseling and Assistance (Self-Disclosure)</heading>
         <para>
           <num>(a)</num>
           <text>The Gaming Enterprises offer referral to an Employee Assistance Program or other appropriate services and rehabilitation programs which emphasize education, prevention, counseling and treatment to team members when personal concerns arise which may impact the team members' work performance or the employer's operations. These concerns include alcohol, illegal drug, or prescribed medication abuse; individual psychological problems; marital, family or child difficulties; work stress; and financial or legal matters.</text>
@@ -26702,7 +26705,7 @@
       <section>
         <num>PAP.9.13.090</num>
         <heading>Travel and Expense Reimbursement</heading>
-        <text>All team members of the Gaming Enterprises shall comply with Travel law and policy of the Tribe as established in <cite path="PAP|PAP.3">Chapter PAP.3</cite> of the LCOTCL – Travel Policies and Procedures. This Travel Policy establishes the rules governing travel by all employees of the Tribe, including all employees of the Gaming Enterprises in the performance of their official job duties on behalf of the Gaming Enterprises ("Business Travel") and the purchase or use of modes of transportation, such as personal automobiles, tribal vehicles, rental vehicles, tolls, parking, accommodations, air fare, etc (collectively "Travel Services").</text>
+        <text>All team members of the Gaming Enterprises shall comply with Travel law and policy of the Tribe as established in <cite path="PAP|PAP.3">Chapter PAP.3</cite> of the LCOTCL – Travel Policies and Procedures. This Travel Policy establishes the rules governing travel by all employees of the Tribe, including all employees of the Gaming Enterprises in the performance of their official job duties on behalf of the Gaming Enterprises ("Business Travel") and the purchase or use of modes of transportation, such as personal automobiles, tribal vehicles, rental vehicles, tolls, parking, accommodations, air fare, etc. (collectively "Travel Services").</text>
         <para>
           <num>(a)</num>
           <text>Team members will be reimbursed for all business expenses which are for a clear and necessary business purpose, reasonable in amount and in conformance with company policy and expense budgeting procedures.</text>
@@ -28105,7 +28108,7 @@
     </container>
     <container>
       <num>PAP.10.6</num>
-      <heading>Grants Managment</heading>
+      <heading>Grants Management</heading>
       <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.6.010</num>
@@ -29314,7 +29317,7 @@
     </container>
     <container>
       <num>PAP.10.19</num>
-      <heading>Year End Accrurals</heading>
+      <heading>Year End Accruals</heading>
       <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.19.010</num>
@@ -29547,7 +29550,7 @@
     </container>
     <container>
       <num>PAP.10.25</num>
-      <heading>Loans and Deliquent Debts</heading>
+      <heading>Loans and Delinquent Debts</heading>
       <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.25.010</num>
@@ -30117,7 +30120,7 @@
         <heading>Orientation</heading>
         <para>
           <num>(a)</num>
-          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, safety manual, all required forms for employment, benefits, a copy of <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director designee, will also answer any questions which may arise throughout the course of employment.  Foreman will provide further direction relevant to the operation of their division.</text>
+          <text>All new employees will be provided an orientation within the first day of employment, and will be provided this personnel policy and procedural manual, safety manual, all required forms for employment, benefits, a copy of <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code, and day-to-day procedures. The Human Resource Director designee, will also answer any questions which may arise throughout the course of employment.  Foreman will provide further direction relevant to the operation of their division.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -30436,7 +30439,7 @@
       <section>
         <num>PAP.14.6.070</num>
         <heading>Workers' Compensation</heading>
-        <text>The LCO Development Corporation carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her foreman or management by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="CMP|CMP.3">Chapter CMP.3</cite> – Worker's Compensation Code for additional guidelines.</text>
+        <text>The LCO Development Corporation carries insurance to cover the cost of work-incurred injury or illness.  Benefits help pay for employees' medical treatment and a portion of any income lost while recovering.  An employee must report any work-related injury or illness to his or her foreman or management by completing the "First Report of Injury or Illness Form," which must be completed within the timelines as stated in the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code<strong>.</strong> Refer to the <cite path="CMP|CMP.6">Chapter CMP.6</cite> – Worker's Compensation Code for additional guidelines.</text>
         <annotations>
           <annotation type="Prior Codifications">§PAP.14.6.070 was formerly codified as XIV LCOTCL §14.607</annotation>
         </annotations>
@@ -31741,7 +31744,7 @@
       <section>
         <num>PAP.14.12.010</num>
         <heading>Consent</heading>
-        <text>Each employee shall agree to, by signing, a Consent to Disciplinary Action Procedure form as a condition of continued employment. The Consent to Disciplinary Action Procedure form constitutes a contract between the Tribe and the employee and establishes the framework under which employees may be subject to disciplinary action imposed under <cite path="PAP|PAP.14|PAP.14.12">this subchapter</cite> or employment claims, provided no employee can appeal any disciplinary action. In addition, regarding employment claims, it is important to note that nothing in this personnel policy and procedural manual shall be construed as the Tribe consenting to application of any law or waiving applicable defenses, including the defense of sovereign immunity and the the defense that the subject law does not apply to the Tribe.</text>
+        <text>Each employee shall agree to, by signing, a Consent to Disciplinary Action Procedure form as a condition of continued employment. The Consent to Disciplinary Action Procedure form constitutes a contract between the Tribe and the employee and establishes the framework under which employees may be subject to disciplinary action imposed under <cite path="PAP|PAP.14|PAP.14.12">this subchapter</cite> or employment claims, provided no employee can appeal any disciplinary action. In addition, regarding employment claims, it is important to note that nothing in this personnel policy and procedural manual shall be construed as the Tribe consenting to application of any law or waiving applicable defenses, including the defense of sovereign immunity and the defense that the subject law does not apply to the Tribe.</text>
         <annotations>
           <annotation type="Prior Codifications">§PAP.14.12.010 was formerly codified as XIV LCOTCL §14.1201</annotation>
         </annotations>
@@ -32624,7 +32627,7 @@
         <heading>Non-Harassment Policy/Non-Discrimination Policy</heading>
         <para>
           <num>(a)</num>
-          <text>BFGC prohibits discrimination or harassmentbased on race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law.  Each employee has the right to work in a professional atmosphere that promotes equal employment opportunity and is free from discriminatory practices, including, without limitation harassment.  Consistent with its workplace policy of equal employment opportunity, BFGC prohibits and will not tolerate harassment on the basis of race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law.  Violations of this policy will not be tolerated.</text>
+          <text>BFGC prohibits discrimination or harassment based on race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law.  Each employee has the right to work in a professional atmosphere that promotes equal employment opportunity and is free from discriminatory practices, including, without limitation harassment.  Consistent with its workplace policy of equal employment opportunity, BFGC prohibits and will not tolerate harassment on the basis of race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law.  Violations of this policy will not be tolerated.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -32862,7 +32865,7 @@
       </section>
       <section>
         <num>PAP.17.8.110</num>
-        <heading>Bfgc Property</heading>
+        <heading>BFGC Property</heading>
         <text>BFGC property, such as equipment, vehicles, telephones, computers and software, is not for private use.  These devices are to be used strictly for company business and are not permitted off grounds unless authorized.  BFGC property must be used in the manner for which it was intended.  Upon termination, employees are required to surrender any company property they possess.  Groundskeeper and maintenance staff will receive training on the operation and use of all equipment required for the performance of their duties and are required to operate the equipment in the appropriate and safe manner.</text>
         <text>BFGC computers, internet and emails are a privileged resource, and must be used only to complete essential job-related functions.  Files or programs stored on company computers may not be copied for personal use. Employees are reminded that they should have no expectation of privacy in their use of company computers.</text>
         <annotations>
@@ -33347,7 +33350,7 @@
       <heading>Uniform and Equipment Allowance</heading>
       <prefix>Subchapter</prefix>
       <text>The dress for Patrol Officers shall be properly and completely worn while on duty. It is never proper to wear the uniform mixed with civilian clothing, or to wear non-authorized articles (e.g., patches, badges, insignias and the like) on or as part of the uniform.</text>
-      <text>Long sleeve uniform shirts shall be worn between November <sup>lst</sup> and March 31<sup>st</sup>. While wearing a long sleeve uniform shirt you will either wear a black tie and a tie clip or a black turtleneck shirt under the uniform, and either blue pants or blue tactical style pants, black socks, shoes and belt.</text>
+      <text>Long sleeve uniform shirts shall be worn between November 1<sup>st</sup> and March 31<sup>st</sup>. While wearing a long sleeve uniform shirt you will either wear a black tie and a tie clip or a black turtleneck shirt under the uniform, and either blue pants or blue tactical style pants, black socks, shoes and belt.</text>
       <text>While wearing a short sleeve uniform shirt you will wear a black or white undershirt, either blue pants or blue tactical style pants, black socks, shoes and belt.</text>
       <text>All members of the Lac Courte Oreilles Tribal Police Department shall dress and groom in a manner that reflects a clean and professional image. The Lac Courte Oreilles Tribal Police Department wishes to avoid interfering in personal choice of dress and grooming styles as much as reasonably practicable. To do this, however, requires that employees exercise good common sense in their dress, appearance, and grooming. This means that their clothing, cosmetics, hairstyles, colognes or perfumes, or jewelry should not attract unnecessary attention to themselves, or interfere with the safe and effective performance of their duties.</text>
       <section>
@@ -33609,7 +33612,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>1 BDU jacket/iiner</text>
+            <text>1 BDU jacket/liner</text>
           </para>
           <para>
             <num>(6)</num>

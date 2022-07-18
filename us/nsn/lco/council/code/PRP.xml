@@ -1816,15 +1816,15 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted of the illegal manufacture, sale, or distribution of a controlled substance, or possession with intent to manufacture, sell, or distribute a controlled substance;</text>
+          <text>No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted of the illegal manufacture, sale, or distribution of a controlled substance, or possession with intent to manufacture, sell, or distribute a controlled substance, unless granted pardon and forgiveness;</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted with use or possession of a controlled substance with intent to deliver, for a period of five-years after the date of the charge and a grant of a waiver pursuant to <cite path="MCC|MCC.6">Chapter MCC.6</cite> of the LCOTCL – Pardon and Forgiveness Code;</text>
+          <text>No person shall be allowed admission to housing, either as head of household or other member of household, who has been convicted with use or possession of a controlled substance with intent to deliver, for a period of five-years after the date of the charge or is granted a waiver pursuant to <cite path="MCC|MCC.6">Chapter MCC.6</cite> of the LCOTCL – Pardon and Forgiveness Code;</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>No person shall be allowed admission to housing, either as head of household or other member of household, who has been charged with use or possession of a controlled substance or drug paraphernalia, for a period of three years after the date of the charge and granted a waiver pursuant to <cite path="MCC|MCC.6">Chapter MCC.6</cite> of the LCOTCL – Pardon and Forgiveness Code;</text>
+          <text>No person shall be allowed admission to housing, either as head of household or other member of household, who has been charged with use or possession of a controlled substance or drug paraphernalia, for a period of three years after the date of the charge or is granted a waiver pursuant to <cite path="MCC|MCC.6">Chapter MCC.6</cite> of the LCOTCL – Pardon and Forgiveness Code;</text>
         </para>
         <para>
           <num>(h)</num>
@@ -1851,6 +1851,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-46"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 18-71"/>
           <annotation type="Prior Codifications">§PRP.7.5.060 was formerly codified as XI LCOTCL §7.506</annotation>
+          <annotation app="2021-12-20" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 136-2021" eff="2021-12-20" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3016,7 +3017,7 @@
         </para>
         <para>
           <num>(l)</num>
-          <text><u>Appeals</u>. Appeals under this ordinance shall be handled according to the general tribal appellate provisions as established at <cite path="TCT|TCT.2">Chapter TCT.2</cite> of the LCOTCL – Appeals Code, with the exception that the party taking the appeal shall have only five (5) days from the entry of the order of judgment to file an appeal. All orders from the Court will remain in effect during the pendency of an appeal under this ordinance unless otherwise ordered by the Court.</text>
+          <text><u>Appeals</u>. Appeals under this ordinance shall be handled according to the general tribal appellate provisions as established at <cite path="TCT|TCT.3">Chapter TCT.3</cite> of the LCOTCL – Appeals Code, with the exception that the party taking the appeal shall have only five (5) days from the entry of the order of judgment to file an appeal. All orders from the Court will remain in effect during the pendency of an appeal under this ordinance unless otherwise ordered by the Court.</text>
         </para>
         <para>
           <num>(m)</num>
@@ -4925,7 +4926,7 @@
       </section>
       <section>
         <num>PRP.9.3.030</num>
-        <heading>Responsibility of the Arpa Program Manager</heading>
+        <heading>Responsibility of the ARPA Program Manager</heading>
         <text>Pursuant to the delegated authority established in this ordinance, it is the responsibility of the ARPA Program Manager or their designee to:</text>
         <para>
           <num>(a)</num>
@@ -5182,7 +5183,7 @@
     </container>
     <container>
       <num>PRP.9.6</num>
-      <heading>Haf Program Participation</heading>
+      <heading>HAF Program Participation</heading>
       <prefix>Subchapter</prefix>
       <section>
         <num>PRP.9.6.010</num>
@@ -5208,11 +5209,11 @@
     </container>
     <container>
       <num>PRP.9.7</num>
-      <heading>Haf Program Management</heading>
+      <heading>HAF Program Management</heading>
       <prefix>Subchapter</prefix>
       <section>
         <num>PRP.9.7.010</num>
-        <heading>Haf Plan</heading>
+        <heading>HAF Plan</heading>
         <text>To receive HAF funds beyond the initial 10% payment described above, the Tribe must develop and submit a plan for its use of HAF funding. The Tribe's HAF plan will describe in detail the needs of Eligible Homeowners under this ordinance, the design of each program the Tribe proposes to implement using HAF funds, performance goals, and information regarding the Tribe's readiness to implement the programs. Treasury encourages the Tribe to post draft HAF plans for public comment and hold public hearings. The Tribe will receive funds under the HAF only after Treasury approves a HAF plan. It is expected that Treasury will provide a template for the HAF plan, which is expected to include the elements described in Treasury's HAF Guidance, dated April 14, 2021(Homeowner Needs and Engagement; Program Design; Performance Goals; Readiness; Budget). Notwithstanding anything else in this paragraph, the Tribe will begin implementing the HAF Program upon adoption of the policies and procedures in this ordinance, utilizing the initial 10% payment of HAF funds.</text>
         <text>By September 30, 2021, the Tribe must submit to Treasury a completed HAF plan or a date by which a HAF plan will be submitted.</text>
         <annotations>
