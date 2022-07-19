@@ -13,12 +13,13 @@
       <law-git>https://github.com/lco-nsn/law.git</law-git>
       <html/>
     </canonical-urls>
+    <history-start>2021-12-20</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="lco-nsn/law-xml" commit="aab033ab4d831a225a4e3ebbc1f7681a60dfa7a4"/>
+        <repository name="lco-nsn/law-xml" commit="983bd367ec59d04c87f39327eca4634c06f768ae"/>
       </repositories>
-      <platform version="2.5.7" reproducible="false"/>
-      <build-date>2022-07-18</build-date>
+      <platform version="2.5.9" reproducible="false"/>
+      <build-date>2022-07-19</build-date>
       <codified-date>2022-06-01</codified-date>
     </build>
   </meta>
