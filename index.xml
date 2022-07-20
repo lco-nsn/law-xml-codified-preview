@@ -18,8 +18,8 @@
       <repositories>
         <repository name="lco-nsn/law-xml" commit="6ca9ce157e7b487da37b241541e0df321e27c2a7"/>
       </repositories>
-      <platform version="2.5.9" reproducible="false"/>
-      <build-date>2022-07-19</build-date>
+      <platform version="2.6.0" reproducible="false"/>
+      <build-date>2022-07-20</build-date>
       <codified-date>2022-07-18</codified-date>
     </build>
   </meta>
