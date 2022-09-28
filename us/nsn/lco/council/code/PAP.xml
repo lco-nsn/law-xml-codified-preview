@@ -15131,7 +15131,7 @@
         <text>Employees are allowed one (1) hour leave for lunch.  Employees must take their lunch at the usual time, between 12:00 – 1:00, unless mutually changed by the employee and supervisor.</text>
         <para>
           <num>(a)</num>
-          <text>Ten month employees are allowed lunch during the time the students take lunch unless assigned a duty. Those assigned a duty may leave campus for the day after student dismissal provided there are no meetings, trainings, or conferences scheduled. Such time shall be reflected on their timecard and employee's shall sign-out pursuant to <cite path="§PAP.7.5.110">Section PAP.7.5.110</cite> of this manual.</text>
+          <text>Ten month employees are allowed lunch during the time the students take lunch unless assigned a lunch duty. Those assigned a duty may leave campus for the day after student dismissal provided there are no mandatory COnmeetings, trainings, or conferences scheduled. Such time shall be reflected on their timecard and employee's shall sign-out pursuant to <cite path="§PAP.7.5.110">Section PAP.7.5.110</cite> of this manual.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -15143,6 +15143,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-11"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-29"/>
           <annotation type="Prior Codifications">§PAP.7.5.120 was formerly codified as XIV LCOTCL §7.512</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15211,15 +15212,15 @@
           <text><u>Release from Contract Agreement</u>. The Employee shall not be released from the employment agreement except for unusual circumstances that will be reviewed by the School Board.  Violation of the employment agreement shall result in the following penalties incurred by the Employee:</text>
           <para>
             <num>(1)</num>
-            <text>After June 30<sup>th</sup>……………………………………..$500.</text>
+            <text>After June 30<sup>th</sup>……………………………………..$1,000.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>After July 31<sup>st</sup>……………………………………...$1,000.</text>
+            <text>After July 31<sup>st</sup>……………………………………...$2,000.</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>After August 31<sup>st</sup> or during the school year………..$1,500.</text>
+            <text>After August 31<sup>st</sup> or during the school year………..$3,000.</text>
           </para>
         </para>
         <para>
@@ -15232,6 +15233,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-11"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-29"/>
           <annotation type="Prior Codifications">§PAP.7.5.150 was formerly codified as XIV LCOTCL §7.515</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -15610,12 +15612,17 @@
           <num>(f)</num>
           <text>Probationary employees will not be able to use PTO during their 90 day probationary period unless it is for extreme circumstances with approval of their department head or director and concurrence of the School Director.</text>
         </para>
+        <para>
+          <num>(g)</num>
+          <text>Use of Paid and Unpaid Leave. Employees who have accrued PTO must use paid leave first and then take additional approved leave as unpaid leave.</text>
+        </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-81"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-89"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-11"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-29"/>
           <annotation type="Prior Codifications">§PAP.7.7.050 was formerly codified as XIV LCOTCL §7.705</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15640,7 +15647,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><u>Jury Duty Leave</u>. The School grants eligible employees paid leave during the required absence for jury service. An employee must promptly notify his or her department head or director upon receipt of any notice to appear. If an employee receives any stipend for such jury duty leave, he or she must use PTO during any work absence for such service. No employee shall take both compensated time and stipend pay during the required absence for jury service.</text>
+          <text><u>Jury Duty Leave</u>. The School grants eligible employees paid leave during the required absence for jury service. An employee must promptly notify his or her department head or director upon receipt of any notice to appear. If an employee receives any stipend (other than food or fuel expenses) for such jury duty leave, he or she must use PTO during any work absence for such service. No employee shall take both compensated time and stipend pay during the required absence for jury service.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -15701,6 +15708,10 @@
         <para>
           <num>(m)</num>
           <text><u>Education Leave</u>.  The School may grant employees paid release time to attend job-related or degree seeking courses. An employee must consult with his or her department head or director prior to registering to ensure the course is acceptable and must request and obtain the prior written approval of his or her department head or director with concurrence from the School Director to utilize this benefit. An employee must also have an approved Professional Development Plan on file with the Human Resource office. An employee must promptly provide his or her Department head or Director and the Human Resource Director, or designee, with written proof of course completion. A failure to successfully complete a course may jeopardize an employee's ability to obtain approval of subsequent paid release time hereunder. The School may pay the tuition, books and associated fees of an employee attending an accredited institution of higher learning.  The employee must be attending for the purpose of obtaining a degree or enrolling in courses in a field of study that is related to their position of employment with the School.  An employee desiring to have the School pay these expenses must have an approved Professional Development Plan on file which is approved by their immediate Supervisor and agree to the terms and conditions of an Educational Expense Reimbursement Agreement and is subject to program availability of funding pursuant to <cite path="§PAP.7.4.070">Section PAP.7.4.070</cite> of this manual.</text>
+          <para>
+            <num>(1)</num>
+            <text><u>Advanced Degree Seeking Stipulation</u>: In the best interest of the school and at the School Directors discretion, employees seeking advanced degrees beyond a bachelor's degree, agree to remain with the LCO Ojibwe School-Waadookodaading for a minimum of three (3) consecutive school years once the sought after degree has been acquired.  Failure to remain at the LCO Ojibwe School-Waadookodaading for a minimum of three (3) consecutive school years will result in a fine equal to 50% of the amount spent by the school on that individual continuing education costs.</text>
+          </para>
         </para>
         <para>
           <num>(n)</num>
@@ -15712,6 +15723,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-11"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-29"/>
           <annotation type="Prior Codifications">§PAP.7.7.070 was formerly codified as XIV LCOTCL §7.707</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15811,7 +15823,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text><u>Procedure for Requesting Leave</u>. In situations where leave is foreseeable, employees must provide written notice to the department head or director at least thirty (30) days prior to the date on which the leave is scheduled to begin. If the leave is foreseeable due to a planned medical treatment, employees must make reasonable efforts to schedule the treatment(s) to minimize disruptions to the Housing Authority's operations. If circumstances occur, in which it is not practicable to provide thirty (30) days' notice, employees must provide written notice as far in advance as is practicable. If an employee fails to provide thirty (30) days advance written notice of a requested leave and have no reasonable excuse, the leave may at the School Director's discretion be delayed for up to thirty (30) days from the date of written notice.</text>
+          <text><u>Procedure for Requesting Leave</u>. In situations where leave is foreseeable, employees must provide written notice to the department head or director at least thirty (30) days prior to the date on which the leave is scheduled to begin. If the leave is foreseeable due to a planned medical treatment, employees must make reasonable efforts to schedule the treatment(s) to minimize disruptions to the SchoolHar's operations. If circumstances occur, in which it is not practicable to provide thirty (30) days' notice, employees must provide written notice as far in advance as is practicable. If an employee fails to provide thirty (30) days advance written notice of a requested leave and have no reasonable excuse, the leave may at the School Superintendent's discretion be delayed for up to thirty (30) days from the date of written notice.</text>
         </para>
         <para>
           <num>(i)</num>
@@ -15871,6 +15883,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-11"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-29"/>
           <annotation type="Prior Codifications">§PAP.7.7.090 was formerly codified as XIV LCOTCL §7.709</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -16062,7 +16075,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text><u>General</u>. Harassment under this policy may also include words or conduct committed by customers or suppliers of the School. In the event that any harassing or offensive language or conduct occurs, employees must report it to the Human Resource Director, or designee, immediately so the matter can be addressed promptly.</text>
+            <text><u>General</u>. Harassment under this policy may also include words, actions,  or conduct committed by students, coworkers, parents, community members,  customers or suppliers of the School. In the event that any harassing or offensive language or conduct occurs, employees must report it to the Human Resource Director, or designee, immediately so the matter can be addressed promptly.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -16083,6 +16096,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-11"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-29"/>
           <annotation type="Prior Codifications">§PAP.7.8.050 was formerly codified as XIV LCOTCL §7.805</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -16609,7 +16623,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Employees who conduct themselves in such a way that their social media related actions toward and relationships with each other interfere with or damage work relationships, disrupt the flow of work or tribal member relations, or cause unfavorable publicity in the community, should be concerned that their conduct may be inconsistent with one or more of the provisions of this policy. In such a situation, the employees involved should request guidance from their program Director or the School Director to discuss the possibility of a resolution that would avoid such problems. Depending upon the circumstances, failure to seek such guidance may be considered evidence of intent to conceal a violation of the policy and to hinder an investigation into the matter.</text>
+            <text>Employees who conduct themselves in such a way that their social media related actions toward and relationships with each other interfere with or damage work relationships, disrupt the flow of work or tribal member relations, or cause unfavorable publicity in the community, may be subject to discipline.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -16617,7 +16631,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>Social media access and use involving Tribal equipment and resources are subject to the School computer and internet policy at all times.</text>
+            <text>Social media access and use involving School equipment and resources are subject to the School's computer and internet policy at all times.</text>
           </para>
           <para>
             <num>(6)</num>
@@ -16626,7 +16640,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>How an employee uses social media is not a matter of concern as long as it is consistent with the aforementioned provisions on this policy. Employees may address any questions on this policy to the Lac Courte Oreilles Legal Department.</text>
+          <text>How an employee uses social media is not a matter of concern as long as it is consistent with the aforementioned provisions on this policy.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-81"/>
@@ -16634,6 +16648,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-11"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-29"/>
           <annotation type="Prior Codifications">§PAP.7.8.200 was formerly codified as XIV LCOTCL §7.820</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -17013,11 +17028,15 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Human Resources Director</text>
+            <text>K-12 Principal</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>School Director</text>
+            <text>School Superintendent</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>School Board</text>
           </para>
         </para>
         <para>
@@ -17030,6 +17049,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-11"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-29"/>
           <annotation type="Prior Codifications">§PAP.7.11.010 was formerly codified as XIV LCOTCL §7.1101</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
     </container>

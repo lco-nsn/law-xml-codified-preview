@@ -3721,7 +3721,7 @@
     <text class="center">
       <strong>Preamble</strong>
     </text>
-    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to require the regular attendance at school of all school age children which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</text>
+    <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to require the regular attendance at school of all school age person which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</text>
     <container>
       <num>GNC.5.1</num>
       <heading>Introduction</heading>
@@ -3733,6 +3733,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.010 was formerly codified as VIII LCOTCL §5.101</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3742,15 +3743,17 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.020 was formerly codified as VIII LCOTCL §5.102</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>GNC.5.1.030</num>
         <heading>Purpose</heading>
-        <text>It is the purpose of this ordinance to require the regular attendance at school of all school age children living on the Lac Courte Oreilles Reservation and all tribal children who live off of the Lac Courte Oreilles Reservation and attend school within the Hayward Community School District and the Winter School District.</text>
+        <text>It is the purpose of this ordinance to require the regular attendance at school of all school age person living on the Lac Courte Oreilles Reservation and all tribal persons who live off of the Lac Courte Oreilles Reservation and attend school within the Hayward Community School District and the Winter School District.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.030 was formerly codified as VIII LCOTCL §5.103</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3760,6 +3763,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.040 was formerly codified as VIII LCOTCL §5.104</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3768,7 +3772,7 @@
         <text>The provisions of this ordinance:</text>
         <para>
           <num>(a)</num>
-          <text>Shall be interpreted and applied as minimum requirements applicable to the regular attendance at school of all school age children subject to this ordinance;</text>
+          <text>Shall be interpreted and applied as minimum requirements applicable to the regular attendance at school of all school age persons subject to this ordinance;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3785,6 +3789,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.050 was formerly codified as VIII LCOTCL §5.105</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3794,6 +3799,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.060 was formerly codified as VIII LCOTCL §5.106</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3803,6 +3809,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.070 was formerly codified as VIII LCOTCL §5.107</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3816,10 +3823,10 @@
         <text>Any term not defined in <cite path="§GNC.5.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
-          <text><strong>"Truant"</strong> is understood by this ordinance to mean any enrolled pupil who is absent from school without an acceptable excuse for part or all of any day on which school is held during a school semester.  Acceptable excuses are the following:</text>
+          <text><strong>"Truant"</strong> is understood by this ordinance to mean any enrolled person who is absent from school without an acceptable excuse for part or all of any day on which school is held during a school semester.  Acceptable excuses are the following:</text>
           <para>
             <num>(1)</num>
-            <text>Excused by the school for temporary physical or mental condition that impairs school attendance.  Any request by a parent or guardian to excuse a child under this subsection for more than ten days, cumulative, in any one semester must be accompanied by a written note from a physician or other appropriate professional care-giver justifying the absence.</text>
+            <text>Excused by the school for temporary physical or mental condition that impairs school attendance.  Any request by a parent or guardian to excuse a person under this subsection for more than ten days, cumulative, in any one semester must be accompanied by a written note from a physician or other appropriate professional care-giver justifying the absence.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -3829,6 +3836,10 @@
             <num>(3)</num>
             <text>Verified instruction in home-based educational program.</text>
           </para>
+          <para>
+            <num>(4)</num>
+            <text>Students who have reached their 18<sup>th</sup> birthdays are permitted to originate their own excuse for an absence only if they are not living with their parents/guardians or the parent/guardian has provided permission for the student to originate their own excuse in writing. The student is still bound by the same set of acceptable reasons in (a)(1).</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
@@ -3836,15 +3847,16 @@
         </para>
         <para>
           <num>(c)</num>
-          <text><strong>"Dropout"</strong> means a person under the age of 18 who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite path="§GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> of this ordinance.</text>
+          <text><strong>"Dropout"</strong> means a person 18 years or younger who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite path="§GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text><strong>"School Age Child"</strong> is any child enrolled in school up to his or her eighteenth birthday.</text>
+          <text><strong>"School Age Person"</strong> is any person enrolled in school from the age of five years old through the age of 18 or until high school graduation. When a student turns 18 they are still subject to all school policies until the end of the current school year.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.2.010 was formerly codified as VIII LCOTCL §5.201</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3857,23 +3869,20 @@
         <heading>Truancy</heading>
         <para>
           <num>(a)</num>
-          <text>No person under 18 years of age may be truant.</text>
-        </para>
-        <para>
-          <num>(b)</num>
           <text>If the Lac Courte Oreilles Tribal Court determines that a person is truant, the Tribal Court may order one or more of the following dispositions.</text>
           <para>
             <num>(1)</num>
-            <text>An order for the person to attend school.</text>
+            <text>An order for the school age person to attend school.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>A forfeiture of not more than $50.00 plus costs for a first violation, or a forfeiture of not more than $100.00 plus costs for any second or subsequent violation committed within 12 months of a previous violation, subject to a maximum cumulative forfeiture amount of not more than $500.00 for all violations committed during a school semester.  All or part of the forfeiture plus costs may be assessed against the person, the parents or guardians of the person, or both.</text>
+            <text>A forfeiture of not more than $50.00 plus costs for a first violation, or a forfeiture of not more than $100.00 plus costs for any second or subsequent violation committed within 12 months of a previous violation, subject to a maximum cumulative forfeiture amount of not more than $500.00 for all violations committed during a school semester.  All or part of the forfeiture plus costs may be assessed against the person, the caregivers, the parents or guardians of the person, or both.</text>
           </para>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.3.010 was formerly codified as VIII LCOTCL §5.301</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3881,10 +3890,6 @@
         <heading>Habitual Truancy</heading>
         <para>
           <num>(a)</num>
-          <text>No person under 18 years of age may be habitually truant.</text>
-        </para>
-        <para>
-          <num>(b)</num>
           <text>If the Tribal Court determines that a person is truant, the Tribal Court may order one or more of the following dispositions:</text>
           <para>
             <num>(1)</num>
@@ -3896,32 +3901,37 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>An order for the person to participate in counseling or a supervised work program or other community service as deemed appropriate by the Tribal Court.  The cost of any such counseling, supervised work program or other community service work may be assessed against the person, the parents or the guardian, or both.</text>
+            <text>An order for the person to participate in counseling or a supervised work program or other community service as deemed appropriate by the Tribal Court.  The cost of any such counseling, supervised work program or other community service work may be assessed against the person, the caregivers, the parents or the guardian, or both.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>An order for the person to remain at home except during the hours in which the person is attending a school program, religious worship or other activities specified by the Tribal Court, including travel time required.  The Order may permit a person to leave his or her home if the school age child is accompanied by a parent or guardian.</text>
+            <text>An order placing the person under formal or informal supervision of a tribal agency, program, department or a suitable adult, under conditions prescribed by the Tribal Court and subject to the limitations of placement, if necessary, as prescribed in <cite path="DMR.1">Chapter DMR.1</cite> – Children's Code.</text>
           </para>
           <para>
             <num>(5)</num>
-            <text>An order placing the person under formal or informal supervision of a tribal agency, program, department or a suitable adult, including a friend of the juvenile, under conditions prescribed by the Tribal Court and subject to the limitations of placement, if necessary, as prescribed in  <cite path="DMR|DMR.1">Chapter DMR.1</cite> – Children's Code.</text>
+            <text>A forfeiture of not more than $100.00 plus costs, for a first violation, or a forfeiture of not more than $500.00 plus costs for any second or subsequent violation committed within 12 months of a previous violation, subject to the limitation that such fines may be levied only against a juvenile of twelve (12) years of age or older and subject to a maximum cumulative forfeiture amount of not more than $500.00 for all violations committed during a school semester.  All or part of the forfeiture plus costs may be assessed against the person, the parents or guardians or the person, or both.  An order for the person's parent, caregiver, guardian or legal custodian to participate in counseling at the parent's, guardian's or legal custodian's own expense or to attend school with the person, or both.</text>
           </para>
           <para>
             <num>(6)</num>
-            <text>A forfeiture of not more than $100.00 plus costs, for a first violation, or a forfeiture of not more than $500.00 plus costs for any second or subsequent violation committed within 12 months of a previous violation, subject to the limitation that such fines may be levied only against a juvenile of twelve (12) years of age or older and subject to a maximum cumulative forfeiture amount of not more than $500.00 for all violations committed during a school semester.  All or part of the forfeiture plus costs may be assessed against the person, the parents or guardians or the person, or both.  An order for the person's parent, guardian or legal custodian to participate in counseling at the parent's, guardian's or legal custodian's own expense or to attend school with the person, or both.</text>
+            <text>Notification of the truancy to any jurisdiction or agency issuing licensing of any nature to the person, including but not limited to, the Wisconsin Department of Transportation.  The Tribal Court may present to the licensing agency, a recommendation of a suspension of privileges licensed, including the case of any license to operate a motor vehicle, or obtain a license to so operate, the suspension of privileges granted by Wisconsin Statue                             §§ 343.05(2)(a)(2 or (4)(b)(1) or comparable provisions in any other jurisdiction.</text>
           </para>
           <para>
             <num>(7)</num>
-            <text>Notification of the truancy to any jurisdiction or agency issuing licensing of any nature to the person, including but not limited to, the Wisconsin Department of Transportation.  The Tribal Court may present to the licensing agency, a recommendation of a suspension of privileges licensed, including the case of any license to operate a motor vehicle, or obtain a license to so operate, the suspension of privileges granted by Wisconsin Statue § 343.05(2)(a)(2 or 4)(b)(1) or comparable provisions in any other jurisdiction.</text>
+            <text>Refer the habitually truant person who continues to be truant to the Sawyer County District Attorney for delinquency charges pursuant to <cite doc="Wis. Stat." path="§938.12">Wis. Stat. §938.12</cite>. Filing information on a person does not preclude concurrent prosecution of the person's parent or guardian for failure to cause a person to attend school.</text>
           </para>
           <para>
             <num>(8)</num>
-            <text>Any other reasonable conditions consistent with this ordinance, including a curfew, restrictions as to going to or remaining on specified premises and restrictions for associating with other children and adults.</text>
+            <text>Refer the person to the LCO Indian Child Welfare Department to evaluate and determine whether familial problems may be the cause of the person's truancy and or make appropriate referrals necessary.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Any other reasonable conditions consistent with this ordinance, including a curfew, restrictions as to going to or remaining on specified premises and restrictions for associating with other persons and adults.</text>
           </para>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.3.020 was formerly codified as VIII LCOTCL §5.302</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3929,45 +3939,95 @@
         <heading>Dropouts</heading>
         <para>
           <num>(a)</num>
-          <text>No school age child may be a Dropout.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>If the Tribal Court determines that a person is a dropout, the court may notify the Wisconsin Department of Transportation with a recommendation for a suspension of operating privileges until the age of 18 with a notice stating the reasons for, and duration of, recommended suspension.</text>
+          <text>If the Tribal Court determines that a person is a dropout, the court may:</text>
+          <para>
+            <num>(1)</num>
+            <text>Notification of the drop-out to any jurisdiction or agency issuing licensing of any nature to the person, including but not limited to, the Wisconsin Department of Transportation.  The Tribal Court may present to the licensing agency, a recommendation of a suspension of privileges licensed, including the case of any license to operate a motor vehicle, or obtain a license to so operate, the suspension of privileges granted by Wisconsin Statue §§ 343.05(2)(a)(2) or (4)(b)(1) or comparable provisions in any other jurisdiction.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Court may order for the person to attend school.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Order a forfeiture of not more than $500 plus costs, to be assessed against the drop-out, the parents or guardians, or both.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Refer the case of the habitually truant person who continues to be truant to the Sawyer County District Attorney for delinquency charges pursuant to <cite doc="Wis. Stat." path="§938.12">Wis. Stat. §938.12</cite>.  Filing information on a person does not preclude concurrent prosecution of the person's parent or guardian for failure to cause a person to attend school.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Refer the person to the LCO Indian Child Welfare department to evaluate and determine whether familial problems may be the cause of the person's truancy and if so, make appropriate referrals as necessary.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Any other reasonable conditions consistent with this ordinance, including a curfew, restrictions as to going to or remaining on specified premises and restrictions for associating with other juveniles and adults.</text>
+          </para>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.3.030 was formerly codified as VIII LCOTCL §5.303</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>GNC.5.3.040</num>
-        <heading>Failure to Cause a Child to Attend School Regularly</heading>
+        <heading>Failure to Cause a Person to Attend School Regularly</heading>
         <para>
           <num>(a)</num>
-          <text>Unless the school age child is excepted or excused under <cite path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age child, shall cause the school age child to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age child should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age child becomes 18 years of age.</text>
+          <text>Unless the school age person is excepted or excused under <cite path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age person, shall cause the school age child to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age person should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age person becomes 18 years of age.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text><cite path="§GNC.5.3.040">This section</cite> does not apply:</text>
+          <text><cite path="§GNC.5.3.040">This section</cite> does not apply to:</text>
           <para>
             <num>(1)</num>
-            <text>To a person who proves that he or she is unable to comply with the requirements of <cite path="§GNC.5.3.040">this section</cite> because of the disobedience of the school age child, in which case the action shall be dismissed and the Tribal Court may appoint a guardian ad litem relative to such school age child or make such reference to the Indian Child Welfare Department, Law Enforcement or other authority as deemed appropriate.</text>
+            <text>A school age person is exempted or excused under XX of this ordinance, or has graduated from high school</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Should persuasive evidence be provided by the school attendance officer that the person has completed an educational counseling session or other program designed to address previous truancy problems.</text>
+            <text>To a person who proves that he or she is unable to comply with the requirements of <cite path="§GNC.5.3.040">this section</cite> because of the disobedience of the school age person, in which case the action shall be dismissed, and the Tribal Court may appoint a guardian ad litem relative to such school age person or make such reference to the Indian Child Welfare Department, Law Enforcement or other authority as deemed appropriate.</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>To any person who violates <cite path="§GNC.5.3.040">this section</cite> and pursuant to <cite path="§GNC.5.3.020|(b)|(6)">Section GNC.5.3.020(b)(6)</cite> of this ordinance has been subject to a previous forfeiture of $500.00.</text>
+            <text>If the Court determines that a person is guilty of Failure to Cause a Person to Attend School Regularly, the Court may:</text>
+            <para>
+              <num>(A)</num>
+              <text>Order a forfeiture of not more than $500 plus costs to be assessed against the persona unless contrary to X and X.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Refer the case to the Sawyer County District Attorney for criminal charges pursuant to Wis. Stat. §§ 948.40 or 948.45</text>
+            </para>
           </para>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.3.040 was formerly codified as VIII LCOTCL §5.304</annotation>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>GNC.5.3.050</num>
+        <heading>Payments of Forfeitures</heading>
+        <para>
+          <num>(a)</num>
+          <text>If a person is obligated to pay a forfeiture fails to do so within 60 calendar days, the Lac Courte Oreilles Attorney General's Office may institute an action requesting:</text>
+          <para>
+            <num>(1)</num>
+            <text>An order for the payer to show cause why he or she should not be subject to contempt of court.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A finding of Contempt of Court may result in incarceration.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
         </annotations>
       </section>
     </container>
+    <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
   </container>
 </container>
