@@ -11,15 +11,15 @@
       <html-bulk>https://github.com/lco-nsn/law-html</html-bulk>
       <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
       <law-git>https://github.com/lco-nsn/law.git</law-git>
-      <html/>
+      <html>https://law.lco-nsn.gov</html>
     </canonical-urls>
     <history-start>2021-12-19</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="lco-nsn/law-xml" commit="23c31b70cfbec343aeebb251cffc02d5651cc02b"/>
+        <repository name="lco-nsn/law-xml" commit="a57a31067e7dce76f337156c8242d747cb31596b"/>
       </repositories>
       <platform version="2.6.0" reproducible="false"/>
-      <build-date>2022-10-04</build-date>
+      <build-date>2022-10-18</build-date>
       <codified-date>2022-09-02</codified-date>
     </build>
   </meta>
