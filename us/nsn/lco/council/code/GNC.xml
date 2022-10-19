@@ -1244,39 +1244,14 @@
     </container>
     <container>
       <num>GNC.4.7</num>
+      <reason>Repealed</reason>
       <heading>School Attendance</heading>
       <prefix>Subchapter</prefix>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>GNC.4.7.010</num>
         <heading>Definition of Terms</heading>
-        <para>
-          <num>(a)</num>
-          <text>"Truant" is understood by this ordinance to mean a pupil who is absent from school without an acceptable excuse for part or all of any day on which school is held during a school semester. Acceptable excuses are the following:</text>
-          <para>
-            <num>(1)</num>
-            <text>Excused by the school for temporary physical or mental condition that impairs school attendance. Any request by a parent or guardian to excuse a child under this subsection for more than ten days, cumulative, in any one semester must be accompanied by a written note from a physician or other appropriate professional caregiver justifying the absence.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Written permission of up to ten days per semester for absence by parent or guardian prior to absence, and</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Verified instruction in home-based educational program.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>"Habitual truant" means a pupil who is absent from school without an acceptable excuse under the previous subsection for part or all of 5 or more days on which school is held during a school semester.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>"Dropout" means a person under the age of 18 who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite path="§GNC.4.7.010|(a)">Section GNC.4.7.010(a)</cite>.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>"School Age Child" is any child between his or her sixth and eighteenth birthday.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1284,27 +1259,14 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.010 was formerly codified as LCOTCC §4.43</annotation>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>GNC.4.7.020</num>
         <heading>Truancy</heading>
-        <para>
-          <num>(a)</num>
-          <text>No person under 18 years of age may be truant.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>If the Lac Courte Oreilles Tribal Court determines that a person is truant, the Tribal Court may order one or more of the following dispositions.</text>
-          <para>
-            <num>(1)</num>
-            <text>An order for the person to attend school.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>A forfeiture of not more than $50.00 plus costs for a first violation, or a forfeiture of not more than $100.00 plus costs for any second or subsequent violation committed within 12 months of a previous violation, subject to the limitation that such fines may be levied only against a juvenile of 14 years of age or older and subject to a maximum cumulative forfeiture amount of not more than $500.00 for all violations committed during a school semester. All or part of the forfeiture plus costs may be assessed against the person, the parents or guardians of the person, or both.</text>
-          </para>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1312,51 +1274,14 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.020 was formerly codified as LCOTCC §4.44</annotation>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>GNC.4.7.030</num>
         <heading>Habitual Truancy</heading>
-        <para>
-          <num>(a)</num>
-          <text>No person under 18 years of age may be habitually truant.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>If the Tribal Court determines that a person is truant, the Tribal Court may order one or more of the following dispositions:</text>
-          <para>
-            <num>(1)</num>
-            <text>An order for the person to attend school.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>An order for the person to attend an education program as prescribed by the Tribal Court.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>An order for the person to participate in counseling or a supervised work program or other community service as deemed appropriate by the Tribal Court. The cost of any such counseling, supervised work program or other community service work may be assessed against the person, the parents or the guardian, or both.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>An order for the person to remain at home except during the hours in which the person is attending a school program, religious worship or other activities specified by the Tribal Court, including travel time required. The Order may permit a person to leave his or her home if the school age child is accompanied by a parent or guardian.</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>An order placing the person under formal or informal supervision of a tribal agency, program, department or a suitable adult, including a friend of the juvenile, under conditions prescribed by the Tribal Court and subject to the limitations of placement, if necessary, as prescribed in <cite path="§DMR.1.3.010">Section DMR.1.3.010</cite> of the Tribal Children's Code.</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>A forfeiture of not more than $100.00 plus costs, for a first violation, or a forfeiture of not more than $500.00 plus costs for any second or subsequent violation committed within 12 months of a previous violation, subject to the limitation that such fines may be levied only against a juvenile of 14 years of age or older and subject to a maximum cumulative forfeiture amount of not more than $500.00 for all violations committed during a school semester. All or part of the forfeiture plus costs may be assessed against the person, the parents or guardians or the person, or both. An order for the person's parent, guardian or legal custodian to participate in counseling at the parent's, guardian's or legal custodian's own expense or to attend school with the person, or both.</text>
-          </para>
-          <para>
-            <num>(7)</num>
-            <text>Notification of the truancy to any jurisdiction or agency issuing licensing of any nature to the person, including but not limited to, the Wisconsin Department of Transportation. The Tribal Court may present to the licensing agency, a recommendation of a suspension of privileges licensed, including the case of any license to operate a motor vehicle, or obtain a license to so operate, the suspension of privileges granted by Wisconsin Statue §343.05(2)(a)(2 or 4)(b)(l) or comparable provisions in any other jurisdiction.</text>
-          </para>
-          <para>
-            <num>(8)</num>
-            <text>Any other reasonable conditions consistent with this ordinance, including a curfew, restrictions as to going to or remaining on specified premises and restrictions for associating with other children and adults.</text>
-          </para>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1364,19 +1289,14 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.030 was formerly codified as LCOTCC §4.45</annotation>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>GNC.4.7.040</num>
         <heading>Dropouts</heading>
-        <para>
-          <num>(a)</num>
-          <text>No person who is at least 6 years of age but is less than 18 years of age may be a Dropout.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>If the Tribal Court determines that a person is a dropout, the court may notify the Wisconsin Department of Transportation with a recommendation for a suspension of operating privileges until the age of 18 with a notice stating the reasons for, and duration of, recommended suspension.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1384,31 +1304,14 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.040 was formerly codified as LCOTCC §4.46</annotation>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>GNC.4.7.050</num>
         <heading>Failure to Cause a Child to Attend School Regularly</heading>
-        <para>
-          <num>(a)</num>
-          <text>Unless the school age child is excepted or excused under <cite path="§GNC.4.7.010|(a)">Section GNC.4.7.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control, a school age child who is between the ages of 6 and 18 years, shall cause the school age child to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the public or private school in which the school age child should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age child becomes 18 years of age.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text><cite path="§GNC.4.7.050">This section</cite> does not apply:</text>
-          <para>
-            <num>(1)</num>
-            <text>To a person who proves that or she is unable to comply with the requirements of <cite path="§GNC.4.7.050">this section</cite> because of the disobedience of the school age child, in which case the action shall be dismissed and the Tribal Court may appoint a guardian ad litem relative to such school age child or make such reference to law enforcement or other authority as deemed appropriate.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Should persuasive evidence be provided by the school attendance officer that the person has completed an educational counseling session or other program designed to address previous truancy problems.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Any person who violates <cite path="§GNC.4.7.050">this section</cite> is subject to a forfeiture of up to $500.00.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1416,27 +1319,14 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.050 was formerly codified as LCOTCC §4.47</annotation>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>GNC.4.7.060</num>
         <heading>Enforcement of Ordinance</heading>
-        <para>
-          <num>(a)</num>
-          <text>This ordinance shall become effective immediately upon its passage as to the prohibitions contained at <cite path="§GNC.4.7.020">Section GNC.4.7.020</cite>, and as to the definitions contained in <cite path="§GNC.4.7.010">Section GNC.4.7.010</cite>. All other provisions of this ordinance shall become effective thirty (30) days following the passage by the Tribal Governing Board.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Following the passage of this ordinance, the Tribal Governing Board shall take such reasonable efforts as may deemed appropriate by the Tribal Governing Board to assure distribution of this ordinance, including posting at Tribal facilities and publications generally circulating within the Lac Courte Oreilles Ojibwe Reservation.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The Lac Courte Oreilles Tribal Court Magistrate is hereby authorized to conduct hearings and make findings and orders as specified herein except that the assessment of any fine, and/or referral with the recommendation of license suspension may be made by the Magistrate only should the party affected and/or his or her parent or legal guardian, consent to this authority prior to the commencement of hearing. The Tribal Court judge may address different aspects of this ordinance.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Invalidation of any part of this ordinance shall not invalidate the remaining sections thereof.</text>
-        </para>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1444,8 +1334,10 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.060 was formerly codified as LCOTCC §4.48</annotation>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
         </annotations>
       </section>
+      <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
     </container>
     <container>
       <num>GNC.4.8</num>
