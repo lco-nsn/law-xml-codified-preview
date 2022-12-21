@@ -9,18 +9,18 @@
     <canonical-urls>
       <xml-bulk>https://github.com/lco-nsn/law-xml</xml-bulk>
       <html-bulk>https://github.com/lco-nsn/law-html</html-bulk>
-      <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
+      <static-assets>https://github.com/lco-nsn/law-static-assets</static-assets>
       <law-git>https://github.com/lco-nsn/law.git</law-git>
       <html>https://law.lco-nsn.gov</html>
     </canonical-urls>
     <history-start>2021-12-19</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="lco-nsn/law-xml" commit="ddc7fb6ff4f38e30bc3aec27d4790377f6ce12b4"/>
+        <repository name="lco-nsn/law-xml" commit="6df007380e4181b5b4ed4dcc3e2f8a3d87f42993"/>
       </repositories>
       <platform version="2.7.0" reproducible="false"/>
-      <build-date>2022-12-07</build-date>
-      <codified-date>2022-10-24</codified-date>
+      <build-date>2022-12-21</build-date>
+      <codified-date>2022-11-21</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/lco/council/constitution/index.xml"/>

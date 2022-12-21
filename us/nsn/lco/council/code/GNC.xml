@@ -14,7 +14,7 @@
       <section>
         <num>GNC.4.1.010</num>
         <heading>Nature of Offenses</heading>
-        <text>Each of the offenses contained in this Code is a civil offense, and, except for the civil liability provisions contained in <cite path="§GNC.4.3.040">Section GNC.4.3.040</cite>, <cite path="§GNC.4.3.070">Section GNC.4.3.070</cite>, and <cite path="§GNC.4.3.090">Section GNC.4.3.090</cite>, may be prosecuted only by the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        <text>Each of the offenses contained in this Code is a civil offense, and, except for the civil liability provisions contained in <cite path="|GNC.4.3.040">Section GNC.4.3.040</cite>, <cite path="|GNC.4.3.070">Section GNC.4.3.070</cite>, and <cite path="|GNC.4.3.090">Section GNC.4.3.090</cite>, may be prosecuted only by the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -40,7 +40,7 @@
       <section>
         <num>GNC.4.1.030</num>
         <heading>Deposit Schedule</heading>
-        <text>Officers citing a violation under this Code may include in the citation, as the deposit amount allowed, the amount for the corresponding state violation shown in the "total" column of the State of Wisconsin Uniform State Traffic Deposit Schedule, the Alcohol Beverages, Harassment, Safety, and Drug Paraphernalia Deposit Schedule, and the Trespass to Land Deposit Schedule. <cite path="§GNC.4.1.030">This section</cite> does not authorize citation under this Code for a violation which may be listed in one of the Deposit Schedules for which a corresponding offense has not been adopted in this Code either explicitly or by reference.</text>
+        <text>Officers citing a violation under this Code may include in the citation, as the deposit amount allowed, the amount for the corresponding state violation shown in the "total" column of the State of Wisconsin Uniform State Traffic Deposit Schedule, the Alcohol Beverages, Harassment, Safety, and Drug Paraphernalia Deposit Schedule, and the Trespass to Land Deposit Schedule. <cite path="|GNC.4.1.030">This section</cite> does not authorize citation under this Code for a violation which may be listed in one of the Deposit Schedules for which a corresponding offense has not been adopted in this Code either explicitly or by reference.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -128,7 +128,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>If the defendant does not pay the deposit and enter the written plea of no contest as provided in <cite path="§GNC.4.1.060|(a)">Section GNC.4.1.060(a)</cite>, and if the defendant does not appear on the date instructed, the court may find the defendant in default, enter judgment against defendant, and order the defendant to pay a forfeiture as is appropriate under the circumstances, but no less than the amount of the deposit, if any, stated, on the citation.</text>
+          <text>If the defendant does not pay the deposit and enter the written plea of no contest as provided in <cite path="|GNC.4.1.060|(a)">Section GNC.4.1.060(a)</cite>, and if the defendant does not appear on the date instructed, the court may find the defendant in default, enter judgment against defendant, and order the defendant to pay a forfeiture as is appropriate under the circumstances, but no less than the amount of the deposit, if any, stated, on the citation.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -189,7 +189,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>It is not a defense to a prosecution under <cite path="§GNC.4.2.010">this section</cite> that the perjured testimony was corrected or retracted.</text>
+          <text>It is not a defense to a prosecution under <cite path="|GNC.4.2.010">this section</cite> that the perjured testimony was corrected or retracted.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -222,7 +222,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>In <cite path="§GNC.4.2.030">this section</cite>:</text>
+          <text>In <cite path="|GNC.4.2.030">this section</cite>:</text>
           <para>
             <num>(1)</num>
             <text>"Obstructs" includes without limitation knowingly giving false information to the officer or knowingly placing physical evidence with intent to mislead the officer in the performance of his or her duty including the service of any summons or civil process.</text>
@@ -234,7 +234,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Whoever by violating <cite path="§GNC.4.2.030">this section</cite> hinders, delays or prevents an officer from properly serving or executing any summons or civil process, is civilly liable to the person injured for any actual loss caused thereby and to the officer or the officer's superior for any damages adjudged against either of them by reason thereof.</text>
+          <text>Whoever by violating <cite path="|GNC.4.2.030">this section</cite> hinders, delays or prevents an officer from properly serving or executing any summons or civil process, is civilly liable to the person injured for any actual loss caused thereby and to the officer or the officer's superior for any damages adjudged against either of them by reason thereof.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -284,7 +284,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>It is not a defense to a prosecution under <cite path="§GNC.4.2.060">this section</cite> that:</text>
+          <text>It is not a defense to a prosecution under <cite path="|GNC.4.2.060">this section</cite> that:</text>
           <para>
             <num>(1)</num>
             <text>The document would have been legally privileged or inadmissible in evidence.</text>
@@ -349,7 +349,7 @@
         <heading>Simulating Legal Process</heading>
         <para>
           <num>(a)</num>
-          <text>In <cite path="§GNC.4.2.090">this section</cite>, "legal process" includes a subpoena, summons, complaint, warrant, injunction, writ, notice, pleading, order or other document that directs a person to perform or refrain from performing a specified act and compliance with which is enforceable by the tribal court or a tribal governmental agency.</text>
+          <text>In <cite path="|GNC.4.2.090">this section</cite>, "legal process" includes a subpoena, summons, complaint, warrant, injunction, writ, notice, pleading, order or other document that directs a person to perform or refrain from performing a specified act and compliance with which is enforceable by the tribal court or a tribal governmental agency.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -361,7 +361,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text><cite path="§GNC.4.2.090">This section</cite> applies even though the simulating document contains a statement to the effect that it is not legal process.</text>
+          <text><cite path="|GNC.4.2.090">This section</cite> applies even though the simulating document contains a statement to the effect that it is not legal process.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -437,7 +437,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Under <cite path="§GNC.4.3.030">this section</cite>, prima facie evidence of an intent to defraud is shown by:</text>
+          <text>Under <cite path="|GNC.4.3.030">this section</cite>, prima facie evidence of an intent to defraud is shown by:</text>
           <para>
             <num>(1)</num>
             <text>The refusal of payment upon presentation when due, and the return unpaid of any bank check or order for the payment of money, given by any guest to any campground, hotel, motel, boarding or lodging house, or restaurant, in payment of any obligation arising out of the relationship as guest. Those facts also constitute prima facie evidence of an intent to abscond without payment.</text>
@@ -461,7 +461,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Any person violating <cite path="§GNC.4.3.030">this section</cite> may also be required to pay restitution to the hotel, restaurant keeper or transit owner or operator, provided that no such person may receive double compensation under both <cite path="§GNC.4.3.030">this section</cite> and <cite path="§GNC.4.3.040">Section GNC.4.3.040</cite>.</text>
+          <text>Any person violating <cite path="|GNC.4.3.030">this section</cite> may also be required to pay restitution to the hotel, restaurant keeper or transit owner or operator, provided that no such person may receive double compensation under both <cite path="|GNC.4.3.030">this section</cite> and <cite path="|GNC.4.3.040">Section GNC.4.3.040</cite>.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -477,7 +477,7 @@
         <heading>Fraud on Hotel or Restaurant Keeper or Transit Operator; Civil Liability</heading>
         <para>
           <num>(a)</num>
-          <text>Any person who incurs injury to his or her business or property as a result of a violation of <cite path="§GNC.4.3.030">Section GNC.4.3.030</cite> may bring a civil action against any adult or emancipated minor who caused the loss for all of the following:</text>
+          <text>Any person who incurs injury to his or her business or property as a result of a violation of <cite path="|GNC.4.3.030">Section GNC.4.3.030</cite> may bring a civil action against any adult or emancipated minor who caused the loss for all of the following:</text>
           <para>
             <num>(1)</num>
             <text>The retail value of the beverage, food, lodging, accommodation, transportation or service involved in the violation. A person may recover under this paragraph only if he or she exercises due diligence in demanding payment for the beverage, food, lodging, accommodation, transportation or service.</text>
@@ -492,11 +492,11 @@
           <text>In addition to sub. (a), if the person who incurs the injury prevails, the judgment in the action may grant any of the following:</text>
           <para>
             <num>(1)</num>
-            <text>Punitive damages of not more than 3 times the amount under sub. (a) (1) and (2). No additional proof is required for an award of punitive damages under this paragraph, provided that no person may receive double compensation under both <cite path="§GNC.4.3.040">this section</cite> and <cite path="§GNC.4.3.030">Section GNC.4.3.030</cite>.</text>
+            <text>Punitive damages of not more than 3 times the amount under sub. (a) (1) and (2). No additional proof is required for an award of punitive damages under this paragraph, provided that no person may receive double compensation under both <cite path="|GNC.4.3.040">this section</cite> and <cite path="|GNC.4.3.030">Section GNC.4.3.030</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Reasonable attorney fees for actions commenced under <cite path="§GNC.4.3.040">this section</cite>.</text>
+            <text>Reasonable attorney fees for actions commenced under <cite path="|GNC.4.3.040">this section</cite>.</text>
           </para>
         </para>
         <para>
@@ -505,11 +505,11 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>At least 20 days prior to commencing an action under <cite path="§GNC.4.3.040">this section</cite> the plaintiff shall notify the defendant, by mail, of his or her intent to bring the action and of the acts constituting the basis for the violation of <cite path="§GNC.4.3.030">Section GNC.4.3.030</cite>. The plaintiff shall send the notice by regular mail supported by an affidavit of service of mailing or by a certificate of mailing obtained from the U.S. post office from which the mailing was made. The plaintiff shall mail the notice to the defendant's last-known address or to the address provided on the check or order. If the defendant pays the amount due for the beverage, food, lodging, accommodation, transportation or service prior to the commencement of the action, he or she is not liable under <cite path="§GNC.4.3.040">this section</cite>.</text>
+          <text>At least 20 days prior to commencing an action under <cite path="|GNC.4.3.040">this section</cite> the plaintiff shall notify the defendant, by mail, of his or her intent to bring the action and of the acts constituting the basis for the violation of <cite path="|GNC.4.3.030">Section GNC.4.3.030</cite>. The plaintiff shall send the notice by regular mail supported by an affidavit of service of mailing or by a certificate of mailing obtained from the U.S. post office from which the mailing was made. The plaintiff shall mail the notice to the defendant's last-known address or to the address provided on the check or order. If the defendant pays the amount due for the beverage, food, lodging, accommodation, transportation or service prior to the commencement of the action, he or she is not liable under <cite path="|GNC.4.3.040">this section</cite>.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>The plaintiff has the burden of proving by a preponderance of the evidence that a violation occurred under <cite path="§GNC.4.3.030">Section GNC.4.3.030</cite>. A judgment under <cite path="§GNC.4.3.030">Section GNC.4.3.030</cite> is not a condition precedent to bringing an action, obtaining a judgment or collecting that judgment under <cite path="§GNC.4.3.040">this section</cite>.</text>
+          <text>The plaintiff has the burden of proving by a preponderance of the evidence that a violation occurred under <cite path="|GNC.4.3.030">Section GNC.4.3.030</cite>. A judgment under <cite path="|GNC.4.3.030">Section GNC.4.3.030</cite> is not a condition precedent to bringing an action, obtaining a judgment or collecting that judgment under <cite path="|GNC.4.3.040">this section</cite>.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -558,11 +558,11 @@
         </para>
         <para>
           <num>(c)</num>
-          <text><cite path="§GNC.4.3.060">This section</cite> does not apply to a postdated check or to a check given for a past consideration, except a payroll check.</text>
+          <text><cite path="|GNC.4.3.060">This section</cite> does not apply to a postdated check or to a check given for a past consideration, except a payroll check.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>In addition to the forfeiture provided for violation of <cite path="§GNC.4.3.060">this section</cite>, a judge may order a violator to pay restitution, provided that no person may receive double compensation under both <cite path="§GNC.4.3.060">this section</cite> and <cite path="§GNC.4.3.070">Section GNC.4.3.070</cite>.</text>
+          <text>In addition to the forfeiture provided for violation of <cite path="|GNC.4.3.060">this section</cite>, a judge may order a violator to pay restitution, provided that no person may receive double compensation under both <cite path="|GNC.4.3.060">this section</cite> and <cite path="|GNC.4.3.070">Section GNC.4.3.070</cite>.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -578,14 +578,14 @@
         <heading>Worthless Checks; Civil Liability</heading>
         <para>
           <num>(a)</num>
-          <text>In <cite path="§GNC.4.3.070">this section</cite>, "pecuniary loss" means:</text>
+          <text>In <cite path="|GNC.4.3.070">this section</cite>, "pecuniary loss" means:</text>
           <para>
             <num>(1)</num>
             <text>All special damages, but not general damages, including but not limited to the money equivalent of loss resulting from property taken, destroyed, broken or otherwise harmed and out-of-pocket losses, such as medical expenses; and</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Reasonable out-of-pocket expenses incurred by the victim resulting from the filing of charges or cooperating in the investigation and prosecution of the offense under <cite path="§GNC.4.3.060">Section GNC.4.3.060</cite>.</text>
+            <text>Reasonable out-of-pocket expenses incurred by the victim resulting from the filing of charges or cooperating in the investigation and prosecution of the offense under <cite path="|GNC.4.3.060">Section GNC.4.3.060</cite>.</text>
           </para>
         </para>
         <para>
@@ -593,7 +593,7 @@
           <text>Any person who incurs pecuniary loss, including any holder in due course of a check or order, may bring a civil action against any adult or emancipated minor who:</text>
           <para>
             <num>(1)</num>
-            <text>Issued a check or order in violation of <cite path="§GNC.4.3.060">Section GNC.4.3.060</cite>, and</text>
+            <text>Issued a check or order in violation of <cite path="|GNC.4.3.060">Section GNC.4.3.060</cite>, and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -613,7 +613,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Punitive damages of not more than 3 times the amount under pars. (1) and (2), provided that no person may receive double compensation under both <cite path="§GNC.4.3.070">this section</cite> and <cite path="§GNC.4.3.060">Section GNC.4.3.060</cite>. No additional proof is required for an award of punitive damages under this paragraph.</text>
+            <text>Punitive damages of not more than 3 times the amount under pars. (1) and (2), provided that no person may receive double compensation under both <cite path="|GNC.4.3.070">this section</cite> and <cite path="|GNC.4.3.060">Section GNC.4.3.060</cite>. No additional proof is required for an award of punitive damages under this paragraph.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -626,15 +626,15 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Any recovery under <cite path="§GNC.4.3.070">this section</cite> shall be reduced by the amount recovered as restitution for the same act under <cite path="§GNC.4.3.060">Section GNC.4.3.060</cite>.</text>
+          <text>Any recovery under <cite path="|GNC.4.3.070">this section</cite> shall be reduced by the amount recovered as restitution for the same act under <cite path="|GNC.4.3.060">Section GNC.4.3.060</cite>.</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>At least 20 days prior to commencing an action under <cite path="§GNC.4.3.070">this section</cite>, the plaintiff shall notify the defendant, by mail, of his or her intent to bring the action. Notice of nonpayment or dishonor shall be sent by the payee or holder of the check or order to the drawer by regular mail supported by an affidavit of service of mailing or by a certificate of mailing obtained from the U.S. post office from which the mailing was made. The plaintiff shall mail the notice to the defendant's last-known address or to the address provided on the check or order. If the defendant pays the check or order prior to the commencement of the action, he or she is not liable under <cite path="§GNC.4.3.070">this section</cite>.</text>
+          <text>At least 20 days prior to commencing an action under <cite path="|GNC.4.3.070">this section</cite>, the plaintiff shall notify the defendant, by mail, of his or her intent to bring the action. Notice of nonpayment or dishonor shall be sent by the payee or holder of the check or order to the drawer by regular mail supported by an affidavit of service of mailing or by a certificate of mailing obtained from the U.S. post office from which the mailing was made. The plaintiff shall mail the notice to the defendant's last-known address or to the address provided on the check or order. If the defendant pays the check or order prior to the commencement of the action, he or she is not liable under <cite path="|GNC.4.3.070">this section</cite>.</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>The plaintiff has the burden of proving by a preponderance of the evidence that a violation occurred under <cite path="§GNC.4.3.060">Section GNC.4.3.060</cite>. A judgment under <cite path="§GNC.4.3.060">Section GNC.4.3.060</cite> is not a condition precedent to bringing an action, obtaining a judgment or collecting that judgment under <cite path="§GNC.4.3.070">this section</cite>.</text>
+          <text>The plaintiff has the burden of proving by a preponderance of the evidence that a violation occurred under <cite path="|GNC.4.3.060">Section GNC.4.3.060</cite>. A judgment under <cite path="|GNC.4.3.060">Section GNC.4.3.060</cite> is not a condition precedent to bringing an action, obtaining a judgment or collecting that judgment under <cite path="|GNC.4.3.070">this section</cite>.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -650,7 +650,7 @@
         <heading>Retail Theft</heading>
         <para>
           <num>(a)</num>
-          <text>In <cite path="§GNC.4.3.080">this section</cite>:</text>
+          <text>In <cite path="|GNC.4.3.080">this section</cite>:</text>
           <para>
             <num>(1)</num>
             <text>"Merchant" includes, without limitation, any retailer and any casino, innkeeper, motelkeeper, or hotelkeeper.</text>
@@ -718,15 +718,15 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>A merchant, a merchant's adult employee or a merchant's security agent who has reasonable cause for believing that a person has violated <cite path="§GNC.4.3.080">this section</cite> in his or her presence may detain the person in a reasonable manner for a reasonable length of time to deliver the person to a law enforcement officer, or to his or her parent or guardian in the case of a minor. The detained person must be promptly informed of the purpose for the detention and be permitted to make phone calls, but he or she shall not be interrogated or searched against his or her will before the arrival of a law enforcement officer who may conduct a lawful interrogation of the accused person. The merchant, merchant's adult employee or merchant's security agent may release the detained person before the arrival of a law enforcement officer or parent or guardian. Any merchant, merchant's adult employee or merchant's security agent who acts in good faith in any act authorized under <cite path="§GNC.4.3.080">this section</cite> is immune from civil or criminal liability for those acts.</text>
+          <text>A merchant, a merchant's adult employee or a merchant's security agent who has reasonable cause for believing that a person has violated <cite path="|GNC.4.3.080">this section</cite> in his or her presence may detain the person in a reasonable manner for a reasonable length of time to deliver the person to a law enforcement officer, or to his or her parent or guardian in the case of a minor. The detained person must be promptly informed of the purpose for the detention and be permitted to make phone calls, but he or she shall not be interrogated or searched against his or her will before the arrival of a law enforcement officer who may conduct a lawful interrogation of the accused person. The merchant, merchant's adult employee or merchant's security agent may release the detained person before the arrival of a law enforcement officer or parent or guardian. Any merchant, merchant's adult employee or merchant's security agent who acts in good faith in any act authorized under <cite path="|GNC.4.3.080">this section</cite> is immune from civil or criminal liability for those acts.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>In any action or proceeding for violation of <cite path="§GNC.4.3.080">this section</cite>, duly identified and authenticated photographs of merchandise which was the subject of the violation may be used as evidence in lieu of producing the merchandise.</text>
+          <text>In any action or proceeding for violation of <cite path="|GNC.4.3.080">this section</cite>, duly identified and authenticated photographs of merchandise which was the subject of the violation may be used as evidence in lieu of producing the merchandise.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>In addition to the forfeiture provided for violation of <cite path="§GNC.4.3.080">this section</cite>, a judge may order a violator to pay restitution, provided that no person may receive double compensation under both <cite path="§GNC.4.3.080">this section</cite> and <cite path="§GNC.4.3.090">Section GNC.4.3.090</cite>.</text>
+          <text>In addition to the forfeiture provided for violation of <cite path="|GNC.4.3.080">this section</cite>, a judge may order a violator to pay restitution, provided that no person may receive double compensation under both <cite path="|GNC.4.3.080">this section</cite> and <cite path="|GNC.4.3.090">Section GNC.4.3.090</cite>.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -742,7 +742,7 @@
         <heading>Retail Theft; Civil Liability</heading>
         <para>
           <num>(a)</num>
-          <text>Any person who incurs injury to his or her business or property as a result of a violation of <cite path="§GNC.4.3.080">Section GNC.4.3.080</cite> may bring a civil action against any individual who caused the loss for all of the following:</text>
+          <text>Any person who incurs injury to his or her business or property as a result of a violation of <cite path="|GNC.4.3.080">Section GNC.4.3.080</cite> may bring a civil action against any individual who caused the loss for all of the following:</text>
           <para>
             <num>(1)</num>
             <text>The retail value of the merchandise unless it is returned undamaged and unused. A person may recover under this paragraph only if he or she exercises due diligence in demanding the return of the merchandise immediately after he or she discovers the loss and the identity of the person who has the merchandise.</text>
@@ -757,7 +757,7 @@
           <text>In addition to sub. (a), if the person who incurs the loss prevails, the judgment in the action may grant any of the following:</text>
           <para>
             <num>(1)</num>
-            <text>Punitive damages of not more than 3 times the amount under sub. (a), provided that no person may receive double compensation under both <cite path="§GNC.4.3.090">this section</cite> and <cite path="§GNC.4.3.080">Section GNC.4.3.080</cite>.</text>
+            <text>Punitive damages of not more than 3 times the amount under sub. (a), provided that no person may receive double compensation under both <cite path="|GNC.4.3.090">this section</cite> and <cite path="|GNC.4.3.080">Section GNC.4.3.080</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -782,7 +782,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>The plaintiff has the burden of proving by a preponderance of the evidence that a violation occurred under <cite path="§GNC.4.3.080">Section GNC.4.3.080</cite>. A judgment under <cite path="§GNC.4.3.080">Section GNC.4.3.080</cite> is not a condition precedent to bringing an action, obtaining a judgment or collecting that judgment under <cite path="§GNC.4.3.090">this section</cite>.</text>
+          <text>The plaintiff has the burden of proving by a preponderance of the evidence that a violation occurred under <cite path="|GNC.4.3.080">Section GNC.4.3.080</cite>. A judgment under <cite path="|GNC.4.3.080">Section GNC.4.3.080</cite> is not a condition precedent to bringing an action, obtaining a judgment or collecting that judgment under <cite path="|GNC.4.3.090">this section</cite>.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -833,7 +833,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Knowingly permits any telephone under his or her control to be used for any purpose prohibited by <cite path="§GNC.4.4.020">this section</cite>.</text>
+          <text>Knowingly permits any telephone under his or her control to be used for any purpose prohibited by <cite path="|GNC.4.4.020">this section</cite>.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -859,7 +859,7 @@
       <section>
         <num>GNC.4.4.030</num>
         <heading>Unlawful Use of Computerized Communication Systems</heading>
-        <text>In <cite path="§GNC.4.4.030">this section</cite>, "message" means any transfer of signs, signals, writing, images, sounds, data or intelligence of any nature, or any transfer of a computer program, sent or received on the Lac Courte Oreilles Reservation. Whoever does any of the following shall forfeit not more than $5,000.</text>
+        <text>In <cite path="|GNC.4.4.030">this section</cite>, "message" means any transfer of signs, signals, writing, images, sounds, data or intelligence of any nature, or any transfer of a computer program, sent or received on the Lac Courte Oreilles Reservation. Whoever does any of the following shall forfeit not more than $5,000.</text>
         <para>
           <num>(a)</num>
           <text>With intent to harass, annoy or offend another person, sends a message to the person on an electronic mail or other computerized communication system and in that message uses any obscene, lewd or profane language or suggests any lewd or lascivious act.</text>
@@ -886,7 +886,7 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>Knowingly permits or directs another person to send a message prohibited by <cite path="§GNC.4.4.030">this section</cite> from any computer terminal or other device that is used to send messages on an electronic mail or other computerized communication system and that is under his or her control.</text>
+          <text>Knowingly permits or directs another person to send a message prohibited by <cite path="|GNC.4.4.030">this section</cite> from any computer terminal or other device that is used to send messages on an electronic mail or other computerized communication system and that is under his or her control.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -926,7 +926,7 @@
         <heading>Harassment</heading>
         <para>
           <num>(a)</num>
-          <text>In <cite path="§GNC.4.4.040">this section</cite> "course of conduct" means a pattern of conduct composed of a series of acts over a period of time, however short.</text>
+          <text>In <cite path="|GNC.4.4.040">this section</cite> "course of conduct" means a pattern of conduct composed of a series of acts over a period of time, however short.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -942,7 +942,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text><cite path="§GNC.4.4.040">This section</cite> does not prohibit any person from participating in lawful conduct in labor disputes.</text>
+          <text><cite path="|GNC.4.4.040">This section</cite> does not prohibit any person from participating in lawful conduct in labor disputes.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -985,7 +985,7 @@
       <section>
         <num>GNC.4.4.060</num>
         <heading>Adoption of State Laws</heading>
-        <text>The provisions of <cite doc="Wis. Stat." path="§961.41">Wisconsin Statutes Section 961.41</cite>(3g)(e) relating to possession of marijuana, Subchapter VI of the Uniform Controlled Substances Act relating to drug paraphernalia, and <cite path="VIII|4|subch|215.07|(4)">Section 215.07(4)</cite> relating to underage drinking for which the penalties for violations thereof are forfeiture, are adopted as part of <cite path="§GNC.4.4.040">Section GNC.4.4.040</cite>. A violation of <cite path="§GNC.4.4.040">Section GNC.4.4.040</cite> shall subject the person to forfeiture not to exceed the maximum provided for in the corresponding Wisconsin Statute in addition to the other civil penalties prescribed thereby.</text>
+        <text>The provisions of <cite doc="Wis. Stat." path="§961.41">Wisconsin Statutes Section 961.41</cite>(3g)(e) relating to possession of marijuana, Subchapter VI of the Uniform Controlled Substances Act relating to drug paraphernalia, and <cite path="VIII|4|subch|215.07|(4)">Section 215.07(4)</cite> relating to underage drinking for which the penalties for violations thereof are forfeiture, are adopted as part of <cite path="|GNC.4.4.040">Section GNC.4.4.040</cite>. A violation of <cite path="|GNC.4.4.040">Section GNC.4.4.040</cite> shall subject the person to forfeiture not to exceed the maximum provided for in the corresponding Wisconsin Statute in addition to the other civil penalties prescribed thereby.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1003,7 +1003,7 @@
       <section>
         <num>GNC.4.5.010</num>
         <heading>Adoption of State Laws</heading>
-        <text>Each of the regulations contained in chapters 341-348, Wisconsin Statutes, for which the penalty for a violation thereof is a forfeiture, is adopted as a part of <cite path="§GNC.4.5.010">this section</cite>. The violation by any person of any such regulation is a violation of <cite path="§GNC.4.5.010">this section</cite>, and shall subject the person to a forfeiture not to exceed the maximum forfeiture provided in the corresponding state law. As to any particular violation or alleged violation, the content of chapters 341-348, Wisconsin Statutes, and the maximum forfeiture for any particular violation or alleged violation, shall be determined by the language of the statute and the maximum forfeiture provided at the time of the particular violation or alleged violation</text>
+        <text>Each of the regulations contained in chapters 341-348, Wisconsin Statutes, for which the penalty for a violation thereof is a forfeiture, is adopted as a part of <cite path="|GNC.4.5.010">this section</cite>. The violation by any person of any such regulation is a violation of <cite path="|GNC.4.5.010">this section</cite>, and shall subject the person to a forfeiture not to exceed the maximum forfeiture provided in the corresponding state law. As to any particular violation or alleged violation, the content of chapters 341-348, Wisconsin Statutes, and the maximum forfeiture for any particular violation or alleged violation, shall be determined by the language of the statute and the maximum forfeiture provided at the time of the particular violation or alleged violation</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1016,7 +1016,7 @@
       <section>
         <num>GNC.4.5.020</num>
         <heading>Suspension and Revocation</heading>
-        <text>The violation by any person of any regulation as set forth in <cite path="§GNC.4.5.010">Section GNC.4.5.010</cite> shall subject the person to a suspension or revocation of license or operating privileges for a period not to exceed the maximum suspension or revocation period provided in the corresponding state law. The Clerk of Court shall report all orders for suspension or revocation to the state Department of Transportation to effect such suspension or revocation.</text>
+        <text>The violation by any person of any regulation as set forth in <cite path="|GNC.4.5.010">Section GNC.4.5.010</cite> shall subject the person to a suspension or revocation of license or operating privileges for a period not to exceed the maximum suspension or revocation period provided in the corresponding state law. The Clerk of Court shall report all orders for suspension or revocation to the state Department of Transportation to effect such suspension or revocation.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1409,7 +1409,7 @@
           <text>Exceptions.</text>
           <para>
             <num>(1)</num>
-            <text><cite path="§GNC.4.8.030">This section</cite> shall not apply to a minor:</text>
+            <text><cite path="|GNC.4.8.030">This section</cite> shall not apply to a minor:</text>
             <para>
               <num>(A)</num>
               <text>Who is on his or her own premises or in the area immediately adjacent thereto.</text>
@@ -1429,7 +1429,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text><cite path="§GNC.4.8.030">This section</cite> shall not apply to emergency situations defined as an unforeseen combination of circumstances that calls for immediate action. An emergency situation includes, but is not limited to, a fire, a natural disaster, an automobile accident, or any situation requiring immediate action to prevent serious bodily injury or loss of life or serious damage to significant property.</text>
+            <text><cite path="|GNC.4.8.030">This section</cite> shall not apply to emergency situations defined as an unforeseen combination of circumstances that calls for immediate action. An emergency situation includes, but is not limited to, a fire, a natural disaster, an automobile accident, or any situation requiring immediate action to prevent serious bodily injury or loss of life or serious damage to significant property.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -1445,16 +1445,16 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>If a parent, guardian, or custodian was informed by any law enforcement officer of a separate violation of <cite path="§GNC.4.8.030">this section</cite> occurring within thirty (30) days of the present offense, it shall be rebuttably presumed that the parent, guardian or custodian allowed or permitted the present violation.</text>
+            <text>If a parent, guardian, or custodian was informed by any law enforcement officer of a separate violation of <cite path="|GNC.4.8.030">this section</cite> occurring within thirty (30) days of the present offense, it shall be rebuttably presumed that the parent, guardian or custodian allowed or permitted the present violation.</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>Exception. Any parent, guardian or custodian herein who shall have made a missing person notification to the Sawyer County Sheriff's Department shall not be considered to have allowed or permitted any person under eighteen (18) years of age to violate <cite path="§GNC.4.8.030">this section</cite>.</text>
+            <text>Exception. Any parent, guardian or custodian herein who shall have made a missing person notification to the Sawyer County Sheriff's Department shall not be considered to have allowed or permitted any person under eighteen (18) years of age to violate <cite path="|GNC.4.8.030">this section</cite>.</text>
           </para>
         </para>
         <para>
           <num>(e)</num>
-          <text>Regulation of Other Adults. It shall be unlawful for any person, firm, or organization operating or in charge of any place of amusement, entertainment, refreshment or other place of business to permit any minor to loiter, loaf or idle in such place during the hours prohibited by <cite path="§GNC.4.8.030">this section</cite>. Whenever the owner or person in charge or in control of any place of amusement, entertainment, refreshment or other place of business during the hours prohibited by <cite path="§GNC.4.8.030">this section</cite> shall find a minor loitering, loafing or idling in such place of business, the operator shall immediately notify the Sawyer County Sheriff's Department and inform them of the violation.</text>
+          <text>Regulation of Other Adults. It shall be unlawful for any person, firm, or organization operating or in charge of any place of amusement, entertainment, refreshment or other place of business to permit any minor to loiter, loaf or idle in such place during the hours prohibited by <cite path="|GNC.4.8.030">this section</cite>. Whenever the owner or person in charge or in control of any place of amusement, entertainment, refreshment or other place of business during the hours prohibited by <cite path="|GNC.4.8.030">this section</cite> shall find a minor loitering, loafing or idling in such place of business, the operator shall immediately notify the Sawyer County Sheriff's Department and inform them of the violation.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
@@ -1483,18 +1483,18 @@
         <heading>Penalties</heading>
         <para>
           <num>(a)</num>
-          <text>Warning. The first time any person is suspected of violating any provisions of <cite path="GNC|GNC.4">this chapter</cite>, the person may be given a warning and advised of the general requirements of <cite path="GNC|GNC.4">this chapter</cite> and that a subsequent violation shall result in the application of a penalty or forfeiture as provided in <cite path="§GNC.4.8.050">this section</cite>.</text>
+          <text>Warning. The first time any person is suspected of violating any provisions of <cite path="GNC|GNC.4">this chapter</cite>, the person may be given a warning and advised of the general requirements of <cite path="GNC|GNC.4">this chapter</cite> and that a subsequent violation shall result in the application of a penalty or forfeiture as provided in <cite path="|GNC.4.8.050">this section</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Subsequent Offense - Minor. Any minor who has been warned in the manner provided in <cite path="§GNC.4.8.050|(a)">Section GNC.4.8.050(a)</cite> and who thereafter shall violate <cite path="§GNC.4.8.030|(a)">Section GNC.4.8.030(a)</cite> or <cite path="§GNC.4.8.030|(b)">Section GNC.4.8.030(b)</cite> shall, upon conviction thereof, forfeit not less than One Dollar ($1.00) nor more than Twenty-Five Dollars ($25.00), together with the cost of prosecution. The Lac Courte Oreilles Tribal Court may also order the child cited herein to perform community service appropriate to the age of the minor and circumstances of the violation. The parent, guardian or person having legal custody of the minor cited herein is responsible to the court to see that the minor complies with the court-ordered community service.</text>
+          <text>Subsequent Offense - Minor. Any minor who has been warned in the manner provided in <cite path="|GNC.4.8.050|(a)">Section GNC.4.8.050(a)</cite> and who thereafter shall violate <cite path="|GNC.4.8.030|(a)">Section GNC.4.8.030(a)</cite> or <cite path="|GNC.4.8.030|(b)">Section GNC.4.8.030(b)</cite> shall, upon conviction thereof, forfeit not less than One Dollar ($1.00) nor more than Twenty-Five Dollars ($25.00), together with the cost of prosecution. The Lac Courte Oreilles Tribal Court may also order the child cited herein to perform community service appropriate to the age of the minor and circumstances of the violation. The parent, guardian or person having legal custody of the minor cited herein is responsible to the court to see that the minor complies with the court-ordered community service.</text>
         </para>
         <para>
           <num>(c)</num>
           <text>Subsequent Offense - Parent or Guardian.</text>
           <para>
             <num>(1)</num>
-            <text>Any parent, guardian or person having legal custody of a minor, and who has been warned in the manner provided in <cite path="§GNC.4.8.050|(a)">Section GNC.4.8.050(a)</cite>, and when minor thereafter violates any of the provisions of <cite path="GNC|GNC.4">this chapter</cite> shall be subject to a forfeiture of:</text>
+            <text>Any parent, guardian or person having legal custody of a minor, and who has been warned in the manner provided in <cite path="|GNC.4.8.050|(a)">Section GNC.4.8.050(a)</cite>, and when minor thereafter violates any of the provisions of <cite path="GNC|GNC.4">this chapter</cite> shall be subject to a forfeiture of:</text>
             <para>
               <num>(A)</num>
               <text>not less than Twenty-Five Dollars ($25.00) and not more than Two Hundred-Fifty Dollars ($250.00) for any violation that not been preceded within five (5) years by a previous conviction;</text>
@@ -1519,7 +1519,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Other Adults. Any person, firm or organization who has been warned under <cite path="§GNC.4.8.050|(a)">Section GNC.4.8.050(a)</cite> and who thereafter violates <cite path="§GNC.4.8.030|(e)">Section GNC.4.8.030(e)</cite>, shall be subject to a forfeiture of not less than Twenty-Five Dollars ($25.00) and not more than Two Hundred-Fifty Dollars ($250.00), together with the costs of prosecution.</text>
+          <text>Other Adults. Any person, firm or organization who has been warned under <cite path="|GNC.4.8.050|(a)">Section GNC.4.8.050(a)</cite> and who thereafter violates <cite path="|GNC.4.8.030|(e)">Section GNC.4.8.030(e)</cite>, shall be subject to a forfeiture of not less than Twenty-Five Dollars ($25.00) and not more than Two Hundred-Fifty Dollars ($250.00), together with the costs of prosecution.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -1740,7 +1740,7 @@
       <section>
         <num>GNC.4.9.060</num>
         <heading>Permit Conditions</heading>
-        <text>Burning permits shall be issued only after consideration of the conditions in <cite path="§GNC.4.9.050">Section GNC.4.9.050</cite> and a determination by the authorized permit-issuing agent from the Lac Courte Oreilles Conservation Department or the Lac Courte Oreilles Fire Department that the danger to the resources will be minimized by allowing the permittee to bum if he or she complies with the conditions of the permit and takes all reasonable precautions to prevent the escape of the fire.</text>
+        <text>Burning permits shall be issued only after consideration of the conditions in <cite path="|GNC.4.9.050">Section GNC.4.9.050</cite> and a determination by the authorized permit-issuing agent from the Lac Courte Oreilles Conservation Department or the Lac Courte Oreilles Fire Department that the danger to the resources will be minimized by allowing the permittee to bum if he or she complies with the conditions of the permit and takes all reasonable precautions to prevent the escape of the fire.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1755,7 +1755,7 @@
         <heading>Permit Restrictions</heading>
         <para>
           <num>(a)</num>
-          <text>Permits issued pursuant to <cite path="§GNC.4.9.070">this section</cite> shall include but not limited to restrictions concerning: time of day, location, and minimum required precautionary measures, and the length of the burning period of the permit.</text>
+          <text>Permits issued pursuant to <cite path="|GNC.4.9.070">this section</cite> shall include but not limited to restrictions concerning: time of day, location, and minimum required precautionary measures, and the length of the burning period of the permit.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1777,7 +1777,7 @@
       <section>
         <num>GNC.4.9.080</num>
         <heading>Special Authority to Restrict Burning</heading>
-        <text><cite path="GNC|GNC.4">This chapter</cite> authorizes the Lac Courte Oreilles Tribal Governing Board to restrict and forbid the setting of any type of fire or burning within the exterior boundaries of the Lac Courte Oreilles Reservation, by any person, when there is a dangerously dry season. Setting of fire or burning in this particular Section will include but will not be limited to the burning of paper or garbage, burning of leaves, campfires, outside cooking units with the exception that homes where a stove or appliance is located inside the home which is needed in the preparation of food or for heat will be exempted from the restriction and prohibition of fire or burning under <cite path="§GNC.4.9.080">this section</cite>. Proper notice will be given to the public when this restriction goes into effect by the following notification:</text>
+        <text><cite path="GNC|GNC.4">This chapter</cite> authorizes the Lac Courte Oreilles Tribal Governing Board to restrict and forbid the setting of any type of fire or burning within the exterior boundaries of the Lac Courte Oreilles Reservation, by any person, when there is a dangerously dry season. Setting of fire or burning in this particular Section will include but will not be limited to the burning of paper or garbage, burning of leaves, campfires, outside cooking units with the exception that homes where a stove or appliance is located inside the home which is needed in the preparation of food or for heat will be exempted from the restriction and prohibition of fire or burning under <cite path="|GNC.4.9.080">this section</cite>. Proper notice will be given to the public when this restriction goes into effect by the following notification:</text>
         <para>
           <num>(a)</num>
           <text>An announcement in the Sawyer County Record and the LCO Times.</text>
@@ -1802,7 +1802,7 @@
       <section>
         <num>GNC.4.9.090</num>
         <heading>Negligent Handling of Any Materials, Which Might Cause a Forest Fire</heading>
-        <text>Any person who would start, kindle, or otherwise encourage a forest fire as defined in <cite path="§GNC.4.9.030">Section GNC.4.9.030</cite>, through the careless use of smoking materials, fireworks, campfires, motorized equipment, flammable substances, or any other material or item of equipment shall be in violation of <cite path="§GNC.4.9.090">this section</cite>. Any person whose motorbike, motorcycle, automobile, all-terrain vehicle or other vehicle, which is the cause of a fire, shall be in violation of <cite path="§GNC.4.9.090">this section</cite>.</text>
+        <text>Any person who would start, kindle, or otherwise encourage a forest fire as defined in <cite path="|GNC.4.9.030">Section GNC.4.9.030</cite>, through the careless use of smoking materials, fireworks, campfires, motorized equipment, flammable substances, or any other material or item of equipment shall be in violation of <cite path="|GNC.4.9.090">this section</cite>. Any person whose motorbike, motorcycle, automobile, all-terrain vehicle or other vehicle, which is the cause of a fire, shall be in violation of <cite path="|GNC.4.9.090">this section</cite>.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -2421,7 +2421,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>The department shall issue a license upon payment of the licensing fee and presentment of a certificate evidencing current rabies vaccination, as required under <cite path="§GNC.4.11.100">Section GNC.4.11.100</cite>.</text>
+            <text>The department shall issue a license upon payment of the licensing fee and presentment of a certificate evidencing current rabies vaccination, as required under <cite path="|GNC.4.11.100">Section GNC.4.11.100</cite>.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -2481,7 +2481,7 @@
           <text>All owners and keepers of any dog within the LCO reservation shall ensure that such dog is physically restrained by a leash of not more than ten (10) feet in length, at all times, provided however:</text>
           <para>
             <num>(a)</num>
-            <text>a dog may be unleashed within premises, as defined in <cite path="§GNC.4.11.080|(o)">Section GNC.4.11.080(o)</cite>;</text>
+            <text>a dog may be unleashed within premises, as defined in <cite path="|GNC.4.11.080|(o)">Section GNC.4.11.080(o)</cite>;</text>
           </para>
           <para>
             <num>(b)</num>
@@ -2557,7 +2557,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>all animals kept outdoors have access to adequate shelter, as defined in <cite path="§GNC.4.11.080|(a)">Section GNC.4.11.080(a)</cite>, which is appropriate to the local climatic conditions for the species concerned;</text>
+              <text>all animals kept outdoors have access to adequate shelter, as defined in <cite path="|GNC.4.11.080|(a)">Section GNC.4.11.080(a)</cite>, which is appropriate to the local climatic conditions for the species concerned;</text>
             </para>
             <para>
               <num>(3)</num>
@@ -2583,7 +2583,7 @@
         <section>
           <num>GNC.4.11.200</num>
           <heading>Cruel Treatment</heading>
-          <text>No person shall intentionally treat any animal in a cruel and inhumane manner, including without limitation, exposing any animal to any known poisonous or controlled substance with the intent to harm, poison or kill the animal. <cite path="§GNC.4.11.200">This section</cite> shall not apply to:</text>
+          <text>No person shall intentionally treat any animal in a cruel and inhumane manner, including without limitation, exposing any animal to any known poisonous or controlled substance with the intent to harm, poison or kill the animal. <cite path="|GNC.4.11.200">This section</cite> shall not apply to:</text>
           <para>
             <num>(a)</num>
             <text>any person using a poisonous substance solely for the purpose of rodent or pest extermination; or</text>
@@ -2640,19 +2640,19 @@
             <text>The department has the authority to impound any animal in the following situations:</text>
             <para>
               <num>(1)</num>
-              <text>any dog or cat which is not licensed in violation of <cite path="§GNC.4.11.090">Section GNC.4.11.090</cite>;</text>
+              <text>any dog or cat which is not licensed in violation of <cite path="|GNC.4.11.090">Section GNC.4.11.090</cite>;</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>any dog, cat or other animal which is not vaccinated in violation of <cite path="§GNC.4.11.100">Section GNC.4.11.100</cite>;</text>
+              <text>any dog, cat or other animal which is not vaccinated in violation of <cite path="|GNC.4.11.100">Section GNC.4.11.100</cite>;</text>
             </para>
             <para>
               <num>(3)</num>
-              <text>any dog or cat which is not wearing a collar or harness or tags in violation of <cite path="§GNC.4.11.190">Section GNC.4.11.190</cite>;</text>
+              <text>any dog or cat which is not wearing a collar or harness or tags in violation of <cite path="|GNC.4.11.190">Section GNC.4.11.190</cite>;</text>
             </para>
             <para>
               <num>(4)</num>
-              <text>any dog which is running at large in violation of <cite path="§GNC.4.11.130">Section GNC.4.11.130</cite> or not properly restrained or maintained as required under <cite path="§GNC.4.11.140">Section GNC.4.11.140</cite>;</text>
+              <text>any dog which is running at large in violation of <cite path="|GNC.4.11.130">Section GNC.4.11.130</cite> or not properly restrained or maintained as required under <cite path="|GNC.4.11.140">Section GNC.4.11.140</cite>;</text>
             </para>
             <para>
               <num>(5)</num>
@@ -2668,15 +2668,15 @@
             </para>
             <para>
               <num>(8)</num>
-              <text>any dangerous animal which is kept, maintained or harbored within the LCO Reservation in violation of <cite path="§GNC.4.11.300">Section GNC.4.11.300</cite>;</text>
+              <text>any dangerous animal which is kept, maintained or harbored within the LCO Reservation in violation of <cite path="|GNC.4.11.300">Section GNC.4.11.300</cite>;</text>
             </para>
             <para>
               <num>(9)</num>
-              <text>any animal which is not confined within the premises of their owners or keepers during a public emergency in violation of <cite path="§GNC.4.11.280">Section GNC.4.11.280</cite>; and</text>
+              <text>any animal which is not confined within the premises of their owners or keepers during a public emergency in violation of <cite path="|GNC.4.11.280">Section GNC.4.11.280</cite>; and</text>
             </para>
             <para>
               <num>(10)</num>
-              <text>any wild or exotic animal which is kept, harbored or maintained within the LCO reservation not in accordance with <cite path="§GNC.4.11.330">Section GNC.4.11.330</cite>.</text>
+              <text>any wild or exotic animal which is kept, harbored or maintained within the LCO reservation not in accordance with <cite path="|GNC.4.11.330">Section GNC.4.11.330</cite>.</text>
             </para>
           </para>
           <para>
@@ -2704,7 +2704,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>Any owner or keeper entitled to regain custody of an animal pursuant to the provisions of this ordinance who fails to do so within five (5) days following impoundment or expiration of the quarantine period, as applicable, including without limitation, making full payment of all costs of impounding the animal, shall have abandoned all legal rights and interests in the animal, and the department shall be entitled to proceed under <cite path="§GNC.4.11.340">Section GNC.4.11.340</cite>.</text>
+            <text>Any owner or keeper entitled to regain custody of an animal pursuant to the provisions of this ordinance who fails to do so within five (5) days following impoundment or expiration of the quarantine period, as applicable, including without limitation, making full payment of all costs of impounding the animal, shall have abandoned all legal rights and interests in the animal, and the department shall be entitled to proceed under <cite path="|GNC.4.11.340">Section GNC.4.11.340</cite>.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -2719,7 +2719,7 @@
           <heading>Disposition of Animals</heading>
           <para>
             <num>(a)</num>
-            <text>If any owner or keeper of an animal fails to properly regain custody of an animal impounded or quarantined by the department, or the animal is an exotic or wild animal for which no permit has been obtained under <cite path="§GNC.4.11.330">Section GNC.4.11.330</cite> or a dangerous animal for which the right to appeal under <cite path="§GNC.4.11.390">Section GNC.4.11.390</cite> has expired, the director or his authorized agent, in his discretion, may give or sell the animal to a suitable person, as determined by the department or euthanize the animal.</text>
+            <text>If any owner or keeper of an animal fails to properly regain custody of an animal impounded or quarantined by the department, or the animal is an exotic or wild animal for which no permit has been obtained under <cite path="|GNC.4.11.330">Section GNC.4.11.330</cite> or a dangerous animal for which the right to appeal under <cite path="|GNC.4.11.390">Section GNC.4.11.390</cite> has expired, the director or his authorized agent, in his discretion, may give or sell the animal to a suitable person, as determined by the department or euthanize the animal.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -2727,7 +2727,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>Notwithstanding any other provision of this ordinance, including without limitation <cite path="§GNC.4.11.340|(b)">Section GNC.4.11.340(b)</cite>, the department may euthanize any impounded or quarantined animal, at any time without prior notice to the owner or keeper, if the department concludes that the animal exhibits signs of rabies. The director shall consult with qualified medical, public health, or veterinary personnel prior to concluding that the animal exhibits signs of rabies.</text>
+            <text>Notwithstanding any other provision of this ordinance, including without limitation <cite path="|GNC.4.11.340|(b)">Section GNC.4.11.340(b)</cite>, the department may euthanize any impounded or quarantined animal, at any time without prior notice to the owner or keeper, if the department concludes that the animal exhibits signs of rabies. The director shall consult with qualified medical, public health, or veterinary personnel prior to concluding that the animal exhibits signs of rabies.</text>
           </para>
           <annotations>
             <annotation type="Prior Codifications">§GNC.4.11.260 was formerly codified as VIII LCOTCL §VI</annotation>
@@ -2754,7 +2754,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>The owner or keeper of a quarantined animal shall keep the animal confined, as defined in <cite path="§GNC.4.11.250|(c)">Section GNC.4.11.250(c)</cite> for the quarantine period. The department shall have the authority to observe the animal at any place of confinement during the period of quarantine.</text>
+            <text>The owner or keeper of a quarantined animal shall keep the animal confined, as defined in <cite path="|GNC.4.11.250|(c)">Section GNC.4.11.250(c)</cite> for the quarantine period. The department shall have the authority to observe the animal at any place of confinement during the period of quarantine.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -2810,7 +2810,7 @@
         <section>
           <num>GNC.4.11.300</num>
           <heading>Dangerous Animals</heading>
-          <text>No person shall keep, maintain or harbor a dangerous animal within the LCO reservation, provided, the department has provided the person with written notice, either personally or by certified mail declaring an animal to be a dangerous animal, subject to the right of appeal under <cite path="§GNC.4.11.390">Section GNC.4.11.390</cite>.</text>
+          <text>No person shall keep, maintain or harbor a dangerous animal within the LCO reservation, provided, the department has provided the person with written notice, either personally or by certified mail declaring an animal to be a dangerous animal, subject to the right of appeal under <cite path="|GNC.4.11.390">Section GNC.4.11.390</cite>.</text>
           <annotations>
             <annotation type="Prior Codifications">§GNC.4.11.300 was formerly codified as VIII LCOTCL §VI</annotation>
           </annotations>
@@ -2845,7 +2845,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>apply for and obtain a permit for such animal from the department, subject to the right of appeal under <cite path="§GNC.4.11.390">Section GNC.4.11.390</cite>, in accordance with and subject to the following:</text>
+            <text>apply for and obtain a permit for such animal from the department, subject to the right of appeal under <cite path="|GNC.4.11.390">Section GNC.4.11.390</cite>, in accordance with and subject to the following:</text>
             <para>
               <num>(1)</num>
               <text>he shall file a permit application with the department within forty five (45) days of the effective date of <cite path="GNC|GNC.4">this chapter</cite>, which shall at a minimum include the species, age, sex of such animal and the plan for the housing and containing such animal;</text>
@@ -2901,11 +2901,11 @@
           </para>
           <para>
             <num>(i)</num>
-            <text>declare any animal to be a dangerous animal after investigation, subject to the right of appeal under <cite path="§GNC.4.11.390">Section GNC.4.11.390</cite>;</text>
+            <text>declare any animal to be a dangerous animal after investigation, subject to the right of appeal under <cite path="|GNC.4.11.390">Section GNC.4.11.390</cite>;</text>
           </para>
           <para>
             <num>(j)</num>
-            <text>issue or refuse to issue permits for wild or exotic animals in accordance with <cite path="§GNC.4.11.330">Section GNC.4.11.330</cite>, subject to the right of appeal under <cite path="§GNC.4.11.390">Section GNC.4.11.390</cite>; and</text>
+            <text>issue or refuse to issue permits for wild or exotic animals in accordance with <cite path="|GNC.4.11.330">Section GNC.4.11.330</cite>, subject to the right of appeal under <cite path="|GNC.4.11.390">Section GNC.4.11.390</cite>; and</text>
           </para>
           <para>
             <num>(k)</num>
@@ -2983,7 +2983,7 @@
           <heading>Appeal of Decision of Department</heading>
           <para>
             <num>(a)</num>
-            <text>Any owner or keeper of any animal who disagrees with a decision of the department made under <cite path="§GNC.4.11.300">Section GNC.4.11.300</cite> relating to designation of a dangerous animal; or <cite path="§GNC.4.11.330">Section GNC.4.11.330</cite> relating to a permit for a wild or exotic animal may challenge the decision of the department in LCO tribal court by filing a written appeal within three (3) days of the date the department communicated its decision to the owner or keeper, excluding weekends, holidays and other days in which the LCO tribal court is closed.</text>
+            <text>Any owner or keeper of any animal who disagrees with a decision of the department made under <cite path="|GNC.4.11.300">Section GNC.4.11.300</cite> relating to designation of a dangerous animal; or <cite path="|GNC.4.11.330">Section GNC.4.11.330</cite> relating to a permit for a wild or exotic animal may challenge the decision of the department in LCO tribal court by filing a written appeal within three (3) days of the date the department communicated its decision to the owner or keeper, excluding weekends, holidays and other days in which the LCO tribal court is closed.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -3093,7 +3093,7 @@
       <section>
         <num>GNC.4.12.080</num>
         <heading>Definitions</heading>
-        <text>Any term not defined in <cite path="§GNC.4.12.080">this section</cite> shall be given its ordinary meaning, and the below terms shall have the following meanings, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="|GNC.4.12.080">this section</cite> shall be given its ordinary meaning, and the below terms shall have the following meanings, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text>Tribal Lands means any land or interest in land within the exterior boundaries of the Reservation, which is held in trust by the United States of America for the Tribe or its members, or held by the Tribe in fee or in any other form.</text>
@@ -3434,7 +3434,7 @@
         <heading>Permit Required</heading>
         <para>
           <num>(a)</num>
-          <text>Except as provided in <cite path="§GNC.4.13.080">Section GNC.4.13.080</cite>, no person shall enter upon any Off Reservation Territory which has been posted without first obtaining a permit from the Department.</text>
+          <text>Except as provided in <cite path="|GNC.4.13.080">Section GNC.4.13.080</cite>, no person shall enter upon any Off Reservation Territory which has been posted without first obtaining a permit from the Department.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3712,7 +3712,7 @@
       <section>
         <num>GNC.5.2.010</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§GNC.5.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="|GNC.5.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text><strong>"Truant"</strong> is understood by this ordinance to mean any enrolled person who is absent from school without an acceptable excuse for part or all of any day on which school is held during a school semester.  Acceptable excuses are the following:</text>
@@ -3739,7 +3739,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text><strong>"Dropout"</strong> means a person 18 years or younger who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite path="§GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> of this ordinance.</text>
+          <text><strong>"Dropout"</strong> means a person 18 years or younger who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite path="|GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -3868,25 +3868,25 @@
         <heading>Failure to Cause a Person to Attend School Regularly</heading>
         <para>
           <num>(a)</num>
-          <text>Unless the school age person is excepted or excused under <cite path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age person, shall cause the school age person to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age person should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age person becomes 18 years of age.</text>
+          <text>Unless the school age person is excepted or excused under <cite path="|GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age person, shall cause the school age person to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age person should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age person becomes 18 years of age.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text><cite path="§GNC.5.3.040">This section</cite> does not apply to:</text>
+          <text><cite path="|GNC.5.3.040">This section</cite> does not apply to:</text>
           <para>
             <num>(1)</num>
-            <text>A school age person is exempted or excused under <cite path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school</text>
+            <text>A school age person is exempted or excused under <cite path="|GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>To a person who proves that he or she is unable to comply with the requirements of <cite path="§GNC.5.3.040">this section</cite> because of the disobedience of the school age person, in which case the action shall be dismissed, and the Tribal Court may appoint a guardian ad litem relative to such school age person or make such reference to the Indian Child Welfare Department, Law Enforcement or other authority as deemed appropriate.</text>
+            <text>To a person who proves that he or she is unable to comply with the requirements of <cite path="|GNC.5.3.040">this section</cite> because of the disobedience of the school age person, in which case the action shall be dismissed, and the Tribal Court may appoint a guardian ad litem relative to such school age person or make such reference to the Indian Child Welfare Department, Law Enforcement or other authority as deemed appropriate.</text>
           </para>
           <para>
             <num>(3)</num>
             <text>If the Court determines that a person is guilty of Failure to Cause a Person to Attend School Regularly, the Court may:</text>
             <para>
               <num>(A)</num>
-              <text>Order a forfeiture of not more than $500 plus costs to be assessed against the person unless contrary to <cite path="§GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> and <cite path="§GNC.5.3.020|(a)|(5)">Section GNC.5.3.020(a)(5)</cite>.</text>
+              <text>Order a forfeiture of not more than $500 plus costs to be assessed against the person unless contrary to <cite path="|GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> and <cite path="|GNC.5.3.020|(a)|(5)">Section GNC.5.3.020(a)(5)</cite>.</text>
             </para>
             <para>
               <num>(B)</num>

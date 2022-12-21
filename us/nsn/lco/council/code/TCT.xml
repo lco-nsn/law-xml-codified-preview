@@ -116,7 +116,7 @@
       <section>
         <num>TCT.1.2.010</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§TCT.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="|TCT.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text><strong>"Agent"</strong> shall mean a person who is authorized to act on behalf of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians with respect to a specific transaction or transactions. For the purposes of this ordinance, agent shall include all individuals elected or appointed to serve on a board, committee, or commission of the Tribe.</text>
@@ -347,7 +347,7 @@
       <section>
         <num>TCT.2.2.010</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§TCT.2.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="|TCT.2.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text><strong>"Appellate Court"</strong> shall mean the appellate court as designated in <cite path="TCT|TCT.3">Chapter TCT.3</cite> – Appellate Code.</text>
@@ -843,7 +843,7 @@
       <section>
         <num>TCT.2.7.020</num>
         <heading>Closed Files</heading>
-        <text>All juvenile and domestic relations files, and all other files specified by the Tribal Code of Law, shall be closed. The court may in its discretion and in the interest of privacy, deem other court files as closed files. All closed files shall be unavailable for public inspection without an order of the Tribal Court. <cite path="§TCT.2.7.020">This section</cite> shall not be construed to prevent law enforcement personnel or other Tribal entities/departments as otherwise authorized by law, from inspecting files of the Tribal Court upon request.</text>
+        <text>All juvenile and domestic relations files, and all other files specified by the Tribal Code of Law, shall be closed. The court may in its discretion and in the interest of privacy, deem other court files as closed files. All closed files shall be unavailable for public inspection without an order of the Tribal Court. <cite path="|TCT.2.7.020">This section</cite> shall not be construed to prevent law enforcement personnel or other Tribal entities/departments as otherwise authorized by law, from inspecting files of the Tribal Court upon request.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
@@ -901,7 +901,7 @@
         <heading>Procedure for Admission</heading>
         <para>
           <num>(a)</num>
-          <text>An attorney for the purposes of <cite path="TCT|TCT.2|TCT.2.8">this subchapter</cite> shall be a person who has graduated from an American Bar Association accredited institution and has been admitted to a court or jurisdiction. A Lay Advocate is a person who has completed certified training in the practice of law in tribal courts.  A Lay advocate cannot be an attorney who is inactive or is not in current standing in another jurisdiction. Any person wishing to practice before the Tribal Court shall file a written request for admission with the Clerk of Court, accompanied by a Certificate of Good Standing from the State Bar or Supreme Court of the State in which such attorney is duly licensed to practice law. Such request shall be accompanied by an admission fee as determined by the Court rule pursuant to <cite path="§TCT.2.8.030|(b)|(1)">Section TCT.2.8.030(b)(1)</cite>, below.</text>
+          <text>An attorney for the purposes of <cite path="TCT|TCT.2|TCT.2.8">this subchapter</cite> shall be a person who has graduated from an American Bar Association accredited institution and has been admitted to a court or jurisdiction. A Lay Advocate is a person who has completed certified training in the practice of law in tribal courts.  A Lay advocate cannot be an attorney who is inactive or is not in current standing in another jurisdiction. Any person wishing to practice before the Tribal Court shall file a written request for admission with the Clerk of Court, accompanied by a Certificate of Good Standing from the State Bar or Supreme Court of the State in which such attorney is duly licensed to practice law. Such request shall be accompanied by an admission fee as determined by the Court rule pursuant to <cite path="|TCT.2.8.030|(b)|(1)">Section TCT.2.8.030(b)(1)</cite>, below.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -977,7 +977,7 @@
         <heading>Revocation of License to Practice Before the Court</heading>
         <para>
           <num>(a)</num>
-          <text>Any license issued pursuant to <cite path="§TCT.2.8.020">Section TCT.2.8.020</cite> and <cite path="§TCT.2.8.030">Section TCT.2.8.030</cite> of <cite path="TCT|TCT.2">this chapter</cite> may be revoked or suspended by the Tribal Court.  Such action may be taken on its own motion or upon sworn complaint by a citizen of the Tribe.</text>
+          <text>Any license issued pursuant to <cite path="|TCT.2.8.020">Section TCT.2.8.020</cite> and <cite path="|TCT.2.8.030">Section TCT.2.8.030</cite> of <cite path="TCT|TCT.2">this chapter</cite> may be revoked or suspended by the Tribal Court.  Such action may be taken on its own motion or upon sworn complaint by a citizen of the Tribe.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1003,7 +1003,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A hearing shall be conducted, within thirty days of the notice under <cite path="§TCT.2.8.050|(a)">Section TCT.2.8.050(a)</cite>, before a judge of the Tribal Court.  The Hearing will be informal and the Licensee shall be afforded the opportunity to respond to the complaint or the motion. The hearing will be final.</text>
+          <text>A hearing shall be conducted, within thirty days of the notice under <cite path="|TCT.2.8.050|(a)">Section TCT.2.8.050(a)</cite>, before a judge of the Tribal Court.  The Hearing will be informal and the Licensee shall be afforded the opportunity to respond to the complaint or the motion. The hearing will be final.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1019,7 +1019,7 @@
       <section>
         <num>TCT.2.8.060</num>
         <heading>Admissions and Continuation Rules</heading>
-        <text>The chief judge may, by rule, impose requirements in addition to those listed in <cite path="§TCT.2.8.030">Section TCT.2.8.030</cite> for admission to the bar and for continuation of membership in the bar, which may include education requirements, examination requirements, renewal fees, or any combination thereof.</text>
+        <text>The chief judge may, by rule, impose requirements in addition to those listed in <cite path="|TCT.2.8.030">Section TCT.2.8.030</cite> for admission to the bar and for continuation of membership in the bar, which may include education requirements, examination requirements, renewal fees, or any combination thereof.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
@@ -1037,7 +1037,7 @@
         <heading>Summons and Complaint</heading>
         <para>
           <num>(a)</num>
-          <text>An action in Tribal Court is commenced by the filing of a summons and complaint as prescribed by <cite path="§TCT.2.9.010">this section</cite>.</text>
+          <text>An action in Tribal Court is commenced by the filing of a summons and complaint as prescribed by <cite path="|TCT.2.9.010">this section</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1077,11 +1077,11 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The first appearance date specified under <cite path="§TCT.2.9.010|(b)|(3)">Section TCT.2.9.010(b)(3)</cite>, above shall be no less than 20 days and no more than 60 days from the date of issuance of the summons and complaint. Service, if by mail, shall be made no less than ten days prior to the first appearance date. Service, if personal, shall be made no less than seven days prior to the first appearance date.</text>
+          <text>The first appearance date specified under <cite path="|TCT.2.9.010|(b)|(3)">Section TCT.2.9.010(b)(3)</cite>, above shall be no less than 20 days and no more than 60 days from the date of issuance of the summons and complaint. Service, if by mail, shall be made no less than ten days prior to the first appearance date. Service, if personal, shall be made no less than seven days prior to the first appearance date.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>The Clerk of Court shall not accept for filing any summons and complaint that does not bear the dated signature of the plaintiff or plaintiff's attorney, or that is not accompanied by the filing fee as required by <cite path="§TCT.2.15.010|(a)">Section TCT.2.15.010(a)</cite> and, if applicable, the mailing fee as required by <cite path="§TCT.2.15.010|(b)">Section TCT.2.15.010(b)</cite>.</text>
+          <text>The Clerk of Court shall not accept for filing any summons and complaint that does not bear the dated signature of the plaintiff or plaintiff's attorney, or that is not accompanied by the filing fee as required by <cite path="|TCT.2.15.010|(a)">Section TCT.2.15.010(a)</cite> and, if applicable, the mailing fee as required by <cite path="|TCT.2.15.010|(b)">Section TCT.2.15.010(b)</cite>.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
@@ -1100,7 +1100,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><u>Natural Person under Disability</u>. When the defendant is a minor under the age of 18 years, service shall be made upon the minor's parent or guardian. When a minor defendant is 14 years of age or over, service shall also be made on the minor. When the defendant is an adult who is known by the plaintiff to have a guardian, service shall be made on the defendant and on the defendant's guardian. Service may be made personally as provided in <cite path="§TCT.2.9.020|(a)">Section TCT.2.9.020(a)</cite> above.</text>
+          <text><u>Natural Person under Disability</u>. When the defendant is a minor under the age of 18 years, service shall be made upon the minor's parent or guardian. When a minor defendant is 14 years of age or over, service shall also be made on the minor. When the defendant is an adult who is known by the plaintiff to have a guardian, service shall be made on the defendant and on the defendant's guardian. Service may be made personally as provided in <cite path="|TCT.2.9.020|(a)">Section TCT.2.9.020(a)</cite> above.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1108,19 +1108,19 @@
         </para>
         <para>
           <num>(d)</num>
-          <text><u>Service on other Governmental Bodies</u>. When the defendant is a governmental body other than the Tribe, service shall be made on the agent of the governmental body as designated under the law of the State in which service is made; however, service may be made either personally or by certified mail as provided in <cite path="§TCT.2.9.020">this section</cite>. If service is made personally, it may be made upon the agent so designated or upon the person apparently in charge of the agent's office.</text>
+          <text><u>Service on other Governmental Bodies</u>. When the defendant is a governmental body other than the Tribe, service shall be made on the agent of the governmental body as designated under the law of the State in which service is made; however, service may be made either personally or by certified mail as provided in <cite path="|TCT.2.9.020">this section</cite>. If service is made personally, it may be made upon the agent so designated or upon the person apparently in charge of the agent's office.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text><u>Service on Domestic or Foreign Corporations or Limited Liability Companies</u>. When the defendant is a domestic or foreign corporation or limited liability company, service shall be made on the agent of the domestic or foreign corporation or limited liability company as designated under the law of the State in which service is made; however, service may be made either personally or by certified mail as provided in <cite path="§TCT.2.9.020">this section</cite>. If service is made personally, it may be made upon the agent so designated or upon the person apparently in charge of the agent's office.</text>
+          <text><u>Service on Domestic or Foreign Corporations or Limited Liability Companies</u>. When the defendant is a domestic or foreign corporation or limited liability company, service shall be made on the agent of the domestic or foreign corporation or limited liability company as designated under the law of the State in which service is made; however, service may be made either personally or by certified mail as provided in <cite path="|TCT.2.9.020">this section</cite>. If service is made personally, it may be made upon the agent so designated or upon the person apparently in charge of the agent's office.</text>
         </para>
         <para>
           <num>(f)</num>
-          <text><u>Service by Certified Mail</u>. A plaintiff may request the Clerk of Court to make service by certified mail, in which case the Clerk of Court shall mail a copy of the summons and complaint to each defendant, other individual, or agents as designated according to defendant's status under <cite path="§TCT.2.9.020|(a)">Section TCT.2.9.020(a)</cite>, above. Mail shall be certified, return receipt requested, return requested if not claimed within five days. The Clerk shall charge the plaintiff the fees as required by <cite path="§TCT.2.15.010">Section TCT.2.15.010</cite> of this ordinance for service by certified mail, receipt requested, return postage guaranteed. Service by mail shall be complete upon mailing unless the envelope enclosing the summons and complaint is returned unopened by the post office to the Clerk of Court prior to the date of the first appearance.</text>
+          <text><u>Service by Certified Mail</u>. A plaintiff may request the Clerk of Court to make service by certified mail, in which case the Clerk of Court shall mail a copy of the summons and complaint to each defendant, other individual, or agents as designated according to defendant's status under <cite path="|TCT.2.9.020|(a)">Section TCT.2.9.020(a)</cite>, above. Mail shall be certified, return receipt requested, return requested if not claimed within five days. The Clerk shall charge the plaintiff the fees as required by <cite path="|TCT.2.15.010">Section TCT.2.15.010</cite> of this ordinance for service by certified mail, receipt requested, return postage guaranteed. Service by mail shall be complete upon mailing unless the envelope enclosing the summons and complaint is returned unopened by the post office to the Clerk of Court prior to the date of the first appearance.</text>
         </para>
         <para>
           <num>(g)</num>
-          <text><u>Service by Publication</u>. If service cannot reasonably be made under <cite path="§TCT.2.9.020|(a)">Section TCT.2.9.020(a)</cite> of this ordinance, service by publication may be made. Plaintiff shall cause a summons to be published in a newspaper of general circulation in the area of the defendant's last known residence. The summons for publication shall inform the defendant that a lawsuit has been filed against the defendant in Lac Courte Oreilles Tribal Court, and shall give the names of the parties, the case number, and the address of the Clerk of Court, with the advice that a copy of the full summons and complaint may be obtained at that address. Publication shall occur once each week for three consecutive weeks. The plaintiff shall file an affidavit showing the required publication and an affidavit detailing attempts to personally serve the defendant and to serve the defendant by mail and the reasons why such attempts failed and why the plaintiff does not believe additional attempts will be successful.</text>
+          <text><u>Service by Publication</u>. If service cannot reasonably be made under <cite path="|TCT.2.9.020|(a)">Section TCT.2.9.020(a)</cite> of this ordinance, service by publication may be made. Plaintiff shall cause a summons to be published in a newspaper of general circulation in the area of the defendant's last known residence. The summons for publication shall inform the defendant that a lawsuit has been filed against the defendant in Lac Courte Oreilles Tribal Court, and shall give the names of the parties, the case number, and the address of the Clerk of Court, with the advice that a copy of the full summons and complaint may be obtained at that address. Publication shall occur once each week for three consecutive weeks. The plaintiff shall file an affidavit showing the required publication and an affidavit detailing attempts to personally serve the defendant and to serve the defendant by mail and the reasons why such attempts failed and why the plaintiff does not believe additional attempts will be successful.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -1142,11 +1142,11 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Written pleadings shall not substitute for personal appearance or appearance by an attorney or lay advocate on the first appearance date. Failure of any party to appear may result in judgment as provided in §§ <cite path="§TCT.2.11.010">Section TCT.2.11.010</cite> and <cite path="§TCT.2.11.020">Section TCT.2.11.020</cite> of this ordinance.</text>
+          <text>Written pleadings shall not substitute for personal appearance or appearance by an attorney or lay advocate on the first appearance date. Failure of any party to appear may result in judgment as provided in §§ <cite path="|TCT.2.11.010">Section TCT.2.11.010</cite> and <cite path="|TCT.2.11.020">Section TCT.2.11.020</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Upon the first appearance date, the court shall determine whether the defendant wishes to make a defense to the complaint. If the defendant does not wish to make a defense or raise a counterclaim, judgment may be entered in favor of the plaintiff. If the defendant does wish to make a defense, the court shall determine whether the parties wish to settle their differences without trial. If such settlement is made, the court shall enter judgment, or dismiss the complaint, as called for by the settlement. If the parties do not make such a settlement, a trial date shall be set or a scheduling order under <cite path="§TCT.2.9.050">Section TCT.2.9.050</cite> of this ordinance, shall be entered depending on the complexity of the case. Trial may be had on the date of the first appearance if all parties and the court consent.</text>
+          <text>Upon the first appearance date, the court shall determine whether the defendant wishes to make a defense to the complaint. If the defendant does not wish to make a defense or raise a counterclaim, judgment may be entered in favor of the plaintiff. If the defendant does wish to make a defense, the court shall determine whether the parties wish to settle their differences without trial. If such settlement is made, the court shall enter judgment, or dismiss the complaint, as called for by the settlement. If the parties do not make such a settlement, a trial date shall be set or a scheduling order under <cite path="|TCT.2.9.050">Section TCT.2.9.050</cite> of this ordinance, shall be entered depending on the complexity of the case. Trial may be had on the date of the first appearance if all parties and the court consent.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1487,7 +1487,7 @@
       <section>
         <num>TCT.2.11.030</num>
         <heading>Summary Judgment</heading>
-        <text>At any time not barred by a scheduling order in the case, a party may move for summary judgment on any claim, counterclaim, cross-claim or third-party claim, which shall be granted if the pleadings, depositions, answers to interrogatories, admissions, and evidentiary affidavits on file show that there is no genuine issue as to any material fact and that the moving or opposing party is entitled to judgment as a matter of law. The court may, in its discretion, hold a non-evidentiary hearing on the motion. Any material upon which the motion is based which is not on file at the time of the filing of the motion shall be filed with the motion. Any counter affidavits or other material in opposition to the motion shall be filed and served within the time set by scheduling order, or if none is in effect, no more than 21 days after service of the motion and supporting papers on the responding party. If the court holds a hearing on the motion, it shall be no sooner than five days after the last date allowed for filing responsive materials. Interlocutory summary judgment may be entered on some but not all claims or issues in a case. The court may enter summary judgment in favor of a party even though the party has not moved for summary judgment, if the materials submitted in support of and opposition to another party's motion for summary judgment show that summary judgment is appropriate under the standards set by <cite path="§TCT.2.11.030">this section</cite>.</text>
+        <text>At any time not barred by a scheduling order in the case, a party may move for summary judgment on any claim, counterclaim, cross-claim or third-party claim, which shall be granted if the pleadings, depositions, answers to interrogatories, admissions, and evidentiary affidavits on file show that there is no genuine issue as to any material fact and that the moving or opposing party is entitled to judgment as a matter of law. The court may, in its discretion, hold a non-evidentiary hearing on the motion. Any material upon which the motion is based which is not on file at the time of the filing of the motion shall be filed with the motion. Any counter affidavits or other material in opposition to the motion shall be filed and served within the time set by scheduling order, or if none is in effect, no more than 21 days after service of the motion and supporting papers on the responding party. If the court holds a hearing on the motion, it shall be no sooner than five days after the last date allowed for filing responsive materials. Interlocutory summary judgment may be entered on some but not all claims or issues in a case. The court may enter summary judgment in favor of a party even though the party has not moved for summary judgment, if the materials submitted in support of and opposition to another party's motion for summary judgment show that summary judgment is appropriate under the standards set by <cite path="|TCT.2.11.030">this section</cite>.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
@@ -1612,7 +1612,7 @@
         <heading>Writ of Execution</heading>
         <para>
           <num>(a)</num>
-          <text>Upon receipt of the writ of execution, tribal law enforcement personnel shall serve the writ upon the losing party and take possession of any non-exempt property as ordered by the Tribal Court. Within 30 days, the tribal law enforcement personnel shall cause a sale of such property. The proceeds of the sale shall be returned to the Tribal Court within 30 days above prescribed. The net proceeds of such sale, after deducting sale expenses and amounts due any secured party under <cite path="§TCT.2.12.020|(b)">Section TCT.2.12.020(b)</cite>, below shall be remitted to the prevailing party.</text>
+          <text>Upon receipt of the writ of execution, tribal law enforcement personnel shall serve the writ upon the losing party and take possession of any non-exempt property as ordered by the Tribal Court. Within 30 days, the tribal law enforcement personnel shall cause a sale of such property. The proceeds of the sale shall be returned to the Tribal Court within 30 days above prescribed. The net proceeds of such sale, after deducting sale expenses and amounts due any secured party under <cite path="|TCT.2.12.020|(b)">Section TCT.2.12.020(b)</cite>, below shall be remitted to the prevailing party.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1718,7 +1718,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Promptly upon filing of the foreign judgment and affidavit, the clerk shall mail notice of the filing to the judgment debtor and the judgment debtor's lawyer as named in the affidavit, and shall record proof of such mailing in the file. The notice shall include the name and address of the judgment creditor and the judgment creditor's lawyer, if any. The judgment creditor may also mail such notice and file proof of such mailing with the clerk of court. Failure of either the clerk or the judgment creditor to mail notice as provided in <cite path="§TCT.2.13.030">this section</cite> shall not affect the enforceability of the foreign judgment if proof of mailing by the other is filed.</text>
+          <text>Promptly upon filing of the foreign judgment and affidavit, the clerk shall mail notice of the filing to the judgment debtor and the judgment debtor's lawyer as named in the affidavit, and shall record proof of such mailing in the file. The notice shall include the name and address of the judgment creditor and the judgment creditor's lawyer, if any. The judgment creditor may also mail such notice and file proof of such mailing with the clerk of court. Failure of either the clerk or the judgment creditor to mail notice as provided in <cite path="|TCT.2.13.030">this section</cite> shall not affect the enforceability of the foreign judgment if proof of mailing by the other is filed.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1792,7 +1792,7 @@
       <section>
         <num>TCT.2.14.030</num>
         <heading>Summary Procedure</heading>
-        <text>The judge presiding in an action or proceeding may impose a sanction upon a person who commits a contempt of court in the actual presence of the court. The judge shall impose the sanction immediately after the contempt of court and only for the purpose of preserving order in the court and preserving the authority and dignity of the court. A violation of <cite path="§TCT.2.14.010">Section TCT.2.14.010</cite> <cite path="§TCT.2.14.010|(c)">Section TCT.2.14.010(c)</cite> or <cite path="§TCT.2.14.010|(e)">Section TCT.2.14.010(e)</cite> may be considered under <cite path="§TCT.2.14.030">this section</cite> even though the contemnor does not appear in court.</text>
+        <text>The judge presiding in an action or proceeding may impose a sanction upon a person who commits a contempt of court in the actual presence of the court. The judge shall impose the sanction immediately after the contempt of court and only for the purpose of preserving order in the court and preserving the authority and dignity of the court. A violation of <cite path="|TCT.2.14.010">Section TCT.2.14.010</cite> <cite path="|TCT.2.14.010|(c)">Section TCT.2.14.010(c)</cite> or <cite path="|TCT.2.14.010|(e)">Section TCT.2.14.010(e)</cite> may be considered under <cite path="|TCT.2.14.030">this section</cite> even though the contemnor does not appear in court.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
@@ -1845,7 +1845,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>A sanction other than the sanctions specified in <cite path="§TCT.2.14.050|(a)">Section TCT.2.14.050(a)</cite> of this ordinance, if the court specifically finds that those sanctions would be ineffectual to terminate a continuing contempt of court.</text>
+          <text>A sanction other than the sanctions specified in <cite path="|TCT.2.14.050|(a)">Section TCT.2.14.050(a)</cite> of this ordinance, if the court specifically finds that those sanctions would be ineffectual to terminate a continuing contempt of court.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
@@ -1857,7 +1857,7 @@
       <section>
         <num>TCT.2.14.060</num>
         <heading>Enforcement of Monetary Sanctions</heading>
-        <text>Any sanction imposed under <cite path="§TCT.2.14.050">Section TCT.2.14.050</cite> <cite path="§TCT.2.14.050|(a)">Section TCT.2.14.050(a)</cite>, <cite path="§TCT.2.14.050|(b)">Section TCT.2.14.050(b)</cite>, or <cite path="§TCT.2.14.050|(g)">Section TCT.2.14.050(g)</cite> may be enforced by the court or aggrieved party by any procedure provided in <cite path="§TCT.2.12.010">Section TCT.2.12.010</cite> - <cite path="§TCT.2.12.050">Section TCT.2.12.050</cite>. As part of the contempt proceeding the court may of its own motion or on motion of any party order any monetary sanction under <cite path="§TCT.2.14.050">Section TCT.2.14.050</cite> <cite path="§TCT.2.14.050|(a)">Section TCT.2.14.050(a)</cite>, <cite path="§TCT.2.14.050|(b)">Section TCT.2.14.050(b)</cite>, or <cite path="§TCT.2.14.050|(g)">Section TCT.2.14.050(g)</cite>, and the costs of incarceration under <cite path="§TCT.2.14.050|(f)">Section TCT.2.14.050(f)</cite> to be paid from any funds held by the Tribe, or which may in the future be held by the Tribe, for the individual who is the subject of the order, and any such order for payment shall have priority over any other disbursement of such funds.</text>
+        <text>Any sanction imposed under <cite path="|TCT.2.14.050">Section TCT.2.14.050</cite> <cite path="|TCT.2.14.050|(a)">Section TCT.2.14.050(a)</cite>, <cite path="|TCT.2.14.050|(b)">Section TCT.2.14.050(b)</cite>, or <cite path="|TCT.2.14.050|(g)">Section TCT.2.14.050(g)</cite> may be enforced by the court or aggrieved party by any procedure provided in <cite path="|TCT.2.12.010">Section TCT.2.12.010</cite> - <cite path="|TCT.2.12.050">Section TCT.2.12.050</cite>. As part of the contempt proceeding the court may of its own motion or on motion of any party order any monetary sanction under <cite path="|TCT.2.14.050">Section TCT.2.14.050</cite> <cite path="|TCT.2.14.050|(a)">Section TCT.2.14.050(a)</cite>, <cite path="|TCT.2.14.050|(b)">Section TCT.2.14.050(b)</cite>, or <cite path="|TCT.2.14.050|(g)">Section TCT.2.14.050(g)</cite>, and the costs of incarceration under <cite path="|TCT.2.14.050|(f)">Section TCT.2.14.050(f)</cite> to be paid from any funds held by the Tribe, or which may in the future be held by the Tribe, for the individual who is the subject of the order, and any such order for payment shall have priority over any other disbursement of such funds.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
@@ -1928,7 +1928,7 @@
       <section>
         <num>TCT.2.16.010</num>
         <heading>Violation</heading>
-        <text>Any person who harasses, or threatens bodily harm to, any judge, magistrate or other court personnel, advocate, attorney, law enforcement, or social services personnel with the intent or effect of discouraging that person from discharging his or her duties under any ordinance of the tribe or rendering assistance to anyone seeking protection of rights under any ordinance of the Tribe may be prosecuted by the Tribe for violation of <cite path="§TCT.2.16.010">this section</cite> and shall be subject to a civil forfeiture not to exceed $5,000 for each violation.</text>
+        <text>Any person who harasses, or threatens bodily harm to, any judge, magistrate or other court personnel, advocate, attorney, law enforcement, or social services personnel with the intent or effect of discouraging that person from discharging his or her duties under any ordinance of the tribe or rendering assistance to anyone seeking protection of rights under any ordinance of the Tribe may be prosecuted by the Tribe for violation of <cite path="|TCT.2.16.010">this section</cite> and shall be subject to a civil forfeiture not to exceed $5,000 for each violation.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
@@ -1969,7 +1969,7 @@
       <section>
         <num>TCT.2.16.040</num>
         <heading>Prosecution</heading>
-        <text>Any person who believes that he or she has been the victim of a violation of <cite path="§TCT.2.16.010">Section TCT.2.16.010</cite> may report such alleged violation to the office of the tribal prosecutor for a determination of whether the alleged violation shall be prosecuted. All actions under <cite path="§TCT.2.16.040">this section</cite> shall be brought by the Tribe in the name of the Tribe, and all forfeitures awarded shall be awarded to the Tribe.</text>
+        <text>Any person who believes that he or she has been the victim of a violation of <cite path="|TCT.2.16.010">Section TCT.2.16.010</cite> may report such alleged violation to the office of the tribal prosecutor for a determination of whether the alleged violation shall be prosecuted. All actions under <cite path="|TCT.2.16.040">this section</cite> shall be brought by the Tribe in the name of the Tribe, and all forfeitures awarded shall be awarded to the Tribe.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
@@ -2063,8 +2063,8 @@
         </para>
         <annotations>
           <annotation type="Commentary">
-            <text><cite path="§TCT.3.3.010|(a)">Section TCT.3.3.010(a)</cite> safeguards the authority of the Court of Appeals to perform its review function without interference from other governmental agencies either before or after it has acted.</text>
-            <text><cite path="§TCT.3.3.010|(b)">Section TCT.3.3.010(b)</cite> establishes the authority of the Court of Appeals to review the constitutionality of Tribal Governing Board acts of whatever nature. Because tribal constitutions do not typically provide for a separation of powers between the judiciary and the other functions of the government, some question may be raised as to the implicit authority of the courts to review the acts of tribal government. Whatever the correct answer is to that question, this subsection delegates whatever authority is necessary to perform such review.</text>
+            <text><cite path="|TCT.3.3.010|(a)">Section TCT.3.3.010(a)</cite> safeguards the authority of the Court of Appeals to perform its review function without interference from other governmental agencies either before or after it has acted.</text>
+            <text><cite path="|TCT.3.3.010|(b)">Section TCT.3.3.010(b)</cite> establishes the authority of the Court of Appeals to review the constitutionality of Tribal Governing Board acts of whatever nature. Because tribal constitutions do not typically provide for a separation of powers between the judiciary and the other functions of the government, some question may be raised as to the implicit authority of the courts to review the acts of tribal government. Whatever the correct answer is to that question, this subsection delegates whatever authority is necessary to perform such review.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.3.010 was formerly codified as LCOTCC §2.4</annotation>
@@ -2073,10 +2073,10 @@
       <section>
         <num>TCT.3.3.020</num>
         <heading>Acceptance of an Appeal</heading>
-        <text>The only review of a Tribal Court order or judgment shall be an appeal to the Lac Courte Oreilles Court of Appeals, as provided in this Code. For all appeals, the Attorney Judge of the Court of Appeals shall conduct a preliminary review of the record on appeal and determine whether the appeal presents an error of law or fact, which may warrant reversal or remand, based upon application of the standard of review stated in <cite path="§TCT.3.4.050">Section TCT.3.4.050</cite>. The Attorney Judge may request additional information before any decision is made including, but not limited to, written briefs and/or a hearing. If the Attorney Judge determines that no such error or omission exits, the Attorney Judge shall explain the grounds for dismissal in a written decision. If the Attorney Judge determines that such an issue may exist, the appeal shall be forwarded to the full three- Judge panel which includes the Attorney Judge for a decision.</text>
+        <text>The only review of a Tribal Court order or judgment shall be an appeal to the Lac Courte Oreilles Court of Appeals, as provided in this Code. For all appeals, the Attorney Judge of the Court of Appeals shall conduct a preliminary review of the record on appeal and determine whether the appeal presents an error of law or fact, which may warrant reversal or remand, based upon application of the standard of review stated in <cite path="|TCT.3.4.050">Section TCT.3.4.050</cite>. The Attorney Judge may request additional information before any decision is made including, but not limited to, written briefs and/or a hearing. If the Attorney Judge determines that no such error or omission exits, the Attorney Judge shall explain the grounds for dismissal in a written decision. If the Attorney Judge determines that such an issue may exist, the appeal shall be forwarded to the full three- Judge panel which includes the Attorney Judge for a decision.</text>
         <annotations>
           <annotation type="Commentary">
-            <text>This ordinance provides the only method of obtaining review in the Court of Appeals. <cite path="§TCT.3.3.020">This section</cite> eliminates any argument that any Anglo-American common law writs may be pursued for extraordinary relief</text>
+            <text>This ordinance provides the only method of obtaining review in the Court of Appeals. <cite path="|TCT.3.3.020">This section</cite> eliminates any argument that any Anglo-American common law writs may be pursued for extraordinary relief</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.3.020 was formerly codified as LCOTCC §2.5</annotation>
@@ -2119,14 +2119,14 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Failure to file a notice of appeal as provided in <cite path="§TCT.3.3.050">this section</cite> deprives the Court of</text>
+          <text>Failure to file a notice of appeal as provided in <cite path="|TCT.3.3.050">this section</cite> deprives the Court of</text>
         </para>
         <aftertext>Appeals of subject matter jurisdiction in the appeal.</aftertext>
         <annotations>
           <annotation type="Commentary">
             <text>The appeal is started by filing the notice of appeal, a simple form for which a model is provided as Official Form No. 1. A party other than the initial appellant may decide to appeal in light of the initial appellant's appeal and is therefore allowed additional time to do so after service of the first notice of appeal. The interest of parties in the security of judgments entered by the court requires that an appeal must be filed within the time prescribed or be forever waived.</text>
-            <text>Calculation of time is prescribed by <cite path="§TCT.3.4.080">Section TCT.3.4.080</cite>.</text>
-            <text>Proper methods of service are prescribed by <cite path="§TCT.3.4.090">Section TCT.3.4.090</cite>.</text>
+            <text>Calculation of time is prescribed by <cite path="|TCT.3.4.080">Section TCT.3.4.080</cite>.</text>
+            <text>Proper methods of service are prescribed by <cite path="|TCT.3.4.090">Section TCT.3.4.090</cite>.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.3.050 was formerly codified as LCOTCC §2.8</annotation>
@@ -2150,15 +2150,15 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>A request for transcript shall be filed with the Clerk of the Tribal Court at the same time the notice of appeal is filed. The request for transcript shall specify those proceedings, or parts thereof, to which any reference will be made in the appeal proceedings and for which the official transcript will be required by the Court of Appeals for its review. Any other party may request transcription of additional proceedings or parts thereof by filing a request no later than 15 days after service of the appellant's notice of appeal and request for transcript. A party requesting a transcript shall the pay the fee prescribed by <cite path="§TCT.3.4.100|(b)">Section TCT.3.4.100(b)</cite>. No fee shall be required for any transcript requested by the Tribe.</text>
+          <text>A request for transcript shall be filed with the Clerk of the Tribal Court at the same time the notice of appeal is filed. The request for transcript shall specify those proceedings, or parts thereof, to which any reference will be made in the appeal proceedings and for which the official transcript will be required by the Court of Appeals for its review. Any other party may request transcription of additional proceedings or parts thereof by filing a request no later than 15 days after service of the appellant's notice of appeal and request for transcript. A party requesting a transcript shall the pay the fee prescribed by <cite path="|TCT.3.4.100|(b)">Section TCT.3.4.100(b)</cite>. No fee shall be required for any transcript requested by the Tribe.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>The filing of an appeal does not constitute an automatic stay of the tribal court's judgment or order under <cite path="§TCT.2.11.100">Section TCT.2.11.100</cite>. A motion seeking a stay may be addressed to the tribal court before or after the filing of the notice of appeal.</text>
+          <text>The filing of an appeal does not constitute an automatic stay of the tribal court's judgment or order under <cite path="|TCT.2.11.100">Section TCT.2.11.100</cite>. A motion seeking a stay may be addressed to the tribal court before or after the filing of the notice of appeal.</text>
         </para>
         <annotations>
           <annotation type="Commentary">
-            <text>The essence of the notice of appeal is to give fair notice to the other parties that what would otherwise be a final disposition of a case at the tribal court level will not be final, and to allow the other parties to begin preparation for responding to the appeal or for filing a cross-appeal. The notice of appeal provided for in <cite path="§TCT.3.4.010">this section</cite> also requires a statement of the grounds for appeal and the relief sought, in the event a self-represented appellant elects not to file a brief. Any party including in the notice of appeal the items listed in this subsection will be deemed to have clearly identified the matter appealed. A notice of appeal that fails to include all of the items listed in this subsection, may cause the Court to expand the time for response, dismiss the appeal, or make other appropriate orders.</text>
+            <text>The essence of the notice of appeal is to give fair notice to the other parties that what would otherwise be a final disposition of a case at the tribal court level will not be final, and to allow the other parties to begin preparation for responding to the appeal or for filing a cross-appeal. The notice of appeal provided for in <cite path="|TCT.3.4.010">this section</cite> also requires a statement of the grounds for appeal and the relief sought, in the event a self-represented appellant elects not to file a brief. Any party including in the notice of appeal the items listed in this subsection will be deemed to have clearly identified the matter appealed. A notice of appeal that fails to include all of the items listed in this subsection, may cause the Court to expand the time for response, dismiss the appeal, or make other appropriate orders.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.4.010 was formerly codified as LCOTCC §2.9</annotation>
@@ -2173,7 +2173,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Upon receipt of the notice of appeal and the filing fee, the Clerk of the Court of Appeals shall docket the appeal and shall randomly select, from the roster maintained pursuant to <cite path="§TCT.3.1.020">Section TCT.3.1.020</cite>, a panel of three judges to serve on the appeal. If any judge refuses to serve or is disqualified from serving under <cite path="§TCT.2.4.050">Section TCT.2.4.050</cite>, the clerk will randomly select another judge to replace him or her.</text>
+          <text>Upon receipt of the notice of appeal and the filing fee, the Clerk of the Court of Appeals shall docket the appeal and shall randomly select, from the roster maintained pursuant to <cite path="|TCT.3.1.020">Section TCT.3.1.020</cite>, a panel of three judges to serve on the appeal. If any judge refuses to serve or is disqualified from serving under <cite path="|TCT.2.4.050">Section TCT.2.4.050</cite>, the clerk will randomly select another judge to replace him or her.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2297,7 +2297,7 @@
         <annotations>
           <annotation type="Commentary">
             <text>The standard of review defines the relationship between the trial court and the appeals court. The standard of review seeks to allocate to each court that part of the judicial work which it can best do. The trial court is in the best position to weigh the evidence and assess witness credibility and is therefore sustained on such matters unless its findings are clearly erroneous. The trial court is in no better position to interpret the law than the appeals court; in fact, the appeals court has the luxury of being able to analyze the law away from the heat of trial and can better perform this task itself. The appeals court can therefore look at questions of law afresh and need not defer at all to the trial court. Discretionary questions by their nature can result in different decisions when put to different decision makers. The function of the appeals court in reviewing a discretionary decision is not to decide the result it would choose, but to determine whether the trial court in fact exercised discretion and made a decision based on the applicable facts and law. The exercise of discretion is more than bald decision-making and it is the task of the appeals court to see that the appropriate process was followed.</text>
-            <text>Specific instances of common standard of review problems are listed in <cite path="§TCT.3.4.050">this section</cite>; for instance the definition of sentencing as a discretionary determination. These instances are not exclusive. The Tribal Governing Board may provide by ordinance and the courts by decision the classification of other matters as factual, legal, or discretionary.</text>
+            <text>Specific instances of common standard of review problems are listed in <cite path="|TCT.3.4.050">this section</cite>; for instance the definition of sentencing as a discretionary determination. These instances are not exclusive. The Tribal Governing Board may provide by ordinance and the courts by decision the classification of other matters as factual, legal, or discretionary.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.4.050 was formerly codified as LCOTCC §2.13</annotation>
@@ -2344,8 +2344,8 @@
         <annotations>
           <annotation type="Commentary">
             <text>Subsections (a) and (d) preserve the basic function of the appeals court as a court of review, not a court of initial determination. The trial court should have the first opportunity to consider all issues in litigation and to see that the record is fully developed.</text>
-            <text><cite path="§TCT.3.4.070|(b)">Section TCT.3.4.070(b)</cite> protects the court and parties from expending energy on issues that an appellant has no intention of pursuing.</text>
-            <text><cite path="§TCT.3.4.070|(c)">Section TCT.3.4.070(c)</cite> states the principle that a court will not decide issues over which there is no current controversy. The controversy that existed during trial may be over by the time of appeal. The exception to this rule is the type of case that may occur again but is likely never to survive long enough to receive appellate review. For instance, an individual may wish to challenge a court's suspension of his hunting and fishing rights for a period of three months, but by the completion of the appellate briefing schedule the suspension would be ended and the case moot. Since the issue could recur, but would always become moot before it was ready for decision, the mootness doctrine would be set aside.</text>
+            <text><cite path="|TCT.3.4.070|(b)">Section TCT.3.4.070(b)</cite> protects the court and parties from expending energy on issues that an appellant has no intention of pursuing.</text>
+            <text><cite path="|TCT.3.4.070|(c)">Section TCT.3.4.070(c)</cite> states the principle that a court will not decide issues over which there is no current controversy. The controversy that existed during trial may be over by the time of appeal. The exception to this rule is the type of case that may occur again but is likely never to survive long enough to receive appellate review. For instance, an individual may wish to challenge a court's suspension of his hunting and fishing rights for a period of three months, but by the completion of the appellate briefing schedule the suspension would be ended and the case moot. Since the issue could recur, but would always become moot before it was ready for decision, the mootness doctrine would be set aside.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.4.070 was formerly codified as LCOTCC §2.15</annotation>
@@ -2401,7 +2401,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The Tribal Court may order the waiver of the fees provided for in <cite path="§TCT.3.4.100">this section</cite>, upon the filing of a sufficient affidavit of indigency.</text>
+          <text>The Tribal Court may order the waiver of the fees provided for in <cite path="|TCT.3.4.100">this section</cite>, upon the filing of a sufficient affidavit of indigency.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -2448,7 +2448,7 @@
         <text>In completing the review under sec. 2.5, the Attorney Judge in his/her discretion may order a party, his or her attorney or lay advocate, or both, filing or pursuing a frivolous appeal, to pay the costs and reasonable attorney fees incurred by the other party or parties in responding to the appeal and may assess expenses incurred by the Court to the Appellant. If an Appellant has been granted a waiver of fees, the Court may assess a duty of community service to the Appellant.</text>
         <annotations>
           <annotation type="Commentary">
-            <text>Law is developed by appeals cases which push against the limits of previously accepted doctrine. <cite path="§TCT.3.5.030">This section</cite> should not be lightly applied, or used in such a way that arguably meritorious appeals are discouraged. Frivolousness may be found, however, when an appeal is grounded neither on existing law nor on a good faith argument for extension, modification, or reversal of existing law.</text>
+            <text>Law is developed by appeals cases which push against the limits of previously accepted doctrine. <cite path="|TCT.3.5.030">This section</cite> should not be lightly applied, or used in such a way that arguably meritorious appeals are discouraged. Frivolousness may be found, however, when an appeal is grounded neither on existing law nor on a good faith argument for extension, modification, or reversal of existing law.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.5.030 was formerly codified as LCOTCC §2.21</annotation>
@@ -2460,7 +2460,7 @@
         <text><cite path="TCT|TCT.3">This chapter</cite> may be amended or rescinded by the Tribal Governing Board at any time.</text>
         <annotations>
           <annotation type="Commentary">
-            <text>Any ordinance of the Tribe may be amended or rescinded at any time. The inclusion of <cite path="§TCT.3.5.040">this section</cite> in <cite path="TCT|TCT.3">this chapter</cite> should not be interpreted to mean that other tribal ordinances that do not include this language may not be amended or rescinded at any time.</text>
+            <text>Any ordinance of the Tribe may be amended or rescinded at any time. The inclusion of <cite path="|TCT.3.5.040">this section</cite> in <cite path="TCT|TCT.3">this chapter</cite> should not be interpreted to mean that other tribal ordinances that do not include this language may not be amended or rescinded at any time.</text>
           </annotation>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-72"/>
           <annotation type="Prior Codifications">§TCT.3.5.040 was formerly codified as LCOTCC §2.22</annotation>
@@ -2479,7 +2479,7 @@
       <section>
         <num>TCT.4.1.010</num>
         <heading>Scope</heading>
-        <text>These rules shall apply to all proceedings in Tribal Court. The Tribal Court, subject to the decisions of the Court of Appeals, shall interpret and apply these rules. The policies and rationales underlying the Federal Rules of Evidence and the Wisconsin Rules of Evidence may be cited as persuasive authority, but the Court may base its rulings on alternative policies and rationales that are more suited to the Tribe, and the Federal Rules and Wisconsin Rules shall not be controlling. The Tribal Court shall in all cases be allowed to adjust the application of these rules to fit the circumstances of the case as provided in <cite path="§TCT.2.10.030">Section TCT.2.10.030</cite>.</text>
+        <text>These rules shall apply to all proceedings in Tribal Court. The Tribal Court, subject to the decisions of the Court of Appeals, shall interpret and apply these rules. The policies and rationales underlying the Federal Rules of Evidence and the Wisconsin Rules of Evidence may be cited as persuasive authority, but the Court may base its rulings on alternative policies and rationales that are more suited to the Tribe, and the Federal Rules and Wisconsin Rules shall not be controlling. The Tribal Court shall in all cases be allowed to adjust the application of these rules to fit the circumstances of the case as provided in <cite path="|TCT.2.10.030">Section TCT.2.10.030</cite>.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 04-26"/>
         </annotations>
@@ -2567,7 +2567,7 @@
         <heading>Privileges: General</heading>
         <para>
           <num>(a)</num>
-          <text>Except as provided by <cite path="§TCT.4.3.010">this section</cite>, the Indian Civil Rights Act, or the United States constitution, as applicable, no person is privileged to refuse to be a witness, to refuse to disclose any matter, to refuse to produce any object or writing, or to prevent another from doing any of the above.</text>
+          <text>Except as provided by <cite path="|TCT.4.3.010">this section</cite>, the Indian Civil Rights Act, or the United States constitution, as applicable, no person is privileged to refuse to be a witness, to refuse to disclose any matter, to refuse to produce any object or writing, or to prevent another from doing any of the above.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2592,7 +2592,7 @@
       <section>
         <num>TCT.4.3.020</num>
         <heading>Attorney-Client Privilege</heading>
-        <text>A client has a privilege to refuse to disclose and to prevent any other person from disclosing any confidential communication between the client and the attorney or attorney's agent, made for the purpose of obtaining legal assistance, except as stated below. For the purpose of <cite path="§TCT.4.3.020">this section</cite>, "attorney" includes lay advocate.</text>
+        <text>A client has a privilege to refuse to disclose and to prevent any other person from disclosing any confidential communication between the client and the attorney or attorney's agent, made for the purpose of obtaining legal assistance, except as stated below. For the purpose of <cite path="|TCT.4.3.020">this section</cite>, "attorney" includes lay advocate.</text>
         <para>
           <num>(a)</num>
           <text>When such communication was used to commit or plan a crime.</text>
@@ -2682,7 +2682,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Exception. Any mediator, peacemaker, or any other person otherwise required to report child abuse under any state or tribal law, may report a communication in peacemaking pursuant to such law without violating <cite path="§TCT.4.3.080">this section</cite>.</text>
+          <text>Exception. Any mediator, peacemaker, or any other person otherwise required to report child abuse under any state or tribal law, may report a communication in peacemaking pursuant to such law without violating <cite path="|TCT.4.3.080">this section</cite>.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 04-26"/>
@@ -2822,7 +2822,7 @@
       <section>
         <num>TCT.4.5.030</num>
         <heading>Specific Writings</heading>
-        <text>Writings of the character set forth in <cite path="§TCT.4.5.030">this section</cite> are admissible, subject to the authentication requirements of <cite path="§TCT.4.5.040">Section TCT.4.5.040</cite>.</text>
+        <text>Writings of the character set forth in <cite path="|TCT.4.5.030">this section</cite> are admissible, subject to the authentication requirements of <cite path="|TCT.4.5.040">Section TCT.4.5.040</cite>.</text>
         <para>
           <num>(a)</num>
           <text><em>Records of regularly conducted activity.</em> A memorandum, report, record, or data compilation, in any form, of acts events, conditions, opinions, or diagnosis, made at or near the time by, or from information transmitted by, a person with knowledge, all in the course of a regularly conducted activity, as shown by the testimony of the custodian or other qualified witness, unless the sources of information or other circumstances indicate lack of trustworthiness.</text>
@@ -2894,7 +2894,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>The court may, for cause shown prior to or at the trial, relieve the party from the requirements of <cite path="§TCT.4.5.030">this section</cite> in order to prevent a manifest injustice.</text>
+            <text>The court may, for cause shown prior to or at the trial, relieve the party from the requirements of <cite path="|TCT.4.5.030">this section</cite> in order to prevent a manifest injustice.</text>
           </para>
         </para>
         <para>
@@ -2965,7 +2965,7 @@
           </para>
           <para>
             <num>(10)</num>
-            <text>Health care records. Records filed with the court pursuant to <cite path="§TCT.4.5.030|(b)">Section TCT.4.5.030(b)</cite>.</text>
+            <text>Health care records. Records filed with the court pursuant to <cite path="|TCT.4.5.030|(b)">Section TCT.4.5.030(b)</cite>.</text>
           </para>
         </para>
         <para>
@@ -3003,7 +3003,7 @@
       <section>
         <num>TCT.4.6.020</num>
         <heading>Hearsay Exclusions</heading>
-        <text>A statement meeting the requirements of <cite path="§TCT.4.6.010">Section TCT.4.6.010</cite> will nevertheless not be considered hearsay if:</text>
+        <text>A statement meeting the requirements of <cite path="|TCT.4.6.010">Section TCT.4.6.010</cite> will nevertheless not be considered hearsay if:</text>
         <para>
           <num>(a)</num>
           <text>Prior statement by witness. The declarant testifies at the trial or hearing and is subject to cross-examination concerning the statement, and the statement is:</text>
@@ -3045,7 +3045,7 @@
           </para>
           <para>
             <num>(6)</num>
-            <text>Any writing specified in <cite path="§TCT.4.5.030">Section TCT.4.5.030</cite>.</text>
+            <text>Any writing specified in <cite path="|TCT.4.5.030">Section TCT.4.5.030</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -3111,5 +3111,584 @@
         </annotations>
       </section>
     </container>
+  </container>
+  <container>
+    <num>TCT.5</num>
+    <heading>Financial Services Regulatory Authority Administrative Appellate Procedures</heading>
+    <prefix>Chapter</prefix>
+    <container>
+      <num>TCT.5.1</num>
+      <heading>General Provisions</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>TCT.5.1.010</num>
+        <heading>Applicability</heading>
+        <text><cite path="TCT.5">This Chapter</cite> applies only to appeals from administrative decisions rendered by the Financial Services Regulatory Authority.</text>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.1.020</num>
+        <heading>Jurisdiction of the Lac Courte Oreilles Tribal Court</heading>
+        <para>
+          <num>(a)</num>
+          <text><u>Jurisdiction</u><em><u>.</u></em> In addition to and consistent with <cite path="|TCT.2.3.020">§TCT.2.3.020</cite>, the Tribal Court shall have exclusive jurisdiction to review the actions of the Financial Services Regulatory Authority, as provided herein. The decision of the Tribal Court shall be final as to all such review.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Administrative Appeal; Administrative Exhaustion.</u>  A person aggrieved by a final decision or order in a Contested Case, whether such decision or order is affirmative or negative in form, may appeal under <cite path="TCT.5">this Chapter</cite> to the Tribal Court ("administrative appeal"). An administrative appeal under <cite path="TCT.5">this Chapter</cite> is part of the administrative process and constitutes an administrative remedy. Accordingly, a final decision following an administrative appeal is a prerequisite to judicial review of an Agency Action. A motion or application for rehearing or reconsideration to the Agency is not required to appeal under <cite path="TCT.5">this Chapter</cite> unless specifically required by Agency rules.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Administrative Appeal by Right or by Leave.</u> An administrative appeal of an Agency Action shall be by right when expressly authorized by Tribal law or regulation.  An administrative appeal of an Agency Action shall be by leave in all other circumstances and granting leave shall be within the discretion of the Tribal Court after review of a Petition filed under <cite path="TCT.5">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><u>Constitutionality</u><em><u>.</u></em> In an administrative appeal properly filed under <cite path="TCT.5">this Chapter</cite> the jurisdiction of the Tribal Court shall include the authority to determine the constitutionality of acts of any Person, the Governing Board, or any Tribal subdivision or Agency.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.1.030</num>
+        <heading>Laws Applicable to Administrative Appeals</heading>
+        <text>In all administrative appeals, the Tribal Court shall first apply the Tribal ordinance authorizing the administrative appeal, then any other applicable Tribal law as well as any applicable federal laws and regulations. Where Tribal law and applicable federal laws are silent, the Tribal Court may look to federal court authority from the United States Court of Appeals, Seventh Circuit, or from any federal district court in Wisconsin, subject to modification by the Tribal Court, if necessary, to reflect the customs, traditions, values, and policies of the Tribe. The Tribal Court may of its own motion or that of a Party, adopt any other source of law as persuasive authority and may apply any such source with or without modification.</text>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.1.040</num>
+        <heading>Administrative Appellate Judges; Disqualification and Recusal</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any Tribal Court judge may preside over an administrative appeal. No Magistrate may preside over and administrative appeal.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Disqualification, Recusal, or Removal of Judge shall be according to <cite path="|TCT.2.4.050">§TCT.2.4.050</cite>.  Upon disqualification, recusal, or removal, the Clerk shall assign another judge.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.1.050</num>
+        <heading>Practice Before the Tribal Court – Administrative Appeals</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person admitted to practice before the Lac Courte Oreilles Tribal Court pursuant to <cite path="TCT.2.8">Subchapter TCT.2.8</cite> may appear in an administrative appeal.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <num>TCT.5.2</num>
+      <heading>Definitions</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>TCT.5.2.010</num>
+        <heading>General Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>In addition to the terms defined in <cite path="|TCT.2.2.010">§TCT.2.2.010</cite>, the following definitions apply to <cite path="TCT.5">this Chapter</cite>:</text>
+          <para>
+            <num>(1)</num>
+            <text><strong>"Administrative Record"</strong> means the documents submitted in a Contested Case and shall include all the documents relied upon by the Agency in determining to take an Agency Action appealed under <cite path="TCT.5">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><strong>"Agency"</strong> means the Financial Services Regulatory Authority.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text><strong>"Agency Action"</strong> means the Agency's act of issuing a rule, order, license, sanction, relief, or the equivalent or denial thereof, or the Agency's failure to act when such Action was required pursuant to Tribal law or regulation.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text><strong>"Contested Case"</strong> means an administrative proceeding in which a determination of the legal rights, duties, or privileges of a named Party is required by law to be made by the Agency after an opportunity for an evidentiary hearing.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text><strong>"Final Agency Action"</strong> means an Agency Action subject to administrative appeal. An Agency Action is a Final Agency Action when it is the consummation of the Agency's decision-making process and from which legal consequences shall flow and is made explicitly reviewable by Tribal law, regulation, or of which there is no other adequate remedy.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text><strong>"Party"</strong> means a Person or Agency named, admitted, or properly seeking and entitled of right to be admitted, as a party in a Contested Case. In a Contested Case regarding an application for a license, a Party includes the applicant for the license.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text><strong>"Person"</strong> means an individual, partnership, association, corporation, limited liability company, limited liability partnership, or other legal entity, however organized. The term does not include any government, governmental subdivision, or Agency.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text><strong>"Petition"</strong> means a written request to the Tribal Court to initiate an administrative appeal of a Final Agency Action.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text><strong>"Petitioner"</strong> means a person who files a Petition.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text><strong>"Prevailing party"</strong> means the party in whose favor a judgment, decree, or final order, after administrative appeal (if any), is rendered with respect to the claims or defenses, when based on the entire record.</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text><strong>"Respondent"</strong> means the party responding to a Petition.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any term not defined in <cite path="|TCT.5.2.010">this Section</cite> or in <cite path="|TCT.2.2.010">§TCT.2.2.010</cite> shall be given its ordinary meaning.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <num>TCT.5.3</num>
+      <heading>Appeal Procedure and Practice</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>TCT.5.3.010</num>
+        <heading>Form, Captioning, Signing, and Verifying Documents</heading>
+        <para>
+          <num>(a)</num>
+          <text><u>Scope.</u> All documents filed and served under this subsection shall adhere to rules in this Subsection or shall be rejected by the Clerk.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Page Limit.</u> Unless otherwise specified by <cite path="TCT.5.2">this Subchapter</cite> or preapproved by the Tribal Court, no document filed with the Tribal Court may exceed twenty (20) pages, double-spaced, exclusive of attachments and exhibits. Quotations and footnotes may be single spaced.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Form.</u> All documents shall be filed on 8½ by 11-inch paper, in English. At least one-inch margins shall be used. Font shall not be smaller than 12-point typeface, but footnotes may be 10-point typeface. Exhibits may be filed in their original format.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><u>Captions.</u> The first page of every filing shall contain a caption containing: the name of the court; the names of the Parties; the title of the document; any case number; and the name, business address, telephone number, and email address of the Parties or the Parties' counsel.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><u>Citations.</u> All documents filed with the Tribal Court that contain legal arguments and issues of law shall cite to controlling or persuasive authority using the citation format accepted by the federal courts in Wisconsin and/or by the Lac Courte Oreilles Tribal Court.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><u>Signature.</u> All filings shall be signed by the Person filing the document. The signature of a Person filing a document constitutes a certification by the signer that the signer has read the document and to the best of the signer's knowledge, information, and belief formed after reasonable inquiry, the document is well grounded in fact and is warranted by existing law or a good-faith argument for the extension, modification, or reversal of existing law; and the document is not interposed for any improper purpose, such as to harass or to cause unnecessary delay or needlessly increase in the cost of litigation.  Electronic signatures are permitted, to be indicated by "/s/" before the signer's name.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><u>Electronic documents.</u> Unless granted leave by the Tribal Court, all documents shall be filed and served electronically in a manner prescribed by the Tribal Court or via email.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>THT.5.3.020</num>
+        <heading>Service</heading>
+        <text>In addition to §§<cite path="|TCT.2.9.020">TCT.2.9.020</cite> and <cite path="|TCT.2.9.040">TCT.2.9.040</cite>, the following shall apply:</text>
+        <para>
+          <num>(a)</num>
+          <text>Unless leave is granted by the Tribal Court, all filing and service shall be made electronically via email or as otherwise instructed by the Tribal Court.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Proof of Service.</u> All documents filed and served shall include proof of service that describes the document(s), the date of filing and service, the means of filing and service, and the recipients of the filing and service. The proof of service shall be signed by the person effectuating service, the Party, or the Party's legal counsel.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.3.030</num>
+        <heading>Starting an Administrative Appeal; Notice of Administrative Appeal; Petition; Record on Administrative Appeal</heading>
+        <para>
+          <num>(a)</num>
+          <text><cite path="TCT.2.9">Subchapter TCT.2.9</cite> does not apply to <cite path="TCT.5">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any Person that is not the Prevailing Party to a Final Agency Action, opinion, order, or judgment may initiate an administrative appeal only as provided in <cite path="TCT.5.2">this Subchapter</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Notice of Administrative Appeal.</text>
+          <para>
+            <num>(1)</num>
+            <text>To initiate an administrative appeal, a Person shall file a notice of administrative appeal with the Clerk of the Tribal Court, and serve the notice to all other parties, no later than thirty (30) days after the entry of the Final Agency Action from which the administrative appeal is taken.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If one Party has timely and properly filed a notice of administrative appeal, any other Party in the case on administrative appeal may file a cross notice of administrative appeal within fifteen (15) days of service of the initial Party's notice of administrative appeal.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Failure to file a timely notice of administrative appeal as provided in this Subsection deprives the Tribal Court jurisdiction over the administrative appeal, and accordingly, the right to an administrative appeal is deemed waived and administrative remedies are deemed exhausted.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Petition for Review.</text>
+          <para>
+            <num>(1)</num>
+            <text><u>Time.</u> A Person that files a notice of administrative appeal shall file a Petition with the Court within sixty (60) days after the Final Agency Action that is the subject of the Petition is issued.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><u>Service.</u> The Person shall serve the Petition to all Parties and to the Agency whose Final Agency Action is the subject of the Petition.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text><u>Content.</u> A Petition shall contain a concise statement of the nature of the proceedings as to which review is sought; the reason(s) an administrative appeal is sought; and the relief sought.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text><u>Page Limit</u>. The Petition shall not exceed twenty (20) pages, inclusive of any caption page, but not including any exhibits.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text><u>Exhibits.</u> The Petitioner shall attach to the Petition, as exhibit(s), a copy of the Final Agency Action appealed.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text><u>Transmission of Administrative Recor</u>d. Within thirty (30) days after service of the Petition, or within such further time as the court allows, the Agency shall transmit to the court the original or certified copy of the entire Administrative Record on which the Final Agency Action was based, unless the Parties stipulate that the Administrative Record be shortened.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Response to Petition</text>
+          <para>
+            <num>(1)</num>
+            <text>Any Party named in the Petition may file a response to the Petition within fifteen (15) days after the Petition is filed and served. A Party's decision not to file a response shall not be a basis for a default and shall not be considered in any subsequent proceedings on the merits of the Petition.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any response shall not exceed twenty (20) pages, inclusive of any caption page, but not including any exhibits.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.3.040</num>
+        <heading>Scheduling Conference; Scheduling Order</heading>
+        <para>
+          <num>(a)</num>
+          <text>At any time after a Petition is filed, the Tribal Court shall hold a scheduling conference. At any such conference, any unrepresented Party shall appear in person, and at least one attorney or lay advocate shall appear in person for any Party who has representation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>After consultation, the court shall issue a scheduling order including such of the following as are applicable to the circumstances and complexity of the case:</text>
+          <para>
+            <num>(1)</num>
+            <text>The time for when any responses to the Petition shall be filed, if one has not already been filed;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The deadlines for any motions to be filed and heard, closing the record, and briefing;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The date for oral argument and the time allowed to each party for oral argument;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The deadlines for post oral argument briefing, if any;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Any other matters governing the conduct of the case that the court deems appropriate.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The Tribal Court may from time to time thereafter amend the order.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.3.050</num>
+        <heading>Motions</heading>
+        <para>
+          <num>(a)</num>
+          <text>Before filing any motion, a Party shall meet and confer with the opposing Party to determine if the Parties can agree to the relief sought or otherwise narrow the issues. Failure to meet and confer shall be a basis to deny the motion.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any Party to an administrative appeal may file such motions as appear necessary, together with supporting briefs and affidavits, as appropriate, as well as a verification or exhibit confirming the Parties have met and conferred and were unable to resolve the matter. Parties shall file a proposed order with the motion.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any motion filed shall not exceed ten (10) pages without leave of the Tribal Court.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Motions that present an issue of law shall be accompanied by a brief citing relevant authority. Any such motion and accompanying brief may be filed as a single document.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Such motions shall be filed with the Clerk.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Any response shall be filed within fifteen (15) days and may not exceed ten (10) pages without leave of the Tribal Court.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The judge has discretion to order oral argument on any motion.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Tribal Court shall issue a written order deciding each motion.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.3.060</num>
+        <heading>Appellate Briefs</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Petitioner shall file and serve an opening brief within forty-five (45) days of the Agency's submission of the Administrative Record or within forty-five (45) days after the Tribal Court grants a Petition, whichever is later, unless otherwise indicated by the Scheduling Order.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any response shall be filed and served within thirty (30) days of service of the Petitioner's opening brief, or as indicated by the Scheduling Order.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Petitioner shall file any reply within fifteen (15) days of service of Respondent's brief, or as otherwise indicated by the Scheduling Order.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>All briefs shall contain:</text>
+          <para>
+            <num>(1)</num>
+            <text>a caption page,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>an introduction including a statement of the case and stating the issues presented by the administrative appeal,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a procedural background including an explanation of the Final Agency Action on administrative appeal,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>a factual background limited to the issues presented by the administrative appeal,</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>an argument that is supported by the Administrative Record and authority,</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>a conclusion specifying the precise relief sought.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Amicus Briefs are not allowed.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.3.070</num>
+        <heading>Oral Argument</heading>
+        <para>
+          <num>(a)</num>
+          <text>When requested, the Tribal Court shall allow oral arguments. If not requested, oral argument may be permitted in the discretion of the Tribal Court. The judge shall establish the order of oral argument.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>There shall be no evidence presented at oral argument.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Tribal Court shall limit oral argument to the issues raised by the parties, the Administrative Record, and any other properly admitted evidence.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The length of argument allowed, shall be set by the Scheduling Order.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Tribal Court may question either Party during their oral argument. The Parties are not entitled to additional time if the Tribal Court asks questions.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Adjournment; Reconvening. For good cause, the Tribal Court may adjourn and reconvene oral argument. The Tribal Court may call for additional oral arguments.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.3.080</num>
+        <heading>Post Hearing Briefing</heading>
+        <text>Upon motion or stipulation by either Party, or upon its own, the Tribal Court may order post hearing briefs on questions or issues that arose during oral argument and which the parties have not already had an opportunity to brief.</text>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>TCT.5.3.090</num>
+        <heading>Administrative Appellate Opinions; Remand; Mandate; Final Decision</heading>
+        <para>
+          <num>(a)</num>
+          <text>All administrative appeals shall be heard by the judge and without a jury.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Scope of Review.</u> An administrative appeal of a Final Agency Action shall be limited to the Administrative Record and any other properly admitted evidence.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Standard of Review.</u> The judge shall adhere to the following standards of review:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Agency's findings of fact, factual inferences, and findings, explicit or implicit, of witness credibility, shall be sustained unless clearly erroneous.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Tribal Court shall give deference to an Agency's reasonable interpretation and application of the Tribal law and applicable federal laws and regulations;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Agency's discretionary determination shall be sustained if the record reflects that the Agency exercised discretion and applied the appropriate legal standard to the admissible facts of record. The Agency's imposition of fines, forfeitures, and other penalties or remedial measures, not including the assessment of damages, shall be reviewed as a discretionary determination.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Agency's conclusions of law are reviewed de novo.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>A stipulated, uncontested, or documentary fact is reviewed de novo.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The meaning of an unambiguous contract is reviewed de novo.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Whether a finding of fact or a conclusion of law has been properly labeled as such by the Tribal Court is reviewed de novo.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The court, as appropriate, may affirm, reverse, or modify a Final Agency Action or remand the matter to the Agency for further proceedings.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Grounds for reversal. The court shall set aside a Final Agency Action, findings, and conclusions found to be:</text>
+          <para>
+            <num>(1)</num>
+            <text>In violation of the LCO Tribal constitution or other LCO tribal law.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>In excess of the statutory authority or jurisdiction of the Agency.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Made upon unlawful procedure resulting in material prejudice to a Party.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Unsupported by competent, material, and substantial evidence on the whole record.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Arbitrary, capricious, or clearly an abuse or unwarranted exercise of discretion.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Affected by other substantial and material error of law.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Tribal Court shall not substitute its judgment for that of the Agency on a matter committed to the discretion of the Agency. Mere disagreement with the Agency's reasoning is not a basis for reversal.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Decisions.</text>
+          <para>
+            <num>(1)</num>
+            <text>Within a reasonable time after oral argument and the close of briefing, the Court shall issue its decision as an opinion and order.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>All decisions shall be in writing, shall specify the relief granted, if any, and shall state the Tribal Court's rationale therefore.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Additionally, the decision shall include:</text>
+            <para>
+              <num>(A)</num>
+              <text>a determination on Tribal Court's jurisdiction over the administrative appeal,</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>findings of fact,</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>conclusions of law, and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>whether the administrative process has been exhausted.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The decision shall include instructions to the Agency detailing how to proceed upon remand, when applicable. The Agency shall be bound by the decision in all respects.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Reconsideration. A request for reconsideration of a Tribal Court decision made under <cite path="TCT.5.2">this Subchapter</cite> shall be filed in the Tribal Court within fifteen (15) days of the filing of any decision or order of the Tribal Court. The request for reconsideration shall state the specific change(s) in the decision sought, and all reasons, and the authority therefore, for the change(s). Any non-requesting Party shall have fifteen (15) days from the date of service of the request to respond. Oral argument on a request for reconsideration is discretionary with the Tribal Court.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The Tribal Court's opinion and order is a final decision and shall become final once the time for requesting reconsideration has expired or after the Tribal Court issues a decision on any request for reconsideration, whichever is later. The Tribal Court's opinion and order may not be appealed.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Clerk shall, within two days of their filing, furnish copies of the decision and any order of the Tribal Court to the Agency and the Parties.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <num>TCT.5.4</num>
+      <heading>Enforcement of Judgment</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>TCT.5.4.010</num>
+        <heading>Enforcement.</heading>
+        <text>Following exhaustion, an administrative decision is enforceable in the same manner as a Tribal Court judgment pursuant to <cite path="TCT.1.2.010">§TCT.1.2.010</cite>.</text>
+        <annotations>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
   </container>
 </container>

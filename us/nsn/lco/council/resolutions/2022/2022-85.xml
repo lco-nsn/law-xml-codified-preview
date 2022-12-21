@@ -55,11 +55,11 @@
       <text>Employees are allowed one (1) hour leave for lunch.  Employees must take their lunch at the usual time, between 12:00 – 1:00, unless mutually changed by the employee and supervisor.</text>
       <para>
         <num>(a)</num>
-        <text>Ten month employees are allowed lunch during the time the students take lunch unless assigned a lunch duty. Those assigned a duty may leave campus for the day after student dismissal provided there are no mandatory meetings, trainings, or conferences scheduled. Such time shall be reflected on their timecard and employee's shall sign-out pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.7.5.110">Section PAP.7.5.110</cite> of this manual.</text>
+        <text>Ten month employees are allowed lunch during the time the students take lunch unless assigned a lunch duty. Those assigned a duty may leave campus for the day after student dismissal provided there are no mandatory meetings, trainings, or conferences scheduled. Such time shall be reflected on their timecard and employee's shall sign-out pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.7.5.110">Section PAP.7.5.110</cite> of this manual.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Twelve month employees wishing to take an off campus lunch up to one hour, must work an additional 30 minutes that day and sign out and back in pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.7.5.110">Section PAP.7.5.110</cite> of this manual. Such time shall be reflected on their timecard.</text>
+        <text>Twelve month employees wishing to take an off campus lunch up to one hour, must work an additional 30 minutes that day and sign out and back in pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.7.5.110">Section PAP.7.5.110</cite> of this manual. Such time shall be reflected on their timecard.</text>
       </para>
     </section>
   </codify:replace>
@@ -249,7 +249,7 @@
   <codify:replace path="GNC.5.2.010|(c)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.5.2.010|(c)">
     <para>
       <num>(c)</num>
-      <text><strong>"Dropout"</strong> means a person 18 years or younger who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> of this ordinance.</text>
+      <text><strong>"Dropout"</strong> means a person 18 years or younger who ceased to attend school, does not attend a public or private school, technical college or home-based private educational program on a full-time basis, has not graduated from high school and does not have an acceptable excuse under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> of this ordinance.</text>
     </para>
   </codify:replace>
   <codify:replace path="GNC.5.2.010|(d)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.5.2.010|(d)">
@@ -360,27 +360,27 @@
   <codify:replace path="GNC.5.3.040|(a)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.5.3.040|(a)">
     <para>
       <num>(a)</num>
-      <text>Unless the school age person is excepted or excused under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age person, shall cause the school age person to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age person should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age person becomes 18 years of age.</text>
+      <text>Unless the school age person is excepted or excused under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school, any person having under his or her control a school age person, shall cause the school age person to attend school regularly during the full period and hours, religious and traditional holidays excepted, that the tribal, public, or private school in which the school age person should be enrolled, is in session until the end of the school term, quarter or semester of the school year in which the school age person becomes 18 years of age.</text>
     </para>
   </codify:replace>
   <codify:replace path="GNC.5.3.040|(b)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.5.3.040|(b)">
     <para>
       <num>(b)</num>
-      <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.040">This section</cite> does not apply to:</text>
+      <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.5.3.040">This section</cite> does not apply to:</text>
       <para>
         <num>(1)</num>
-        <text>A school age person is exempted or excused under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school</text>
+        <text>A school age person is exempted or excused under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.5.2.010|(a)">Section GNC.5.2.010(a)</cite> of this ordinance, or has graduated from high school</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>To a person who proves that he or she is unable to comply with the requirements of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.040">this section</cite> because of the disobedience of the school age person, in which case the action shall be dismissed, and the Tribal Court may appoint a guardian ad litem relative to such school age person or make such reference to the Indian Child Welfare Department, Law Enforcement or other authority as deemed appropriate.</text>
+        <text>To a person who proves that he or she is unable to comply with the requirements of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.5.3.040">this section</cite> because of the disobedience of the school age person, in which case the action shall be dismissed, and the Tribal Court may appoint a guardian ad litem relative to such school age person or make such reference to the Indian Child Welfare Department, Law Enforcement or other authority as deemed appropriate.</text>
       </para>
       <para>
         <num>(3)</num>
         <text>If the Court determines that a person is guilty of Failure to Cause a Person to Attend School Regularly, the Court may:</text>
         <para>
           <num>(A)</num>
-          <text>Order a forfeiture of not more than $500 plus costs to be assessed against the person unless contrary to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.5.3.020|(a)|(5)">Section GNC.5.3.020(a)(5)</cite>.</text>
+          <text>Order a forfeiture of not more than $500 plus costs to be assessed against the person unless contrary to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.5.3.030|(a)">Section GNC.5.3.030(a)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.5.3.020|(a)|(5)">Section GNC.5.3.020(a)(5)</cite>.</text>
         </para>
         <para>
           <num>(B)</num>

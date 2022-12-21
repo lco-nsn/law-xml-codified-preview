@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2022-118</num>
+  <heading>Amendment of Title TCT Tribal Court Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law to Enact Chapter TCT.5 Financial Services Regulatory Authority Administrative Appellate Procedures</heading>
+  <meta>
+    <effective>2022-11-21</effective>
+    <citations>
+      <citation type="res" url="./adopted/2022-118.pdf">Council Resolution No. 2022-118</citation>
+    </citations>
+    <history>
+      <adopted>2022-11-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, Section 1(h) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board has the full authority to engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted the Lac Courte Oreilles Tribal Consumer Financial Services Regulatory Code in order to improve the Tribe's economic self-sufficiency, to enable the Tribe to better serve the social, economic, educational, and health and safety needs of its members and visitors, and to provide its members with opportunities to improve their own economic circumstances; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board determines that it is in the best interests of the Tribe, its members, and consumers to amend the Tribal Court Code and enact the Financial Services Regulatory Authority Administrative Appellate Procedures as <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">Chapter TCT.5</cite>.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby enacts <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">Chapter TCT.5</cite> as attached.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>7</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>21<sup>st</sup> day of November 2022</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>7</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+  <codify:insert path="TCT" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TCT.5.1.010">
+    <container>
+      <num>TCT.5</num>
+      <heading>Financial Services Regulatory Authority Administrative Appellate Procedures</heading>
+      <prefix>Chapter</prefix>
+      <container>
+        <num>TCT.5.1</num>
+        <heading>General Provisions</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>TCT.5.1.010</num>
+          <heading>Applicability</heading>
+          <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">This Chapter</cite> applies only to appeals from administrative decisions rendered by the Financial Services Regulatory Authority.</text>
+        </section>
+        <section>
+          <num>TCT.5.1.020</num>
+          <heading>Jurisdiction of the Lac Courte Oreilles Tribal Court</heading>
+          <para>
+            <num>(a)</num>
+            <text><u>Jurisdiction</u><em><u>.</u></em> In addition to and consistent with <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.3.020">§TCT.2.3.020</cite>, the Tribal Court shall have exclusive jurisdiction to review the actions of the Financial Services Regulatory Authority, as provided herein. The decision of the Tribal Court shall be final as to all such review.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Administrative Appeal; Administrative Exhaustion.</u>  A person aggrieved by a final decision or order in a Contested Case, whether such decision or order is affirmative or negative in form, may appeal under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">this Chapter</cite> to the Tribal Court ("administrative appeal"). An administrative appeal under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">this Chapter</cite> is part of the administrative process and constitutes an administrative remedy. Accordingly, a final decision following an administrative appeal is a prerequisite to judicial review of an Agency Action. A motion or application for rehearing or reconsideration to the Agency is not required to appeal under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">this Chapter</cite> unless specifically required by Agency rules.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Administrative Appeal by Right or by Leave.</u> An administrative appeal of an Agency Action shall be by right when expressly authorized by Tribal law or regulation.  An administrative appeal of an Agency Action shall be by leave in all other circumstances and granting leave shall be within the discretion of the Tribal Court after review of a Petition filed under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><u>Constitutionality</u><em><u>.</u></em> In an administrative appeal properly filed under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">this Chapter</cite> the jurisdiction of the Tribal Court shall include the authority to determine the constitutionality of acts of any Person, the Governing Board, or any Tribal subdivision or Agency.</text>
+          </para>
+        </section>
+        <section>
+          <num>TCT.5.1.030</num>
+          <heading>Laws Applicable to Administrative Appeals</heading>
+          <text>In all administrative appeals, the Tribal Court shall first apply the Tribal ordinance authorizing the administrative appeal, then any other applicable Tribal law as well as any applicable federal laws and regulations. Where Tribal law and applicable federal laws are silent, the Tribal Court may look to federal court authority from the United States Court of Appeals, Seventh Circuit, or from any federal district court in Wisconsin, subject to modification by the Tribal Court, if necessary, to reflect the customs, traditions, values, and policies of the Tribe. The Tribal Court may of its own motion or that of a Party, adopt any other source of law as persuasive authority and may apply any such source with or without modification.</text>
+        </section>
+        <section>
+          <num>TCT.5.1.040</num>
+          <heading>Administrative Appellate Judges; Disqualification and Recusal</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any Tribal Court judge may preside over an administrative appeal. No Magistrate may preside over and administrative appeal.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Disqualification, Recusal, or Removal of Judge shall be according to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.4.050">§TCT.2.4.050</cite>.  Upon disqualification, recusal, or removal, the Clerk shall assign another judge.</text>
+          </para>
+        </section>
+        <section>
+          <num>TCT.5.1.050</num>
+          <heading>Practice Before the Tribal Court – Administrative Appeals</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any person admitted to practice before the Lac Courte Oreilles Tribal Court pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2.8">Subchapter TCT.2.8</cite> may appear in an administrative appeal.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>TCT.5.2</num>
+        <heading>Definitions</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>TCT.5.2.010</num>
+          <heading>General Definitions</heading>
+          <para>
+            <num>(a)</num>
+            <text>In addition to the terms defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.2.010">§TCT.2.2.010</cite>, the following definitions apply to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">this Chapter</cite>:</text>
+            <para>
+              <num>(1)</num>
+              <text><strong>"Administrative Record"</strong> means the documents submitted in a Contested Case and shall include all the documents relied upon by the Agency in determining to take an Agency Action appealed under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">this Chapter</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><strong>"Agency"</strong> means the Financial Services Regulatory Authority.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><strong>"Agency Action"</strong> means the Agency's act of issuing a rule, order, license, sanction, relief, or the equivalent or denial thereof, or the Agency's failure to act when such Action was required pursuant to Tribal law or regulation.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text><strong>"Contested Case"</strong> means an administrative proceeding in which a determination of the legal rights, duties, or privileges of a named Party is required by law to be made by the Agency after an opportunity for an evidentiary hearing.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text><strong>"Final Agency Action"</strong> means an Agency Action subject to administrative appeal. An Agency Action is a Final Agency Action when it is the consummation of the Agency's decision-making process and from which legal consequences shall flow and is made explicitly reviewable by Tribal law, regulation, or of which there is no other adequate remedy.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text><strong>"Party"</strong> means a Person or Agency named, admitted, or properly seeking and entitled of right to be admitted, as a party in a Contested Case. In a Contested Case regarding an application for a license, a Party includes the applicant for the license.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text><strong>"Person"</strong> means an individual, partnership, association, corporation, limited liability company, limited liability partnership, or other legal entity, however organized. The term does not include any government, governmental subdivision, or Agency.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text><strong>"Petition"</strong> means a written request to the Tribal Court to initiate an administrative appeal of a Final Agency Action.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text><strong>"Petitioner"</strong> means a person who files a Petition.</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text><strong>"Prevailing party"</strong> means the party in whose favor a judgment, decree, or final order, after administrative appeal (if any), is rendered with respect to the claims or defenses, when based on the entire record.</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text><strong>"Respondent"</strong> means the party responding to a Petition.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.5.2.010">this Section</cite> or in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.2.010">§TCT.2.2.010</cite> shall be given its ordinary meaning.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>TCT.5.3</num>
+        <heading>Appeal Procedure and Practice</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>TCT.5.3.010</num>
+          <heading>Form, Captioning, Signing, and Verifying Documents</heading>
+          <para>
+            <num>(a)</num>
+            <text><u>Scope.</u> All documents filed and served under this subsection shall adhere to rules in this Subsection or shall be rejected by the Clerk.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Page Limit.</u> Unless otherwise specified by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5.2">this Subchapter</cite> or preapproved by the Tribal Court, no document filed with the Tribal Court may exceed twenty (20) pages, double-spaced, exclusive of attachments and exhibits. Quotations and footnotes may be single spaced.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Form.</u> All documents shall be filed on 8½ by 11-inch paper, in English. At least one-inch margins shall be used. Font shall not be smaller than 12-point typeface, but footnotes may be 10-point typeface. Exhibits may be filed in their original format.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><u>Captions.</u> The first page of every filing shall contain a caption containing: the name of the court; the names of the Parties; the title of the document; any case number; and the name, business address, telephone number, and email address of the Parties or the Parties' counsel.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><u>Citations.</u> All documents filed with the Tribal Court that contain legal arguments and issues of law shall cite to controlling or persuasive authority using the citation format accepted by the federal courts in Wisconsin and/or by the Lac Courte Oreilles Tribal Court.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><u>Signature.</u> All filings shall be signed by the Person filing the document. The signature of a Person filing a document constitutes a certification by the signer that the signer has read the document and to the best of the signer's knowledge, information, and belief formed after reasonable inquiry, the document is well grounded in fact and is warranted by existing law or a good-faith argument for the extension, modification, or reversal of existing law; and the document is not interposed for any improper purpose, such as to harass or to cause unnecessary delay or needlessly increase in the cost of litigation.  Electronic signatures are permitted, to be indicated by "/s/" before the signer's name.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><u>Electronic documents.</u> Unless granted leave by the Tribal Court, all documents shall be filed and served electronically in a manner prescribed by the Tribal Court or via email.</text>
+          </para>
+        </section>
+        <section>
+          <num>THT.5.3.020</num>
+          <heading>Service</heading>
+          <text>In addition to §§<cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.9.020">TCT.2.9.020</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.9.040">TCT.2.9.040</cite>, the following shall apply:</text>
+          <para>
+            <num>(a)</num>
+            <text>Unless leave is granted by the Tribal Court, all filing and service shall be made electronically via email or as otherwise instructed by the Tribal Court.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Proof of Service.</u> All documents filed and served shall include proof of service that describes the document(s), the date of filing and service, the means of filing and service, and the recipients of the filing and service. The proof of service shall be signed by the person effectuating service, the Party, or the Party's legal counsel.</text>
+          </para>
+        </section>
+        <section>
+          <num>TCT.5.3.030</num>
+          <heading>Starting an Administrative Appeal; Notice of Administrative Appeal; Petition; Record on Administrative Appeal</heading>
+          <para>
+            <num>(a)</num>
+            <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2.9">Subchapter TCT.2.9</cite> does not apply to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any Person that is not the Prevailing Party to a Final Agency Action, opinion, order, or judgment may initiate an administrative appeal only as provided in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5.2">this Subchapter</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Notice of Administrative Appeal.</text>
+            <para>
+              <num>(1)</num>
+              <text>To initiate an administrative appeal, a Person shall file a notice of administrative appeal with the Clerk of the Tribal Court, and serve the notice to all other parties, no later than thirty (30) days after the entry of the Final Agency Action from which the administrative appeal is taken.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If one Party has timely and properly filed a notice of administrative appeal, any other Party in the case on administrative appeal may file a cross notice of administrative appeal within fifteen (15) days of service of the initial Party's notice of administrative appeal.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Failure to file a timely notice of administrative appeal as provided in this Subsection deprives the Tribal Court jurisdiction over the administrative appeal, and accordingly, the right to an administrative appeal is deemed waived and administrative remedies are deemed exhausted.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Petition for Review.</text>
+            <para>
+              <num>(1)</num>
+              <text><u>Time.</u> A Person that files a notice of administrative appeal shall file a Petition with the Court within sixty (60) days after the Final Agency Action that is the subject of the Petition is issued.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><u>Service.</u> The Person shall serve the Petition to all Parties and to the Agency whose Final Agency Action is the subject of the Petition.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><u>Content.</u> A Petition shall contain a concise statement of the nature of the proceedings as to which review is sought; the reason(s) an administrative appeal is sought; and the relief sought.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text><u>Page Limit</u>. The Petition shall not exceed twenty (20) pages, inclusive of any caption page, but not including any exhibits.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text><u>Exhibits.</u> The Petitioner shall attach to the Petition, as exhibit(s), a copy of the Final Agency Action appealed.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text><u>Transmission of Administrative Recor</u>d. Within thirty (30) days after service of the Petition, or within such further time as the court allows, the Agency shall transmit to the court the original or certified copy of the entire Administrative Record on which the Final Agency Action was based, unless the Parties stipulate that the Administrative Record be shortened.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Response to Petition</text>
+            <para>
+              <num>(1)</num>
+              <text>Any Party named in the Petition may file a response to the Petition within fifteen (15) days after the Petition is filed and served. A Party's decision not to file a response shall not be a basis for a default and shall not be considered in any subsequent proceedings on the merits of the Petition.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Any response shall not exceed twenty (20) pages, inclusive of any caption page, but not including any exhibits.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>TCT.5.3.040</num>
+          <heading>Scheduling Conference; Scheduling Order</heading>
+          <para>
+            <num>(a)</num>
+            <text>At any time after a Petition is filed, the Tribal Court shall hold a scheduling conference. At any such conference, any unrepresented Party shall appear in person, and at least one attorney or lay advocate shall appear in person for any Party who has representation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>After consultation, the court shall issue a scheduling order including such of the following as are applicable to the circumstances and complexity of the case:</text>
+            <para>
+              <num>(1)</num>
+              <text>The time for when any responses to the Petition shall be filed, if one has not already been filed;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The deadlines for any motions to be filed and heard, closing the record, and briefing;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The date for oral argument and the time allowed to each party for oral argument;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The deadlines for post oral argument briefing, if any;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Any other matters governing the conduct of the case that the court deems appropriate.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The Tribal Court may from time to time thereafter amend the order.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>TCT.5.3.050</num>
+          <heading>Motions</heading>
+          <para>
+            <num>(a)</num>
+            <text>Before filing any motion, a Party shall meet and confer with the opposing Party to determine if the Parties can agree to the relief sought or otherwise narrow the issues. Failure to meet and confer shall be a basis to deny the motion.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any Party to an administrative appeal may file such motions as appear necessary, together with supporting briefs and affidavits, as appropriate, as well as a verification or exhibit confirming the Parties have met and conferred and were unable to resolve the matter. Parties shall file a proposed order with the motion.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any motion filed shall not exceed ten (10) pages without leave of the Tribal Court.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Motions that present an issue of law shall be accompanied by a brief citing relevant authority. Any such motion and accompanying brief may be filed as a single document.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Such motions shall be filed with the Clerk.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Any response shall be filed within fifteen (15) days and may not exceed ten (10) pages without leave of the Tribal Court.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The judge has discretion to order oral argument on any motion.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>The Tribal Court shall issue a written order deciding each motion.</text>
+          </para>
+        </section>
+        <section>
+          <num>TCT.5.3.060</num>
+          <heading>Appellate Briefs</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Petitioner shall file and serve an opening brief within forty-five (45) days of the Agency's submission of the Administrative Record or within forty-five (45) days after the Tribal Court grants a Petition, whichever is later, unless otherwise indicated by the Scheduling Order.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any response shall be filed and served within thirty (30) days of service of the Petitioner's opening brief, or as indicated by the Scheduling Order.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Petitioner shall file any reply within fifteen (15) days of service of Respondent's brief, or as otherwise indicated by the Scheduling Order.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>All briefs shall contain:</text>
+            <para>
+              <num>(1)</num>
+              <text>a caption page,</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>an introduction including a statement of the case and stating the issues presented by the administrative appeal,</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>a procedural background including an explanation of the Final Agency Action on administrative appeal,</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>a factual background limited to the issues presented by the administrative appeal,</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>an argument that is supported by the Administrative Record and authority,</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>a conclusion specifying the precise relief sought.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Amicus Briefs are not allowed.</text>
+          </para>
+        </section>
+        <section>
+          <num>TCT.5.3.070</num>
+          <heading>Oral Argument</heading>
+          <para>
+            <num>(a)</num>
+            <text>When requested, the Tribal Court shall allow oral arguments. If not requested, oral argument may be permitted in the discretion of the Tribal Court. The judge shall establish the order of oral argument.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>There shall be no evidence presented at oral argument.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Tribal Court shall limit oral argument to the issues raised by the parties, the Administrative Record, and any other properly admitted evidence.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The length of argument allowed, shall be set by the Scheduling Order.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The Tribal Court may question either Party during their oral argument. The Parties are not entitled to additional time if the Tribal Court asks questions.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Adjournment; Reconvening. For good cause, the Tribal Court may adjourn and reconvene oral argument. The Tribal Court may call for additional oral arguments.</text>
+          </para>
+        </section>
+        <section>
+          <num>TCT.5.3.080</num>
+          <heading>Post Hearing Briefing</heading>
+          <text>Upon motion or stipulation by either Party, or upon its own, the Tribal Court may order post hearing briefs on questions or issues that arose during oral argument and which the parties have not already had an opportunity to brief.</text>
+        </section>
+        <section>
+          <num>TCT.5.3.090</num>
+          <heading>Administrative Appellate Opinions; Remand; Mandate; Final Decision</heading>
+          <para>
+            <num>(a)</num>
+            <text>All administrative appeals shall be heard by the judge and without a jury.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Scope of Review.</u> An administrative appeal of a Final Agency Action shall be limited to the Administrative Record and any other properly admitted evidence.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Standard of Review.</u> The judge shall adhere to the following standards of review:</text>
+            <para>
+              <num>(1)</num>
+              <text>The Agency's findings of fact, factual inferences, and findings, explicit or implicit, of witness credibility, shall be sustained unless clearly erroneous.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Tribal Court shall give deference to an Agency's reasonable interpretation and application of the Tribal law and applicable federal laws and regulations;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The Agency's discretionary determination shall be sustained if the record reflects that the Agency exercised discretion and applied the appropriate legal standard to the admissible facts of record. The Agency's imposition of fines, forfeitures, and other penalties or remedial measures, not including the assessment of damages, shall be reviewed as a discretionary determination.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The Agency's conclusions of law are reviewed de novo.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>A stipulated, uncontested, or documentary fact is reviewed de novo.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The meaning of an unambiguous contract is reviewed de novo.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Whether a finding of fact or a conclusion of law has been properly labeled as such by the Tribal Court is reviewed de novo.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The court, as appropriate, may affirm, reverse, or modify a Final Agency Action or remand the matter to the Agency for further proceedings.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Grounds for reversal. The court shall set aside a Final Agency Action, findings, and conclusions found to be:</text>
+            <para>
+              <num>(1)</num>
+              <text>In violation of the LCO Tribal constitution or other LCO tribal law.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>In excess of the statutory authority or jurisdiction of the Agency.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Made upon unlawful procedure resulting in material prejudice to a Party.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Unsupported by competent, material, and substantial evidence on the whole record.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Arbitrary, capricious, or clearly an abuse or unwarranted exercise of discretion.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Affected by other substantial and material error of law.</text>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The Tribal Court shall not substitute its judgment for that of the Agency on a matter committed to the discretion of the Agency. Mere disagreement with the Agency's reasoning is not a basis for reversal.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Decisions.</text>
+            <para>
+              <num>(1)</num>
+              <text>Within a reasonable time after oral argument and the close of briefing, the Court shall issue its decision as an opinion and order.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All decisions shall be in writing, shall specify the relief granted, if any, and shall state the Tribal Court's rationale therefore.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Additionally, the decision shall include:</text>
+              <para>
+                <num>(A)</num>
+                <text>a determination on Tribal Court's jurisdiction over the administrative appeal,</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>findings of fact,</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>conclusions of law, and</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>whether the administrative process has been exhausted.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The decision shall include instructions to the Agency detailing how to proceed upon remand, when applicable. The Agency shall be bound by the decision in all respects.</text>
+            </para>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Reconsideration. A request for reconsideration of a Tribal Court decision made under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5.2">this Subchapter</cite> shall be filed in the Tribal Court within fifteen (15) days of the filing of any decision or order of the Tribal Court. The request for reconsideration shall state the specific change(s) in the decision sought, and all reasons, and the authority therefore, for the change(s). Any non-requesting Party shall have fifteen (15) days from the date of service of the request to respond. Oral argument on a request for reconsideration is discretionary with the Tribal Court.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>The Tribal Court's opinion and order is a final decision and shall become final once the time for requesting reconsideration has expired or after the Tribal Court issues a decision on any request for reconsideration, whichever is later. The Tribal Court's opinion and order may not be appealed.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>The Clerk shall, within two days of their filing, furnish copies of the decision and any order of the Tribal Court to the Agency and the Parties.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>TCT.5.4</num>
+        <heading>Enforcement of Judgment</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>TCT.5.4.010</num>
+          <heading>Enforcement.</heading>
+          <text>Following exhaustion, an administrative decision is enforceable in the same manner as a Tribal Court judgment pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.1.2.010">§TCT.1.2.010</cite>.</text>
+        </section>
+      </container>
+    </container>
+  </codify:insert>
+</document>

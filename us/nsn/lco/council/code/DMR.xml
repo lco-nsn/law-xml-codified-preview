@@ -139,7 +139,7 @@
       <section>
         <num>DMR.1.2.010</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§DMR.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="|DMR.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text><strong>"Affected Persons"</strong> means the child who is the subject of a petition under this ordinance, the Tribe by the Child Welfare Director or the Assistant Child Welfare Director, and the child's parents, guardians, and custodians.</text>
@@ -266,7 +266,7 @@
         </para>
         <para>
           <num>(u)</num>
-          <text><strong>"Person with an Interest in a Child"</strong> means the child if fourteen (14) years of age or over, the child's parents, guardian, custodian, a member of the child's Extended Family, a law enforcement or conservation officer when jurisdiction under <cite path="§DMR.1.5.010|(h)">Section DMR.1.5.010(h)</cite> of this ordinance is alleged, the Child Welfare Director, and the Assistant Child Welfare Director.</text>
+          <text><strong>"Person with an Interest in a Child"</strong> means the child if fourteen (14) years of age or over, the child's parents, guardian, custodian, a member of the child's Extended Family, a law enforcement or conservation officer when jurisdiction under <cite path="|DMR.1.5.010|(h)">Section DMR.1.5.010(h)</cite> of this ordinance is alleged, the Child Welfare Director, and the Assistant Child Welfare Director.</text>
         </para>
         <para>
           <num>(v)</num>
@@ -332,7 +332,7 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>Except as provided in <cite path="§DMR.1.5.060|(g)">Section DMR.1.5.060(g)</cite> of this ordinance, all records of the Children's Court shall be confidential and only affected persons shall have access.</text>
+          <text>Except as provided in <cite path="|DMR.1.5.060|(g)">Section DMR.1.5.060(g)</cite> of this ordinance, all records of the Children's Court shall be confidential and only affected persons shall have access.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
@@ -348,7 +348,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Without limitation to <cite path="§DMR.1.3.020|(a)">Section DMR.1.3.020(a)</cite> above, the Children's Court may, upon petition, accept a case originally brought in another Court. Cases not accepted by the Children's Court within sixty (60) days of the entry of the order transferring the case shall be deemed a declination of the case.  The Children's Court may, on its own motion or the motion of any party, decline or waive jurisdiction over a child at any time</text>
+          <text>Without limitation to <cite path="|DMR.1.3.020|(a)">Section DMR.1.3.020(a)</cite> above, the Children's Court may, upon petition, accept a case originally brought in another Court. Cases not accepted by the Children's Court within sixty (60) days of the entry of the order transferring the case shall be deemed a declination of the case.  The Children's Court may, on its own motion or the motion of any party, decline or waive jurisdiction over a child at any time</text>
         </para>
         <para>
           <num>(c)</num>
@@ -368,15 +368,15 @@
         <heading>Jurisdiction over Parents and Their Children in Need of Care</heading>
         <para>
           <num>(a)</num>
-          <text>The Children's Court shall have jurisdiction over a minor upon a petition filed by the Child Welfare Director or Assistant Child Welfare Director alleging that the minor is a minor in need of care because of the existence of any of the conditions enumerated in <cite path="§DMR.1.4.010">Section DMR.1.4.010</cite> and <cite path="§DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance.</text>
+          <text>The Children's Court shall have jurisdiction over a minor upon a petition filed by the Child Welfare Director or Assistant Child Welfare Director alleging that the minor is a minor in need of care because of the existence of any of the conditions enumerated in <cite path="|DMR.1.4.010">Section DMR.1.4.010</cite> and <cite path="|DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The Children's Court shall have jurisdiction over the parents of any minor over whom the Children's Court has acquired jurisdiction under <cite path="§DMR.1.3.030|(a)">Section DMR.1.3.030(a)</cite>, above.</text>
+          <text>The Children's Court shall have jurisdiction over the parents of any minor over whom the Children's Court has acquired jurisdiction under <cite path="|DMR.1.3.030|(a)">Section DMR.1.3.030(a)</cite>, above.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>When the Children's Court exercises jurisdiction over any child who is not a member of the Tribe but who may be a member of another tribe, the Court shall verify that notice was given to such other tribe, and an opportunity to participate as a witness, to intervene as a party, or to file a motion seeking transfer of proceedings to the other tribe's Court shall be permitted. If a Child's Tribe objects to the jurisdiction of the Children's Court prior to the entry of a final judgment in the case, the Court shall waive jurisdiction over the ineligible child, except as provided in <cite path="§DMR.1.3.140">Section DMR.1.3.140</cite> of this ordinance.</text>
+          <text>When the Children's Court exercises jurisdiction over any child who is not a member of the Tribe but who may be a member of another tribe, the Court shall verify that notice was given to such other tribe, and an opportunity to participate as a witness, to intervene as a party, or to file a motion seeking transfer of proceedings to the other tribe's Court shall be permitted. If a Child's Tribe objects to the jurisdiction of the Children's Court prior to the entry of a final judgment in the case, the Court shall waive jurisdiction over the ineligible child, except as provided in <cite path="|DMR.1.3.140">Section DMR.1.3.140</cite> of this ordinance.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
@@ -389,7 +389,7 @@
         <text>In addition to jurisdiction granted by other sections of this ordinance, the Children's Court shall have jurisdiction to:</text>
         <para>
           <num>(a)</num>
-          <text>Order a law enforcement officer, the Child Welfare Director, or the Assistant Child Welfare Director to take a child into custody pursuant to <cite path="§DMR.1.1.040">Section DMR.1.1.040</cite> of this ordinance and conduct other emergency custody proceedings as provided for in <cite path="DMR|DMR.1|DMR.1.4">Subchapter DMR.1.4</cite> of this ordinance.</text>
+          <text>Order a law enforcement officer, the Child Welfare Director, or the Assistant Child Welfare Director to take a child into custody pursuant to <cite path="|DMR.1.1.040">Section DMR.1.1.040</cite> of this ordinance and conduct other emergency custody proceedings as provided for in <cite path="DMR|DMR.1|DMR.1.4">Subchapter DMR.1.4</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -423,7 +423,7 @@
       <section>
         <num>DMR.1.3.050</num>
         <heading>Jurisdiction over Contributing Adults</heading>
-        <text>In addition to jurisdiction granted by other sections of this ordinance, the Children's Court shall have jurisdiction over persons eighteen (18) years or older alleged to have contributed to, encouraged, or tended to cause, by act or omission, a condition of a child as described in <cite path="§DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance as follows:</text>
+        <text>In addition to jurisdiction granted by other sections of this ordinance, the Children's Court shall have jurisdiction over persons eighteen (18) years or older alleged to have contributed to, encouraged, or tended to cause, by act or omission, a condition of a child as described in <cite path="|DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance as follows:</text>
         <para>
           <num>(a)</num>
           <text>The Children's Court may make orders with respect to any person eighteen (18) years or older who has contributed to, encouraged, or tended to cause, by any act or omission, a child to be a child in need of care, whether or not the child is actually adjudicated a child in need of care, if the natural and probable consequences of the act or failure to act would be to cause the child to be a child in need of care.</text>
@@ -440,7 +440,7 @@
       <section>
         <num>DMR.1.3.060</num>
         <heading>Continuing Jurisdiction</heading>
-        <text>The Children's Court shall have continuing jurisdiction, subject to <cite path="§DMR.1.4.040">Section DMR.1.4.040</cite> and <cite path="§DMR.1.5.060|(h)">Section DMR.1.5.060(h)</cite> of this ordinance, over a child who is determined to be subject to this ordinance and shall have the power to modify, extend, or dismiss previous orders, expunge the child's records, or consider petitions based on new evidence concerning the child.</text>
+        <text>The Children's Court shall have continuing jurisdiction, subject to <cite path="|DMR.1.4.040">Section DMR.1.4.040</cite> and <cite path="|DMR.1.5.060|(h)">Section DMR.1.5.060(h)</cite> of this ordinance, over a child who is determined to be subject to this ordinance and shall have the power to modify, extend, or dismiss previous orders, expunge the child's records, or consider petitions based on new evidence concerning the child.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
           <annotation type="Prior Codifications">§DMR.1.3.060 was formerly codified as VII LCOTCL §1.306</annotation>
@@ -460,7 +460,7 @@
         <heading>Parties</heading>
         <para>
           <num>(a)</num>
-          <text>In the absence of a specific provision in this ordinance or a court order to the contrary, all Affected Persons, as defined in <cite path="§DMR.1.2.010|(a)">Section DMR.1.2.010(a)</cite> of this ordinance, shall be parties to a Children's Court proceeding held in the interest of a child.  Out-of-home placements will receive notices of all proceedings, but their appearances are not required.  After termination of parental rights, no parent whose rights have been terminated shall be entitled to notice of any further proceedings regarding the child, except as the Children's Court may deem appropriate.</text>
+          <text>In the absence of a specific provision in this ordinance or a court order to the contrary, all Affected Persons, as defined in <cite path="|DMR.1.2.010|(a)">Section DMR.1.2.010(a)</cite> of this ordinance, shall be parties to a Children's Court proceeding held in the interest of a child.  Out-of-home placements will receive notices of all proceedings, but their appearances are not required.  After termination of parental rights, no parent whose rights have been terminated shall be entitled to notice of any further proceedings regarding the child, except as the Children's Court may deem appropriate.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -533,7 +533,7 @@
         <heading>Informal Disposition</heading>
         <para>
           <num>(a)</num>
-          <text>Upon referral of any child who is or may be a child in need of care under <cite path="§DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance, the Child Welfare Director or Assistant Child Welfare Director may investigate the circumstances, counsel the child, discuss the situation with the parents or guardians, arrange for services to be voluntarily accepted by the child or parents, or institute any other informal, voluntary arrangements designed to further the best interest of the child.  At any time that the Child Welfare Director or Assistant Child Welfare Director deems it appropriate, proceedings may be instituted under any other subchapter of this ordinance.</text>
+          <text>Upon referral of any child who is or may be a child in need of care under <cite path="|DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance, the Child Welfare Director or Assistant Child Welfare Director may investigate the circumstances, counsel the child, discuss the situation with the parents or guardians, arrange for services to be voluntarily accepted by the child or parents, or institute any other informal, voluntary arrangements designed to further the best interest of the child.  At any time that the Child Welfare Director or Assistant Child Welfare Director deems it appropriate, proceedings may be instituted under any other subchapter of this ordinance.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -558,7 +558,7 @@
         <heading>Ineligible Children</heading>
         <para>
           <num>(a)</num>
-          <text>Any child that does not fall within the definition of a "Child" pursuant to <cite path="§DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance, or whose tribe has objected to jurisdiction of the Children's Court prior to the entry of a final judgment in the case under <cite path="§DMR.1.3.030">Section DMR.1.3.030</cite> of this ordinance, shall be subject to this ordinance only if the child is present on the Reservation and only for the following purposes:</text>
+          <text>Any child that does not fall within the definition of a "Child" pursuant to <cite path="|DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance, or whose tribe has objected to jurisdiction of the Children's Court prior to the entry of a final judgment in the case under <cite path="|DMR.1.3.030">Section DMR.1.3.030</cite> of this ordinance, shall be subject to this ordinance only if the child is present on the Reservation and only for the following purposes:</text>
           <para>
             <num>(1)</num>
             <text>Taking into custody for the purpose of protecting the ineligible child from imminent physical or emotional harm;</text>
@@ -574,7 +574,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A report of the conditions requiring action under <cite path="§DMR.1.3.140|(a)">Section DMR.1.3.140(a)</cite> above, shall be filed immediately with the Sawyer County Department of Social Services.</text>
+          <text>A report of the conditions requiring action under <cite path="|DMR.1.3.140|(a)">Section DMR.1.3.140(a)</cite> above, shall be filed immediately with the Sawyer County Department of Social Services.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
@@ -680,11 +680,11 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A person who takes a child into emergency custody without a Children's Court order, under the circumstances described in <cite path="§DMR.1.4.010|(a)">Section DMR.1.4.010(a)</cite> of this ordinance, shall make reasonable efforts to provide immediate notice to the Children's Court which may be accomplished through submission of an emergency custody form, and/or provide immediate notice to the Child's Tribe if different from the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. Upon notification, the Children's Court shall schedule a hearing pursuant to <cite path="§DMR.1.4.040">Section DMR.1.4.040</cite> of this ordinance, and the Child Welfare Director or Assistant Child Welfare Director shall file a petition with the Children's Court pursuant to Subchapter 1.5 of this ordinance before or at the hearing scheduled pursuant to <cite path="§DMR.1.4.040">Section DMR.1.4.040</cite> of this ordinance.</text>
+          <text>A person who takes a child into emergency custody without a Children's Court order, under the circumstances described in <cite path="|DMR.1.4.010|(a)">Section DMR.1.4.010(a)</cite> of this ordinance, shall make reasonable efforts to provide immediate notice to the Children's Court which may be accomplished through submission of an emergency custody form, and/or provide immediate notice to the Child's Tribe if different from the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. Upon notification, the Children's Court shall schedule a hearing pursuant to <cite path="|DMR.1.4.040">Section DMR.1.4.040</cite> of this ordinance, and the Child Welfare Director or Assistant Child Welfare Director shall file a petition with the Children's Court pursuant to Subchapter 1.5 of this ordinance before or at the hearing scheduled pursuant to <cite path="|DMR.1.4.040">Section DMR.1.4.040</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Any person taking a child into emergency custody under <cite path="§DMR.1.4.010">this section</cite> shall immediately attempt to notify the parent, guardian or custodian by the most practical means which may be accomplished through delivery of an emergency custody form, and shall continue to reasonably make such attempts until notification is made.  Any law enforcement officer acting under <cite path="§DMR.1.4.010">this section</cite> shall also immediately attempt to notify the Child Welfare Director or Assistant Child Welfare Director.  If the child is physically transferred to the Child Welfare Director or Assistant Child Welfare Director, the Director or the Assistant Director shall thereafter continue notification attempts until notification is made.  The person notifying the parent, guardian, or custodian, need not inform such person of the location of the child if the notifying person reasonably believes that providing such information will imminently endanger the child.</text>
+          <text>Any person taking a child into emergency custody under <cite path="|DMR.1.4.010">this section</cite> shall immediately attempt to notify the parent, guardian or custodian by the most practical means which may be accomplished through delivery of an emergency custody form, and shall continue to reasonably make such attempts until notification is made.  Any law enforcement officer acting under <cite path="|DMR.1.4.010">this section</cite> shall also immediately attempt to notify the Child Welfare Director or Assistant Child Welfare Director.  If the child is physically transferred to the Child Welfare Director or Assistant Child Welfare Director, the Director or the Assistant Director shall thereafter continue notification attempts until notification is made.  The person notifying the parent, guardian, or custodian, need not inform such person of the location of the child if the notifying person reasonably believes that providing such information will imminently endanger the child.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -692,7 +692,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>The agency taking a child into emergency custody shall thereafter have the authority to make all decisions regarding the care and well-being of the child until the child is released from custody under <cite path="§DMR.1.4.020">Section DMR.1.4.020</cite> of this ordinance, or by order of the court, unless custody is transferred to the Child Welfare Director or Assistant Child Welfare Director, in which case such authority shall transfer therewith. The agency taking a child into custody or the Child Welfare Director or Assistant Child Welfare Director retains custody during any placement made under <cite path="§DMR.1.4.030">Section DMR.1.4.030</cite> <cite path="§DMR.1.4.030|(b)">Section DMR.1.4.030(b)</cite> or <cite path="§DMR.1.4.030|(c)">Section DMR.1.4.030(c)</cite> of this ordinance.</text>
+          <text>The agency taking a child into emergency custody shall thereafter have the authority to make all decisions regarding the care and well-being of the child until the child is released from custody under <cite path="|DMR.1.4.020">Section DMR.1.4.020</cite> of this ordinance, or by order of the court, unless custody is transferred to the Child Welfare Director or Assistant Child Welfare Director, in which case such authority shall transfer therewith. The agency taking a child into custody or the Child Welfare Director or Assistant Child Welfare Director retains custody during any placement made under <cite path="|DMR.1.4.030">Section DMR.1.4.030</cite> <cite path="|DMR.1.4.030|(b)">Section DMR.1.4.030(b)</cite> or <cite path="|DMR.1.4.030|(c)">Section DMR.1.4.030(c)</cite> of this ordinance.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
@@ -708,7 +708,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The person taking a child into custody, or the Child Welfare Director or Assistant Child Welfare Director, shall attempt to immediately release the child to his or her parent, guardian, or custodian, unless such release is inconsistent with the child's best interests, or, if the parent, guardian, or custodian is unwilling or unable to receive such child, to a responsible adult, with suitable  counsel, advice, or warning, in which case the name and address of the person to whom the child has been released shall be immediately given to the parent, guardian, or custodian, unless there is reason to believe the release of such information will imminently endanger the child or the person to whom the child has been released.  If the procedure given in <cite path="§DMR.1.4.030">Section DMR.1.4.030</cite>, <cite path="§DMR.1.4.040">Section DMR.1.4.040</cite> and <cite path="§DMR.1.5.030|(a)">Section DMR.1.5.030(a)</cite> of this ordinance are not followed, the child's parent, guardian or custodian shall have a right upon court order to exercise custody and supervision over the child.</text>
+          <text>The person taking a child into custody, or the Child Welfare Director or Assistant Child Welfare Director, shall attempt to immediately release the child to his or her parent, guardian, or custodian, unless such release is inconsistent with the child's best interests, or, if the parent, guardian, or custodian is unwilling or unable to receive such child, to a responsible adult, with suitable  counsel, advice, or warning, in which case the name and address of the person to whom the child has been released shall be immediately given to the parent, guardian, or custodian, unless there is reason to believe the release of such information will imminently endanger the child or the person to whom the child has been released.  If the procedure given in <cite path="|DMR.1.4.030">Section DMR.1.4.030</cite>, <cite path="|DMR.1.4.040">Section DMR.1.4.040</cite> and <cite path="|DMR.1.5.030|(a)">Section DMR.1.5.030(a)</cite> of this ordinance are not followed, the child's parent, guardian or custodian shall have a right upon court order to exercise custody and supervision over the child.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
@@ -720,11 +720,11 @@
         <heading>Holding a Child in Emergency Custody</heading>
         <para>
           <num>(a)</num>
-          <text>A child may be held in emergency custody if the Child Welfare Director or Assistant Child Welfare Director has probable cause to believe that any of the conditions enumerated in         <cite path="§DMR.1.4.010|(a)">Section DMR.1.4.010(a)</cite> of this ordinance exists.</text>
+          <text>A child may be held in emergency custody if the Child Welfare Director or Assistant Child Welfare Director has probable cause to believe that any of the conditions enumerated in         <cite path="|DMR.1.4.010|(a)">Section DMR.1.4.010(a)</cite> of this ordinance exists.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>No child shall be held in secure custody, as defined in <cite path="§DMR.1.2.010|(x)">Section DMR.1.2.010(x)</cite> of this ordinance, unless the child consents to secure custody in order to protect him or her from an imminent physical threat from another, or such secure custody is ordered by the Children's Court.</text>
+          <text>No child shall be held in secure custody, as defined in <cite path="|DMR.1.2.010|(x)">Section DMR.1.2.010(x)</cite> of this ordinance, unless the child consents to secure custody in order to protect him or her from an imminent physical threat from another, or such secure custody is ordered by the Children's Court.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -780,19 +780,19 @@
         <heading>Hearings for Child in Emergency Custody</heading>
         <para>
           <num>(a)</num>
-          <text>For any child who has been taken into custody and not released under <cite path="§DMR.1.4.020">Section DMR.1.4.020</cite> of this ordinance, a hearing shall be held to determine whether the criteria exist under <cite path="§DMR.1.4.010">Section DMR.1.4.010</cite> and <cite path="§DMR.1.4.030">Section DMR.1.4.030</cite> of this ordinance to continue holding the child in custody.  The hearing shall be held as soon as practicable but no more than ten (10) days after the child is taken into custody. A petition under <cite path="DMR|DMR.1|DMR.1.5">Subchapter DMR.1.5</cite> of this ordinance shall be filed before or at the hearing. All reasonable steps shall be taken to notify the child's parents, guardian, and custodian of the hearing. If the parent, guardian, or custodian does not receive actual notice, he or she may later request a rehearing by right if the child is still under the Court's jurisdiction or the issue is not otherwise moot.</text>
+          <text>For any child who has been taken into custody and not released under <cite path="|DMR.1.4.020">Section DMR.1.4.020</cite> of this ordinance, a hearing shall be held to determine whether the criteria exist under <cite path="|DMR.1.4.010">Section DMR.1.4.010</cite> and <cite path="|DMR.1.4.030">Section DMR.1.4.030</cite> of this ordinance to continue holding the child in custody.  The hearing shall be held as soon as practicable but no more than ten (10) days after the child is taken into custody. A petition under <cite path="DMR|DMR.1|DMR.1.5">Subchapter DMR.1.5</cite> of this ordinance shall be filed before or at the hearing. All reasonable steps shall be taken to notify the child's parents, guardian, and custodian of the hearing. If the parent, guardian, or custodian does not receive actual notice, he or she may later request a rehearing by right if the child is still under the Court's jurisdiction or the issue is not otherwise moot.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>If, within the time provided by <cite path="§DMR.1.4.040|(a)">Section DMR.1.4.040(a)</cite> above, no hearing is held, or no petition is filed, the child shall be released from emergency custody, unless the Court or magistrate finds either ex parte or at a post-deadline hearing that probable cause exists to believe that the child is in imminent danger to self or another, or that the child's parent, guardian, or custodian is unwilling or unable to provide adequate supervision and care, in which case one 48 hour extension may be granted during which time the child shall remain in emergency custody pending the filing of a petition.  Ex parte findings of probable cause and findings of probable cause by a magistrate shall be reconsidered, and an opportunity to present oral and written evidence and argument shall be provided, by right, if any affected person requests reconsideration or hearing.  Hearings under this subsection may be conducted by telephone.</text>
+          <text>If, within the time provided by <cite path="|DMR.1.4.040|(a)">Section DMR.1.4.040(a)</cite> above, no hearing is held, or no petition is filed, the child shall be released from emergency custody, unless the Court or magistrate finds either ex parte or at a post-deadline hearing that probable cause exists to believe that the child is in imminent danger to self or another, or that the child's parent, guardian, or custodian is unwilling or unable to provide adequate supervision and care, in which case one 48 hour extension may be granted during which time the child shall remain in emergency custody pending the filing of a petition.  Ex parte findings of probable cause and findings of probable cause by a magistrate shall be reconsidered, and an opportunity to present oral and written evidence and argument shall be provided, by right, if any affected person requests reconsideration or hearing.  Hearings under this subsection may be conducted by telephone.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The hearing required under <cite path="§DMR.1.4.040">this section</cite> need not be held if the child's parents, guardians, or legal custodians and, if the child is over twelve (12), all agree that the child may remain in custody.</text>
+          <text>The hearing required under <cite path="|DMR.1.4.040">this section</cite> need not be held if the child's parents, guardians, or legal custodians and, if the child is over twelve (12), all agree that the child may remain in custody.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>A copy of the petition under <cite path="§DMR.1.4.040">this section</cite> and <cite path="DMR|DMR.1|DMR.1.5">Subchapter DMR.1.5</cite> of this ordinance shall be given to the child's parent, guardian, or legal custodian, and to the child if twelve (12) or older, as soon as practicable, and in no case later than the commencement of the hearing.</text>
+          <text>A copy of the petition under <cite path="|DMR.1.4.040">this section</cite> and <cite path="DMR|DMR.1|DMR.1.5">Subchapter DMR.1.5</cite> of this ordinance shall be given to the child's parent, guardian, or legal custodian, and to the child if twelve (12) or older, as soon as practicable, and in no case later than the commencement of the hearing.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -800,11 +800,11 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>If the Children's Court finds that one or more of the conditions enumerated in <cite path="§DMR.1.4.010|(a)">Section DMR.1.4.010(a)</cite> of this ordinance exists, it may continue custody in any of the placements enumerated in <cite path="§DMR.1.4.030|(c)">Section DMR.1.4.030(c)</cite> of this ordinance.  The Children's Court may also impose reasonable restrictions on the child's travel, association with other persons, or places of abode, and may assign the child to the supervision of the Indian Child Welfare Department.  Reasonable restrictions may be placed upon the conduct of the parents, guardians, custodians, or other responsible adults as necessary to secure the safety and well-being of the child.  Any order entered under <cite path="§DMR.1.4.040">this section</cite> shall be reduced to writing within ten (10) days thereof.</text>
+          <text>If the Children's Court finds that one or more of the conditions enumerated in <cite path="|DMR.1.4.010|(a)">Section DMR.1.4.010(a)</cite> of this ordinance exists, it may continue custody in any of the placements enumerated in <cite path="|DMR.1.4.030|(c)">Section DMR.1.4.030(c)</cite> of this ordinance.  The Children's Court may also impose reasonable restrictions on the child's travel, association with other persons, or places of abode, and may assign the child to the supervision of the Indian Child Welfare Department.  Reasonable restrictions may be placed upon the conduct of the parents, guardians, custodians, or other responsible adults as necessary to secure the safety and well-being of the child.  Any order entered under <cite path="|DMR.1.4.040">this section</cite> shall be reduced to writing within ten (10) days thereof.</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>Any order under <cite path="§DMR.1.4.040">this section</cite> shall be subject to rehearing for good cause.</text>
+          <text>Any order under <cite path="|DMR.1.4.040">this section</cite> shall be subject to rehearing for good cause.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
@@ -947,7 +947,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Any petition filed under this ordinance shall cite the specific subsection of <cite path="§DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance upon which the petitioner alleges jurisdiction, and shall allege the specific facts upon which the petitioner asserts jurisdiction exists. No petition shall be sufficient if it merely reiterates the language of the subsection invoked.</text>
+          <text>Any petition filed under this ordinance shall cite the specific subsection of <cite path="|DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance upon which the petitioner alleges jurisdiction, and shall allege the specific facts upon which the petitioner asserts jurisdiction exists. No petition shall be sufficient if it merely reiterates the language of the subsection invoked.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -975,7 +975,7 @@
         <heading>Initial Hearing</heading>
         <para>
           <num>(a)</num>
-          <text>Upon filing of a petition, the Children's Court shall schedule an initial hearing.  The hearing shall be scheduled to be held within 30 days of the date of the petition if the child has not been taken into custody.  If the child has been taken into emergency custody pursuant to <cite path="§DMR.1.4.010">Section DMR.1.4.010</cite> of this ordinance, the hearing shall be held as soon as practicable but no more than ten (10) days after the child was taken into custody.  All affected persons appearing at the initial hearing shall be served notice of subsequent hearings, either orally in Court on the record, by first class mail or by personal service.  The Children's Court may order additional persons to be served.</text>
+          <text>Upon filing of a petition, the Children's Court shall schedule an initial hearing.  The hearing shall be scheduled to be held within 30 days of the date of the petition if the child has not been taken into custody.  If the child has been taken into emergency custody pursuant to <cite path="|DMR.1.4.010">Section DMR.1.4.010</cite> of this ordinance, the hearing shall be held as soon as practicable but no more than ten (10) days after the child was taken into custody.  All affected persons appearing at the initial hearing shall be served notice of subsequent hearings, either orally in Court on the record, by first class mail or by personal service.  The Children's Court may order additional persons to be served.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1035,7 +1035,7 @@
         <heading>Plea Hearing</heading>
         <para>
           <num>(a)</num>
-          <text>At the plea hearing, the Children's Court shall obtain the official positions of the interested parties as to whether they contest to the allegations of the petition.  If any of the interested parties contest the petition, the matter shall be set for an adjudication hearing in accordance with <cite path="§DMR.1.5.050">Section DMR.1.5.050</cite> of this ordinance.</text>
+          <text>At the plea hearing, the Children's Court shall obtain the official positions of the interested parties as to whether they contest to the allegations of the petition.  If any of the interested parties contest the petition, the matter shall be set for an adjudication hearing in accordance with <cite path="|DMR.1.5.050">Section DMR.1.5.050</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1067,7 +1067,7 @@
         <heading>Dispositional Hearing</heading>
         <para>
           <num>(a)</num>
-          <text>At any stage of a proceeding under this ordinance the Children's Court may order a temporary disposition for the child.  Such an order may include any disposition authorized by <cite path="§DMR.1.5.060|(e)">Section DMR.1.5.060(e)</cite>, below.</text>
+          <text>At any stage of a proceeding under this ordinance the Children's Court may order a temporary disposition for the child.  Such an order may include any disposition authorized by <cite path="|DMR.1.5.060|(e)">Section DMR.1.5.060(e)</cite>, below.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1075,7 +1075,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Any party requesting out-of-home placement of a child shall submit to the Children's Court, and distribute as provided in <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite>, above, a report enumerating the attempts made to prevent an out-of-home placement, and a statement describing the efforts that will be made to make it possible for the child to return home.</text>
+          <text>Any party requesting out-of-home placement of a child shall submit to the Children's Court, and distribute as provided in <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite>, above, a report enumerating the attempts made to prevent an out-of-home placement, and a statement describing the efforts that will be made to make it possible for the child to return home.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1171,7 +1171,7 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>When a child has been found to be in need of care under <cite path="§DMR.1.5.010|(n)">Section DMR.1.5.010(n)</cite> [school truancy] or <cite path="§DMR.1.5.010|(p)">Section DMR.1.5.010(p)</cite> and <cite path="§DMR.1.5.010|(q)">Section DMR.1.5.010(q)</cite> [violation of state, federal, or tribal law] of this ordinance, the Children's Court may in its discretion order disclosure of such facts in the matter as it deems appropriate to the community or to the victim, and may order the child to perform such activities for, with, or on behalf of the community or victim, as appropriate, that may promote rehabilitation of the child or reconciliation of the child with the community or victim.</text>
+          <text>When a child has been found to be in need of care under <cite path="|DMR.1.5.010|(n)">Section DMR.1.5.010(n)</cite> [school truancy] or <cite path="|DMR.1.5.010|(p)">Section DMR.1.5.010(p)</cite> and <cite path="|DMR.1.5.010|(q)">Section DMR.1.5.010(q)</cite> [violation of state, federal, or tribal law] of this ordinance, the Children's Court may in its discretion order disclosure of such facts in the matter as it deems appropriate to the community or to the victim, and may order the child to perform such activities for, with, or on behalf of the community or victim, as appropriate, that may promote rehabilitation of the child or reconciliation of the child with the community or victim.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -1199,7 +1199,7 @@
         </para>
         <para>
           <num>(n)</num>
-          <text>Whenever the Children's Court orders a child to be placed outside the home, the Children's Court may make the referral described under <cite path="§DMR.1.3.120|(b)">Section DMR.1.3.120(b)</cite> of this ordinance.</text>
+          <text>Whenever the Children's Court orders a child to be placed outside the home, the Children's Court may make the referral described under <cite path="|DMR.1.3.120|(b)">Section DMR.1.3.120(b)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(o)</num>
@@ -1219,19 +1219,19 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>At any time in the last sixty (60) days of the period in which a dispositional order issued by the Children's Court or issued by another Court and subsequently transferred to the Children's Court is effective, the Child Welfare Director or the Assistant Child Welfare Director may move for an extension of the Court's dispositional order.  Such motion shall be filed with the Children's Court.  The Clerk of Court shall serve copies on all affected persons who were parties to the original proceedings, the Child Welfare Director or the Assistant Child Welfare Director, and the guardian ad litem, except that the Court may order additional parties served.  Service may be made by first class mail.  The motion shall be filed and served together with a notice of hearing on the motion no later than five (5) working days before the hearing.  Service may be made by first class mail.  The hearing so noticed will be on the merits of the motion unless the Court otherwise orders.  To assist the Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance, and under the same conditions as set forth in <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance, along with the petition and notice.</text>
+          <text>At any time in the last sixty (60) days of the period in which a dispositional order issued by the Children's Court or issued by another Court and subsequently transferred to the Children's Court is effective, the Child Welfare Director or the Assistant Child Welfare Director may move for an extension of the Court's dispositional order.  Such motion shall be filed with the Children's Court.  The Clerk of Court shall serve copies on all affected persons who were parties to the original proceedings, the Child Welfare Director or the Assistant Child Welfare Director, and the guardian ad litem, except that the Court may order additional parties served.  Service may be made by first class mail.  The motion shall be filed and served together with a notice of hearing on the motion no later than five (5) working days before the hearing.  Service may be made by first class mail.  The hearing so noticed will be on the merits of the motion unless the Court otherwise orders.  To assist the Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance, and under the same conditions as set forth in <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance, along with the petition and notice.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>In the event a motion for extension is filed within the time period specified in <cite path="§DMR.1.5.070|(b)">Section DMR.1.5.070(b)</cite> above, the Children's Court may make such temporary extension orders as are necessary to preserve its jurisdiction and to protect the interests of the child pending a full hearing on the extension motion.</text>
+          <text>In the event a motion for extension is filed within the time period specified in <cite path="|DMR.1.5.070|(b)">Section DMR.1.5.070(b)</cite> above, the Children's Court may make such temporary extension orders as are necessary to preserve its jurisdiction and to protect the interests of the child pending a full hearing on the extension motion.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>The scope of inquiry at the hearing on an extension is whether the conditions that warranted the adjudication continue or whether new circumstances provide jurisdiction pursuant to <cite path="§DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance.  If an extension is sought on the ground of new circumstances, the circumstances justifying extended jurisdiction shall be alleged in the petition.</text>
+          <text>The scope of inquiry at the hearing on an extension is whether the conditions that warranted the adjudication continue or whether new circumstances provide jurisdiction pursuant to <cite path="|DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance.  If an extension is sought on the ground of new circumstances, the circumstances justifying extended jurisdiction shall be alleged in the petition.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>Upon motion by any person with an interest in the child who was a party to the original proceedings or the Child Welfare Director or the Assistant Child Welfare Director, the Children's Court may, for good cause shown, modify a dispositional order any time during the effective period of the order sought to be modified.  Such motion shall be filed with the Children's Court.  The Clerk of Court shall serve affected persons who were parties to the original proceedings, the Child Welfare Director or the Assistant Child Welfare Director, and any guardian ad litem, except that the Children's Court may order additional parties served.  Service may be made by first class mail.  The motion shall be filed and served together with a notice of hearing on the motion. The hearing so noticed will be on the merits of the motion unless the Court otherwise orders. To assist the Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance, and under the same conditions as set forth in <cite path="§DMR.1.5.070|(b)">Section DMR.1.5.070(b)</cite> above, along with the motion.</text>
+          <text>Upon motion by any person with an interest in the child who was a party to the original proceedings or the Child Welfare Director or the Assistant Child Welfare Director, the Children's Court may, for good cause shown, modify a dispositional order any time during the effective period of the order sought to be modified.  Such motion shall be filed with the Children's Court.  The Clerk of Court shall serve affected persons who were parties to the original proceedings, the Child Welfare Director or the Assistant Child Welfare Director, and any guardian ad litem, except that the Children's Court may order additional parties served.  Service may be made by first class mail.  The motion shall be filed and served together with a notice of hearing on the motion. The hearing so noticed will be on the merits of the motion unless the Court otherwise orders. To assist the Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance, and under the same conditions as set forth in <cite path="|DMR.1.5.070|(b)">Section DMR.1.5.070(b)</cite> above, along with the motion.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -1247,11 +1247,11 @@
         <heading>Permanency Planning</heading>
         <para>
           <num>(a)</num>
-          <text>The Child Welfare Director or the Assistant Child Welfare Director shall prepare a court report pursuant to <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance including the permanency planning requirements specified in <cite path="§DMR.1.5.080|(b)">Section DMR.1.5.080(b)</cite> below, in every case where an out-of-home placement is ordered.</text>
+          <text>The Child Welfare Director or the Assistant Child Welfare Director shall prepare a court report pursuant to <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance including the permanency planning requirements specified in <cite path="|DMR.1.5.080|(b)">Section DMR.1.5.080(b)</cite> below, in every case where an out-of-home placement is ordered.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The permanency planning requirements of the court report prepared pursuant to <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance shall describe the following:</text>
+          <text>The permanency planning requirements of the court report prepared pursuant to <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance shall describe the following:</text>
           <para>
             <num>(1)</num>
             <text>The services offered to prevent out of home placement and to facilitate the child's return to home.</text>
@@ -1283,11 +1283,11 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The Children's Court shall review the permanency planning requirements of the court report prepared pursuant to <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance with a goal of every three months but at least every six months from the first date on which the child was held in physical custody or was placed outside the home. No less than ten (10) days before the review, the Clerk of Court shall notify in writing the parents or guardians, the child if over twelve (12) years of age, the foster parents, the Child Welfare Director or the Assistant Child Welfare Director, the tribal attorney, and the guardian ad litem of the date, time, and place of the review, of the issues to be determined in the review, and that they may submit written comments no less than five (5) days before the review. Upon receipt, the Clerk of Court shall submit any comments submitted pursuant to this paragraph to the Child Welfare Director or the Assistant Child Welfare Director, the Tribe's attorney and any guardian ad litem.</text>
+          <text>The Children's Court shall review the permanency planning requirements of the court report prepared pursuant to <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance with a goal of every three months but at least every six months from the first date on which the child was held in physical custody or was placed outside the home. No less than ten (10) days before the review, the Clerk of Court shall notify in writing the parents or guardians, the child if over twelve (12) years of age, the foster parents, the Child Welfare Director or the Assistant Child Welfare Director, the tribal attorney, and the guardian ad litem of the date, time, and place of the review, of the issues to be determined in the review, and that they may submit written comments no less than five (5) days before the review. Upon receipt, the Clerk of Court shall submit any comments submitted pursuant to this paragraph to the Child Welfare Director or the Assistant Child Welfare Director, the Tribe's attorney and any guardian ad litem.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Within fifteen (15) days of the review of the permanency planning requirements, the Child Welfare Director or the Assistant Child Welfare Director shall prepare a written report of the determinations made under <cite path="§DMR.1.5.080|(e)">Section DMR.1.5.080(e)</cite> below, and shall provide a copy to the Clerk of Court.</text>
+          <text>Within fifteen (15) days of the review of the permanency planning requirements, the Child Welfare Director or the Assistant Child Welfare Director shall prepare a written report of the determinations made under <cite path="|DMR.1.5.080|(e)">Section DMR.1.5.080(e)</cite> below, and shall provide a copy to the Clerk of Court.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -1318,7 +1318,7 @@
           </para>
           <para>
             <num>(7)</num>
-            <text>If the child has been placed out of home for two years or more, the appropriateness of the permanency planning requirements of the court report prepared pursuant to <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance and the circumstances which prevent the child from:</text>
+            <text>If the child has been placed out of home for two years or more, the appropriateness of the permanency planning requirements of the court report prepared pursuant to <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance and the circumstances which prevent the child from:</text>
             <para>
               <num>(A)</num>
               <text>Being returned home.</text>
@@ -1339,11 +1339,11 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Any party may move the Children's Court for any appropriate modifications in the dispositional order based on the permanency planning requirements of the court report prepared pursuant to <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance.</text>
+          <text>Any party may move the Children's Court for any appropriate modifications in the dispositional order based on the permanency planning requirements of the court report prepared pursuant to <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>The permanency planning requirements of the court report prepared pursuant to <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance and reviews shall comply with all applicable provisions of federal law and of any applicable 161 Agreement.</text>
+          <text>The permanency planning requirements of the court report prepared pursuant to <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance and reviews shall comply with all applicable provisions of federal law and of any applicable 161 Agreement.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -1358,7 +1358,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>The Child Welfare Department or such other agency as is primarily responsible for providing services to the child and the family has not provided to the family of the child, consistent with the time period in the child's permanency plan, such services necessary for the safe return of the child to the child's home, if reasonable efforts are required by the court order or permanency planning requirements of the court report prepared pursuant to <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance.</text>
+            <text>The Child Welfare Department or such other agency as is primarily responsible for providing services to the child and the family has not provided to the family of the child, consistent with the time period in the child's permanency plan, such services necessary for the safe return of the child to the child's home, if reasonable efforts are required by the court order or permanency planning requirements of the court report prepared pursuant to <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance.</text>
           </para>
         </para>
         <annotations>
@@ -1380,7 +1380,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Termination of parental rights may be ordered only in a proceeding where the petition clearly states that the petitioner is seeking an order of termination of parental rights, and where the mother and father have been summoned to appear before the Children's Court.  The parental rights of an unadjudicated or unacknowledged father may be terminated after service of the summons and petition as provided in <cite path="§DMR.1.6.060">Section DMR.1.6.060</cite> <cite path="§DMR.1.6.060|(a)">Section DMR.1.6.060(a)</cite> and <cite path="§DMR.1.6.060|(b)">Section DMR.1.6.060(b)</cite> of this ordinance on all persons named by the mother as the possible father or, in the case of an unknown father, after publication of the notice as provided in section <cite path="§DMR.1.6.060|(b)">Section DMR.1.6.060(b)</cite> of this ordinance. If any individual appears claiming paternity and contesting the termination of rights, the Court shall establish paternity to its satisfaction before considering the termination of the individual's parental rights.  Where no individual appears claiming paternity and where paternal parental rights are terminated by default, no such termination will be considered conclusive with regard to the child's rights of membership in the Tribe.</text>
+          <text>Termination of parental rights may be ordered only in a proceeding where the petition clearly states that the petitioner is seeking an order of termination of parental rights, and where the mother and father have been summoned to appear before the Children's Court.  The parental rights of an unadjudicated or unacknowledged father may be terminated after service of the summons and petition as provided in <cite path="|DMR.1.6.060">Section DMR.1.6.060</cite> <cite path="|DMR.1.6.060|(a)">Section DMR.1.6.060(a)</cite> and <cite path="|DMR.1.6.060|(b)">Section DMR.1.6.060(b)</cite> of this ordinance on all persons named by the mother as the possible father or, in the case of an unknown father, after publication of the notice as provided in section <cite path="|DMR.1.6.060|(b)">Section DMR.1.6.060(b)</cite> of this ordinance. If any individual appears claiming paternity and contesting the termination of rights, the Court shall establish paternity to its satisfaction before considering the termination of the individual's parental rights.  Where no individual appears claiming paternity and where paternal parental rights are terminated by default, no such termination will be considered conclusive with regard to the child's rights of membership in the Tribe.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1421,7 +1421,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text><u>Abuse</u>.  The child is under the jurisdiction of the Children's Court pursuant to <cite path="§DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance and the Court finds that the facts establishing jurisdiction show a pattern of repeated or severe abuse.</text>
+          <text><u>Abuse</u>.  The child is under the jurisdiction of the Children's Court pursuant to <cite path="|DMR.1.5.010">Section DMR.1.5.010</cite> of this ordinance and the Court finds that the facts establishing jurisdiction show a pattern of repeated or severe abuse.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1429,7 +1429,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text><u>Failure to assume parental responsibility</u>.  The child is a non-marital child whose non-custodial parent has not subsequently adopted the child or married the child's custodial parent and who has not established a substantial parental relationship with the child, as defined in <cite path="§DMR.1.2.010|(y)">Section DMR.1.2.010(y)</cite> of this ordinance.</text>
+          <text><u>Failure to assume parental responsibility</u>.  The child is a non-marital child whose non-custodial parent has not subsequently adopted the child or married the child's custodial parent and who has not established a substantial parental relationship with the child, as defined in <cite path="|DMR.1.2.010|(y)">Section DMR.1.2.010(y)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -1447,7 +1447,7 @@
       <section>
         <num>DMR.1.6.030</num>
         <heading>Method for Giving Consent to Voluntary Termination</heading>
-        <text>The Children's Court may terminate the parental rights of a parent who has given his or her informed, voluntary consent by one of the methods provided in <cite path="§DMR.1.6.030">this section</cite>.</text>
+        <text>The Children's Court may terminate the parental rights of a parent who has given his or her informed, voluntary consent by one of the methods provided in <cite path="|DMR.1.6.030">this section</cite>.</text>
         <para>
           <num>(a)</num>
           <text>The parent appears personally at a hearing before the judge or magistrate and gives his or her consent, the Children's Court explains the effect of a termination of parental rights, and the Court has questioned the parent and found to its satisfaction that the consent is informed and voluntary.</text>
@@ -1474,7 +1474,7 @@
         <heading>Petition for Voluntary or Involuntary Termination</heading>
         <para>
           <num>(a)</num>
-          <text>A termination of parental rights, whether voluntary or involuntary, may only be granted upon a petition as provided for in <cite path="§DMR.1.6.040">this section</cite>.</text>
+          <text>A termination of parental rights, whether voluntary or involuntary, may only be granted upon a petition as provided for in <cite path="|DMR.1.6.040">this section</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1639,7 +1639,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>If the petition is not contested, the Children's Court shall explain the effect of a termination of parental rights and shall question the parents consenting to termination in order to determine if such consent is informed and voluntary.  The Court shall make findings of fact on the record supporting its conclusions that consent is informed and voluntary before proceeding further with a voluntary termination.  The Court shall set a date for a dispositional hearing no later than 45 days from the date of the initial hearing, unless all parties consent to an immediate hearing and the report required by <cite path="§DMR.1.6.090|(a)">Section DMR.1.6.090(a)</cite> of this ordinance has been filed, in which case the Court may immediately so proceed.</text>
+          <text>If the petition is not contested, the Children's Court shall explain the effect of a termination of parental rights and shall question the parents consenting to termination in order to determine if such consent is informed and voluntary.  The Court shall make findings of fact on the record supporting its conclusions that consent is informed and voluntary before proceeding further with a voluntary termination.  The Court shall set a date for a dispositional hearing no later than 45 days from the date of the initial hearing, unless all parties consent to an immediate hearing and the report required by <cite path="|DMR.1.6.090|(a)">Section DMR.1.6.090(a)</cite> of this ordinance has been filed, in which case the Court may immediately so proceed.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
@@ -1649,7 +1649,7 @@
       <section>
         <num>DMR.1.6.080</num>
         <heading>Fact Finding Hearing</heading>
-        <text>At the fact finding hearing the Children's Court shall determine whether the facts alleged in a petition that has been contested are true beyond a reasonable doubt.  If the Court so finds, it shall proceed immediately to a dispositional hearing unless all parties agree to a delay or unless the report required in <cite path="§DMR.1.6.090|(a)">Section DMR.1.6.090(a)</cite> of this ordinance has not been completed, in which case the Court shall set a hearing date no later than 30 days after the fact-finding hearing.</text>
+        <text>At the fact finding hearing the Children's Court shall determine whether the facts alleged in a petition that has been contested are true beyond a reasonable doubt.  If the Court so finds, it shall proceed immediately to a dispositional hearing unless all parties agree to a delay or unless the report required in <cite path="|DMR.1.6.090|(a)">Section DMR.1.6.090(a)</cite> of this ordinance has not been completed, in which case the Court shall set a hearing date no later than 30 days after the fact-finding hearing.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
           <annotation type="Prior Codifications">§DMR.1.6.080 was formerly codified as VII LCOTCL §1.608</annotation>
@@ -1660,11 +1660,11 @@
         <heading>Disposition</heading>
         <para>
           <num>(a)</num>
-          <text>A court report must be prepared prior to all terminations of parental rights.  If the petition has been filed by the Child Welfare Director or the Assistant Child Welfare Director, the Child Welfare Director or the Assistant Child Welfare Director shall prepare a report to the court including a complete social, adjudicatory, and dispositional history of the child and the parent, a statement of feasible alternative dispositions, if any, and a statement applying the standards and factors contained in <cite path="§DMR.1.6.090|(b)">Section DMR.1.6.090(b)</cite>, below.  The report shall be filed with the Court and served on the parties no fewer than 10 days before the dispositional hearing. The report shall include a description of efforts made to prevent removal of the child from the home and efforts made, if any, to return the child, and to remedy the conditions resulting in the termination proceeding.  If the report recommends termination of both parents, or of the only living or known parent, the report shall include a statement of the child's likelihood of adoption, listing factors that might prevent adoption and factors that might facilitate it, and the interim plan and designated guardian recommended pending adoption or, if adoption is unlikely a plan for the continued care, custody, and guardianship of the child. The report shall also contain a medical and genetic history of the child and birth parents on a form as provided by the Wisconsin Department of Health and Social Services. If the petition has been filed by anyone other than the Child Welfare Director or the Assistant Child Welfare Director, the petitioner shall request an order of the Court appointing either the Child Welfare Director or the Assistant Child Welfare Director or another child welfare agency to prepare a report, provided that the expense of any such report prepared by any agency other than the Tribe's Child Welfare Department shall be borne by the petitioner.</text>
+          <text>A court report must be prepared prior to all terminations of parental rights.  If the petition has been filed by the Child Welfare Director or the Assistant Child Welfare Director, the Child Welfare Director or the Assistant Child Welfare Director shall prepare a report to the court including a complete social, adjudicatory, and dispositional history of the child and the parent, a statement of feasible alternative dispositions, if any, and a statement applying the standards and factors contained in <cite path="|DMR.1.6.090|(b)">Section DMR.1.6.090(b)</cite>, below.  The report shall be filed with the Court and served on the parties no fewer than 10 days before the dispositional hearing. The report shall include a description of efforts made to prevent removal of the child from the home and efforts made, if any, to return the child, and to remedy the conditions resulting in the termination proceeding.  If the report recommends termination of both parents, or of the only living or known parent, the report shall include a statement of the child's likelihood of adoption, listing factors that might prevent adoption and factors that might facilitate it, and the interim plan and designated guardian recommended pending adoption or, if adoption is unlikely a plan for the continued care, custody, and guardianship of the child. The report shall also contain a medical and genetic history of the child and birth parents on a form as provided by the Wisconsin Department of Health and Social Services. If the petition has been filed by anyone other than the Child Welfare Director or the Assistant Child Welfare Director, the petitioner shall request an order of the Court appointing either the Child Welfare Director or the Assistant Child Welfare Director or another child welfare agency to prepare a report, provided that the expense of any such report prepared by any agency other than the Tribe's Child Welfare Department shall be borne by the petitioner.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text><u>Court considerations</u>.  In making a decision about the appropriate disposition, the Children's Court shall consider the standard and factors enumerated in <cite path="§DMR.1.6.090">this section</cite>.</text>
+          <text><u>Court considerations</u>.  In making a decision about the appropriate disposition, the Children's Court shall consider the standard and factors enumerated in <cite path="|DMR.1.6.090">this section</cite>.</text>
           <para>
             <num>(1)</num>
             <text><u>Standard</u>.  The best interests of the child shall be the prevailing factor considered by the Children's Court in determining the disposition of all termination of parental rights proceedings.</text>
@@ -1715,7 +1715,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>The Children's Court shall inform any parent whose rights have been terminated of the provisions of Wis. Stats. §§ <cite path="VII|48|48.4|48.432">48.432</cite> and <cite path="VII|48|48.4|48.433">48.433</cite> and of <cite path="§DMR.1.8.070|(b)">Section DMR.1.8.070(b)</cite> of this ordinance, relating to medical and identifying information.</text>
+            <text>The Children's Court shall inform any parent whose rights have been terminated of the provisions of Wis. Stats. §§ <cite path="VII|48|48.4|48.432">48.432</cite> and <cite path="VII|48|48.4|48.433">48.433</cite> and of <cite path="|DMR.1.8.070|(b)">Section DMR.1.8.070(b)</cite> of this ordinance, relating to medical and identifying information.</text>
           </para>
           <para>
             <num>(6)</num>
@@ -1917,7 +1917,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>Final orders for the suspension of parental rights may be reviewed by the Children's Court at the request of the biological parent, the agency or agencies possessing custody of the child only if one of the following occurs: if there is no final dispositional order based on the permanency planning requirements of the court report prepared pursuant to <cite path="§DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance, in effect after a period of one (1) year after the entry of the final order suspending parental rights; the adoption of the child fails; the adoptive parent is deceased; or if the adoptive parent(s) joins in the biological parents request for review. Notice of this review shall be provided to all parties to the hearing at which the final suspension of parental rights order was issued.</text>
+            <text>Final orders for the suspension of parental rights may be reviewed by the Children's Court at the request of the biological parent, the agency or agencies possessing custody of the child only if one of the following occurs: if there is no final dispositional order based on the permanency planning requirements of the court report prepared pursuant to <cite path="|DMR.1.5.060|(b)">Section DMR.1.5.060(b)</cite> of this ordinance, in effect after a period of one (1) year after the entry of the final order suspending parental rights; the adoption of the child fails; the adoptive parent is deceased; or if the adoptive parent(s) joins in the biological parents request for review. Notice of this review shall be provided to all parties to the hearing at which the final suspension of parental rights order was issued.</text>
           </para>
         </para>
         <annotations>
@@ -1935,7 +1935,7 @@
         <heading>Petition for Guardianship</heading>
         <para>
           <num>(a)</num>
-          <text>Upon petition by any person with a legitimate interest in the welfare of the child, including persons with an interest in the child, including persons with an interest as defined in    <cite path="§DMR.1.2.010|(u)">Section DMR.1.2.010(u)</cite> of this ordinance, the Children's Court may appoint a guardian for a child who is without both parents or whose parents are unable to care for the child. Except when the petitioner is a person with an interest in the child as defined in <cite path="§DMR.1.2.010|(u)">Section DMR.1.2.010(u)</cite> of this ordinance, the decision to allow a person to petition for the appointment of a guardian shall be in the Court's discretion. The Court may impose any restriction or limitation on the powers of a guardian, or condition its appointment on the guardian's performance of specified duties, not inconsistent with <cite path="DMR|DMR.1|DMR.1.7">this subchapter</cite>, it finds will help protect the child's interest.</text>
+          <text>Upon petition by any person with a legitimate interest in the welfare of the child, including persons with an interest in the child, including persons with an interest as defined in    <cite path="|DMR.1.2.010|(u)">Section DMR.1.2.010(u)</cite> of this ordinance, the Children's Court may appoint a guardian for a child who is without both parents or whose parents are unable to care for the child. Except when the petitioner is a person with an interest in the child as defined in <cite path="|DMR.1.2.010|(u)">Section DMR.1.2.010(u)</cite> of this ordinance, the decision to allow a person to petition for the appointment of a guardian shall be in the Court's discretion. The Court may impose any restriction or limitation on the powers of a guardian, or condition its appointment on the guardian's performance of specified duties, not inconsistent with <cite path="DMR|DMR.1|DMR.1.7">this subchapter</cite>, it finds will help protect the child's interest.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2126,7 +2126,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Any child as defined <cite path="§DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance may be adopted (including customary adoption), provided that all parental rights have been severed by Court action or the death of the parent.</text>
+          <text>Any child as defined <cite path="|DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance may be adopted (including customary adoption), provided that all parental rights have been severed by Court action or the death of the parent.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -2177,7 +2177,7 @@
           <text>A petition for adoption (including customary adoption) pursuant to <cite path="DMR|DMR.1|DMR.1.8">this subchapter</cite> may be filed at any time if:</text>
           <para>
             <num>(1)</num>
-            <text>The child is the extended family as <cite path="§DMR.1.2.010|(o)">Section DMR.1.2.010(o)</cite> of this ordinance, of one of the petitioners, or</text>
+            <text>The child is the extended family as <cite path="|DMR.1.2.010|(o)">Section DMR.1.2.010(o)</cite> of this ordinance, of one of the petitioners, or</text>
           </para>
           <para>
             <num>(2)</num>
@@ -2190,7 +2190,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Except as provided under <cite path="§DMR.1.8.020|(a)">Section DMR.1.8.020(a)</cite> above, no petition for adoption may be filed unless the child has been living in the home of the petitioner for more than six (6) months.</text>
+          <text>Except as provided under <cite path="|DMR.1.8.020|(a)">Section DMR.1.8.020(a)</cite> above, no petition for adoption may be filed unless the child has been living in the home of the petitioner for more than six (6) months.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2242,7 +2242,7 @@
         <heading>Service of Petition and Notice of Hearing</heading>
         <para>
           <num>(a)</num>
-          <text>The petitioner shall cause the petition and notice of the hearing provided for in <cite path="§DMR.1.8.050">Section DMR.1.8.050</cite> of this ordinance to be served on the Child Welfare Director or the Assistant Child Welfare Director and the child, if twelve (12) years of age or older.  The Clerk of Court may serve the parties on behalf of the petitioner.</text>
+          <text>The petitioner shall cause the petition and notice of the hearing provided for in <cite path="|DMR.1.8.050">Section DMR.1.8.050</cite> of this ordinance to be served on the Child Welfare Director or the Assistant Child Welfare Director and the child, if twelve (12) years of age or older.  The Clerk of Court may serve the parties on behalf of the petitioner.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2258,7 +2258,7 @@
         <heading>Investigation and Report</heading>
         <para>
           <num>(a)</num>
-          <text>Upon filing of the petition, the Child Welfare Director or the Assistant Child Welfare Director, or another child welfare agency as ordered by the Children's Court, shall perform an investigation as to the suitability of the petitioner as the child's adoptive parent. The report shall include a history of the child, including his or her mental and physical health and family background; the mental, physical, and financial condition of the petitioners, and any other factors useful in determining their fitness as parents and the suitability of their home as a home for the child; and any other circumstances and conditions which may have a bearing on the adoption and of which the Court should have knowledge. The report shall include the blood quantum's of both birth parents, if known. The enrollment office will cooperate with the Child Welfare Director or the Assistant Child Welfare Director in preparing this information for inclusion in the report. The Child Welfare Director or the Assistant Child Welfare Director shall complete the report and file it with the Court, providing a copy to the petitioner no less than ten days before the hearing provided for in <cite path="§DMR.1.8.050">Section DMR.1.8.050</cite> of this ordinance. The report shall contain a definite recommendation for or against the adoption and shall state the reasons therefore. If the report is unfavorable or discloses a situation which in the Court's opinion raises a serious question as to the suitability of the proposed adoption, the Court may appoint a guardian ad litem for the child who shall make an independent recommendation. The Court may order the petitioner or adoptive parent to pay the costs of the investigation and report, and of the guardian ad litem.</text>
+          <text>Upon filing of the petition, the Child Welfare Director or the Assistant Child Welfare Director, or another child welfare agency as ordered by the Children's Court, shall perform an investigation as to the suitability of the petitioner as the child's adoptive parent. The report shall include a history of the child, including his or her mental and physical health and family background; the mental, physical, and financial condition of the petitioners, and any other factors useful in determining their fitness as parents and the suitability of their home as a home for the child; and any other circumstances and conditions which may have a bearing on the adoption and of which the Court should have knowledge. The report shall include the blood quantum's of both birth parents, if known. The enrollment office will cooperate with the Child Welfare Director or the Assistant Child Welfare Director in preparing this information for inclusion in the report. The Child Welfare Director or the Assistant Child Welfare Director shall complete the report and file it with the Court, providing a copy to the petitioner no less than ten days before the hearing provided for in <cite path="|DMR.1.8.050">Section DMR.1.8.050</cite> of this ordinance. The report shall contain a definite recommendation for or against the adoption and shall state the reasons therefore. If the report is unfavorable or discloses a situation which in the Court's opinion raises a serious question as to the suitability of the proposed adoption, the Court may appoint a guardian ad litem for the child who shall make an independent recommendation. The Court may order the petitioner or adoptive parent to pay the costs of the investigation and report, and of the guardian ad litem.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2297,7 +2297,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>One of the Tribe's basic inherent sovereign rights is the right to make decisions regarding the best interest of its children including who should provide for the care, custody and control of its children. <cite path="§DMR.1.8.060">This section</cite> is intended to assure a safe, stable, nurturing, and permanent environment for the Tribe's children and to provide for the protection of our children, our people, and our way of life.</text>
+            <text>One of the Tribe's basic inherent sovereign rights is the right to make decisions regarding the best interest of its children including who should provide for the care, custody and control of its children. <cite path="|DMR.1.8.060">This section</cite> is intended to assure a safe, stable, nurturing, and permanent environment for the Tribe's children and to provide for the protection of our children, our people, and our way of life.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -2333,14 +2333,14 @@
           <text><u>Petition for Customary Adoption</u>.</text>
           <para>
             <num>(1)</num>
-            <text>A petition for customary adoption pursuant to <cite path="DMR|DMR.1|DMR.1.8">this subchapter</cite> may be filed by any adult seeking the customary adoption of a minor child whose parents' parental rights have been terminated or suspended. The petition shall including the following information in addition to the adoption petition information required pursuant <cite path="§DMR.1.8.020|(c)">Section DMR.1.8.020(c)</cite> of this ordinance:</text>
+            <text>A petition for customary adoption pursuant to <cite path="DMR|DMR.1|DMR.1.8">this subchapter</cite> may be filed by any adult seeking the customary adoption of a minor child whose parents' parental rights have been terminated or suspended. The petition shall including the following information in addition to the adoption petition information required pursuant <cite path="|DMR.1.8.020|(c)">Section DMR.1.8.020(c)</cite> of this ordinance:</text>
             <para>
               <num>(A)</num>
               <text>A statement as to why a final order for customary adoption is in the best interests of the child and the best interests of the child's tribe.</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>A statement as to the basis for the customary adoption supported by a home study required pursuant <cite path="§DMR.1.8.040|(a)">Section DMR.1.8.040(a)</cite> of this ordinance, ceremonial leader, traditional elder, medical doctor, psychiatric doctor, child protection worker, family member, and/or psychological reports or testimony.</text>
+              <text>A statement as to the basis for the customary adoption supported by a home study required pursuant <cite path="|DMR.1.8.040|(a)">Section DMR.1.8.040(a)</cite> of this ordinance, ceremonial leader, traditional elder, medical doctor, psychiatric doctor, child protection worker, family member, and/or psychological reports or testimony.</text>
             </para>
             <para>
               <num>(C)</num>
@@ -2350,15 +2350,15 @@
         </para>
         <para>
           <num>(d)</num>
-          <text><u>Notice of Hearing on Petition for Customary Adoption</u>. The customary adoption petition and notice of the hearing shall be served in the manner required pursuant to <cite path="§DMR.1.8.030">Section DMR.1.8.030</cite> of this ordinance. In addition, the customary adoption petition and notice of the hearing shall also be served upon the child's tribe, appropriate family members, if any; caretaker, if any; and appropriate agencies of the Tribe which may have an interest in the proceeding or be of assistance to the Court in adjudicating the matter. The Clerk of Court may serve the parties on behalf of the petitioner.</text>
+          <text><u>Notice of Hearing on Petition for Customary Adoption</u>. The customary adoption petition and notice of the hearing shall be served in the manner required pursuant to <cite path="|DMR.1.8.030">Section DMR.1.8.030</cite> of this ordinance. In addition, the customary adoption petition and notice of the hearing shall also be served upon the child's tribe, appropriate family members, if any; caretaker, if any; and appropriate agencies of the Tribe which may have an interest in the proceeding or be of assistance to the Court in adjudicating the matter. The Clerk of Court may serve the parties on behalf of the petitioner.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text><u>Hearing on Petition for Customary Adoption</u>. The hearing on the customary adoption petition shall be conducted in the manner required pursuant to <cite path="§DMR.1.8.050">Section DMR.1.8.050</cite> of this ordinance.</text>
+          <text><u>Hearing on Petition for Customary Adoption</u>. The hearing on the customary adoption petition shall be conducted in the manner required pursuant to <cite path="|DMR.1.8.050">Section DMR.1.8.050</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(f)</num>
-          <text><u>Final Order for Customary Adoption</u>. If the Children's Court determines that it is in the best interests of the child and the child's Tribe, it shall issue a final order for a customary adoption in the manner required pursuant to <cite path="§DMR.1.8.050|(b)">Section DMR.1.8.050(b)</cite> of this ordinance. Such an order may include, but is not limited, to the following:</text>
+          <text><u>Final Order for Customary Adoption</u>. If the Children's Court determines that it is in the best interests of the child and the child's Tribe, it shall issue a final order for a customary adoption in the manner required pursuant to <cite path="|DMR.1.8.050|(b)">Section DMR.1.8.050(b)</cite> of this ordinance. Such an order may include, but is not limited, to the following:</text>
           <para>
             <num>(1)</num>
             <text>A statement that the child has been adopted by the petitioner(s) and that the parent-child bond is hereby established and that all rights and responsibilities of that relationship shall exist upon the entry of such a final order.</text>
@@ -2369,7 +2369,7 @@
           <text><u>Certification of a Customary Adoption</u>.</text>
           <para>
             <num>(1)</num>
-            <text>A customary adoption, conducted in a manner consistent with <cite path="§DMR.1.8.060">this section</cite> is a long established, continued, reasonable process and considered by the Children's Court as having the same effect as an adoption order issued by this Court so long as it is in the best interests of the child and the child's Tribe.</text>
+            <text>A customary adoption, conducted in a manner consistent with <cite path="|DMR.1.8.060">this section</cite> is a long established, continued, reasonable process and considered by the Children's Court as having the same effect as an adoption order issued by this Court so long as it is in the best interests of the child and the child's Tribe.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -2402,11 +2402,11 @@
         <heading>Records</heading>
         <para>
           <num>(a)</num>
-          <text>The Children's Court may not disclose the records of any adoption except as provided for in <cite path="§DMR.1.8.080">this section</cite>.</text>
+          <text>The Children's Court may not disclose the records of any adoption except as provided for in <cite path="|DMR.1.8.080">this section</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>A copy of the medical and genetic history report, as provided in <cite path="§DMR.1.6.090|(a)">Section DMR.1.6.090(a)</cite> of this ordinance, with the names and other identifying data of the birth parents and of the birth parents' or child's' health care provider removed, shall be provided to the adoptive parents upon entry of the final judgment of adoption.  The Court may, in its discretion, disclose information as needed from the report, including the entire report, to the adoptive parents after entry of a temporary order and before entry of the final judgment.  Additional information supplied to the Court under <cite path="§DMR.1.6.090|(d)|(5)">Section DMR.1.6.090(d)(5)</cite>  of this ordinance shall be made available to the adoptive parents upon receipt or upon later request, provided the adoptive parents sign a statement requesting such information and acknowledging that the Court or tribe does not vouch for its accuracy. A copy of the report, and the information and of additional information received under <cite path="§DMR.1.6.090|(d)|(5)">Section DMR.1.6.090(d)(5)</cite> of this ordinance shall also be made available, on request, to the child after the child's eighteenth birthday, provided the child signs a statement acknowledging that the Court or tribe does not vouch for the accuracy of the information contained therein. Releases of information under this subsection shall be without charge.</text>
+          <text>A copy of the medical and genetic history report, as provided in <cite path="|DMR.1.6.090|(a)">Section DMR.1.6.090(a)</cite> of this ordinance, with the names and other identifying data of the birth parents and of the birth parents' or child's' health care provider removed, shall be provided to the adoptive parents upon entry of the final judgment of adoption.  The Court may, in its discretion, disclose information as needed from the report, including the entire report, to the adoptive parents after entry of a temporary order and before entry of the final judgment.  Additional information supplied to the Court under <cite path="|DMR.1.6.090|(d)|(5)">Section DMR.1.6.090(d)(5)</cite>  of this ordinance shall be made available to the adoptive parents upon receipt or upon later request, provided the adoptive parents sign a statement requesting such information and acknowledging that the Court or tribe does not vouch for its accuracy. A copy of the report, and the information and of additional information received under <cite path="|DMR.1.6.090|(d)|(5)">Section DMR.1.6.090(d)(5)</cite> of this ordinance shall also be made available, on request, to the child after the child's eighteenth birthday, provided the child signs a statement acknowledging that the Court or tribe does not vouch for the accuracy of the information contained therein. Releases of information under this subsection shall be without charge.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2426,15 +2426,15 @@
         <heading>Agreements Between Birth Mothers and Adoptive Parents</heading>
         <para>
           <num>(a)</num>
-          <text>Any agreement, to be enforceable between a birth mother and an adoptive parent, where either party is a member of the Tribe, for the payment of fees or expenses, including those expenses referred to in <cite path="§DMR.1.8.020|(c)|(5)">Section DMR.1.8.020(c)(5)</cite> of this ordinance, relating to the adoption of any child as defined in <cite path="§DMR.1.8.090|(c)">Section DMR.1.8.090(c)</cite> below, shall be in writing.</text>
+          <text>Any agreement, to be enforceable between a birth mother and an adoptive parent, where either party is a member of the Tribe, for the payment of fees or expenses, including those expenses referred to in <cite path="|DMR.1.8.020|(c)|(5)">Section DMR.1.8.020(c)(5)</cite> of this ordinance, relating to the adoption of any child as defined in <cite path="|DMR.1.8.090|(c)">Section DMR.1.8.090(c)</cite> below, shall be in writing.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Any agreement between a birth mother and an adoptive parent or parents for the payment of fees or expenses, including those expenses referred to in <cite path="§DMR.1.8.020|(c)|(5)">Section DMR.1.8.020(c)(5)</cite> of this ordinance, relating to the adoption of a child may be rescinded by the birth mother at any time up to the time that she gives consent to terminate her parental rights under <cite path="§DMR.1.6.030">Section DMR.1.6.030</cite> of this ordinance.  If the birth mother rescinds her consent as provided in this section, the adoptive parent or parents shall be entitled to judgment against the birth mother for all fees and expenses paid to her pursuant to the agreement between them.</text>
+          <text>Any agreement between a birth mother and an adoptive parent or parents for the payment of fees or expenses, including those expenses referred to in <cite path="|DMR.1.8.020|(c)|(5)">Section DMR.1.8.020(c)(5)</cite> of this ordinance, relating to the adoption of a child may be rescinded by the birth mother at any time up to the time that she gives consent to terminate her parental rights under <cite path="|DMR.1.6.030">Section DMR.1.6.030</cite> of this ordinance.  If the birth mother rescinds her consent as provided in this section, the adoptive parent or parents shall be entitled to judgment against the birth mother for all fees and expenses paid to her pursuant to the agreement between them.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>For purposes of <cite path="§DMR.1.8.090">this section</cite> "birth mother" means the individual who carries in utero any fetus, however fertilized or implanted.  For purposes of <cite path="§DMR.1.8.090">this section</cite> "child" means any child, regardless of <cite path="§DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance and of tribal membership or eligibility for membership, who, while in utero, was carried by a birth mother as herein defined.</text>
+          <text>For purposes of <cite path="|DMR.1.8.090">this section</cite> "birth mother" means the individual who carries in utero any fetus, however fertilized or implanted.  For purposes of <cite path="|DMR.1.8.090">this section</cite> "child" means any child, regardless of <cite path="|DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance and of tribal membership or eligibility for membership, who, while in utero, was carried by a birth mother as herein defined.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
@@ -2459,7 +2459,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Upon a determination that the notice received concerns a Child as defined in <cite path="§DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance, the Child Welfare Director or the Assistant Child Welfare Director shall consult with the Legal Department, for the purpose of determining whether to intervene or seek transfer of jurisdiction of the case to the Children's Court.</text>
+          <text>Upon a determination that the notice received concerns a Child as defined in <cite path="|DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance, the Child Welfare Director or the Assistant Child Welfare Director shall consult with the Legal Department, for the purpose of determining whether to intervene or seek transfer of jurisdiction of the case to the Children's Court.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -2502,7 +2502,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>To represent the Tribe in proceedings concerning the welfare of any child as defined in <cite path="§DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance in any foreign Court or agency proceeding,</text>
+            <text>To represent the Tribe in proceedings concerning the welfare of any child as defined in <cite path="|DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance in any foreign Court or agency proceeding,</text>
           </para>
           <para>
             <num>(6)</num>
@@ -2518,7 +2518,7 @@
           </para>
           <para>
             <num>(9)</num>
-            <text>To share information for statistical or service purposes in conformity with agreements entered into pursuant to <cite path="§DMR.1.9.020|(b)|(7)">Section DMR.1.9.020(b)(7)</cite> above</text>
+            <text>To share information for statistical or service purposes in conformity with agreements entered into pursuant to <cite path="|DMR.1.9.020|(b)|(7)">Section DMR.1.9.020(b)(7)</cite> above</text>
           </para>
           <para>
             <num>(10)</num>
@@ -2551,7 +2551,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The Child Welfare Director and the Assistant Child Welfare Director shall have the authority to delegate the authority provided for in <cite path="§DMR.1.9.020">this section</cite> to such assistants as may be hired by the tribe to work under the Child Welfare Director and the Assistant Child Welfare Director's direction.</text>
+          <text>The Child Welfare Director and the Assistant Child Welfare Director shall have the authority to delegate the authority provided for in <cite path="|DMR.1.9.020">this section</cite> to such assistants as may be hired by the tribe to work under the Child Welfare Director and the Assistant Child Welfare Director's direction.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -2584,7 +2584,7 @@
       <section>
         <num>DMR.1.10.020</num>
         <heading>Definitions</heading>
-        <text>For purposes of <cite path="DMR|DMR.1|DMR.1.10">this subchapter</cite>, "Child" or "minor" shall have the meaning as defined in <cite path="§DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance.</text>
+        <text>For purposes of <cite path="DMR|DMR.1|DMR.1.10">this subchapter</cite>, "Child" or "minor" shall have the meaning as defined in <cite path="|DMR.1.2.010|(h)">Section DMR.1.2.010(h)</cite> of this ordinance.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
           <annotation type="Prior Codifications">§DMR.1.10.020 was formerly codified as VII LCOTCL §1.1002</annotation>
@@ -2629,7 +2629,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Any petition filed under <cite path="§DMR.1.10.050">this section</cite> shall cite the specific subsection of <cite path="§DMR.1.5.010">Section DMR.1.5.010</cite> upon which the petitioner alleges jurisdiction, and shall allege the specific facts upon which the petitioner asserts jurisdiction exists.  No petition shall be sufficient if it merely reiterates the language of the subsection invoked.</text>
+          <text>Any petition filed under <cite path="|DMR.1.10.050">this section</cite> shall cite the specific subsection of <cite path="|DMR.1.5.010">Section DMR.1.5.010</cite> upon which the petitioner alleges jurisdiction, and shall allege the specific facts upon which the petitioner asserts jurisdiction exists.  No petition shall be sufficient if it merely reiterates the language of the subsection invoked.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2701,7 +2701,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>At the plea hearing, the Children's Court shall obtain the official positions of the interested parties as to whether they contest the allegations of the petition. If any of the interested parties contest the petition, the matter shall be set for an adjudication hearing in accordance with <cite path="§DMR.1.10.080|(a)">Section DMR.1.10.080(a)</cite> of this ordinance.</text>
+          <text>At the plea hearing, the Children's Court shall obtain the official positions of the interested parties as to whether they contest the allegations of the petition. If any of the interested parties contest the petition, the matter shall be set for an adjudication hearing in accordance with <cite path="|DMR.1.10.080|(a)">Section DMR.1.10.080(a)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2845,7 +2845,7 @@
         </para>
         <para>
           <num>(j)</num>
-          <text>Whenever the Children's Court orders a child to be placed outside the home, the Children's Court may make the referral described under <cite path="§DMR.1.3.120|(b)">Section DMR.1.3.120(b)</cite> of this ordinance.</text>
+          <text>Whenever the Children's Court orders a child to be placed outside the home, the Children's Court may make the referral described under <cite path="|DMR.1.3.120|(b)">Section DMR.1.3.120(b)</cite> of this ordinance.</text>
         </para>
         <para>
           <num>(k)</num>
@@ -2876,7 +2876,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="§DMR.1.10.090|(a)">Section DMR.1.10.090(a)</cite> of this ordinance, and under the same conditions as set forth in <cite path="§DMR.1.10.090|(a)">Section DMR.1.10.090(a)</cite> of this ordinance.</text>
+            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="|DMR.1.10.090|(a)">Section DMR.1.10.090(a)</cite> of this ordinance, and under the same conditions as set forth in <cite path="|DMR.1.10.090|(a)">Section DMR.1.10.090(a)</cite> of this ordinance.</text>
           </para>
         </para>
         <para>
@@ -2892,15 +2892,15 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="§DMR.1.10.090|(a)">Section DMR.1.10.090(a)</cite> of this ordinance, and under the same conditions as set forth in <cite path="§DMR.1.5.070|(a)">Section DMR.1.5.070(a)</cite> of this ordinance, along with the petition and notice.</text>
+            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="|DMR.1.10.090|(a)">Section DMR.1.10.090(a)</cite> of this ordinance, and under the same conditions as set forth in <cite path="|DMR.1.5.070|(a)">Section DMR.1.5.070(a)</cite> of this ordinance, along with the petition and notice.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>In the event a motion for extension is filed within the time period specified in <cite path="§DMR.1.10.100|(b)|(1)">Section DMR.1.10.100(b)(1)</cite> above, the Children's Court may make such temporary extension orders as are necessary to preserve its jurisdiction and to protect the interests of the child pending a full hearing on the extension motion.</text>
+            <text>In the event a motion for extension is filed within the time period specified in <cite path="|DMR.1.10.100|(b)|(1)">Section DMR.1.10.100(b)(1)</cite> above, the Children's Court may make such temporary extension orders as are necessary to preserve its jurisdiction and to protect the interests of the child pending a full hearing on the extension motion.</text>
           </para>
           <para>
             <num>(5)</num>
-            <text>The scope of inquiry at the hearing on an extension is whether the conditions that warranted the adjudication continue or whether new circumstances provide jurisdiction pursuant to <cite path="§DMR.1.10.040">Section DMR.1.10.040</cite> of this ordinance. If an extension is sought on the ground of new circumstances, the circumstances justifying extended jurisdiction shall be alleged in the petition.</text>
+            <text>The scope of inquiry at the hearing on an extension is whether the conditions that warranted the adjudication continue or whether new circumstances provide jurisdiction pursuant to <cite path="|DMR.1.10.040">Section DMR.1.10.040</cite> of this ordinance. If an extension is sought on the ground of new circumstances, the circumstances justifying extended jurisdiction shall be alleged in the petition.</text>
           </para>
           <para>
             <num>(6)</num>
@@ -2920,7 +2920,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="§DMR.1.10.090|(a)">Section DMR.1.10.090(a)</cite> of this ordinance, and under the same conditions as set forth in <cite path="§DMR.1.5.070|(b)">Section DMR.1.5.070(b)</cite> of this ordinance.</text>
+            <text>To assist the Children's Court, parties and guardian ad litem, the petitioning party must prepare, file and serve a court report, similar to those called for in <cite path="|DMR.1.10.090|(a)">Section DMR.1.10.090(a)</cite> of this ordinance, and under the same conditions as set forth in <cite path="|DMR.1.5.070|(b)">Section DMR.1.5.070(b)</cite> of this ordinance.</text>
           </para>
         </para>
         <annotations>
@@ -2933,7 +2933,7 @@
         <heading>Change of Placement Hearings</heading>
         <para>
           <num>(a)</num>
-          <text>The Behavioral Health Director or his or her designee may request a change in placement of the child, whether or not the change requested is authorized in the dispositional order, as provided in <cite path="§DMR.1.10.080|(b)">Section DMR.1.10.080(b)</cite> of this ordinance.</text>
+          <text>The Behavioral Health Director or his or her designee may request a change in placement of the child, whether or not the change requested is authorized in the dispositional order, as provided in <cite path="|DMR.1.10.080|(b)">Section DMR.1.10.080(b)</cite> of this ordinance.</text>
           <para>
             <num>(1)</num>
             <text>If the proposed change in placement would change the placement of a child placed in the home to a placement outside the home, the Behavioral Health Director shall motion the Children's Court requesting a Change of Placement Hearing. The request shall contain the name and address of the new placement, the reasons for the change in placement, a statement describing why the new placement is preferable to the present placement, and a statement of how the new placement satisfies objectives of the treatment plan ordered by the Court. The request shall also contain specific information showing that continued placement of the child in his or her home would be contrary to the welfare of the child, that the Behavioral Health Department has made reasonable and active efforts to prevent the removal of the child from the home, while assuring that the child's health and safety are the paramount concerns. The Legal Department shall serve copies of the motion to all affected persons who were parties to the original proceedings, the Behavioral Health Director, and the guardian ad litem, except that the Court may order additional parties served. Such motion shall be filed with the Court.</text>
@@ -3283,7 +3283,7 @@
           </para>
           <para>
             <num>(9)</num>
-            <text>Where the petitioner does not have information as to any item required by <cite path="§DMR.2.3.040">this section</cite>, the petitioner shall so state.</text>
+            <text>Where the petitioner does not have information as to any item required by <cite path="|DMR.2.3.040">this section</cite>, the petitioner shall so state.</text>
           </para>
         </para>
         <para>
@@ -3347,7 +3347,7 @@
         <heading>Initial Status Conference</heading>
         <para>
           <num>(a)</num>
-          <text>The petitioner who accomplishes filing shall provide a copy of the petition and initial order on the other party within 15 days of filing. In the case of a sole petition, service on the respondent must be made as provided in <cite path="§TCT.2.9.020">Section TCT.2.9.020</cite> of the Court Code. The judge or magistrate may extend time for service upon application by the petitioner for good cause.</text>
+          <text>The petitioner who accomplishes filing shall provide a copy of the petition and initial order on the other party within 15 days of filing. In the case of a sole petition, service on the respondent must be made as provided in <cite path="|TCT.2.9.020">Section TCT.2.9.020</cite> of the Court Code. The judge or magistrate may extend time for service upon application by the petitioner for good cause.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3378,16 +3378,16 @@
           </para>
           <para>
             <num>(7)</num>
-            <text>Enter such temporary orders as are necessary to protect children, the parties, or the marital estate (as defined in <cite path="§DMR.2.7.010">Section DMR.2.7.010</cite>) or establish a time for hearing on any such proposed temporary orders.</text>
+            <text>Enter such temporary orders as are necessary to protect children, the parties, or the marital estate (as defined in <cite path="|DMR.2.7.010">Section DMR.2.7.010</cite>) or establish a time for hearing on any such proposed temporary orders.</text>
           </para>
           <para>
             <num>(8)</num>
-            <text>Enter such other orders as may be included in a scheduling order under <cite path="§TCT.2.9.050">Section TCT.2.9.050</cite>.</text>
+            <text>Enter such other orders as may be included in a scheduling order under <cite path="|TCT.2.9.050">Section TCT.2.9.050</cite>.</text>
           </para>
         </para>
         <para>
           <num>(c)</num>
-          <text>The judge shall set a date for a further status conference or final hearing as the circumstances warrant, or may conduct a final hearing under <cite path="§DMR.2.3.110">Section DMR.2.3.110</cite>.</text>
+          <text>The judge shall set a date for a further status conference or final hearing as the circumstances warrant, or may conduct a final hearing under <cite path="|DMR.2.3.110">Section DMR.2.3.110</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.3.060 was formerly codified as LCOTCC §3.14</annotation>
@@ -3457,7 +3457,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>Grant or deny the petition and render judgment thereon, including in the judgment those matters as called for in the circumstances. The Court shall orally advise the parties and include in the judgment advice of relevant state criminal law provisions related to the withholding of placement and interfering with custody and placement. The Court shall also orally advise the parties and include in the judgment advice of the provisions of <cite path="§DMR.2.3.130">Section DMR.2.3.130</cite>, related to remarriage after divorce.</text>
+            <text>Grant or deny the petition and render judgment thereon, including in the judgment those matters as called for in the circumstances. The Court shall orally advise the parties and include in the judgment advice of relevant state criminal law provisions related to the withholding of placement and interfering with custody and placement. The Court shall also orally advise the parties and include in the judgment advice of the provisions of <cite path="|DMR.2.3.130">Section DMR.2.3.130</cite>, related to remarriage after divorce.</text>
           </para>
         </para>
         <annotations>
@@ -3780,7 +3780,7 @@
         <heading>Wage Assignment for Support or Maintenance</heading>
         <para>
           <num>(a)</num>
-          <text>Each order for child support or maintenance payments constitutes an assignment to the intended recipient of the support or maintenance of all income as described in <cite path="§DMR.6.6.050|(a)">Section DMR.6.6.050(a)</cite> which includes commissions, earnings, salaries, wages, pension benefits, workers compensation or unemployment insurance benefits, lottery prizes that are payable in installments and other money due or to be due in the future. The assignment shall be for an amount sufficient to ensure payment under the order or stipulation and to pay any arrearages due at a periodic rate not to exceed 65% of the amount of support due under the order or stipulation so long as the addition of the amount toward arrearages does not exceed the amounts allowed to be intercepted for child support purposes pursuant to the Federal Consumer Credit Protection Act (15 U.S.C. 1673(b)).</text>
+          <text>Each order for child support or maintenance payments constitutes an assignment to the intended recipient of the support or maintenance of all income as described in <cite path="|DMR.6.6.050|(a)">Section DMR.6.6.050(a)</cite> which includes commissions, earnings, salaries, wages, pension benefits, workers compensation or unemployment insurance benefits, lottery prizes that are payable in installments and other money due or to be due in the future. The assignment shall be for an amount sufficient to ensure payment under the order or stipulation and to pay any arrearages due at a periodic rate not to exceed 65% of the amount of support due under the order or stipulation so long as the addition of the amount toward arrearages does not exceed the amounts allowed to be intercepted for child support purposes pursuant to the Federal Consumer Credit Protection Act (15 U.S.C. 1673(b)).</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3920,7 +3920,7 @@
       <section>
         <num>DMR.2.10.020</num>
         <heading>Costs and Attorney Fees as Sanction</heading>
-        <text>The Court may award costs and attorney fees, in a temporary order or a final judgment, if the party seeking the fees has been compelled to incur attorney fees or costs to enforce a previously issued court order that the other party has unreasonably failed to obey, or if the party seeking the fees has been compelled to incur attorney fees or costs to defend against any action prohibited by <cite path="§TCT.2.9.040|(c)">Section TCT.2.9.040(c)</cite>.</text>
+        <text>The Court may award costs and attorney fees, in a temporary order or a final judgment, if the party seeking the fees has been compelled to incur attorney fees or costs to enforce a previously issued court order that the other party has unreasonably failed to obey, or if the party seeking the fees has been compelled to incur attorney fees or costs to defend against any action prohibited by <cite path="|TCT.2.9.040|(c)">Section TCT.2.9.040(c)</cite>.</text>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.10.020 was formerly codified as LCOTCC §3.49</annotation>
         </annotations>
@@ -3933,7 +3933,7 @@
       <section>
         <num>DMR.2.13.010</num>
         <heading>Purpose</heading>
-        <text>The purpose of <cite path="§DMR.2.13.010">this section</cite> is to preserve the opportunity of children who are members of the Tribe, or eligible for membership in the Tribe, to form and maintain meaningful relationships with grandparents, stepparents, and others who play an important role in their care, development, education, or nurturance.</text>
+        <text>The purpose of <cite path="|DMR.2.13.010">this section</cite> is to preserve the opportunity of children who are members of the Tribe, or eligible for membership in the Tribe, to form and maintain meaningful relationships with grandparents, stepparents, and others who play an important role in their care, development, education, or nurturance.</text>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.13.010 was formerly codified as LCOTCC §3.60</annotation>
         </annotations>
@@ -3949,7 +3949,7 @@
       <section>
         <num>DMR.2.13.030</num>
         <heading>Procedure</heading>
-        <text>The Clerk of Court shall schedule a hearing on the petition to be held within 60 days of its filing. A copy of any petition filed under <cite path="§DMR.2.13.030">this section</cite> shall be served on each of the child's parents, and any guardian other than a parent, together with a notice of hearing which specifies that the hearing shall be on the merits of the petition and that the court may make a visitation award at the close of the hearing. A guardian ad litem shall be appointed in all cases upon the filing of a petition under <cite path="§DMR.2.13.030">this section</cite>, unless the visitation order is stipulated to by the petitioner, the child's parents, and any other guardian.</text>
+        <text>The Clerk of Court shall schedule a hearing on the petition to be held within 60 days of its filing. A copy of any petition filed under <cite path="|DMR.2.13.030">this section</cite> shall be served on each of the child's parents, and any guardian other than a parent, together with a notice of hearing which specifies that the hearing shall be on the merits of the petition and that the court may make a visitation award at the close of the hearing. A guardian ad litem shall be appointed in all cases upon the filing of a petition under <cite path="|DMR.2.13.030">this section</cite>, unless the visitation order is stipulated to by the petitioner, the child's parents, and any other guardian.</text>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.13.030 was formerly codified as LCOTCC §3.62</annotation>
         </annotations>
@@ -4007,11 +4007,11 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>An order may award visitation rights under the circumstances prevailing at the time of the order, and may also award contingent visitation rights under circumstances that may reasonably be expected to occur at a future time, provided that any such award of contingent rights is reviewable under <cite path="§DMR.2.13.040|(f)">Section DMR.2.13.040(f)</cite>.</text>
+          <text>An order may award visitation rights under the circumstances prevailing at the time of the order, and may also award contingent visitation rights under circumstances that may reasonably be expected to occur at a future time, provided that any such award of contingent rights is reviewable under <cite path="|DMR.2.13.040|(f)">Section DMR.2.13.040(f)</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Any person served with a copy of a notice and petition under <cite path="VII|2|XIV|3.72">subsec. (c)</cite>, and with a copy of an order under <cite path="§DMR.2.13.050">this section</cite>, shall be required to comply with the terms of the order, and may be proceeded against for contempt of court for any interference therewith.</text>
+          <text>Any person served with a copy of a notice and petition under <cite path="VII|2|XIV|3.72">subsec. (c)</cite>, and with a copy of an order under <cite path="|DMR.2.13.050">this section</cite>, shall be required to comply with the terms of the order, and may be proceeded against for contempt of court for any interference therewith.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.13.050 was formerly codified as LCOTCC §3.64</annotation>
@@ -4028,7 +4028,7 @@
       <section>
         <num>DMR.2.13.070</num>
         <heading>Modifications</heading>
-        <text>Any order issued under <cite path="§DMR.2.13.070">this section</cite> may be modified upon motion, notice, and hearing, or upon the agreement of all parties.</text>
+        <text>Any order issued under <cite path="|DMR.2.13.070">this section</cite> may be modified upon motion, notice, and hearing, or upon the agreement of all parties.</text>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.13.070 was formerly codified as LCOTCC §3.66</annotation>
         </annotations>
@@ -4074,7 +4074,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>In all cases other than those described in subsections (b) and (c)(1) - (3) of <cite path="§DMR.2.16.020">this section</cite>, the parent who is the legal custodian of the child, or the guardian of the child, may petition to change the child's name, subject to the notice requirements provided in <cite path="DMR|DMR.2">this chapter</cite>.</text>
+            <text>In all cases other than those described in subsections (b) and (c)(1) - (3) of <cite path="|DMR.2.16.020">this section</cite>, the parent who is the legal custodian of the child, or the guardian of the child, may petition to change the child's name, subject to the notice requirements provided in <cite path="DMR|DMR.2">this chapter</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -4134,7 +4134,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Notice of any petition filed under <cite path="§DMR.2.16.020|(b)">Section DMR.2.16.020(b)</cite> and <cite path="§DMR.2.16.020|(c)|(4)">Section DMR.2.16.020(c)(4)</cite> shall be served no later than ten days before the hearing on any living non-petitioning parent or guardian, except that no notice need be served on any parent whose parental rights have been terminated by court order. Service may be by any method permitted under <cite path="§TCT.2.9.020">Section TCT.2.9.020</cite> of the Court Code, or by certified mail, return receipt requested.</text>
+          <text>Notice of any petition filed under <cite path="|DMR.2.16.020|(b)">Section DMR.2.16.020(b)</cite> and <cite path="|DMR.2.16.020|(c)|(4)">Section DMR.2.16.020(c)(4)</cite> shall be served no later than ten days before the hearing on any living non-petitioning parent or guardian, except that no notice need be served on any parent whose parental rights have been terminated by court order. Service may be by any method permitted under <cite path="|TCT.2.9.020">Section TCT.2.9.020</cite> of the Court Code, or by certified mail, return receipt requested.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -4189,7 +4189,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The petition may obtain as many certified copies of the order as desired upon payment of the fees as set by the Court pursuant to <cite path="§TCT.2.15.010">Section TCT.2.15.010</cite>.</text>
+          <text>The petition may obtain as many certified copies of the order as desired upon payment of the fees as set by the Court pursuant to <cite path="|TCT.2.15.010">Section TCT.2.15.010</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.16.070 was formerly codified as LCOTCC §3.91</annotation>
@@ -4241,7 +4241,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>"Tribal order or injunction" means a temporary restraining order or injunction issued by the Lac Courte Oreilles Tribal Court under <cite path="§DMR.2.17.010">this section</cite>.</text>
+          <text>"Tribal order or injunction" means a temporary restraining order or injunction issued by the Lac Courte Oreilles Tribal Court under <cite path="|DMR.2.17.010">this section</cite>.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -4264,7 +4264,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>No action under <cite path="§DMR.2.17.020">this section</cite> may be commenced by complaint and summons. An action under <cite path="§DMR.2.17.020">this section</cite> may be commenced only by a petition described under <cite path="§DMR.2.17.060|(a)">Section DMR.2.17.060(a)</cite>. The action commences with service of the petition upon the respondent if a copy of the petition is filed before service or promptly after service. If the judge extends the time for a hearing under <cite path="§DMR.2.17.040|(c)">Section DMR.2.17.040(c)</cite> and the petitioner files an affidavit with the court stating that personal service by the sheriff or the chief of police or a private server in the manner provided by <cite path="VII|2|subch|801.11|(1)">sec. 801.11 (1)</cite> (a) or (b), Wis. Stats., was unsuccessful because the respondent is avoiding service by concealment or otherwise, the petitioner may serve the respondent by publication of the petition in the manner provided for a class 1 notice under ch. 985, Wisconsin Statutes, and by mailing if the respondent's post-office address is known or can with due diligence be ascertained. The mailing may be omitted if the post-office address cannot be ascertained with due diligence.</text>
+          <text>No action under <cite path="|DMR.2.17.020">this section</cite> may be commenced by complaint and summons. An action under <cite path="|DMR.2.17.020">this section</cite> may be commenced only by a petition described under <cite path="|DMR.2.17.060|(a)">Section DMR.2.17.060(a)</cite>. The action commences with service of the petition upon the respondent if a copy of the petition is filed before service or promptly after service. If the judge extends the time for a hearing under <cite path="|DMR.2.17.040|(c)">Section DMR.2.17.040(c)</cite> and the petitioner files an affidavit with the court stating that personal service by the sheriff or the chief of police or a private server in the manner provided by <cite path="VII|2|subch|801.11|(1)">sec. 801.11 (1)</cite> (a) or (b), Wis. Stats., was unsuccessful because the respondent is avoiding service by concealment or otherwise, the petitioner may serve the respondent by publication of the petition in the manner provided for a class 1 notice under ch. 985, Wisconsin Statutes, and by mailing if the respondent's post-office address is known or can with due diligence be ascertained. The mailing may be omitted if the post-office address cannot be ascertained with due diligence.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -4273,7 +4273,7 @@
         <para>
           <num>(d)</num>
           <heading>TWO-PART PROCEDURE.</heading>
-          <text>Procedure for an action under <cite path="DMR|DMR.2">this chapter</cite> is in two parts. First, if the petitioner requests a temporary restraining order the court shall issue or refuse to issue that order. Second, the court shall hold a hearing under <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> on whether to issue an injunction, which is the final relief. If the court issues a temporary restraining order, the order shall set forth the date for the hearing on an injunction. If the court does not issue a temporary restraining order, the date for the hearing shall be set upon motion by either party.</text>
+          <text>Procedure for an action under <cite path="DMR|DMR.2">this chapter</cite> is in two parts. First, if the petitioner requests a temporary restraining order the court shall issue or refuse to issue that order. Second, the court shall hold a hearing under <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> on whether to issue an injunction, which is the final relief. If the court issues a temporary restraining order, the order shall set forth the date for the hearing on an injunction. If the court does not issue a temporary restraining order, the date for the hearing shall be set upon motion by either party.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.17.020 was formerly codified as LCOTCC §3.93</annotation>
@@ -4287,7 +4287,7 @@
           <text>A judge or magistrate shall issue a temporary restraining order ordering the respondent to refrain from committing acts of domestic abuse against the petitioner, to avoid the petitioner's residence, except as provided in par. 2 (a), or any premises temporarily occupied by the petitioner or both, or to avoid contacting or causing any person other than a party's attorney to contact the petitioner unless the petitioner consents in writing, or any combination of these remedies requested in the petition, if all of the following occur:</text>
           <para>
             <num>(1)</num>
-            <text>The petitioner submits to the judge or magistrate a petition alleging the elements set forth under <cite path="§DMR.2.17.060|(a)">Section DMR.2.17.060(a)</cite>.</text>
+            <text>The petitioner submits to the judge or magistrate a petition alleging the elements set forth under <cite path="|DMR.2.17.060|(a)">Section DMR.2.17.060(a)</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4304,7 +4304,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The temporary restraining order is in effect until a hearing is held on issuance of an injunction under <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite>. The temporary restraining order is not voided if the respondent is admitted into a dwelling that the order directs him or her to avoid. A judge or magistrate shall hold a hearing on issuance of an injunction within 7 days after the temporary restraining order is issued, unless the time is extended upon the written consent of the parties or extended once for 14 days upon a finding by a judge or magistrate that the respondent has not been served with a copy of the temporary restraining order although the petitioner has exercised due diligence.</text>
+          <text>The temporary restraining order is in effect until a hearing is held on issuance of an injunction under <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite>. The temporary restraining order is not voided if the respondent is admitted into a dwelling that the order directs him or her to avoid. A judge or magistrate shall hold a hearing on issuance of an injunction within 7 days after the temporary restraining order is issued, unless the time is extended upon the written consent of the parties or extended once for 14 days upon a finding by a judge or magistrate that the respondent has not been served with a copy of the temporary restraining order although the petitioner has exercised due diligence.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -4322,7 +4322,7 @@
           <text>A judge or magistrate may grant an injunction ordering the respondent to refrain from committing acts of domestic abuse against the petitioner, to avoid the petitioner's residence, except as provided in par. (am), or any premises temporarily occupied by the petitioner or both, or to avoid contacting or causing any person other than a party's attorney to contact the petitioner unless the petitioner consents to that contact in writing, or any combination of these remedies requested in the petition, if all of the following occur:</text>
           <para>
             <num>(1)</num>
-            <text>The petitioner files a petition alleging the elements set forth under <cite path="§DMR.2.17.060|(a)">Section DMR.2.17.060(a)</cite>.</text>
+            <text>The petitioner files a petition alleging the elements set forth under <cite path="|DMR.2.17.060|(a)">Section DMR.2.17.060(a)</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4345,7 +4345,7 @@
           <num>(d)</num>
           <para>
             <num>(1)</num>
-            <text>An injunction under <cite path="§DMR.2.17.040">this section</cite> is effective according to its terms, for the period of time that the petitioner requests, but not more than 2 years. An injunction granted under <cite path="§DMR.2.17.040">this section</cite> is not voided by the admittance of the respondent into a dwelling that the injunction directs him or her to avoid.</text>
+            <text>An injunction under <cite path="|DMR.2.17.040">this section</cite> is effective according to its terms, for the period of time that the petitioner requests, but not more than 2 years. An injunction granted under <cite path="|DMR.2.17.040">this section</cite> is not voided by the admittance of the respondent into a dwelling that the injunction directs him or her to avoid.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4353,7 +4353,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Notice need not be given to the respondent before extending an injunction under <cite path="§DMR.2.17.020">Section DMR.2.17.020</cite>. The petitioner shall notify the respondent after the court extends an injunction under <cite path="§DMR.2.17.020">Section DMR.2.17.020</cite>.</text>
+            <text>Notice need not be given to the respondent before extending an injunction under <cite path="|DMR.2.17.020">Section DMR.2.17.020</cite>. The petitioner shall notify the respondent after the court extends an injunction under <cite path="|DMR.2.17.020">Section DMR.2.17.020</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -4365,7 +4365,7 @@
         <heading>Notice of Restriction on Firearm Possession; Surrender of Firearms</heading>
         <para>
           <num>(a)</num>
-          <text>An injunction issued under <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> shall do all of the following:</text>
+          <text>An injunction issued under <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> shall do all of the following:</text>
           <para>
             <num>(1)</num>
             <text>Inform the respondent named in the petition of the requirements and penalties under <cite path="VII|2|subch|941.29">sec. 941.29</cite>, Wis. Stats.</text>
@@ -4375,7 +4375,7 @@
             <text>Except as provided in par. (2) (a), require the respondent to surrender any firearms that he or she owns or has in his or her possession to the chief of police, to the sheriff of the county in which the respondent resides, or to another person designated by the respondent and approved by the judge or magistrate. The judge or magistrate shall approve the person designated by the respondent unless the judge or magistrate finds that the person is inappropriate and places the reasons for the finding on the record. If a firearm is surrendered to a person designated by the respondent and approved by the judge or magistrate, the judge or magistrate shall inform the person to whom the firearm is surrendered of the requirements and penalties under <cite path="VII|2|subch|941.29|(4)">sec. 941.29 (4)</cite>, Wisconsin Statutes.</text>
             <para>
               <num>(A)</num>
-              <text>If the respondent is a peace officer, an injunction issued under <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> may not require the respondent to surrender a firearm that he or she is required, as a condition of employment, to possess whether or not he or she is on duty.</text>
+              <text>If the respondent is a peace officer, an injunction issued under <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> may not require the respondent to surrender a firearm that he or she is required, as a condition of employment, to possess whether or not he or she is on duty.</text>
             </para>
             <para>
               <num>(B)</num>
@@ -4405,7 +4405,7 @@
           <text>A firearm surrendered under par. (a) 2. may not be returned to the respondent until a judge determines all of the following:</text>
           <para>
             <num>(1)</num>
-            <text>That the injunction issued under <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> has been vacated or has expired and not been extended.</text>
+            <text>That the injunction issued under <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> has been vacated or has expired and not been extended.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -4468,19 +4468,19 @@
         <heading>Enforcement Assistance</heading>
         <para>
           <num>(a)</num>
-          <text>If an order is issued under <cite path="§DMR.2.17.070">this section</cite>, upon request by the petitioner the court shall order the chief of police or sheriff to accompany the petitioner and assist in placing him or her in physical possession of his or her residence or to otherwise assist in executing or serving the temporary restraining order or injunction. The petitioner may, at the petitioner's expense, use a private process server to serve papers on the respondent.</text>
+          <text>If an order is issued under <cite path="|DMR.2.17.070">this section</cite>, upon request by the petitioner the court shall order the chief of police or sheriff to accompany the petitioner and assist in placing him or her in physical possession of his or her residence or to otherwise assist in executing or serving the temporary restraining order or injunction. The petitioner may, at the petitioner's expense, use a private process server to serve papers on the respondent.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Within one business day after any court order under <cite path="§DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> is issued, the Clerk of Court shall file an authenticated copy of the order with the clerk of circuit court in the county in which is located the petitioner's premises. The clerk may require prepayment from the petitioner for any fee that the clerk of circuit court will charge for such filing. An order issued under <cite path="§DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> may be authenticated by the clerk by affixing the seal of the court and providing the wording, "Authenticated copy of record on file with the Lac Courte Oreilles Tribal Court" followed by the clerk's signature and date.</text>
+          <text>Within one business day after any court order under <cite path="|DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> is issued, the Clerk of Court shall file an authenticated copy of the order with the clerk of circuit court in the county in which is located the petitioner's premises. The clerk may require prepayment from the petitioner for any fee that the clerk of circuit court will charge for such filing. An order issued under <cite path="|DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> may be authenticated by the clerk by affixing the seal of the court and providing the wording, "Authenticated copy of record on file with the Lac Courte Oreilles Tribal Court" followed by the clerk's signature and date.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Within one business day after an order or injunction is issued, extended, modified or vacated under <cite path="§DMR.2.17.070">this section</cite>, the Clerk of Court shall send a copy of the order or injunction, or of the order extending, modifying or vacating an order or injunction, to the chief of police and to the sheriff or to any other local law enforcement agency which is the central repository for orders and injunctions and which has jurisdiction over the petitioner's premises.</text>
+          <text>Within one business day after an order or injunction is issued, extended, modified or vacated under <cite path="|DMR.2.17.070">this section</cite>, the Clerk of Court shall send a copy of the order or injunction, or of the order extending, modifying or vacating an order or injunction, to the chief of police and to the sheriff or to any other local law enforcement agency which is the central repository for orders and injunctions and which has jurisdiction over the petitioner's premises.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>No later than 24 hours after receiving the information under par. (b), the chief of police shall enter the information concerning an order or injunction issued, extended, modified or vacated under <cite path="§DMR.2.17.070">this section</cite> into the transaction information for management of enforcement system. The chief of police shall also make available to other law enforcement agencies, through a verification system, information on the existence and status of any order or injunction issued under <cite path="§DMR.2.17.070">this section</cite>. The information need not be maintained after the order or injunction is no longer in effect.</text>
+          <text>No later than 24 hours after receiving the information under par. (b), the chief of police shall enter the information concerning an order or injunction issued, extended, modified or vacated under <cite path="|DMR.2.17.070">this section</cite> into the transaction information for management of enforcement system. The chief of police shall also make available to other law enforcement agencies, through a verification system, information on the existence and status of any order or injunction issued under <cite path="|DMR.2.17.070">this section</cite>. The information need not be maintained after the order or injunction is no longer in effect.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.17.070 was formerly codified as LCOTCC §3.98</annotation>
@@ -4492,15 +4492,15 @@
         <text>A law enforcement officer shall arrest and take a person into custody if all of the following occur:</text>
         <para>
           <num>(a)</num>
-          <text>The court order issued under <cite path="§DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> has been filed with any Wisconsin circuit court pursuant to sec. <cite path="VII|806|806.2|806.247">806.247</cite>, Wisconsin Statutes.</text>
+          <text>The court order issued under <cite path="|DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> has been filed with any Wisconsin circuit court pursuant to sec. <cite path="VII|806|806.2|806.247">806.247</cite>, Wisconsin Statutes.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>A petitioner under <cite path="§DMR.2.17.060">Section DMR.2.17.060</cite> presents the law enforcement officer with a copy of a court order issued under <cite path="§DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite>, or the law enforcement officer determines that such an order exists through communication with appropriate authorities.</text>
+          <text>A petitioner under <cite path="|DMR.2.17.060">Section DMR.2.17.060</cite> presents the law enforcement officer with a copy of a court order issued under <cite path="|DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite>, or the law enforcement officer determines that such an order exists through communication with appropriate authorities.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The law enforcement officer has probable cause to believe that the person has violated the court order issued under <cite path="§DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite>.</text>
+          <text>The law enforcement officer has probable cause to believe that the person has violated the court order issued under <cite path="|DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite>.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.17.080 was formerly codified as LCOTCC §3.99</annotation>
@@ -4519,11 +4519,11 @@
         <heading>Penalty</heading>
         <para>
           <num>(a)</num>
-          <text>Whoever knowingly violates a temporary restraining order or injunction issued under <cite path="§DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> shall be required to forfeit not more than $5,000 and may be subject to state penalties of a fine not to exceed $1,000 or imprisonment for not more than 9 months or both in any case where a restraining order or injunction has been filed in Wisconsin circuit court under sec.<cite path="VII|806|806.2|806.247|(3)"> 806.247(3)</cite>, Wisconsin Statutes.</text>
+          <text>Whoever knowingly violates a temporary restraining order or injunction issued under <cite path="|DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> shall be required to forfeit not more than $5,000 and may be subject to state penalties of a fine not to exceed $1,000 or imprisonment for not more than 9 months or both in any case where a restraining order or injunction has been filed in Wisconsin circuit court under sec.<cite path="VII|806|806.2|806.247|(3)"> 806.247(3)</cite>, Wisconsin Statutes.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The petitioner does not violate the court order under <cite path="§DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> if he or she admits into his or her residence a person ordered under <cite path="§DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> to avoid that residence.</text>
+          <text>The petitioner does not violate the court order under <cite path="|DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> if he or she admits into his or her residence a person ordered under <cite path="|DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> to avoid that residence.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.17.100 was formerly codified as LCOTCC §3.101</annotation>
@@ -4532,7 +4532,7 @@
       <section>
         <num>DMR.2.17.110</num>
         <heading>Notice of Full Faith and Credit</heading>
-        <text>An order or injunction issued under <cite path="§DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="§DMR.2.17.040">Section DMR.2.17.040</cite> shall include a statement that the order or injunction may be accorded full faith and credit in every civil or criminal court of the United States, civil or criminal courts of any other state and other Indian tribal courts to the extent that such courts may have personal jurisdiction over nontribal members.</text>
+        <text>An order or injunction issued under <cite path="|DMR.2.17.030">Section DMR.2.17.030</cite> or <cite path="|DMR.2.17.040">Section DMR.2.17.040</cite> shall include a statement that the order or injunction may be accorded full faith and credit in every civil or criminal court of the United States, civil or criminal courts of any other state and other Indian tribal courts to the extent that such courts may have personal jurisdiction over nontribal members.</text>
         <annotations>
           <annotation type="Prior Codifications">§DMR.2.17.110 was formerly codified as LCOTCC §3.102</annotation>
         </annotations>
@@ -4655,7 +4655,7 @@
       <section>
         <num>DMR.3.2.010</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§DMR.3.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="|DMR.3.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text><strong>"Guardian"</strong> means an individual who is appointed by any Court to manage the income and assets and provide for the essential requirements and safety and the personal needs of an individual found to be incompetent;</text>
@@ -4760,7 +4760,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A guardian of the person shall make all decisions for the ward and may act in the place of the ward, except that the guardian of the person may not act for, bind, or appear in any legal action affecting the property of the person. The guardian of the person may consent or refuse consent to medical treatment on behalf of the ward. The guardian of the person may consent to the admission of the ward to any residential facility for the care or treatment of the ward, including but not limited to a hospital or other medical facility, nursing home, community based residential facility, or psychiatric facility, for no more than 90 days without a protective placement order under <cite path="§DMR.3.6.020">Section DMR.3.6.020</cite>.</text>
+          <text>A guardian of the person shall make all decisions for the ward and may act in the place of the ward, except that the guardian of the person may not act for, bind, or appear in any legal action affecting the property of the person. The guardian of the person may consent or refuse consent to medical treatment on behalf of the ward. The guardian of the person may consent to the admission of the ward to any residential facility for the care or treatment of the ward, including but not limited to a hospital or other medical facility, nursing home, community based residential facility, or psychiatric facility, for no more than 90 days without a protective placement order under <cite path="|DMR.3.6.020">Section DMR.3.6.020</cite>.</text>
           <para>
             <num>(1)</num>
             <text>A guardian of the person may not consent or refuse to consent to the administration of psychotropic medication to the ward unless specifically granted the authority by the Court in the guardianship order.</text>
@@ -4832,10 +4832,10 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Whether the authority to consent or refuse consent to psychotropic medication under <cite path="§DMR.3.5.060|(d)">Section DMR.3.5.060(d)</cite> is requested.</text>
+            <text>Whether the authority to consent or refuse consent to psychotropic medication under <cite path="|DMR.3.5.060|(d)">Section DMR.3.5.060(d)</cite> is requested.</text>
             <para>
               <num>(A)</num>
-              <text>Whether protective placement under <cite path="§DMR.3.6.020">Section DMR.3.6.020</cite> is sought.</text>
+              <text>Whether protective placement under <cite path="|DMR.3.6.020">Section DMR.3.6.020</cite> is sought.</text>
             </para>
           </para>
         </para>
@@ -4847,7 +4847,7 @@
       <section>
         <num>DMR.3.5.030</num>
         <heading>Guardian Ad Litem</heading>
-        <text>Upon receipt of a petition under <cite path="§DMR.3.5.020">Section DMR.3.5.020</cite>, the Court shall appoint a guardian ad litem for the proposed ward. The guardian ad litem shall have the right and obligation to interview the proposed ward, the petitioner, and the proposed guardian or guardians, and others as appropriate; and to review medical or other records as appropriate, and to present evidence at the hearing under <cite path="§DMR.3.5.060">Section DMR.3.5.060</cite>, and to make recommendations to the Court as to the petition.</text>
+        <text>Upon receipt of a petition under <cite path="|DMR.3.5.020">Section DMR.3.5.020</cite>, the Court shall appoint a guardian ad litem for the proposed ward. The guardian ad litem shall have the right and obligation to interview the proposed ward, the petitioner, and the proposed guardian or guardians, and others as appropriate; and to review medical or other records as appropriate, and to present evidence at the hearing under <cite path="|DMR.3.5.060">Section DMR.3.5.060</cite>, and to make recommendations to the Court as to the petition.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-136"/>
           <annotation type="Prior Codifications">§DMR.3.5.030 was formerly codified as VII LCOTCL §3.503</annotation>
@@ -4857,7 +4857,7 @@
         <num>DMR.3.5.040</num>
         <heading>Notice</heading>
         <text>A copy of the petition and of a notice of hearing shall be provided to the proposed ward,</text>
-        <text>to any current guardian of the proposed ward, to the guardian ad litem of the proposed ward, and to any spouse, parent, or adult child of the proposed ward, unless the Court orders for a specific reason that notice need not to be given to any such person. Notice may be given by any means allowed under <cite path="§TCT.2.9.020">Section TCT.2.9.020</cite>, no less than ten days before the hearing under <cite path="§DMR.3.5.060">Section DMR.3.5.060</cite>.</text>
+        <text>to any current guardian of the proposed ward, to the guardian ad litem of the proposed ward, and to any spouse, parent, or adult child of the proposed ward, unless the Court orders for a specific reason that notice need not to be given to any such person. Notice may be given by any means allowed under <cite path="|TCT.2.9.020">Section TCT.2.9.020</cite>, no less than ten days before the hearing under <cite path="|DMR.3.5.060">Section DMR.3.5.060</cite>.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-136"/>
           <annotation type="Prior Codifications">§DMR.3.5.040 was formerly codified as VII LCOTCL §3.504</annotation>
@@ -4996,7 +4996,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The physician's or psychologist's report required under <cite path="§DMR.3.5.060">Section DMR.3.5.060</cite> shall also address the requirements listed in <cite path="§DMR.3.6.020|(b)">Section DMR.3.6.020(b)</cite>, above in any case where protective placement is sought.</text>
+          <text>The physician's or psychologist's report required under <cite path="|DMR.3.5.060">Section DMR.3.5.060</cite> shall also address the requirements listed in <cite path="|DMR.3.6.020|(b)">Section DMR.3.6.020(b)</cite>, above in any case where protective placement is sought.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -5013,7 +5013,7 @@
         <text>No less than once each twelve (12) months, the Court shall order an annual review of any protective placement, to determine if the conditions justifying the protective placement still exist:</text>
         <para>
           <num>(a)</num>
-          <text>The Court shall appoint a guardian ad litem in a timely fashion to allow the guardian ad litem to complete his or tasks as set forth in <cite path="§DMR.3.6.030|(b)">Section DMR.3.6.030(b)</cite>, below prior to the completion of the twelve (12) month period.</text>
+          <text>The Court shall appoint a guardian ad litem in a timely fashion to allow the guardian ad litem to complete his or tasks as set forth in <cite path="|DMR.3.6.030|(b)">Section DMR.3.6.030(b)</cite>, below prior to the completion of the twelve (12) month period.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -5199,7 +5199,7 @@
       <section>
         <num>DMR.4.2.010</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§DMR.4.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="|DMR.4.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text><strong>"Abuse"</strong> means:</text>
@@ -5253,7 +5253,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>An employee of any institution or agency specified in <cite path="§DMR.4.2.010|(b)|(3)">Section DMR.4.2.010(b)(3)</cite> of this ordinance.</text>
+            <text>An employee of any institution or agency specified in <cite path="|DMR.4.2.010|(b)|(3)">Section DMR.4.2.010(b)(3)</cite> of this ordinance.</text>
           </para>
         </para>
         <para>
@@ -5375,11 +5375,11 @@
         <heading>Investigation</heading>
         <para>
           <num>(a)</num>
-          <text>When Elder Protective Services ("EPS") receives a report of abuse or neglect perpetrated against elders or vulnerable adults, an investigation will be initiated as required in <cite path="§DMR.4.3.050|(b)">Section DMR.4.3.050(b)</cite>, below.</text>
+          <text>When Elder Protective Services ("EPS") receives a report of abuse or neglect perpetrated against elders or vulnerable adults, an investigation will be initiated as required in <cite path="|DMR.4.3.050|(b)">Section DMR.4.3.050(b)</cite>, below.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Elder Protective Services will conduct an investigation and prepare a report within three days.  The written report of the investigation shall include the information set out in <cite path="§DMR.4.3.050|(c)">Section DMR.4.3.050(c)</cite>, below as well as the results of interviews, observations and assessments and other fact finding.  The investigator shall conduct in-person interviews with the elder or vulnerable adult, the family and caretaker, persons suspected of having committed the acts complained of, employees of agencies or institutions with knowledge of the circumstances of the elder or vulnerable adult, and any other person the investigator believes has pertinent information.  The existence and contents of medical records and other reports of abuse and neglect shall be ascertained, after the elder or vulnerable executes a release of information.  The investigator personally shall assess the living conditions of the elder or vulnerable adult, including sleeping quarters.</text>
+          <text>Elder Protective Services will conduct an investigation and prepare a report within three days.  The written report of the investigation shall include the information set out in <cite path="|DMR.4.3.050|(c)">Section DMR.4.3.050(c)</cite>, below as well as the results of interviews, observations and assessments and other fact finding.  The investigator shall conduct in-person interviews with the elder or vulnerable adult, the family and caretaker, persons suspected of having committed the acts complained of, employees of agencies or institutions with knowledge of the circumstances of the elder or vulnerable adult, and any other person the investigator believes has pertinent information.  The existence and contents of medical records and other reports of abuse and neglect shall be ascertained, after the elder or vulnerable executes a release of information.  The investigator personally shall assess the living conditions of the elder or vulnerable adult, including sleeping quarters.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -5443,7 +5443,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Any person who violates subsections (1) or (2) of <cite path="§DMR.4.3.060">this section</cite> shall be enjoined from such activity and shall be subject to a civil penalty of up to $500 per occurrence and may result in the loss of tribal privileges.  If a tribal employee violates subsections (1) or (2) of <cite path="§DMR.4.3.060">this section</cite>, he/she shall be subject to appropriate disciplinary action as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court only after petition, notice, the opportunity to be heard, and a determination that either interference or retaliation as set out in <cite path="§DMR.4.3.060">this section</cite> occurred.</text>
+          <text>Any person who violates subsections (1) or (2) of <cite path="|DMR.4.3.060">this section</cite> shall be enjoined from such activity and shall be subject to a civil penalty of up to $500 per occurrence and may result in the loss of tribal privileges.  If a tribal employee violates subsections (1) or (2) of <cite path="|DMR.4.3.060">this section</cite>, he/she shall be subject to appropriate disciplinary action as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court only after petition, notice, the opportunity to be heard, and a determination that either interference or retaliation as set out in <cite path="|DMR.4.3.060">this section</cite> occurred.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-86"/>
@@ -5549,11 +5549,11 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>If there is good cause to believe that an emergency exists and that an elder or vulnerable adult is at risk of immediate and irreparable physical harm, the LCO Elder Protective Services investigator or law enforcement shall immediately protect the elder or vulnerable adult, including, where necessary, transporting the elder or vulnerable adult for medical treatment or to an appropriate facility.  Immediately after the elder or other vulnerable adult is protected, a petition for an emergency protection order shall be filed and the procedures set out in <cite path="§DMR.4.5.010">this section</cite> will be followed.</text>
+          <text>If there is good cause to believe that an emergency exists and that an elder or vulnerable adult is at risk of immediate and irreparable physical harm, the LCO Elder Protective Services investigator or law enforcement shall immediately protect the elder or vulnerable adult, including, where necessary, transporting the elder or vulnerable adult for medical treatment or to an appropriate facility.  Immediately after the elder or other vulnerable adult is protected, a petition for an emergency protection order shall be filed and the procedures set out in <cite path="|DMR.4.5.010">this section</cite> will be followed.</text>
         </para>
         <para>
           <num>(h)</num>
-          <text>Any person who acts in good faith pursuant to <cite path="§DMR.4.5.010">this section</cite> is immune from any civil or criminal suit based on that person's actions.</text>
+          <text>Any person who acts in good faith pursuant to <cite path="|DMR.4.5.010">this section</cite> is immune from any civil or criminal suit based on that person's actions.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-86"/>
@@ -5624,7 +5624,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Any person who violates any portion of <cite path="§DMR.4.7.020">this section</cite> shall be subject to a civil penalty of up to $1,000 per occurrence and, if a tribal employee, to appropriate disciplinary actions as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court after petition, notice, opportunity to be heard, and a determination that a violation has occurred.</text>
+          <text>Any person who violates any portion of <cite path="|DMR.4.7.020">this section</cite> shall be subject to a civil penalty of up to $1,000 per occurrence and, if a tribal employee, to appropriate disciplinary actions as allowed by the Tribe's personnel policies and procedures.  The penalty shall be assessed by the Tribal Court after petition, notice, opportunity to be heard, and a determination that a violation has occurred.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-86"/>
@@ -5820,7 +5820,7 @@
       <section>
         <num>DMR.5.2.010</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§DMR.5.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="|DMR.5.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text>"Aging Director" or "Director" means the individual employed by the Tribal Governing Board to manage the affairs of the Aging Unit as provided for in this ordinance and other relevant documents.</text>
@@ -5988,7 +5988,7 @@
       <section>
         <num>DMR.5.3.030</num>
         <heading>Elders Advisory Council on Aging</heading>
-        <text>The Elders Advisory Council on Aging is hereby created to act in an advisory capacity to the Tribal Governing Board and the Aging Director and shall have those powers as stated in <cite path="§DMR.5.3.030">this section</cite>:</text>
+        <text>The Elders Advisory Council on Aging is hereby created to act in an advisory capacity to the Tribal Governing Board and the Aging Director and shall have those powers as stated in <cite path="|DMR.5.3.030">this section</cite>:</text>
         <para>
           <num>(a)</num>
           <text><u>Official Powers and Duties</u>. The Elders Advisory Council on Aging shall advise the Aging Director on all matters relating to the delivery of services within the program area of operation and offer specific recommendations to the Aging Unit. Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes a public body known as the Lac Courte Oreilles Elders Advisory Council on Aging (hereinafter referred to as the Elders Advisory Council on Aging), and pursuant to this ordinance hereby establishes the following purposes, powers and duties of the Elders Advisory Council on Aging:</text>
@@ -6014,11 +6014,11 @@
           </para>
           <para>
             <num>(6)</num>
-            <text>Provide advice as directed by the Tribal Governing Board or requested by the Aging Director on matters relevant to the Aging Unit as established in <cite path="§DMR.5.3.010">Section DMR.5.3.010</cite> of this ordinance.</text>
+            <text>Provide advice as directed by the Tribal Governing Board or requested by the Aging Director on matters relevant to the Aging Unit as established in <cite path="|DMR.5.3.010">Section DMR.5.3.010</cite> of this ordinance.</text>
           </para>
           <para>
             <num>(7)</num>
-            <text>None of the aforementioned powers and duties may be construed or interpreted to empower representatives of the Elders Advisory Council on Aging beyond the capacity of advisory in nature as more fully defined in <cite path="§DMR.5.3.030|(h)">Section DMR.5.3.030(h)</cite>, below.</text>
+            <text>None of the aforementioned powers and duties may be construed or interpreted to empower representatives of the Elders Advisory Council on Aging beyond the capacity of advisory in nature as more fully defined in <cite path="|DMR.5.3.030|(h)">Section DMR.5.3.030(h)</cite>, below.</text>
           </para>
         </para>
         <para>
@@ -6094,7 +6094,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>Applicants must submit a one-page statement indicating why they are interested in serving on the Elders Advisory Council on Aging and must be mailed to the principle office of the Elders Advisory Council on Aging as established in <cite path="§DMR.5.1.040">Section DMR.5.1.040</cite> of this ordinance.</text>
+            <text>Applicants must submit a one-page statement indicating why they are interested in serving on the Elders Advisory Council on Aging and must be mailed to the principle office of the Elders Advisory Council on Aging as established in <cite path="|DMR.5.1.040">Section DMR.5.1.040</cite> of this ordinance.</text>
           </para>
           <para>
             <num>(5)</num>
@@ -6119,7 +6119,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text><u>Term</u>. Representatives to the Elders Advisory Council on Aging shall be elected by the elders residing within the Aging Unit area of operation, so long as the representative meets the qualifications established in <cite path="§DMR.5.3.030|(d)">Section DMR.5.3.030(d)</cite> above. Representatives to the Elders Advisory Council on Aging shall serve as follows:</text>
+          <text><u>Term</u>. Representatives to the Elders Advisory Council on Aging shall be elected by the elders residing within the Aging Unit area of operation, so long as the representative meets the qualifications established in <cite path="|DMR.5.3.030|(d)">Section DMR.5.3.030(d)</cite> above. Representatives to the Elders Advisory Council on Aging shall serve as follows:</text>
           <para>
             <num>(1)</num>
             <text>All representatives to the Elders Advisory Council on Aging will be appointed for three-year, staggered terms.</text>
@@ -6230,7 +6230,7 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>Representatives shall be prohibited from charging or receiving actual or in-kind compensation, fees, or gifts in connection with the performance of their official duties pursuant to <cite path="§DMR.5.3.030|(a)">Section DMR.5.3.030(a)</cite>, above.</text>
+            <text>Representatives shall be prohibited from charging or receiving actual or in-kind compensation, fees, or gifts in connection with the performance of their official duties pursuant to <cite path="|DMR.5.3.030|(a)">Section DMR.5.3.030(a)</cite>, above.</text>
           </para>
         </para>
         <para>
@@ -6350,7 +6350,7 @@
       <section>
         <num>DMR.6.2.010</num>
         <heading>General Definitions</heading>
-        <text>Any term not defined in <cite path="§DMR.6.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="|DMR.6.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text><strong>"Acknowledgement of paternity" </strong>means both the mother and the father voluntarily signed and filed a form with the state registrar.</text>
@@ -6592,7 +6592,7 @@
         <heading>Actions for Paternity</heading>
         <para>
           <num>(a)</num>
-          <text>An action may be brought under <cite path="§DMR.6.5.010">this section</cite> to determine the paternity of a child.</text>
+          <text>An action may be brought under <cite path="|DMR.6.5.010">this section</cite> to determine the paternity of a child.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -6654,7 +6654,7 @@
       <section>
         <num>DMR.6.5.030</num>
         <heading>Procedure</heading>
-        <text>Except as otherwise provided in <cite path="DMR|DMR.6">this chapter</cite>, any action filed under <cite path="§DMR.6.5.030">this section</cite> shall proceed under the "Tribal Court Code", Tribal Code of Law, <cite path="TCT|TCT.2">Chapter TCT.2</cite>. Any such action shall be captioned, "In re the paternity of [child's initials: D.O.B.:]" and shall name the mother and the alleged father as parties. When LCO Child Support Services is filing an action on behalf of either party, they shall be named as Petitioner/Co-Petitioner. The Court may, in its discretion, appoint a guardian ad litem for a child or a minor parent in any paternity proceeding.</text>
+        <text>Except as otherwise provided in <cite path="DMR|DMR.6">this chapter</cite>, any action filed under <cite path="|DMR.6.5.030">this section</cite> shall proceed under the "Tribal Court Code", Tribal Code of Law, <cite path="TCT|TCT.2">Chapter TCT.2</cite>. Any such action shall be captioned, "In re the paternity of [child's initials: D.O.B.:]" and shall name the mother and the alleged father as parties. When LCO Child Support Services is filing an action on behalf of either party, they shall be named as Petitioner/Co-Petitioner. The Court may, in its discretion, appoint a guardian ad litem for a child or a minor parent in any paternity proceeding.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 75-2020"/>
           <annotation type="Prior Codifications">§DMR.6.5.030 was formerly codified as VII LCOTCL §6.503</annotation>
@@ -6672,7 +6672,7 @@
       <section>
         <num>DMR.6.5.050</num>
         <heading>Dismissal for Best Interests of Child</heading>
-        <text>At any time during a proceeding under <cite path="§DMR.6.5.050">this section</cite>, the Court may refuse to order genetic or other paternity tests and may dismiss the proceeding if the determination of paternity sought is not in the best interests of the child. This includes a child conceived as a result of forcible rape or incest or if adoption of the child is pending.</text>
+        <text>At any time during a proceeding under <cite path="|DMR.6.5.050">this section</cite>, the Court may refuse to order genetic or other paternity tests and may dismiss the proceeding if the determination of paternity sought is not in the best interests of the child. This includes a child conceived as a result of forcible rape or incest or if adoption of the child is pending.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 75-2020"/>
           <annotation type="Prior Codifications">§DMR.6.5.050 was formerly codified as VII LCOTCL §6.505</annotation>
@@ -6698,7 +6698,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Genetic test results under <cite path="§DMR.6.5.060">this section</cite> or otherwise conducted and the results made available to the court.</text>
+            <text>Genetic test results under <cite path="|DMR.6.5.060">this section</cite> or otherwise conducted and the results made available to the court.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -6847,7 +6847,7 @@
         <heading>Effect of Voluntary Acknowledgment</heading>
         <para>
           <num>(a)</num>
-          <text>When a father has signed and filed a voluntary acknowledgment of paternity, the mother and father shall have the right to petition the Court for a determination of child support; liability for the costs of prenatal care, labor, and delivery; custody; and physical placement as though a paternity judgment had been obtained under <cite path="§DMR.6.5.100">this section</cite>.</text>
+          <text>When a father has signed and filed a voluntary acknowledgment of paternity, the mother and father shall have the right to petition the Court for a determination of child support; liability for the costs of prenatal care, labor, and delivery; custody; and physical placement as though a paternity judgment had been obtained under <cite path="|DMR.6.5.100">this section</cite>.</text>
           <para>
             <num>(1)</num>
             <text>LCO Voluntary Acknowledgment of Paternity forms will be made available at the LCO Child Support Services.</text>
@@ -6954,7 +6954,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>In the case of a mentally or physically disabled child, the Court may, after consideration of the factors set forth in <cite path="§DMR.6.6.010|(b)">Section DMR.6.6.010(b)</cite>, order support to continue past the 19<sup>th</sup> birthday and to be paid to the child's custodial parent, guardian, or other person.</text>
+          <text>In the case of a mentally or physically disabled child, the Court may, after consideration of the factors set forth in <cite path="|DMR.6.6.010|(b)">Section DMR.6.6.010(b)</cite>, order support to continue past the 19<sup>th</sup> birthday and to be paid to the child's custodial parent, guardian, or other person.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 75-2020"/>
@@ -7167,7 +7167,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Calculate each parent's monthly income available for child support. If one or both parents have a prior child support obligation, determine the parent's adjusted gross income available for this child support order pursuant to <cite path="§DMR.6.6.070|(b)">Section DMR.6.6.070(b)</cite> above.</text>
+            <text>Calculate each parent's monthly income available for child support. If one or both parents have a prior child support obligation, determine the parent's adjusted gross income available for this child support order pursuant to <cite path="|DMR.6.6.070|(b)">Section DMR.6.6.070(b)</cite> above.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -7194,7 +7194,7 @@
           <text>Split placement. Split placement calculations must be used when the parents have two or more children and each parent has placement of one or more, but not all, of the minor children.</text>
           <para>
             <num>(1)</num>
-            <text>Calculate each parent's monthly income available for child support. If one or both parents have a prior child support obligation, determine the parent's adjusted gross income available for this child support order pursuant to <cite path="§DMR.6.6.070|(b)">Section DMR.6.6.070(b)</cite> above.</text>
+            <text>Calculate each parent's monthly income available for child support. If one or both parents have a prior child support obligation, determine the parent's adjusted gross income available for this child support order pursuant to <cite path="|DMR.6.6.070|(b)">Section DMR.6.6.070(b)</cite> above.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -7541,7 +7541,7 @@
         <heading>Wage Assignment for Support</heading>
         <para>
           <num>(a)</num>
-          <text>Each order for child support payments constitutes an assignment to the intended recipient of the support of all income as described in <cite path="§DMR.6.6.050|(b)">Section DMR.6.6.050(b)</cite> above, which includes commissions, earning, salaries, wages, pension benefits, workers compensation or unemployment insurance benefits, lottery prizes that are payable in installments and other money due or to be due in the future. The assignment shall be for an amount sufficient to ensure payment under the order or stipulation and to pay any arrearages due at a periodic rate not to exceed 65% of the amount of support due under the order or stipulation so long as the addition of the amount toward arrearages does not exceed the amounts allowed to be intercepted for child support purposes pursuant to the Federal Consumer Credit Protection Act (15 U.S.C. 1673(b)).</text>
+          <text>Each order for child support payments constitutes an assignment to the intended recipient of the support of all income as described in <cite path="|DMR.6.6.050|(b)">Section DMR.6.6.050(b)</cite> above, which includes commissions, earning, salaries, wages, pension benefits, workers compensation or unemployment insurance benefits, lottery prizes that are payable in installments and other money due or to be due in the future. The assignment shall be for an amount sufficient to ensure payment under the order or stipulation and to pay any arrearages due at a periodic rate not to exceed 65% of the amount of support due under the order or stipulation so long as the addition of the amount toward arrearages does not exceed the amounts allowed to be intercepted for child support purposes pursuant to the Federal Consumer Credit Protection Act (15 U.S.C. 1673(b)).</text>
         </para>
         <para>
           <num>(b)</num>
