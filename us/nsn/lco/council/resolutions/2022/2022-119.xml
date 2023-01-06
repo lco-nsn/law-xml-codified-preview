@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-119" codify:doc="Lac Courte Oreilles Tribal Code of Law">
   <num>2022-119</num>
-  <heading>Revision of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Enterprises Holiday Pay Policy PAP.9.6.080</heading>
+  <heading>Revision of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Gaming Enterprises Holiday Pay Policy PAP.9.6.080</heading>
   <meta>
     <effective>2022-11-21</effective>
     <citations>
-      <citation type="res" url="./adopted/2022-118.pdf">Council Resolution No. 2022-119</citation>
+      <citation type="res" url="./adopted/2022-119.pdf">Council Resolution No. 2022-119</citation>
     </citations>
     <history>
       <adopted>2022-11-21</adopted>
@@ -22,11 +22,11 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Tribal Governing Board pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, Section 1(n) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> shall "regulate, by the enactment of ordinances, the conduct of business within the territory of the band" and Article V, Section 1(h) "to engage in any business that will further the social or economic well-being of members of the Band:' and</text>
+      <text>the Tribal Governing Board pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, Section 1(n) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> shall "regulate, by the enactment of ordinances, the conduct of business within the territory of the band" and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, Section 1(h)</cite> "to engage in any business that will further the social or economic well-being of members of the Band:' and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Tribal Governing Board believes it is in the best interest of employees of the Gaming Enterprises to receive adequate holiday pay and as an incentive for employees to work at Gaming Enterprises during a holiday.</text>
+      <text>the Tribal Governing Board duly enacted <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.9.6.080">PAP.9.6.080</cite>and now wishes to amend such section.</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
@@ -55,7 +55,7 @@
   </codify:find-replace>
   <procedural-data>
     <text>CERTIFICATION</text>
-    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>7</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>21<sup>st</sup> day of November, 2022</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>7</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>7</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>21<sup>st</sup> day of November, 2022</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>6</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
     <text>___________________________________</text>
     <text>Tweed Shuman, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
