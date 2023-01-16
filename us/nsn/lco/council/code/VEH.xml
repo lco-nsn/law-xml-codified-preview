@@ -1698,7 +1698,7 @@
         <heading>Hours of Operation</heading>
         <para>
           <num>(a)</num>
-          <text>Hours of Operation for recreational use of ATV/UTV on the Lac Courte Oreilles Reservation shall be from 6:00 A.M. until 11:00 P.M. Sunday through Saturday.</text>
+          <text>Hours of Operation for recreational use of ATV/UTV on the Lac Courte Oreilles Reservation shall be from sunrise to sunset Sunday through Saturday.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1706,6 +1706,7 @@
         </para>
         <annotations>
           <annotation app="2022-10-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-103" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-115" eff="2022-11-21" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1728,6 +1729,16 @@
         </para>
         <annotations>
           <annotation app="2022-10-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-103" eff="2022-10-24" path="" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>VEH.4.3.070</num>
+        <heading>Northwoods Beach City Limits</heading>
+        <text>The roads in the Northwoods beach residential area may be used by residential owners for the limited purpose of the accessing marked ATV/UTV trails in close proximity to the residential homes.</text>
+        <text>Nothing in this section shall be construed as a permission of the tribe for ATV/UTV and the tribe and all agents are not liable for the use of ATV/UTV operation under this section.</text>
+        <annotations>
+          <annotation app="2022-10-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-103" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-115" eff="2022-11-21" path="" type="History"/>
         </annotations>
       </section>
     </container>

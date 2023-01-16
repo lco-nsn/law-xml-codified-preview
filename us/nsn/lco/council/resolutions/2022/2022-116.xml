@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-116" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2022-116</num>
+  <heading>Amendments to Lac Courte Oreilles Tribal Court Code GNC.4.11 Animal Control Ordinance</heading>
+  <meta>
+    <effective>2022-11-21</effective>
+    <citations>
+      <citation type="res" url="./adopted/2022-116.pdf">Council Resolution No. 2022-116</citation>
+    </citations>
+    <history>
+      <adopted>2022-11-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>WHEREAS, the Tribal Governing Board possesses the inherent sovereign authority to regulate its territory; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to “promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers;” and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board may regulate and impose obligations upon all owners and keepers of animals, in order to protect the safety and welfare of all persons and animals.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby amends <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.4">Chapter GNC.4</cite> Animal Control Ordinance as follows:</text>
+      <text>FROM:</text>
+      <text>
+        <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC|GNC.4|GNC.4.11|1|GNC.4.11.080">GNC.4.11.080</cite>
+      </text>
+      <text>(f) “department” means the LCO conservation department;</text>
+      <text>TO:</text>
+      <text>
+        <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC|GNC.4|GNC.4.11|1|GNC.4.11.080">GNC.4.11.080</cite>
+      </text>
+      <text>(f) “department” means the LCO Police Department and or the LCO Conservation Department;</text>
+      <codify:find-replace path="|GNC|GNC.4|GNC.4.11|1|GNC.4.11.080|(f)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.4.11.080|(f)">
+        <find>“department” means the LCO conservation department;</find>
+        <replace>“department” means the LCO Police Department and or the LCO Conservation Department;</replace>
+      </codify:find-replace>
+      <text>FROM:</text>
+      <text>
+        <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC|GNC.4|GNC.4.11|2|GNC.4.11.090">GNC.4.11.090</cite>
+      </text>
+      <text>(b) The licensing fee shall be Twenty and 00/100 Dollars ($20.00) for each one (1) year period. The fee shall be Five and 00/100 Dollars ($5.00) for any dog or cat if the owner or keeper presents written proof that the animal has been neutered or spayed.</text>
+      <text>TO:</text>
+      <text>
+        <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC|GNC.4|GNC.4.11|2|GNC.4.11.090">GNC.4.11.090</cite>
+      </text>
+      <text>(b) The licensing fee shall be Twenty and 00/100 Dollars ($20.00) for each one (1) year period. The fee shall be Ten and 00/100 Dollars ($10.00) for any dog or cat if the owner or keeper presents written proof that the animal has been neutered or spayed.</text>
+      <codify:find-replace path="|GNC|GNC.4|GNC.4.11|2|GNC.4.11.090|(b)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.4.11.090|(b)">
+        <find>The licensing fee shall be Twenty and 00/100 Dollars ($20.00) for each one (1) year period. The fee shall be Five and 00/100 Dollars ($5.00) for any dog or cat if the owner or keeper presents written proof that the animal has been neutered or spayed.</find>
+        <replace>The licensing fee shall be Twenty and 00/100 Dollars ($20.00) for each one (1) year period. The fee shall be Ten and 00/100 Dollars ($10.00) for any dog or cat if the owner or keeper presents written proof that the animal has been neutered or spayed.</replace>
+      </codify:find-replace>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>21<sup>st</sup> day of November 2022</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
