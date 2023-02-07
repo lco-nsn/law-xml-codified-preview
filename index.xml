@@ -16,11 +16,11 @@
     <history-start>2021-12-19</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="lco-nsn/law-xml" commit="6f2121db0e9d37d332f2e8260b00ce387f7b5107"/>
+        <repository name="lco-nsn/law-xml" commit="7671bdcb944110f1148c0536672fa51615be5419"/>
       </repositories>
       <platform version="2.9.2" reproducible="false"/>
-      <build-date>2023-02-02</build-date>
-      <codified-date>2022-12-12</codified-date>
+      <build-date>2023-02-07</build-date>
+      <codified-date>2023-01-30</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/lco/council/constitution/index.xml"/>
@@ -28,6 +28,7 @@
   <collection name="us/nsn/lco/council/resolutions">
     <heading>Tribal Governing Board Resolutions</heading>
     <text>Resolutions impacting the Lac Courte Oreilles Tribal Code are provided for reference and the convenience of Lac Courte Oreilles Tribal Law Library users. The list of resolutions for changes prior to codification in 2022 may be incomplete.</text>
+    <xi:include href="./us/nsn/lco/council/resolutions/2023/index.xml"/>
     <xi:include href="./us/nsn/lco/council/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/lco/council/resolutions/2021/index.xml"/>
     <xi:include href="./us/nsn/lco/council/resolutions/2020/index.xml"/>

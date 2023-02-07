@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-11" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2023-11</num>
+  <heading>Amendment of the Lac Courte Oreilles Tribal Code of Law Parental Leave Policies</heading>
+  <meta>
+    <effective>2023-01-30</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-11.pdf">Res. No. 2023-11</citation>
+    </citations>
+    <history>
+      <adopted>2023-01-30</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board has the inherent sovereign authority to "provide for the regulation of child custody and domestic relations matters by ordinances or resolution" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">Article V, § 1(t)</cite>; and "to provide for the appointments of guardians" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">Article V, § 1 (u)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is the belief of the Tribe to strengthen family structures, to prevent family breakups, and to foster conditions favorable to the growth, spirit, culture, and individuality of each child; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is the belief of the Tribe that health, safety, and welfare of all children within the Lac Courte Oreilles Tribe is the ultimate touchstone; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to provide further services and aid to promote the traditional values that children are the most important assets of the Tribe.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby expands the definition of Parental Leave in order to provide additional aid to tribal employees who assist with the welfare of tribal children in there care prior to the completion of a legal proceeding.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>as follows:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Amend: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.5.7.070|(g)">Subsection PAP.5.7.070(g)</cite> of the Lac Courte Oreilles Tribal Code of Law is amended as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="PAP.5.7.070|(g)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.5.7.070|(g)"/>
+        <num>(g)</num>
+        <text>Parental Leave. The LCO-CHC grants eligible full-time employees up to two (2) weeks, maximum of eighty (80) hours, paid leave for adoption, customary adoption, guardianship, protective placement, or an emergency safety plan of a pre-school (0-5 years of age) child. Leave may be granted prior to the legal proceedings having been completed. An employee must request the leave as early as possible and obtain approval of his or her department head or director to utilize the leave. The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.5.7.070">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.5.7.090">Section PAP.5.7.090</cite> of this manual.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Amend: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.14.7.070|(f)">Subsection PAP.14.7.070(f)</cite> of the Lac Courte Oreilles Tribal Code of Law is amended as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="PAP.14.7.070|(f)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.14.7.070|(f)"/>
+        <num>(f)</num>
+        <text>Parental Leave. The LCO Development Corporation grants eligible full-time employees up to two (2) weeks, maximum of eighty (80) hours, paid leave for adoption, customary adoption, guardianship, protective placement, or an emergency safety plan of a pre-school (0-5 years of age) child. Leave may be granted prior to the legal proceedings having been completed. An employee must request the leave as early as possible and obtain approval of his or her department head or director to utilize the leave.  The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.14.7.070">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.14.7.090">Section PAP.14.7.090</cite> of this manual.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Amend: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.4.7.070|(g)">Subsection PAP.4.7.070(g)</cite> of the Lac Courte Oreilles Tribal Code of Law is amended as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="PAP.4.7.070|(g)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.4.7.070|(g)"/>
+        <num>(g)</num>
+        <text>Parental Leave. The LCOHA grants eligible full-time employees up to two (2) weeks, maximum of eighty (80) hours, paid leave for adoption, customary adoption, guardianship, protective placement, or an emergency safety plan of a pre-school (0-5 years of age) child. Leave may be granted prior to the legal proceedings having been completed. An employee must request the leave as early as possible and obtain approval of his or her department head or director to utilize the leave. The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.4.7.070">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.4.8.060">Section PAP.4.8.060</cite> of this manual.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Amend: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.1.7.070|(g)">Subsection PAP.1.7.070(g)</cite> of the Lac Courte Oreilles Tribal Code of Law is amended as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="PAP.1.7.070|(g)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.1.7.070|(g)"/>
+        <num>(g)</num>
+        <text>Parental Leave. The Tribe grants eligible full-time employees up to two (2) weeks, maximum of eighty (80) hours, paid leave for adoption, customary adoption, guardianship, protective placement, or an emergency safety plan of a pre-school (0-5 years of age) child. Leave may be granted prior to the legal proceedings having been completed. An employee must request the leave as early as possible and obtain approval of his or her department head or director to utilize leave. The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.1.7.070">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.1.7.090">Section PAP.1.7.090</cite> of this manual.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Amend: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.1.6.170|(f)">Subsection MCC.1.6.170(f)</cite> of the Lac Courte Oreilles Tribal Code of Law is amended as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="MCC.1.6.170|(f)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.170|(f)"/>
+        <num>(f)</num>
+        <text>The Tribe grants Elected Officials up to two (2) weeks, maximum of eighty (80) hours, paid leave for adoption, customary adoption, guardianship, protective placement, or an emergency safety plan of a pre-school (0-5 years of age) child. Leave may be granted prior to the legal proceedings having been completed. An Elected Official must promptly notify the Tribal Governing Board of the utilization of such leave. The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.1.6.170">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.1.6.190">Section MCC.1.6.190</cite> of this manual.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text>Amend: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.7.7.070|(g)">Subsection PAP.7.7.070(g)</cite> of the Lac Courte Oreilles Tribal Code of Law is amended as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="PAP.7.7.070|(g)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.7.7.070|(g)"/>
+        <num>(g)</num>
+        <text>Parental Leave. The School grants eligible full-time employees up to two (2) weeks, maximum of eighty (80) hours, paid leave for adoption, customary adoption, guardianship, protective placement, or an emergency safety plan of a pre-school (0-5 years of age) child. Leave may be granted prior to the legal proceedings. An employee must request the leave as early as possible and obtain approval of his or her department head or director to utilize leave. The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.7.7.070">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.7.8.060">Section PAP.7.8.060</cite> of this manual.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text>Amend: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.9.7.080|(g)">Subsection PAP.9.7.080(g)</cite> of the Lac Courte Oreilles Tribal Code of Law is amended as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="PAP.9.7.080|(g)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.9.7.080|(g)"/>
+        <num>(g)</num>
+        <text>Parental Leave. The Gaming Enterprises grant eligible team members up to two (2) weeks, maximum of eighty (80) hours, paid leave for adoption, customary adoption, guardianship, protective placement, or an emergency safety plan of a pre-school (0-5 years of age) child. Leave may be granted prior to the legal proceedings having been completed. An employee must request the leave as early as possible and obtain approval of his or her Director/Manager to utilize this leave. The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.9.7.080">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.9.7.100">Section PAP.9.7.100</cite> of this manual.</text>
+      </para>
+    </include>
+  </section>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>6</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>30<sup>th</sup> day of January, 2023</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>5</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
