@@ -1,0 +1,2081 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-05" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2022-05</num>
+  <heading>Adoption of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Code of Law: Kinship Policies and Procedures PAP.15</heading>
+  <meta>
+    <effective>2023-01-09</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-05.pdf">Res. No. 2022-05</citation>
+    </citations>
+    <history>
+      <adopted>2023-01-09</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V">Article V</cite>, including but not limited to, Sections <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">1(q)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing  to "establish a tribal court for the purpose of enforcing tribal ordinance" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, Section 1(q)</cite> and "to promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V. Section 1(s)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>criteria and procedures to manage the Kinship Care and Long-Term Kinship Care Program is necessary; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to provide further services to promote the traditional value that children are the most important asset of the Tribe.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>as follows:</text>
+      <para>
+        <num>(A)</num>
+        <text>The Adoption of the attached <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15">Kinship Policies and Procedures</cite> as apart of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Code of Law.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>As apart of adopting the <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15">Kinship Policies and Procedures</cite>, the Tribal Governing Board authorizes Open Law Library to publish and maintain the Code on behalf of the Tribe.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The Tribal Governing Board authorizes the Open Law Library administers to replace and edit any minor typos or inaccuracies, that do not change the substantive content of the <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15">Kinship Policies and Procedures</cite>.</text>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>7</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>9<sup>th</sup> day of January, 2023</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>6</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+  <codify:insert path="PAP" after="PAP.14" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.15.1.010">
+    <container>
+      <num>PAP.15</num>
+      <heading>Kinship Care and Long-Term Kinship Care Program Policies and Procedures</heading>
+      <prefix>Chapter</prefix>
+      <text class="center">
+        <strong>Preamble</strong>
+      </text>
+      <text>The Lac Courte Oreilles Kinship Care and Long-Term Kinship Care Program is managed by the Lac Courte Oreilles Indian Child Welfare Program to help support a child who lives outside of his or her home with a relative. As required by the Cross-Governmental Contract Agreement by and between Wisconsin Department of Children and Families and Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin, relative shall be defined solely as: stepparent, brother, sister, stepbrother, stepsister, half-brother, half-sister, brother−in−law, sister−in−law, first cousin, 2nd cousin, nephew, niece, aunt, uncle, step-uncle, step-aunt, or any person of a preceding generation as denoted by the prefix of grand, great or great− great, whether by blood, marriage or legal adoption, or the spouse of any person named in this subsection, even if the marriage is terminated by death or divorce. This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q),</cite> <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite>, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">(t)</cite>, and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">(u)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowered the Tribal Governing Board to establish a Children's Court Division of the Lac Courte Oreilles Tribal Court..." It is the purpose of this ordinance to establish criteria and procedures for determining initial and continuing eligibility of a relative who provides care and maintenance for a child to receive a monthly payment to help with the expenses involving in providing that care and maintenance.</text>
+      <container>
+        <num>PAP.15.1</num>
+        <heading>General Provisions</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.15.1.010</num>
+          <heading>Title</heading>
+          <text>This policy and procedure manual shall be known as Kinship Care and Long-Term Care Program Policies and Procedures.</text>
+        </section>
+        <section>
+          <num>PAP.15.1.020</num>
+          <heading>Authority</heading>
+          <text>This policy and procedure manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q),</cite> <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite>, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">(t)</cite>, and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">(u)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowered the Tribal Governing Board to establish a Children's Court Division of the Lac Courte Oreilles Tribal Court..."</text>
+        </section>
+        <section>
+          <num>PAP.15.1.030</num>
+          <heading>Purpose</heading>
+          <text>It is the purpose of this ordinance to follow <cite doc="Wis. Stat." path="§48.57">Wis. Stat. §48.57</cite>(3m) and (3n), as well as codify WI DCF 58 which establishes criteria and procedures for determining initial and continuing eligibility of a relative who provides care and maintenance for a child to receive a monthly payment to help with the expenses involved in providing that care and maintenance and for recovering overpayments. This includes utilizing all the required DCF forms. Following these state laws and rules are required under the Cross-Governmental Contract Agreement by and between Wisconsin Department of Children and Families and Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin.</text>
+        </section>
+        <section>
+          <num>PAP.15.1.040</num>
+          <heading>Types of Relative Caregiving</heading>
+          <para>
+            <num>(a)</num>
+            <text>This Ordinance applies to the following types of relative caregiving of a child:</text>
+            <para>
+              <num>(1)</num>
+              <text>Court-Ordered Out-of-Home Care Placement. A relative applying for or receiving kinship care payments on behalf of a child that was placed in the relative's home under a tribal court order or a voluntary transition-to-independent-living agreement and is under the placement and care responsibility of the LCO Indian Child Welfare Department. A relative under this subsection is not required to apply for a license to operate a foster home.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Voluntary. A relative applying for or receiving kinship care payments on behalf of a child residing with the relative for a child that was not placed in the relative caregiver's home under a tribal court order or a voluntary transition-to-independent-living agreement and is not under the placement and care responsibility of the LCO Indian Child Welfare Department. The child's living arrangement with the relative may be informal or the relative may be the child's guardian under a third party-guardianship unrelated to a Minor in Need of Care case.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Guardian Appointed for Minor in Need of Care (MNC). A relative that is applying for or receiving long-term kinship care payments and is a child's guardian under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1">§DMR.1</cite> or <cite doc="Wis. Stat." path="§48.977">Wis. Stat. § 48.977</cite>.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>P.15.1.050</num>
+          <heading>Effective Date</heading>
+          <text>Except as otherwise provided in specific sections, the provisions of this policy and procedural manual shall be effective on the date adopted by the Tribal Governing Board.</text>
+        </section>
+        <section>
+          <num>PAP.15.1.060</num>
+          <heading>Interpretation</heading>
+          <text>The provisions of this policy and procedural manual:</text>
+          <para>
+            <num>(a)</num>
+            <text>Shall be interpreted and applied as the requirements for the Kinship Care and Long-Term Kinship Care Program;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Shall be liberally construed in favor of the Indian Child Welfare Department which has been granted the authority to manage Kinship Care and Long-Term Care Program by the Lac Courte Oreilles Tribal Governing Board;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Shall not be deemed a limitation or repeal of any other tribal power or authority, except to the extent that this ordinance pertains to <em>Cross-Governmental Contract Agreement by and between Wisconsin Department of Children and Families and Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</em>, and as such, ICW may not create additional criteria for kinship/long-term kinship care eligibility that conflict with Wisconsin's DCF 58 and <cite doc="Wis. Stat." path="§48.57">Wis. Stat. §48.57</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.1.070</num>
+          <heading>Additional Criteria Prohibited</heading>
+          <text>ICW may not create eligibility or termination criteria for kinship care or long-term kinship care that are in addition to the criteria in this ordinance and <cite doc="Wis. Stat." path="§48.57">Wis. Stat. §48.57</cite>(3m), (3n), and (3p).</text>
+        </section>
+        <section>
+          <num>PAP.15.1.080</num>
+          <heading>Severability and Non-Liability</heading>
+          <text>If any section, provision, or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
+        </section>
+      </container>
+      <container>
+        <num>PAP.15.2</num>
+        <heading>Definitions</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.15.2.010</num>
+          <heading>General Definitions</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+            <para>
+              <num>(1)</num>
+              <text><strong>"Adult resident"</strong> means a person 18 years of age or over who lives at the home of a relative with the intent of making that home his or her home or who lives for more than thirty (30) days cumulative in any six (6) month period at the home of a relative.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><strong>"Background check"</strong> means the requirements under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p) and § 15.401.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><strong>"Background information disclosure"</strong> means the form prescribed by DCF on which a person provides information for purposes of the background check under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p) and PAP.15.4.010. <strong>Note: </strong>DCF-F-2978-E, <em>Background Information Disclosure</em>, is available on the department's website at <u>https://dcf.wisconsin.gov/forms</u>.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text><strong>"Child"</strong> means a person under 18 years of age. "Child" also includes a person 18 years of age or over if any of the following applies:</text>
+              <para>
+                <num>(A)</num>
+                <text>The person is under 19 years of age, is a full−time student in good academic standing at a secondary school or its vocational or technical equivalent, and is reasonably expected to complete the program of study and be granted a high school or high school equivalency diploma.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The person is under 21 years of age and meets all of the following conditions:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>The person is a full−time student at a secondary school or its vocational or technical equivalent.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>There is an individualized education program under <cite doc="Wis. Stat." path="§115.787">Wis. Stat. § 115.787</cite>, in effect for the person.</text>
+                </para>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The person is placed in the home of the relative caregiver under any of the following:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>A Lac Courte Oreilles Minor in Need of Care Dispositional Order.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>A voluntary transition-to-independent-living agreement.</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>The placement and care responsibility of another state under 42 U.S.C. § 675(8)(B) (iv) until that state provides reimbursement for the placement of the child in a relative caregiver's home in Wisconsin.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text><strong>"Child Support Agency" </strong>means the Lac Courte Oreilles Child Support Services or county child support agency that has jurisdiction over child support matters.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text><strong>"Child welfare agency" </strong>or<strong> "ICW Department" </strong>means the Lac Courte Oreilles (LCO) Indian Child Welfare (ICW) Department.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text><strong>"Conviction record"</strong> means the record of a person's arrests and convictions.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text><strong>"Court order"</strong> means a court order under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1">§DMR.1</cite>.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text><strong>"Custodial parent"</strong> means a parent that has legal custody of a child.</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text><strong>"Department"</strong> means the Wisconsin Department of Children and Families (DCF).</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text><strong>"Director"</strong> means the director of the Lac Courte Oreilles Indian Child Welfare Department.</text>
+            </para>
+            <para>
+              <num>(12)</num>
+              <text><strong>"Division of hearings and appeals"</strong> means the Wisconsin division of hearings and appeals in the department of administration.</text>
+            </para>
+            <para>
+              <num>(13)</num>
+              <text><strong>"Employee"</strong> means a person hired by a relative caregiver to work in a position in which the person has contact with the child on a regular basis.</text>
+            </para>
+            <para>
+              <num>(14)</num>
+              <text><strong>"Final substantiated finding"</strong> means a final determination made by the child welfare arm of the LCO Indian Child Welfare Department that a person has abused or neglected a child under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1">§DMR.1</cite>.</text>
+            </para>
+            <para>
+              <num>(15)</num>
+              <text><strong>"Kinship care"</strong> means the program described herein, which provides specific assistance to children and families through the provision of a monthly payment to a relative and is administered by the LCO Kinship Care Office under contract pursuant to the <em>Cross-Governmental Contract Agreement by and between Wisconsin Department of Children and Families and Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</em>.</text>
+            </para>
+            <para>
+              <num>(16)</num>
+              <text><strong>"Kinship care payment" or "kinship care benefit"</strong> means a monthly payment in an amount specified in <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3m)(am), that is paid to a relative caregiver that has been determined eligible for payments under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3m) and (3p) and this Ordinance.</text>
+            </para>
+            <para>
+              <num>(17)</num>
+              <text><strong>"LCO Kinship Care Office" or "ICW" </strong>means a tribal agency appointed by the tribal governing board for the purpose of administering all or part of the kinship care program or the long-term kinship care program.</text>
+            </para>
+            <para>
+              <num>(18)</num>
+              <text><strong>"Legal custody"</strong> means, with respect to an individual with legal custody of a child, the right and responsibility to make major decisions, as defined under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.2.4.010">§DMR.2.4.010</cite> or <cite doc="Wis. Stat." path="§767.001">Wis. Stat. § 767.001</cite>(2m), concerning the child. Physical placement is not the same as legal custody.</text>
+            </para>
+            <para>
+              <num>(19)</num>
+              <text><strong>"Long−term kinship care"</strong> means the program under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3n) and is administered by the LCO Kinship Care Office.</text>
+            </para>
+            <para>
+              <num>(20)</num>
+              <text><strong>"Long−term kinship care payment"</strong> means a monthly payment in an amount specified in <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3n)(am), Stats., that is paid to a relative caregiver that has been determined eligible under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3n) and (3p) and this Ordinance.</text>
+            </para>
+            <para>
+              <num>(21)</num>
+              <text><strong>"Medical assistance"</strong> means the assistance program under 42 U.S.C., ch. 7, subch. XIX, and Wis. Stat. Ch. 49, subch. IV.</text>
+            </para>
+            <para>
+              <num>(22)</num>
+              <text><strong>"Relative,"</strong> solely for the purpose of the kinship care program, means an adult that is the child's stepparent, brother, sister, stepbrother, stepsister, half-brother, half-sister, brother-in-law, sister-in-law, first cousin, 2nd cousin, nephew, niece, uncle, aunt, step-uncle, step-aunt, or any person of a preceding generation as denoted by the prefix of grand, great, or great-great, whether by blood, marriage, or legal adoption, or the spouse of any person named in this subsection, even if the marriage is terminated by death or divorce.</text>
+            </para>
+            <para>
+              <num>(23)</num>
+              <text><strong>"Relative caregiver"</strong> means a relative that is providing care and maintenance for a child and is applying for, or receiving, kinship care payments or long-term kinship care payments.</text>
+            </para>
+            <para>
+              <num>(24)</num>
+              <text><strong>"Voluntary kinship care"</strong> means the program under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3m), Stats., when the child is not placed in the relative caregiver's home under a court order or a voluntary transition-to-independent-living agreement and is not under the placement and care responsibility of the LCO ICW Department or other child welfare agency.</text>
+            </para>
+            <para>
+              <num>(25)</num>
+              <text><strong>"Voluntary transition−to−independent−living agreement"</strong> means a voluntary agreement under <cite doc="Wis. Stat." path="§48.366|(3)">Wis. Stat. § 48.366(3)</cite> or § 938.366(3).</text>
+            </para>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.15.3</num>
+        <heading>Eligibility Requirements and Procedures</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.15.3.010</num>
+          <heading>Eligibility Criteria for Kinship Care and Long-Term Kinship Care</heading>
+          <text>A relative caregiver shall be eligible to receive kinship care payments or long-term kinship payments if the LCO Kinship Care Office determines that all of the following conditions in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15.3">§PAP.15.3</cite> are met.</text>
+        </section>
+        <section>
+          <num>PAP.15.3.020</num>
+          <heading>Application</heading>
+          <para>
+            <num>(a)</num>
+            <text>Kinship care providers must complete all areas of the Kinship Care Payment Application and shall complete any forms required by ICW. Applications must be completed even when kinship is court-ordered. Applications submitted with incomplete information will not proceed.</text>
+            <para>
+              <num>(1)</num>
+              <text>More than one child. A relative caregiver may apply for kinship care or long-term kinship care for more than one child on the same application form. <strong>Note:</strong> DCF-F-CFS2023, <em>Kinship Care Payment Application</em>, is the application prescribed by the department if the relative caregiver is not required to apply for a license to operate a foster home. DCF-F-2483-E, <em>Joint Court-Ordered Kinship Care and Foster Care Application</em> –Part A is the application form prescribed by the department if the child is in a court-ordered out-of-home care placement. Both application forms are available on the department's website at https://dcf.wisconsin.gov/forms.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.3.030</num>
+          <heading>Cooperation with LCO Kinship Care Office</heading>
+          <para>
+            <num>(a)</num>
+            <text>The relative caregiver cooperates with the LCO Kinship Care Office, including all of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Completing and returning any forms created and required by DCF.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Returning phone calls from the LCO Kinship Care Office.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Providing information through home visits, interviews, and documentation as necessary for the LCO Kinship Care Office to determine or redetermine the eligibility of the relative caregiver for kinship care or long-term kinship care.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Applying for other forms of assistance for which the child may be eligible, including financial assistance and medical assistance for the child.  <strong>Note:</strong> see the Kinship Navigator Portal at <u>https://dcf.wi.gov/kinship/navigator</u> for information and available resources.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Cooperating with referral of the child's parent or parents to the LCO Child Support Services, except in any of the following circumstances:</text>
+              <para>
+                <num>(A)</num>
+                <text>The child is 18 years of age or older.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The relative caregiver has a pending good cause claim under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.030">§PAP.15.7.030</cite>.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The relative caregiver requested and the LCO Kinship Care Office granted a good cause exemption to the requirement that a relative caregiver cooperate with referring the child's parent to the LCO Child Support Services under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.030|(b)">§PAP.15.7.030(b)</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Notifying the LCO Kinship Care Office of a change in circumstance specified under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15.7.010|(a)">PAP.15.7.010(a)</cite>.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Cooperating with eligibility redeterminations and reviews under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.010">§PAP.15.7.010</cite>.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>If the child is 18  years of age or over and the relative caregiver is applying for or receiving voluntary kinship care payments or long-term kinship care payments, providing the LCO Kinship Care Office with a form prescribed by DCF that has been signed by the relative caregiver and an official from the child's school that verifies that the child meets the criteria in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.2.010|(a)|(4)|(A)">§PAP.15.2.010(4)(A)</cite>-<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.2.010|(a)|(4)|(B)">(B)</cite>. <strong>Note:</strong> DCF-F-CFS2167, Kinship Care School Verification, is available on the department's website at https://dcf.wisconsin.gov/forms.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP 15.3.040</num>
+          <heading>No Simultaneous Payments</heading>
+          <para>
+            <num>(a)</num>
+            <text>The relative caregiver does not simultaneously receive any of the following payments for the care and maintenance of the same child:</text>
+            <para>
+              <num>(1)</num>
+              <text>Kinship care payments and long-term care payments.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Kinship care payments or long-term kinship care payments and foster care payments under <cite doc="Wis. Stat." path="§48.62|(4)">Wis. Stat. § 48.62(4)</cite>; subsidized guardianship payments under <cite doc="Wis. Stat." path="§48.623|(1)">Wis. Stat. § 48.623(1)</cite> or (6); or any comparable payments form another jurisdiction.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The relative caregiver does not receive kinship care payments or long-term kinship care payments for providing care and maintenance for a child who is receiving supplemental security income under 42 U.S.C. § 1381 to 1383c or state supplemental payments under <cite doc="Wis. Stat." path="§49.77">Wis. Stat. § 49.77</cite>, due to the child's own disability.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP 15.3.050</num>
+          <heading>Relationship and Residence Verification</heading>
+          <para>
+            <num>(a)</num>
+            <text>The relative caregiver provides all of the following to the LCO Kinship Care office:</text>
+            <para>
+              <num>(1)</num>
+              <text>Documentation that verifies the relative caregiver's relationship to the child, such as a birth certificate, a marriage license, guardianship papers, or paternity papers. If no formal documentation is available, the relative caregiver may attest to the relationship on the application under sub (a).</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Documentation that verifies that the child is residing with the relative caregiver, such as the child's medical assistance card or a written statement from a school representative. If no formal documentation is available, the relative caregiver may attest to the living arrangement on the application under sub (a).</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The LCO Kinship Care office may request additional information on a relative caregiver's relationship to the child or the child's residence with the relative caregiver at any time.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP 15.3.060</num>
+          <heading>Background Check</heading>
+          <text>The relative caregiver complies with the requirements of Wis. Stat. § 48.57(3p), and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.010">§PAP.15.4.010</cite>.</text>
+        </section>
+        <section>
+          <num>PAP 15.3.070</num>
+          <heading>Best Interests of the Child</heading>
+          <text>The LCO Kinship Care Office determines that living with the relative caregiver is in the best interest of the child under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.010">§PAP.15.5.010</cite>.</text>
+        </section>
+        <section>
+          <num>PAP 15.3.080</num>
+          <heading>Need for Protection or Services-Minor in Need of Care (MNC)</heading>
+          <para>
+            <num>(a)</num>
+            <text>For kinship care, the criteria under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.070|(a)">§PAP.15.5.070(a)</cite> are met.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>For long-term kinship care, the criteria under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.070|(b)">PAP.15.5.070(b)</cite> are met.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP 15.3.090</num>
+          <heading>Child's Grade</heading>
+          <text>The relative caregiver informs the LCO Kinship Care Office of the last grade that the child has completed.</text>
+        </section>
+        <section>
+          <num>PAP 15.3.100</num>
+          <heading>Child's Social Security Number</heading>
+          <para>
+            <num>(a)</num>
+            <text>Within in ninety (90) days after the date on which the LCO Kinship Care Office determines a relative caregiver's initial eligibility for kinship care payments or long-term kinship care payments, the relative caregiver provides the LCO Kinship Care Office with the child's social security number.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If a relative caregiver is unable to obtain a social security number for the child by the deadline in par. (a), the relative caregiver notifies the LCO Kinship Care Office of the actions taken to obtain eh social security number and the current status of the request. The LCO Kinship Care Office shall document the relative caregiver's efforts.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.15.4</num>
+        <heading>Background Checks</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.15.4.010</num>
+          <heading>When Conducted</heading>
+          <para>
+            <num>(a)</num>
+            <text>Mandatory.</text>
+            <para>
+              <num>(1)</num>
+              <text>Application. Within ten (10) working days after receiving a complete application as specified under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.010">§PAP.15.6.010</cite>, the LCO Kinship Care Office shall begin the background check of the relative caregiver and any adult residents, prospective adult residents, employees, or prospective employees under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p), and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.010">this section</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Prospective adult resident or employee. Within ten (10) working days after receiving notice from a relative caregiver of a prospective employee, prospective adult resident, or new adult resident, the LCO Kinship Care Office shall begin the background check of the prospective employee, prospective adult resident, or adult resident under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p), and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.010">this section</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Discretionary.</text>
+            <para>
+              <num>(1)</num>
+              <text>At any time that the LCO Kinship Care Office considers to be appropriate, the Office may conduct a background check of a relative caregiver, adult resident, prospective adult resident, employee, or prospective employee.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office may investigate the background of a relative caregiver, adult resident prospective adult resident, employee, or prospective employee at any time the Office considers to be appropriate without conducting a complete background check. The Office is not required to repeat a fingerprint-based Federal Bureau of Investigation (FBI) criminal history check for a discretionary background check.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.4.020</num>
+          <heading>Provisional Approval.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The following provisional actions are allowed if a relative caregiver states to the LCO Kinship Care Office that none of the persons who are subject to a background check has any arrests or convictions that could adversely affect the child or relative caregiver's ability to care for the child:</text>
+            <para>
+              <num>(1)</num>
+              <text>The LCO Kinship Care Office may make kinship care payments or long-term kinship care payments to the relative caregiver.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The relative caregiver may allow a prospective adult resident to be an adult resident and may allow a prospective employee to be an employee.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The provisional approval under par. (a) expires the earlier of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>When the LCO Kinship Care Office determines whether the person who is the subject of the background check meets the conditions under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p), and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.020">this section</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Ninety (90) days after the date on which the provisional approval was granted.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.4.030</num>
+          <heading>Provide Information.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The relative caregiver shall ensure that each person who is the subject of a background check does all of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Completes the background information disclosure and written authorization for the LCO Kinship Care Office to make follow−up contact with the Wisconsin Department of Justice and any other person or organization. <strong>Note:</strong> DCF−F−2978−E, <em>Background Information Disclosure</em>, is available in the forms section of the department website at https://dcf.wisconsin.gov.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Provides information on the person's places of residence during the preceding five (5) years.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The relative caregiver shall submit the information under par. (a) to the LCO Kinship Care Office.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A person who is the subject of a background check shall submit a complete set of the person's fingerprints in a technology approved by the Wisconsin Department of Justice or other law enforcement agency if any of the following conditions is met:</text>
+            <para>
+              <num>(1)</num>
+              <text>The person is not a resident of Wisconsin.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The person has resided outside Wisconsin at any time within the preceding five (5) years.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The LCO Kinship Care Office determines that the person's employment, licensing, or state court records provide a reasonable basis for further investigation.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.4.040</num>
+          <heading>Conduct Background Check.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The LCO Kinship Care Office shall obtain information on a person who is the subject of a background check by doing all of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Requesting a search of the criminal history records maintained by the Wisconsin Department of Justice.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Submitting the person's fingerprints to the Wisconsin Department of Justice for submission to the Federal Bureau of Investigation (FBI) if any of the conditions pursuant <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.030|(c)">§PAP.15.4.030(c)</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>When the LCO Kinship Care Office is conducting a background check of a relative caregiver, the Office shall conduct a reverse search of the Wisconsin Sex Offender Registry using the relative caregiver's address to determine if a person residing at that address has committed a sex offense that is specified in <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g).</text>
+            <para>
+              <num>(1)</num>
+              <text>A reverse search of the sex offender registry by address can be done by entering the relative caregiver's address at https://doc.wi.gov/community−resources/offender−registry. The Wisconsin Sex Offender Registry does not contain information on all convicted sex offenders. The information is limited by the effective date of the applicable law and to those offenders who have been arrested and convicted, adjudicated, or committed for a crime specified under the law and who meet registration and publication requirements. For example, certain sex offenses by juveniles or other persons may not meet registration or publication requirements. These limitations should be considered when obtaining information from the sex offender registry.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.4.050</num>
+          <heading>Further Investigation.</heading>
+          <para>
+            <num>(a)</num>
+            <text>If a relative caregiver is applying for or receiving kinship care payments, the LCO Kinship Care Office shall investigate further if the criminal history records of the person who is the subject of the background check indicate any of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>If the criminal history records indicate a charge of a crime specified in <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g), or comparable law in another state, but do not completely and clearly indicate the final disposition of the charge, the LCO Kinship Care Office shall make every reasonable effort to contact the appropriate county clerk of courts to determine the final disposition of the charge.</text>
+              <para>
+                <num>(A)</num>
+                <text>The LCO Kinship Care Office may need to seek the assistance of the LCO Office of the Attorney General in working with a county clerk of courts.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If the background information disclosure indicates a charge or conviction of a crime specified in <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g), or comparable law in another state, but the criminal history records do not include the charge or conviction, the Office shall make every reasonable effort to contact the appropriate clerk of courts to obtain a copy of the criminal complaint and the final disposition of the complaint.</text>
+              <para>
+                <num>(A)</num>
+                <text>The LCO Kinship Care Office may need to seek the assistance of the LCO Office of the Attorney General in working with a county clerk of courts.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If the results of the criminal history records, the background information disclosure, or any other information indicate a conviction for a violation of Wis. Stat. §§ 940.19 (1), 940.195, 940.20, 941.30, 942.08, 947.01 (1), or 947.013, or comparable law in another state, not more than five (5) years before the LCO Kinship Care Office obtained the information, the Office shall make every reasonable effort to contact the appropriate clerk of courts to obtain a copy of the criminal complaint and judgment of conviction relating to that violation.</text>
+              <para>
+                <num>(A)</num>
+                <text>The LCO Kinship Care Office may need to seek the assistance of the LCO Office of the Attorney General in working with a county clerk of courts.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.4.060</num>
+          <heading>Kinship Care Barred Offenses.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The LCO Kinship Care Office may not make kinship care payments to a relative caregiver if the relative caregiver or an employee or adult resident has been convicted of a crime or has had a penalty imposed that is specified in <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g), unless a director's review under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020|(a)">§PAP.15.7.020(a)</cite> or a division of hearings and appeals hearing order under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3m)(g), determines that there are no arrests, convictions, or penalties that are likely to adversely affect the child or the relative caregiver's ability to care for the child.</text>
+            <para>
+              <num>(1)</num>
+              <text>Patterns of criminal behavior, pending charges, and convictions that are not specified under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g), may be considered when determining the best interests of the child under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.010">§PAP.15.5.010</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office may need to obtain a copy of the criminal complaint from the appropriate clerk of court to determine whether the circumstances of the crimes or the reason for the penalties could adversely affect the child or the relative caregiver's ability to care for the child.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The LCO Kinship Care Office may need to seek the assistance of the LCO Office of the Attorney General in working with a county clerk of courts.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A relative caregiver may not employ a person or permit a person to reside in the relative caregiver's home if the person has been convicted of a crime or has had a penalty imposed that is specified in <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g), unless a director's review under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020|(a)">§PAP.15.7.020(a)</cite> or a division of hearings and appeals hearing order under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3m)(g), determines that there are no arrests, convictions, or penalties that are likely to adversely affect the child or the relative caregiver's ability to care for the child.</text>
+            <para>
+              <num>(1)</num>
+              <text>Patterns of criminal behavior, pending charges, and convictions that are not specified under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g), may be considered when determining the best interests of the child under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.010">§PAP.15.5.010</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office may need to obtain a copy of the criminal complaint from the appropriate clerk of court to determine whether the circumstances of the crimes or the reason for the penalties could adversely affect the child or the relative caregiver's ability to care for the child.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The LCO Kinship Care Office may need to seek the assistance of the LCO Office of the Attorney General in working with a county clerk of courts.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.4.070</num>
+          <heading>Long-Term Kinship Care Standard.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The LCO Kinship Care Office may not make long-term kinship care payments to a relative caregiver if the director determines that the relative caregiver or an employee or adult resident of the relative caregiver has an arrest or conviction that is likely to adversely affect the child or the relative caregiver's ability to care for the child, unless the director's decision is overturned by the division of hearings and appeals under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3n)(g).</text>
+            <para>
+              <num>(1)</num>
+              <text>Patterns of criminal behavior, pending charges, and convictions that are not specified under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g), may be considered when determining the best interests of the child under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.010">§PAP.15.5.010</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office may need to obtain a copy of the criminal complaint from the appropriate clerk of court to determine whether the circumstances of the crimes or the reason for the penalties could adversely affect the child or the relative caregiver's ability to care for the child.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The LCO Kinship Care Office may need to seek the assistance of the LCO Office of the Attorney General in working with a county clerk of courts.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A relative caregiver may not employ a person or permit a person to reside in the relative caregiver's home if the director determines that the person has an arrest or conviction that is likely to adversely affect the child or the relative caregiver's ability to care for the child, unless the director's decision is overturned by the division of hearings and appeals under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3n)(g).</text>
+            <para>
+              <num>(1)</num>
+              <text>Patterns of criminal behavior, pending charges, and convictions that are not specified under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g), may be considered when determining the best interests of the child under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.01">§PAP.15.5.01</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office may need to obtain a copy of the criminal complaint from the appropriate clerk of court to determine whether the circumstances of the crimes or the reason for the penalties could adversely affect the child or the relative caregiver's ability to care for the child.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The LCO Kinship Care Office may need to seek the assistance of the LCO Office of the Attorney General in working with a county clerk of courts.</text>
+            </para>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.15.5</num>
+        <heading>Best Interests of the Child</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.15.5.010</num>
+          <heading>Criteria for Best Interest Determination.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>Kinship care</em>. For kinship care eligibility, the LCO Kinship Care Office shall determine if living with the relative caregiver is in the best interests of the child based on the criteria in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.010">this section</cite>, unless an exception in par. (c) applies.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>Long-term kinship care</em>. For long-term kinship care eligibility, the LCO Kinship Care Office shall determine if living with the relative caregiver on a long-term basis is in the best interests of the child based on the criteria in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.020">§PAP.15.5.020</cite>, unless <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.040">§PAP.15.5.040</cite> applies.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><em>Presumption of best interests</em>. Notwithstanding par. (a) or (b), the LCO Kinship Care Office shall presume it is in the child's best interests to live with the relative caregiver if any of the following conditions is met:</text>
+            <para>
+              <num>(1)</num>
+              <text>Court order. The child was placed in the home of the relative caregiver under an LCO Tribal Court Order or a voluntary transition-to-independent-living agreement, and the LCO ICW Department has placement and care responsibility for the child, wherein they continue to be responsible for managing the safety of the out-of-home care placement.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Recent court order. The LCO Kinship Care Office is determining the relative caregiver's eligibility for voluntary kinship care or long-term kinship care within six (6) months after a court order or voluntary transition-to-independent-living agreement placing the child in the relative caregiver's home expired or was terminated.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.5.020</num>
+          <heading>Characteristics of the Relative Caregiver.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The relative caregiver has or exhibits all of the following characteristics to a degree that allows the relative caregiver to adequately care for the child:</text>
+            <para>
+              <num>(1)</num>
+              <text>A positive approach to parenting the child, including all of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>If the relative caregiver has parenting history, the parenting history does not include behaviors or actions that are contrary to the health, safety, or welfare of a child, or the LCO Kinship Care Office determines that the relative caregiver has a positive approach to parenting the child despite the parenting history.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The relative caregiver does not inflict or tolerate infliction of abuse and does not neglect the child.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>A demonstrated interest in integrating the child into the relative caregiver's household and the ability to manage the stress of doing so.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>An adequate recognition of the child's strengths and needs consistent with the child's age and abilities.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The ability to provide stable and appropriate care for the child, given the child's age, strengths, needs, and abilities.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The ability and willingness to work with the child's parents, if the relative caregiver is applying for or receiving voluntary kinship care and does not have guardianship of the child through the Tribal Court (or state).</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.5.030</num>
+          <heading>History of Behaviors.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The relative caregiver, employees, and adult residents do not have any final substantiated findings of child abuse or neglect that are likely to adversely affect the child or the relative caregiver's ability to care for the child.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If the LCO Kinship Care Office conducts a background check on a person subject to the background check under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.010">PAP.15.4.010</cite>, the Office determines that the person does not have any patterns of criminal behavior, pending charges, or convictions that are likely to adversely affect the child or the relative caregiver's ability to care for the child.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.5.040</num>
+          <heading>Other Minor Child(ren) in the Home. No minor child residing in the relative caregiver's home endangers the safety of another child.</heading>
+        </section>
+        <section>
+          <num>PAP.15.5.050</num>
+          <heading>Physical Environment.</heading>
+          <text>The physical environment of the relative caregiver's home is safe for the child, including all of the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>The relative caregiver's home is constructed, arranged, and maintained in a manner that is safe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The relative caregiver's home has all of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Furnishings and equipment necessary to adequately accommodate the child and other household members.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <para>
+                <num>(A)</num>
+                <text>A safe and appropriate sleeping arrangement for the child.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>If the child is under 12 months of age, the child sleeps alone in a crib, bassinet, or playpen.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The relative caregiver considers the child's developmental level and ensures that materials and equipment that may be hazardous to the child are stored in areas not readily accessible to the child. Potentially hazardous materials and equipment may include weapons, ammunition, poisons, insecticides, flammable or combustible materials, alcohol, tobacco products, medications, power tools, detergents, and plastic bags.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The relative caregiver makes every reasonable effort to correct any hazard to the safety of the child in the home.</text>
+            <para>
+              <num>(1)</num>
+              <text>If the relative caregiver does not own the home, the relative caregiver's "reasonable effort to correct any hazard" includes asking the landlord to address safety concerns in the home.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.5.060</num>
+          <heading>Voluntary Kinship Care Only.</heading>
+          <text>The LCO Kinship Care Office determines all of the following conditions are met:</text>
+          <para>
+            <num>(a)</num>
+            <text><em>Child's basic needs</em>. The child needs to live with the relative caregiver because one or more of the following basic needs of the child can be better met by the relative caregiver than the child's parent(s):</text>
+            <para>
+              <num>(1)</num>
+              <text>The need for adequate food, shelter, clothing, and education.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The need to be free from physical, sexual, or emotional injury, neglect, or exploitation.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The need for a safe or permanent family.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The need to develop physically, mentally, and emotionally to the child's potential.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>Parental consent</em>. The LCO Kinship Care Office determines that the child's custodial parent(s) have consented to the child living with the relative caregiver, except that no consent is required if the relative caregiver has guardianship of the child through the Tribal Court (or state).</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.5.070</num>
+          <heading>Need for Protection or Services – Minor in Need of Care (MNC).</heading>
+          <para>
+            <num>(a)</num>
+            <text>Kinship Care. When determining the eligibility of a relative caregiver to receive kinship care payments, the LCO Kinship Care Office shall determine if any of the following conditions is met:</text>
+            <para>
+              <num>(1)</num>
+              <text><em>Court order. </em>The child has been placed with the relative caregiver by a Tribal Court order pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1.5">§DMR.1.5</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Voluntary kinship care.</text>
+              <para>
+                <num>(A)</num>
+                <text>If par. (a) does not apply, the LCO Kinship Care Office determines any of the following:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>The child meets one or more of the grounds or conditions under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1.5">§DMR.1.5</cite>.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>There is a reasonable probability that the child would be at risk of meeting one or more of the grounds or conditions under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1.5">§DMR.1.5</cite>, if the child were to remain in the parent's home.</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>If the child is 18 years of age or over, there is a reasonable probability that the child would meet or be at risk of meeting one or more of the grounds or conditions under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1.5">§DMR.1.5</cite>, if the child were under 18 years of age and in the parent's home.</text>
+                </para>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The LCO Kinship Care Office shall base a determination involving reasonable probability under par. (a)(2) or (a)(3) on any of the following:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>The LCO Kinship Care Office or LCO Tribal Court has made a similar determination about the child or a sibling of the child within the previous twelve (12) months.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>Evidence of behavior by the child or a parent of the child that if increased in degree, could meet one or more of the grounds or conditions under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1.5">§DMR.1.5</cite>.</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>A parent of the child has made threatening and credible statements that, if carried out, could meet one or more of the grounds or conditions under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1.5">§DMR.1.5</cite>.</text>
+                </para>
+                <para>
+                  <num>(iv)</num>
+                  <text>Information provided by the relative caregiver, a parent of the child, or any other credible person supports a determination that the circumstances in the child's home could result in the child being at risk of meeting one or more of the grounds or conditions <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1.5">§DMR.1.5</cite>, if the child were to remain in the home.</text>
+                </para>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Long-term Kinship Care. When determining the eligibility of a relative caregiver to receive long-term kinship care payments, LCO Kinship Care Office shall require the relative caregiver to provide proof that the relative caregiver is the child's guardian under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1.5">§DMR.1.5</cite> or <cite doc="Wis. Stat." path="§48.977">Wis. Stat. § 48.977</cite>.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.15.6</num>
+        <heading>LCO Kinship Care Office Procedures</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.15.6.010</num>
+          <heading>Application.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>Complete application</em>. The LCO Kinship Care Office shall consider a relative caregiver's application for kinship care payments or long-term kinship care payments to be complete when the Office has received all of the following from the relative caregiver:</text>
+            <para>
+              <num>(1)</num>
+              <text>All information required on the application form prescribed by DCF under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.3.020|(a)">PAP.15.3.020(a)</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All information that a relative caregiver is required to provide for background checks under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.030">PAP.15.4.030</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>LCO Kinship Care Office timeframe for determining eligibility</em>. The LCO Kinship Care Office shall approve or deny a relative caregiver's application within forty-five (45) days after receiving the complete application specified under par. (a).</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><em>Reapplication within 2 years</em>. The LCO Kinship Care Office may refuse to accept an application for kinship care or long-term kinship care from a relative caregiver that was determined ineligible for the same program within the previous two (2) years if the Office determines that the reason for the previous denial or termination of payments has not changed.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.020</num>
+          <heading>Health Insurance.</heading>
+          <text>A LCO Kinship Care Office shall do all of the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Provide information on medical assistance to all relative caregivers during the initial eligibility determination process.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Require that a relative caregiver that does not have private health insurance for the child apply for medical assistance for the child and assist the relative caregiver with applying if appropriate.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Inform a relative caregiver that has private health insurance for the child that medical assistance may be available as a secondary health insurance.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.030</num>
+          <heading>Additional Eligibility or Termination Criteria Prohibited.</heading>
+          <text>The LCO Kinship Care Office may not create eligibility or termination criteria for kinship care or long−term kinship care that are in addition to the criteria in this Ordinance and <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3m), (3n), and (3p).</text>
+        </section>
+        <section>
+          <num>PAP.15.6.040</num>
+          <heading>Best Interests Determination.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>Voluntary and long-term kinship care</em>. When determining whether living with the relative caregiver is in the best interests of the child under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.010">§PAP.15.5.010</cite>, the LCO Kinship Care Office shall do all of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Assess the ability of the relative caregiver to care for the child and the safety of the relative caregiver's home and do the following if applicable:</text>
+              <para>
+                <num>(A)</num>
+                <text>If the LCO Kinship Care Office determines that a relative caregiver has a positive approach to parenting the child under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.020">§PAP.15.5.020</cite> despite a parenting history that includes behaviors or actions that are contrary to the health, safety, or welfare of a child, the Office shall document the reasons for concern in the relative caregiver's parenting history and the LCO Kinship Care Office's rationale for determining that the relative caregiver has a positive approach to parenting the child despite the parenting history.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>If the relative caregiver does not have safe sleeping arrangements for the child as required under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.050|(b)|(2)">§PAP.15.5.050(b)(2)</cite> the LCO Kinship Care Office shall assist the relative caregiver with obtaining the needed crib or bed.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>With an approach that is trauma-informed and age and developmentally appropriate, talk to each child for whom a relative caregiver is applying for or receiving kinship care payments or long-term kinship care payments and discuss the child's needs.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>When determining a relative caregiver's initial eligibility for kinship care or long-term kinship care, check for all of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Child abuse or neglect investigations or final substantiated findings in each county in Wisconsin, and within the Tribe, in which the relative caregiver, adult residents, prospective adult residents, employees, and prospective employees reside or have resided within the previous five (5) years.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Investigations or findings on a child abuse or neglect registry maintained by any jurisdiction outside Wisconsin in which the relative caregiver, adult residents, prospective adult residents, employees, or prospective employees reside or have resided within the previous five (5) years.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>When redetermining a relative caregiver's eligibility, make the checks specified under sub. (3) above, in any jurisdiction where the relative caregiver, adult resident, or employee reside or have resided since the most recent check by the LCO Kinship Care Office.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Voluntary kinship care; parental consent.</text>
+            <para>
+              <num>(1)</num>
+              <text>'Request express consent for living arrangement.' When determining a relative caregiver's initial eligibility for voluntary kinship care when the relative caregiver is not the child's guardian, the LCO Kinship Care Office shall make diligent efforts to contact the custodial parent(s) and request that the parent(s) sign a form prescribed by DCF expressly consenting to the child living with the relative caregiver. The initial effort to contact the custodial parent(s) shall be by mail. The LCO Kinship Care Office may subsequently attempt contact by phone, in person, or by electronic mail. <strong>Note:</strong> DCF−F−5371, <em>Voluntary Kinship Care Parental Approval</em>, is available on the department's website at https://dcf.wisconsin.gov/forms.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>'Express denial.' The LCO Kinship Care Office shall determine that a relative caregiver is ineligible to receive voluntary kinship care and contact the local child protective services agency if the relative caregiver does not have guardianship of the child under Tribal or state law, and a custodial parent expressly denies consent for the child to live with the relative caregiver.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>'Implied consent.' The LCO Kinship Care Office may determine that consent by the child's custodial parent(s) for the child to live with the relative caregiver is implied if any of the following conditions is met:</text>
+              <para>
+                <num>(A)</num>
+                <text>The LCO Kinship Care Office makes diligent efforts to contact the child's custodial parent(s) and does not receive a response from any of the child's custodial parents within twenty (20) days after the LCO Kinship Care Office's first attempt to contact the custodial parent(s).</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The child's custodial parent(s) respond to the LCO Kinship Care Office in a manner that is not an express denial of consent for the child to live with the relative caregiver.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The child has two (2) custodial parents, one custodial parent responds in a manner that is not an express denial of consent for the child to live with the relative caregiver, and the other custodial parent does not respond to the LCO Kinship Care Office's diligent efforts to contact the parent within twenty (20) days after the first attempt to contact the parent.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.050</num>
+          <heading>Child Safety.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>Child protective services. </em>The LCO Kinship Care Office has reasonable cause to suspect that the child has been abused or neglected or has been threatened with abuse or neglect and that abuse or neglect will occur shall report the facts and circumstances contributing to the suspicion to the Tribe's ICW or local child protective services agency under <cite doc="Wis. Stat." path="§48.981|(2)">Wis. Stat. § 48.981(2)</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Court.</text>
+            <para>
+              <num>(1)</num>
+              <text>'Guardian; not in best interests.' If the LCO Kinship Care Office has concerns about whether it continues to be in a child's best interests to live with a relative caregiver that has been appointed the child's guardian under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1">§DMR.1</cite>, Wis. Ch. 48, or <cite doc="Wis. Stat." path="§48.9795">Wis. Stat. § 48.9795</cite> (formerly Wis. Ch. 54 guardianship), the LCO Kinship Care Office shall inform the court that appointed the guardianship.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>'Parent in home; long-term kinship care.' If a child's parent resides with the child and the relative caregiver that is the child's guardian under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1">§DMR.1</cite> or <cite doc="Wis. Stat." path="§48.977">Wis. Stat. § 48.977</cite>, for more than thirty (30) days, the LCO Kinship Care Office shall inform the court that appointed the guardianship.</text>
+              <para>
+                <num>(A)</num>
+                <text>Guardianships granted as a form of permanency after a minor in need of care (MNC) case under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1">§DMR.1</cite> or Wis. Ch. 48 action, are the result of a child welfare matter, in which child safety may have been an issue. Therefore, it is imperative that the LCO Kinship Care Office responds accordingly when the Office becomes aware of a situation that circumvents the guardianship.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.060</num>
+          <heading>Child Age Eighteen (18) or Over.</heading>
+          <text>The LCO Kinship Care Office may contact the school that a child eighteen (18) years of age or over is attending to verify the documentation submitted by the relative caregiver <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.3.030|(a)|(8)">§PAP.15.3.030(8)</cite>.</text>
+        </section>
+        <section>
+          <num>PAP.15.6.070</num>
+          <heading>Additional Child Within Six (6) Months.</heading>
+          <text>If a relative caregiver applies for kinship care or long-term kinship care for a child that moves into the relative caregiver's home within six (6) months after the LCO Kinship Care Office determined that the relative caregiver is eligible for kinship care or long-term kinship care for a different child, all of the following apply:</text>
+          <para>
+            <num>(a)</num>
+            <text>The LCO Kinship Care Office shall direct the relative caregiver to complete only the child-specific portions of the application under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.3.020">§PAP.15.3.020</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The LCO Kinship Care Office is not required to conduct new background checks under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15.4">subchapter 15.4</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>In determining whether living with the relative caregiver is in the best interests of the child under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15.5">subchapter 15.5</cite> the LCO Kinship Care Office may use information obtained for the Office's most recent determinations under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.020">§PAP.15.5.020</cite>, <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.030">§PAP.15.5.030</cite>, and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.040">§PAP.15.5.040</cite> for the other children.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>At the earliest date that an eligibility redetermination is required for the care of any child in the relative caregiver's home, the LCO Kinship Care Office shall redetermine the relative caregiver's eligibility for all children in the home for whom the relative caregiver is receiving kinship care payments or long-term kinship care payments.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.080</num>
+          <heading>Determination.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The LCO Kinship Care Office shall determine whether a relative caregiver is eligible to receive kinship care payments or long-term kinship care payments and send the relative caregiver a written notice of the decision on a form prescribed by DCF.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A notice denying or terminating a relative caregiver's eligibility shall include the reasons for the denial or termination and a summary of appeal rights under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020">PAP.15.7.020</cite> and s. <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3m)(f), (3n)(f), and (3p)(h) or (hm), as applicable.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A notice terminating eligibility shall inform the relative caregiver that payments will continue until a review or hearing decision is issued if the relative caregiver submits a request for a review or hearing as specified under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020">§PAP.15.7.020</cite> within ten (10) days after the date of the notice. Any payments issued while the review or hearing is pending may be recovered by the LCO Kinship Care Office if the Office's determination is upheld. <strong>Note:</strong> DCF−F−5370−E, <em>Kinship Care Eligibility Determination, </em>is available on the department's website at https://dcf.wisconsin.gov/forms.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.090</num>
+          <heading>Payment.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>Kinship care payments</em>. After the LCO Kinship Care Office has determined that a relative caregiver is eligible to receive kinship care payments, the Office shall issue payments that begin as follows:</text>
+            <para>
+              <num>(1)</num>
+              <text>For a child that was placed in the relative caregiver's home under a court order or a voluntary transition-to-independent-living agreement, the later of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>The date the child was placed in the relative caregiver's home under a court order or a voluntary transition-to-independent-living agreement.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Ninety (90) days prior to the date the LCO Kinship Care Office received the relative caregiver's application information under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.010|(a)">§PAP.15.6.010(a)</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>For voluntary kinship care, the date on which the LCO Kinship Care Office received the relative caregiver's application information under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.010|(a)">§PAP.15.6.010(a)</cite>, unless the relative caregiver is placed on a waiting list under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.110">§PAP.15.6.110</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>Long-term kinship care payments</em>. After the LCO Kinship Care Office has determined that a relative caregiver is eligible to receive long-term kinship care payments, the Office shall issue payments that begin the later of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>The date the relative caregiver was appointed to be the child's guardian under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1">§DMR.1</cite> or <cite doc="Wis. Stat." path="§48.977">Wis. Stat. § 48.977</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Ninety (90) days prior to the date the LCO Kinship Care Office received the relative caregiver's application information under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.010|(a)">§PAP.15.6.010(a)</cite>.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.100</num>
+          <heading>Waiting Prohibited.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>Waiting list prohibited</em>. The LCO Kinship Care Office may not place any of the following relative caregivers on a waiting list:</text>
+            <para>
+              <num>(1)</num>
+              <text>'Long-term kinship care.' A relative caregiver that has been determined eligible for long-term kinship care payments.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>'Kinship care with court-ordered placement.' A relative caregiver that has been determined eligible for kinship care payments if the child was placed with the relative caregiver under a court order or a voluntary transition−to−independent−living agreement and the ICW Department has placement and care responsibility for the child.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>'Type of relative caregiving changes to voluntary.' A relative caregiver whose type of relative caregiving under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.1.40">§PAP.15.1.40</cite> changes to voluntary under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.1.040">§PAP.15.1.040</cite> while the relative caregiver is receiving kinship care payments or long-term kinship care payments.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Continued payment by previous agency until funding available.</text>
+            <para>
+              <num>(1)</num>
+              <text>Subject to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.100|(a)|(2)">§PAP.15.6.100(2)</cite> &amp;<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.100|(a)|(2)">(3)</cite>, the LCO Kinship Care Office shall continue to make kinship care payments to a relative caregiver receiving voluntary kinship care payments from the Office if the relative caregiver moves to an area of the state served by another kinship care agency that has a waiting list.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The kinship care agency serving the area of the relative caregiver's new residence under subd. (1) shall place the relative caregiver's name at the top of the agency's waiting list.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The kinship care agency serving the area where the relative caregiver is residing shall begin making the kinship care payments to the relative caregiver when the agency's contract with the department is renewed or amended or the agency otherwise has kinship care funding available to make the payments.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.110</num>
+          <heading>Waiting List Policy and Procedures for Voluntary Kinship Care.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>Policy</em>. The LCO Kinship Care Office shall maintain a waiting list for relative caregivers that have been determined eligible to receive voluntary kinship care payments at a time when the LCO Kinship Care Office's allocation for kinship care payments is insufficient to begin the payments.</text>
+            <para>
+              <num>(1)</num>
+              <text>The LCO Kinship Care Office will move relative caregivers off the waitlist based on the following criteria:</text>
+              <para>
+                <num>(A)</num>
+                <text>The order in which applications are received.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The lack of stability in the living arrangement if a payment is not made.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The level or urgency of the child's need under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.050|(a)">PAP.15.5.050(a)</cite>.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>If the child is under the guardianship of the relative caregiver through a  guardianship that is for permanency after a Minor in Need of Care (MNC) case or a <cite doc="Wis. Stat." path="§48.977">Wis. Stat. § 48.977</cite> guardianship.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office may provide a retroactive payment for the time period that a relative caregiver is on the waiting list.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>LCO Kinship Care Office Submittal</em>. The LCO Kinship Care Office shall submit the Office's waiting list policy under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.110">PAP.15.6.110</cite> to DCF by January 1, 2023, and following any change to the Office's waiting list policy</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><em>Authorization</em>. The LCO Kinship Care Office will establish a waiting list for newly-eligible relative caregivers if all of the following conditions are met:</text>
+            <para>
+              <num>(1)</num>
+              <text>The LCO Kinship Care Office's allocation for kinship care payments in the current fiscal year will be fully expended by payments to existing relative caregivers.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office notifies DCF that the Office expects to be placing newly-eligible relative caregivers on the waiting list for the remainder of the fiscal year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><em>Funding available</em>. When the LCO Kinship Care Office has sufficient funds to begin kinship care payments to a relative caregiver that the Office placed on a waiting list, the LCO Kinship Care Office shall do all of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Notify the relative caregiver in writing that funding is available and request that the relative caregiver contact the Office if the relative caregiver continues to be interested in and eligible for kinship care payments.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Begin payments to the relative caregiver for the time period beginning no later than the first day of the month beginning after the date that the relative caregiver contacted the LCO Kinship Care Office to express continued interest in and eligibility for kinship care payments.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.120</num>
+          <heading>Documentation.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Eligibility decisions.</text>
+            <para>
+              <num>(1)</num>
+              <text>Within five (5) working days after making any decision related to the LCO Kinship Care Office's determination, redetermination, or review of a relative caregiver's eligibility for kinship care or long-term kinship care, the LCO Kinship Care Office shall document eligibility decisions by completing the form DCF-F-5370-E, <em>Kinship Care Eligibility Determination, </em>and obtaining and retaining supporting documentation as necessary. <strong>Note:</strong> Tribal kinship care agencies do not have access to eWiSACWIS. DCF−F−5370−E, <em>Kinship Care Eligibility Determination</em>, is available on the department's website at https://dcf.wisconsin.gov/forms.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>Status</em>. The LCO Kinship Care Office shall document any of the following within five (5) working days after any of the following events:</text>
+            <para>
+              <num>(1)</num>
+              <text>A relative caregiver is placed on waiting list.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Kinship care payments or long-term kinship care payments to a relative caregiver begin or end.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>A relative caregiver files an appeal of the Office decision under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020">PAP.15.7.020</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><em>Documentation transfer to or from a tribal agency. </em>A kinship care agency shall transfer documentation regarding a relative caregiver's eligibility for kinship care or long-term kinship care to another kinship care agency if all of the following conditions are met:</text>
+            <para>
+              <num>(1)</num>
+              <text>The relative caregiver is receiving kinship care payments or long-term kinship care payments and moves with the child to an area of the state served by another kinship care agency.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The kinship care agency serving the area of either the relative caregiver's old residence or new residence does not have access to DCF's eWiSACWIS (i.e., a Tribe).</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.130</num>
+          <heading>Long-Term Kinship Care Agreement.</heading>
+          <text>If the LCO Kinship Care Office determines that a relative caregiver is eligible to receive long-term kinship care payments, the Office shall enter into a written agreement with the relative caregiver using DCF-F-CFS2190-E, <em>Long-Term Kinship Care Agreement</em>. Under the written agreement, the relative caregiver agrees to provide care and maintenance for the child and the LCO Kinship Care Office agrees to provide long-term kinship care payments to the relative caregiver until the date of a change in circumstances specified in <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3n)(am)6.</text>
+          <text>Note: DCF−F−CFS2190−E, <em>Long−Term Kinship Care Agreement</em>, is available on the department's website at https://dcf.wisconsin.gov/forms.</text>
+          <para>
+            <num>(a)</num>
+            <text>There are only minor differences in the eligibility criteria for kinship care and long-term kinship care. If a relative caregiver receiving kinship care payments is appointed the child's guardian, the LCO Kinship Care Office and relative caregiver will enter <em>Long-Term Kinship Care Agreement</em> and the Office will update the program type to long-term kinship care.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.140</num>
+          <heading>Change in Type of Relative Caregiving.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Following a change in a relative caregiver's type of relative caregiving as specified under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.1.040">PAP.15.1.040</cite>, the LCO Kinship Care Office shall determine if the relative caregiver's eligibility for kinship care or long-term kinship care has changed.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If the relative caregiver's eligibility for kinship care or long-term kinship care changes due to a change in the type of relative caregiving under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.1.040">PAP.15.1.040</cite>, the LCO Kinship Care Office shall use information about the relative caregiver and child previously obtained to the extent appropriate to document the relative caregiver's eligibility following the change in the type of relative caregiving. The LCO Kinship Care Office may require additional information and actions only as necessary for the eligibility determination and may not require a relative caregiver to complete a new application under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.3.020">PAP.15.3.020</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.15</num>
+          <heading>Director's Designee.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The ICW Director may designate an individual to fulfill the director's responsibilities under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.070">PAP.15.4.070</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020|(a)">PAP.15.7.020(a)</cite> if the individual is a manager in the LCO Kinship Care Office and does not directly supervise the Office staff that make eligibility determinations for kinship care or long-term kinship care.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If a director designates an individual under par. (a), the LCO Kinship Care Office shall submit the name of the designee and the designee's position in the Office to DCF each January.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.160</num>
+          <heading>Overpayments.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The LCO Kinship Care Office may recover an overpayment of kinship care or long-term kinship care from a relative caregiver by any of the following means:</text>
+            <para>
+              <num>(1)</num>
+              <text>Reducing the amount of relative caregiver's monthly kinship care payment or long-term kinship care payment by an amount agreed to by the relative caregiver and the LCO Kinship Care Office.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Requesting payment within a specified time period.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Negotiating a payment plan.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <para>
+              <num>(1)</num>
+              <text>The LCO Kinship Care Office that recovers an overpayment under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.160">this section</cite> due to Office's efforts may retain the amount recovered.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Funds retained under subd. (b)(1) may only be spent on the LCO Kinship Care Office's kinship care or long-term kinship care program.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If the LCO Kinship Care Office has not spent the retained funds under subd. (b)(1) by the end of the contract period, DCF shall recover the funds through the contracting process.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.6.170</num>
+          <heading>Federal Reporting Requirements.</heading>
+          <text>The LCO Kinship Care Office shall provide information to DCF necessary for compliance with federal data collection and reporting requirements under 45 C.F.R. Part 265, as determined by DCF and set forth in the DCF/LCO contract.</text>
+        </section>
+      </container>
+      <container>
+        <num>PAP.15.7</num>
+        <heading>Changes and Reviews/redeterminations</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.15.7.010</num>
+          <heading>Change in Circumstances.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Notification Requirements.</text>
+            <para>
+              <num>(1)</num>
+              <text>A relative caregiver shall notify the LCO Kinship Care Office within five (5) working days after the date that any of the following occur:</text>
+              <para>
+                <num>(A)</num>
+                <text>The relative caregiver and child move to a new residence.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The relative caregiver or a prospective employee, employee, prospective adult resident, or adult resident is the subject of an investigation or final substantiated finding that the person has abused or neglected a child.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The relative caregiver or a prospective employee, employee, prospective adult resident, or adult resident is arrested for, charged with, or convicted of any crime.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>The child has a new caregiver.</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>The child is no longer living with the relative caregiver.</text>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>The child is married.</text>
+              </para>
+              <para>
+                <num>(G)</num>
+                <text>The child enters the military.</text>
+              </para>
+              <para>
+                <num>(H)</num>
+                <text>The child is deceased.</text>
+              </para>
+              <para>
+                <num>(I)</num>
+                <text>The child graduates, completes, or drops out from a full−time, kindergarten to 12th grade educational program or its equivalent, and the child is 18 years of age or older.</text>
+              </para>
+              <para>
+                <num>(J)</num>
+                <text>An individualized education program under <cite doc="Wis. Stat." path="§115.787">Wis. Stat. § 115.787</cite>, is no longer in effect for the child, and the child is 18 years of age or older.</text>
+              </para>
+              <para>
+                <num>(K)</num>
+                <text>The relative caregiver is no longer supporting the child.</text>
+              </para>
+              <para>
+                <num>(L)</num>
+                <text>The child's parent is residing with the relative caregiver and the child.</text>
+              </para>
+              <para>
+                <num>(M)</num>
+                <text>The child is placed outside the relative caregiver's home under a court order, voluntary placement agreement, or a voluntary transition−to−independent−living agreement.</text>
+              </para>
+              <para>
+                <num>(N)</num>
+                <text>The child is placed in the relative caregiver's home under a court order or a voluntary transition−to−independent−living agreement.</text>
+              </para>
+              <para>
+                <num>(O)</num>
+                <text>The relative caregiver is appointed the child's guardian under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1">§DMR.1</cite> or <cite doc="Wis. Stat." path="§48.977">Wis. Stat. § 48.977</cite>.</text>
+              </para>
+              <para>
+                <num>(P)</num>
+                <text>The relative caregiver's guardianship order under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.1">§DMR.1</cite> or <cite doc="Wis. Stat." path="§48.977">Wis. Stat. § 48.977</cite> terminates.</text>
+              </para>
+              <para>
+                <num>(Q)</num>
+                <text>The relative caregiver begins receiving foster care payments under <cite doc="Wis. Stat." path="§48.62|(4)">Wis. Stat. § 48.62(4)</cite>, or from another jurisdiction.</text>
+              </para>
+              <para>
+                <num>(R)</num>
+                <text>The relative caregiver begins receiving subsidized guardianship payments for care of the child under <cite doc="Wis. Stat." path="§48.623">Wis. Stat. § 48.623</cite>, or comparable payments from another jurisdiction.</text>
+              </para>
+              <para>
+                <num>(S)</num>
+                <text>The child begins receiving supplemental security income under 42 U.S.C. §§ 1381 to 1383c or state supplemental payments under <cite doc="Wis. Stat." path="§49.77">Wis. Stat. § 49.77</cite>, due to the child's own disability.</text>
+              </para>
+              <para>
+                <num>(T)</num>
+                <text>A person residing in the relative caregiver's home no longer meets the definition of "child" under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.2.010|(a)|(4)">§PAP.15.2.010(a)(4)</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <para>
+                <num>(A)</num>
+                <text>A relative caregiver shall notify the LCO Kinship Care Office that a person intends to become an adult resident in the relative caregiver's home as soon as possible before the person begins residing in the home, except as provided under subd. (B) below .</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>If a person becomes an adult resident in a relative caregiver's home without advance notice to the relative caregiver, the relative caregiver shall notify the LCO Kinship Care Office no later than five (5) working days after the person became an adult resident.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>A relative caregiver shall notify the LCO Kinship Care Office of a prospective new employee before employing the person.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>LCO Kinship Care Office Review.</text>
+            <para>
+              <num>(1)</num>
+              <text>When the LCO Kinship Care Office receives notice from the relative caregiver or otherwise knows or suspects that a change specified in par. (a) has occurred shall review whether the relative caregiver continues to be eligible for kinship care payments or long-term kinship care payments within twenty (20) calendar days.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office may allow the child's parent to reside with the relative caregiver and the child for no more than thirty (30) calendar days, unless the relative caregiver is providing care for the child's parent and any of the following apply:</text>
+              <para>
+                <num>(A)</num>
+                <text>The child's parent is a child.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The child's parent is subject to an order for adult protective services or protective placement under state or tribal law.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Annual Eligibility Redetermination.</text>
+            <para>
+              <num>(1)</num>
+              <text>Annual redetermination date.</text>
+              <para>
+                <num>(A)</num>
+                <text>The LCO Kinship Care Office shall redetermine the eligibility of a relative caregiver to receive kinship care payments or long-term kinship care payments at least every twelve (12) months after the Office began making kinship care payments or long-term kinship care payments to the relative caregiver.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>If the relative caregiver is caring for more than one child and the kinship care payments or long-term kinship care payments began on different dates, the LCO Kinship Care Office shall redetermine the relative caregiver's eligibility at least twelve (12) months from the redetermination date or otherwise establish a single annual redetermination date for the relative caregiver.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Redetermination form.</text>
+              <para>
+                <num>(A)</num>
+                <text>Sixty (60) days before a relative caregiver's annual redetermination date established under par. (a), the LCO Kinship Care Office shall send to the relative caregiver a form prescribed by DCF that requests the relative caregiver to indicate whether any of the circumstances specified under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.010|(a)">PAP.15.7.010(a)</cite> have occurred and the last grade that the child has completed.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The form under subd. (A) shall also direct the relative caregiver to contact the LCO Kinship Care Office to schedule a time for the Office to visit the relative caregiver's home if the relative caregiver is receiving voluntary kinship care payments or long-term kinship care payments. <strong>Note:</strong> DCF−F−5369−E, <em>Kinship Care Request for Information to Determine Continued Eligibility, </em>is available on the department's website at https://dcf.wisconsin.gov/forms.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Voluntary and long-term kinship care; home visit. If the relative caregiver is receiving voluntary kinship care payments or long-term kinship care payments, the LCO Kinship Care Office shall visit the relative caregiver's home and determine whether living with the relative caregiver continues to be in the best interests of the child under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15.5">subchapter 15.5</cite>.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Voluntary kinship care. If the relative caregiver is receiving voluntary kinship care payments, the LCO Kinship Care Office shall also determine all of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Whether there continues to be a need for the child to live with the relative caregiver <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15.5.010|(a)">§PAP.15.5.010(a)</cite>.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Whether the conditions under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.070|(a)">§PAP.15.5.070(a)</cite>, regarding the child's need for protection or services, are met.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Eligibility After Age 17.</text>
+            <para>
+              <num>(1)</num>
+              <text>Definition of child. A relative caregiver may be eligible to receive kinship care payments or long-term kinship care payments for the care of a child who has attained the age of 18 years if the child meets the conditions under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.2.010|(a)|(4)|(A)">§PAP.15.2.010(a)(4)(a)</cite> or <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.2.010|(a)|(4)|(B)">(B)</cite> and other eligibility requirements in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15">this chapter</cite> and <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3m), (3n), and (3p), as applicable, are met.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Voluntary kinship care and long-term kinship care procedures. To determine if the eligibility of a relative caregiver receiving voluntary kinship care payments or long-term kinship care payments is expected to continue when the child turns 18 years old, the LCO Kinship Care Office shall do all of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Six (6) months before the child's 18th birthday, the LCO Kinship Care Office shall send the relative caregiver a form prescribed by DCF that notifies the relative caregiver that kinship care payments or long-term kinship care payments will terminate when the child turns 18 years old unless the relative caregiver provides information regarding potential eligibility for the payments to continue. <strong>Note:</strong> DCF−F−5373−E, <em>Advance Notice of Termination of Kinship Care at Age 18</em>, is available on the department's website at https://dcf.wisconsin.gov/forms.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>If the LCO Kinship Care Office has not received the completed form under subd. (A) and any necessary documentation from the relative caregiver by sixty (60) days before the child's 18th birthday, the Office shall send a second copy of the form to the relative caregiver.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>If the LCO Kinship Care Office has not received the completed form under subd. (A) or (B) with any necessary documentation from the relative caregiver by thirty (30) days before the child's 18th birthday, the payment for the month of the child's 18th birthday shall be the last payment.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>If the LCO Kinship Care Office receives the completed form under subd. (A) or (B) and any necessary documentation from the relative caregiver thirty (30) days or more before the child's 18th birthday, the Office shall determine if eligibility will continue when the child turns 18 years old and send the notice of decision on a form prescribed by DCF within fifteen (15) days after receiving the relative caregiver's completed form and any necessary documentation.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Court-ordered kinship care procedures.</text>
+              <para>
+                <num>(A)</num>
+                <text>The LCO Kinship Care Office does not have access to DCF's child welfare automation system and thus shall use the procedures in par. (b) to determine if eligibility is expected to continue when the child turns 18 years old and the relative caregiver is receiving kinship care payments on behalf of a child that was placed in the relative's home under a court order or a voluntary transition-to-independent-living agreement. <strong>Note:</strong> DCF−F−5373−E, <em>Advance Notice of Termination of Kinship Care at Age 18</em>, is available on the department's website at https://dcf.wisconsin.gov/forms.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.7.020</num>
+          <heading>Appeal Rights.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Kinship Care; Director Review of Background Check Denial.</text>
+            <para>
+              <num>(1)</num>
+              <text>Request for review.</text>
+              <para>
+                <num>(A)</num>
+                <text>A relative caregiver applying for or receiving kinship care payments may submit a request for review by the ICW Director if the relative caregiver receives a written notice of any of the following:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>Kinship care payments are denied or terminated because the background check of the relative caregiver indicates a conviction or imposition of a penalty specified under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g) and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.060">§PAP.15.4.060</cite>.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>The background check of a prospective adult resident, adult resident, prospective employee, or employee indicates a conviction or imposition of a penalty specified under <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3p)(g) and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.060">§PAP.15.4.060</cite>, and kinship care payments will be denied or terminated if the relative caregiver permits the prospective adult resident to reside in the relative caregiver's home, continues to permit the adult resident to reside in the relative caregiver's home, employs the prospective employee, or continues to employ the employee.</text>
+                </para>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>A relative caregiver's request for review shall be addressed to the ICW Director and submitted to the LCO Kinship Care Office in the manner specified in the notice no later than forty-five (45) days after the date of the notice under subd. (A)</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The LCO Kinship Care Office shall continue kinship care payments to a relative caregiver if the relative caregiver submits a request for review by the director within ten (10) days after the date of a notice of termination, pending the ICW Director's written notice of determination under sub. (3) and, if the relative caregiver submits a request for a hearing under par. (b) within ten (10) days after the date of the ICW Director's written notice of determination under sub. (3), the hearing decision.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><em>Standard for review</em>. Within thirty (30) days after the LCO Kinship Care Office receives the relative caregiver's request for review under sub. (1), the ICW Director shall determine if the conviction record on which the denial, termination, prospective denial, or prospective termination was based includes any arrests, convictions, or penalties that are likely to adversely affect the child or the ability of the relative caregiver to care for the child. In reviewing the conviction record, the ICW Director shall consider all of the following factors:</text>
+              <para>
+                <num>(A)</num>
+                <text>The length of time between the date of the arrest, conviction, or imposition of the penalty and the date of the review.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The nature of the alleged violation, violation, or penalty and how that alleged violation, violation, or penalty affects the ability of the relative caregiver to care for the child.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Whether making an exception to the denial would be in the best interests of the child.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><em>Director's determination</em>. Within ten (10) working days after making the determination under sub. (2), the LCO Kinship Care Office shall send the relative caregiver a written notice of the ICW Director's determination and a summary of the relative caregiver's right to a hearing under par. (b) and <cite doc="Wis. Stat." path="§48.57">Wis. Stat. § 48.57</cite>(3m)(f)-(g).</text>
+              <para>
+                <num>(A)</num>
+                <text>A relative caregiver applying for or receiving long-term kinship care is not eligible for a review by the ICW Director because the ICW Director makes background check determinations for long-term kinship care under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.15.4.070">§PAP.15.4.070</cite>.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Request for Hearing.</text>
+            <para>
+              <num>(1)</num>
+              <text><em>Notice of LCO Kinship Care Office action</em>. A relative caregiver may submit a request for a hearing to the division of hearings and appeals in the manner specified in the notice no later than forty-five (45) days after the date of a notice from the LCO Kinship Care Office of any of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>A denial or termination of kinship care payments or long-term kinship care payments for a reason other than as specified under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.060">§PAP.15.4.060</cite> or <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.070">§PAP.15.4.070</cite></text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>A denial or termination of kinship care payments following the ICW Director's review of the relative caregiver's conviction record under par. (a).</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>A determination by the ICW Director, after reviewing the conviction record of a prospective adult resident, adult resident, prospective employee, or employee under par. (a), that kinship care payments will be denied or terminated if the relative caregiver does any of the following:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>Permits the prospective adult resident, or continues to permit the adult resident, to reside in the relative caregiver's home.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>Employs the prospective employee or continues to employ the employee.</text>
+                </para>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>A denial or termination of long-term kinship care payments based on the background check of the relative caregiver under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.4.070">§PAP.15.4.070</cite>.</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>A determination by the ICW Director, based on the background check of a prospective adult resident, adult resident, prospective employee, or employee, that long-term kinship care payments will be denied or terminated if the relative caregiver does as provided under subd. (C) (i) or (ii).</text>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>A determination under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.5.030">§PAP.15.5.030</cite> that it is not in the best interests of the child for the relative caregiver to do any of the following:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>Permit a prospective adult resident to reside, or continue to permit an adult resident to reside, in the relative caregiver's home.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>Employ a prospective employee or continue to employ an employee.</text>
+                </para>
+              </para>
+              <para>
+                <num>(G)</num>
+                <text>The relative caregiver received the first written notice of an overpayment.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><em>Failure to act on application</em>. If the LCO Kinship Care Office fails to act on a relative caregiver's complete application as specified under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.010|(a)">§PAP.15.6.010(a)</cite>, the relative caregiver may submit a request for a hearing to the division of hearings and appeals no later than forty-five (45) days after the date of the deadline for the LCO Kinship Care Office to process the application under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.6.010|(b)">§PAP.15.6.010(b)</cite>.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><em>No division of hearings and appeals hearing right</em>. A relative caregiver may not be granted a hearing with the division of hearings and appeals if any of the following conditions is met:</text>
+              <para>
+                <num>(A)</num>
+                <text>The relative caregiver is applying for or receiving kinship care payments, the LCO Kinship Care Office sent the relative caregiver the notice specified under par. (a) (1) (A), and any of the following:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>The relative caregiver has not requested a review by the ICW Director under par. (a).</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>The relative caregiver requested a review by the ICW Director under par. (a), the ICW Director has not sent a notice of the determination, and the time allowed for the ICW Director to send the notice of the determination has not expired.</text>
+                </para>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The LCO Kinship Care Office determined that the person was ineligible for kinship care or long-term kinship care within the previous two (2) years, and the reason for the denial or termination has not changed.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.15.7.030</num>
+          <heading>Procedures for Requesting Exemption for Good Cause to Requirement for Cooperation in Securing Child Support.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>Definitions</em>. In <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.030">this section</cite>:</text>
+            <para>
+              <num>(1)</num>
+              <text>"Emotional harm" means that the child or relative caregiver is emotionally impaired to an extent that substantially affects his or her functioning.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>"Serious nature" means:</text>
+              <para>
+                <num>(A)</num>
+                <text>In reference to a relative caregiver, that the physical or emotional impairment is or will affect the relative caregiver's capacity to care for the child.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>In reference to a child, that the physical or emotional impairment is or will affect the child's emotional, mental, or physical functioning.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>Right to Request Good Cause Exemption. </em>A relative caregiver may request a good cause exemption from the requirement under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.3.030|(a)|(5)">§PAP.15.3.030(5)</cite> to cooperate with the LCO Kinship Care Office in referring the child's parent or parents to the LCO Child Support Services Office.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Claiming Good Cause.</text>
+            <para>
+              <num>(1)</num>
+              <text>Notice.</text>
+              <para>
+                <num>(A)</num>
+                <text>The LCO Kinship Care Office shall notify the relative caregiver of the opportunity to claim a good cause exemption in the application for kinship care or long-term kinship care.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The notice shall describe the right to refuse to cooperate for good cause in securing child support and shall advise the relative caregiver of all of the following:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>The potential benefits the child may derive from securing child support.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>That cooperation in securing child support is a condition of eligibility for kinship care and long−term kinship care.</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>That good cause for refusing to cooperate may be claimed and if the LCO Kinship Care Office finds that there is good cause, the relative caregiver will be excused from the cooperation requirement.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Claim.</text>
+              <para>
+                <num>(A)</num>
+                <text>A relative caregiver may claim good cause in application form prescribed by DCF under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.3.030">§PAP.15.3.030</cite>. The good cause information in the application shall describe the circumstances that support a good cause claim and how a claim should be documented.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The information on good cause in the application shall include that the LCO Kinship Care Office directs the LCO Child Support Services Office to proceed to attempt to secure child support without the participation of the relative caregiver.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The relative caregiver shall sign and date the good cause claim to initiate the claim.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Within two (2) days after the date on which the relative caregiver signs the good cause claim under subd. (C), the LCO Kinship Care Office shall notify the LCO Child Support Services Office that the relative caregiver has filed a good cause claim and instruct the LCO Child Support Services Office to either not initiate or to suspend activities to secure child support until the claim is determined.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Burden on relative caregiver to establish good cause circumstances. A relative caregiver who refuses to cooperate in securing child support and who claims good cause for refusing to cooperate has the burden of establishing good cause, except as provided in subs. (e) (3) and (k) (1).</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><em>Good Cause Circumstances. </em>The LCO Kinship Care Office shall determine whether requiring cooperation is contrary to the best interests of the child or the relative caregiver. An exemption may be granted only for one of the following reasons:</text>
+            <para>
+              <num>(1)</num>
+              <text>The relative caregiver's cooperation can be reasonably anticipated to result in any of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Physical harm of a serious nature to the child or to the relative caregiver.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Emotional harm of a serious nature to the child or the relative caregiver.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>One of the following circumstances exists and it can be reasonably anticipated that proceeding to secure child support would be detrimental to the child:</text>
+              <para>
+                <num>(A)</num>
+                <text>The child was conceived as the result of incest or sexual assault.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>A petition for adoption of the child has been filed with a court.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The parent or parents are being assisted by a social services agency in deciding whether to terminate parental rights and the discussions have not gone on for more than three (3) months.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Determination of Good Cause.</text>
+            <para>
+              <num>(1)</num>
+              <text>Within forty-five (45) days from the date a claim is signed, the LCO Kinship Care Office shall determine if there is good cause for a relative caregiver to refuse to cooperate in securing child support. The 45−day period may be extended by the LCO Kinship Care Office upon written notice to the relative caregiver if the LCO Kinship Care Office documents that additional time is needed for any of the following reasons:</text>
+              <para>
+                <num>(A)</num>
+                <text>Information needed to verify the claim cannot be obtained by the LCO Kinship Care Office within forty-five (45) days.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Supporting evidence was not submitted by the relative caregiver within twenty (20) days as required under par. (j) (1).</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office's determination on whether good cause exists shall be reviewed and signed by a supervisor in the Office.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If there is no evidence or verifiable information available which suggests otherwise, the LCO Kinship Care Office shall conclude that a refusal to cooperate was a case of cooperation to the fullest extent possible.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The LCO Kinship Care Office shall place all of the following in the relative caregiver's case record:</text>
+              <para>
+                <num>(A)</num>
+                <text>The Office's final determination on the relative caregiver's good cause claim and the reasons for the determination.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>All evidence submitted in support of the claim.</text>
+              </para>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Written notice of the final determination shall be given to the relative caregiver and to the LCO Child Support Services Office. If the LCO Kinship Care Office determines that good cause does not exist, the relative caregiver may, within forty-five (45) days from the date of the notification, do one of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Withdraw the claim and cooperate.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Exclude any affected child from the application or case.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Withdraw the application or request that the case be closed.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Request a hearing under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020|(b)">§PAP.15.7.020(b)</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>A denial or termination of kinship care or long-term kinship care shall remain in effect until there is cooperation or until cooperation is no longer an issue.</text>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><em>Approving or Continuing Payments. </em>If the relative caregiver is cooperating with the LCO Kinship Care Office in furnishing evidence and information for a determination on good cause, the LCO Kinship Care Office may not deny, delay, reduce, or discontinue a kinship care or long−term kinship care payment, pending the determination, provided that all other eligibility criteria are met.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Participation of the LCO Child Support Services Office.</text>
+            <para>
+              <num>(1)</num>
+              <text>The LCO Kinship Care Office shall allow the LCO Child Support Services Office to review and comment on the findings of the LCO Kinship Care Office and shall consider the LCO Child Support Services Office's recommendations prior to the final determination on good cause by the LCO Kinship Care Office.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Child Support Services Office may participate in any hearing resulting from a good cause determination.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The final decision on good cause shall be made by the LCO Kinship Care Office.</text>
+            </para>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><em>Evidence. </em>An initial good cause claim shall be based on evidence in existence at the time of the claim. There is no limitation on the age of the evidence. Once a final decision, including any hearing, is made on the claim, any subsequent claim shall have new evidence as its basis. Any of the following types of evidence may be used in determining good cause:</text>
+            <para>
+              <num>(1)</num>
+              <text>Birth certificates or medical or law enforcement records that indicate that the child may have been conceived as a result of incest or sexual assault.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Court documents or other records that indicate that a petition for the adoption of the child has been filed with a court.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Court, medical, criminal, child protective services, social services, psychological, school or law enforcement records that indicate that a parent might inflict physical or emotional harm on the child or on the relative caregiver.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Medical records indicating the emotional health history and present emotional health status of the relative caregiver or the child, or a written statement from a mental health professional indicating a diagnosis or prognosis concerning the emotional health of the relative caregiver or the child.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>A written statement from a public or private social services agency that the parent is being assisted by that agency to determine whether or not to terminate parental rights.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Sworn statements from persons other than the parent or the relative caregiver with knowledge of the circumstance on which the good cause claim is based.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Any other supporting or corroborative evidence.</text>
+            </para>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Special Requirements for Proof of Good Cause.</text>
+            <para>
+              <num>(1)</num>
+              <text>Emotional harm. If a good cause claim is based on emotional harm to the relative caregiver or to the child, the LCO Kinship Care Office shall consider all of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Present emotional state of the person subject to emotional harm.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Emotional health history of the person subject to emotional harm.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Intensity and probable duration of the emotional harm.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Degree of cooperation to be required.</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>Extent of involvement of the child or the relative caregiver in the establishment of the support enforcement activity to be undertaken.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Physical harm. If a good cause claim is based on anticipated physical harm and no evidence is submitted, the LCO Kinship Care Office shall conduct an investigation.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Incest or sexual assault. If a good cause claim is based on the relative caregiver's statement that the child was conceived as a result of incest or sexual assault, but this is not documented, the claim may be reviewed as one based on emotional harm.</text>
+            </para>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>General Requirements for Proof of Good Cause.</text>
+            <para>
+              <num>(1)</num>
+              <text>The relative caregiver who claims good cause shall provide supporting evidence within twenty (20) days from the day the claim is signed. The LCO Kinship Care Office worker may, with supervisory approval, determine that more time is necessary because of difficulty in obtaining certain evidence.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>There shall be at least one document of evidence, in addition to any sworn statements from the relative caregiver, for proof of good cause. The relative caregiver shall be encouraged to provide as many types of evidence as possible. The LCO Kinship Care Office shall offer assistance in obtaining necessary evidence.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>When sufficient evidence to substantiate a good cause claim has not been submitted, the LCO Kinship Care Office shall do all of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Notify the relative caregiver that additional evidence is required and specify that evidence.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Advise the relative caregiver on how to obtain the evidence.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Make a reasonable effort to obtain specific documents that are not reasonably attainable by the relative caregiver without assistance.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>If after having been notified that additional evidence is required, the relative caregiver continues to refuse to cooperate or the evidence obtained does not establish good cause, the LCO Kinship Care Office shall then notify the relative caregiver that if no further action is taken within forty-five (45) days from the date of the notification, good cause will not be found and that the relative caregiver may do any of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Withdraw the claim and cooperate.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Exclude affected children from the application or case.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Withdraw the application or request that the case be closed.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Request a hearing under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020|(b)">§PAP.15.7.020(b)</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>If the 45-day period under sub. (4) has expired and no action as specified in sub. (4) has occurred, the LCO Kinship Care Office shall deny the application for, or close the case of, any affected child.</text>
+            </para>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>Investigation of Good Cause Claim.</text>
+            <para>
+              <num>(1)</num>
+              <text>The LCO Kinship Care Office shall conduct an investigation of any good cause claim based on anticipated physical harm, both when the claim is credible without supporting evidence and when supporting evidence is not available. Good cause shall be found when both the relative caregiver's statement and the investigation satisfy the LCO Kinship Care Office that the relative caregiver has good cause.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office may also investigate any good cause claim when the relative caregiver's statement, together with the corroborative evidence, does not provide a sufficient basis for a determination.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Neither the LCO Kinship Care Office nor the LCO Child Support Services Office shall, in the course of any investigation, contact the parent from whom support would be sought without first notifying the relative caregiver in writing of the intention to do so. The relative caregiver may, within 45−days from the date of the notification, do any of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Present additional supporting or corroborative evidence or information so that contact with the parent is unnecessary.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Exclude an affected child from the application or case.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Withdraw the application or request that the case be closed.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Request a hearing under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020|(b)">§PAP.15.7.020(b)</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>When the 45-day period under sub. (3) has expired and no action as specified in par. (c) has occurred, the LCO Kinship Care Office shall deny the application for, or close the case of, any affected child.</text>
+            </para>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>Notice of Good Cause Finding.</text>
+            <para>
+              <num>(1)</num>
+              <text>Notice to the LCO Child Support Services Office. The LCO Kinship Care Office shall notify the LCO Child Support Services Office in writing of the final determination whether good cause is found or is not found and, if found, whether or not the LCO Child Support Services Office should proceed to secure child support without participation of the relative caregiver.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>When good cause is found. When good cause is found, the LCO Kinship Care Office shall do one of the following, as appropriate:</text>
+              <para>
+                <num>(A)</num>
+                <text>Direct the LCO Child Support Services Office to suspend all further case activities if it is determined that the LCO Child Support Services Office's action, even without participation of the relative caregiver, can be reasonably anticipated to result in physical or emotional harm to the child or the relative caregiver.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <para>
+                  <num>(i)</num>
+                  <text>Advise the LCO Child Support Services Office to proceed without the participation of the relative</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>The LCO Kinship Care Office shall notify the relative caregiver immediately of its intended recommendation to the LCO Child Support Services Office shall delay notice to the LCO Child Support Services Office for forty-five (45) days from the date on which the LCO Kinship Care Office gave notice to the relative caregiver to allow the relative caregiver time to exclude any affected child from the application or case, to withdraw the application or request that the case be closed, or to request a hearing.</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>The LCO Kinship Care Office's recommendation to the LCO Child Support Services Office shall be in writing and shall contain the LCO Kinship Care Office's findings and the basis for its determination. A copy of the written recommendation shall be included in the relative caregiver's case record.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>When good cause is not found. When good cause is not found, the LCO Kinship Care Office shall do all of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Provide written notice to the relative caregiver.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Wait forty-five (45) days before taking further action. If after the forty-five (45) days, the relative caregiver still refuses to cooperate and has not excluded the affected child or withdrawn the application or requested that the case be closed, the LCO Kinship Care Office shall deny the application for any affected child or close the case. If the application is denied or the case is closed for not cooperating in securing child support, the LCO Kinship Care Office shall inform the relative caregiver, in writing, of the right to a hearing under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020|(b)">PAP.15.7.020(b)</cite>. If a hearing is requested, the LCO Kinship Care Office shall direct the LCO Child Support Services Office not to proceed with any support enforcement action during the hearing process.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>Review of Good Cause Determinations.</text>
+            <para>
+              <num>(1)</num>
+              <text>Good cause determinations based on permanent circumstances need not be reviewed.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Kinship Care Office shall review good cause determinations involving circumstances that are subject to change at each eligibility redetermination under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.010">PAP.15.7.010</cite>, or upon the receipt of new evidence.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>When good cause is determined to no longer exist, the LCO Kinship Care Office shall rescind its determination and immediately send written notification to the relative caregiver with the right to a hearing under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020|(b)">§PAP.15.7.020(b)</cite>, but may not notify the LCO Child Support Services Office for forty-five (45) days from the date of the notification to allow the relative caregiver to do one of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Cooperate.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Exclude any affected child from the case.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Request that the case be closed.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Request a hearing under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020|(b)">§PAP.15.7.020(b)</cite>.</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>When the 45-day period under sub. (3) has expired and no action as specified in sub. (3) has occurred, the LCO Kinship Care Office shall do both of the following:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>Deny the application for or close the case of any affected child.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>Inform the relative caregiver of the right to a hearing under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.15.7.020|(b)">§PAP.15.7.020(b)</cite>.</text>
+                </para>
+              </para>
+            </para>
+          </para>
+        </section>
+      </container>
+    </container>
+  </codify:insert>
+</document>
