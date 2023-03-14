@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-24">
+  <num>2023-24</num>
+  <heading>Revision of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Gaming Enterprises Holiday Pay Policy PAP.9.6.080</heading>
+  <meta>
+    <effective>2023-03-06</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-24.pdf">Res. No. 2023-24</citation>
+    </citations>
+    <history>
+      <adopted>2023-03-06</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, Section 1(n) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> shall "regulate, by the enactment of ordinances, the conduct of business within the territory of the band" and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, Section 1(h)</cite> "to engage in any business that will further the social or economic well-being of members of the Band:' and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.9.6.080">PAP.9.6.080</cite> and now wishes to amend such section.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby expands the days included in the Gaming Enterprise Holiday Pay Policy to provide additional holiday leave days to Gaming Enterprises employees.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>as follows:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Amend: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.9.6.080|(b)|(1)|(B)">Subsection PAP.9.6.080(b)(1)(B)</cite> of the Lac Courte Oreilles Tribal Code of Law is amended as follows:</text>
+    <include>
+      <text>The following days are considered observed holidays: New Year's Day, Martin Luther King Jr. Day, Treaty Day, President's Day, Easter Sunday, American Indian Day, Memorial Day, Juneteenth, We'enh Day, Independence Day, Honor the Earth Powwow Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, Christmas Eve Day, Christmas Day, and New Year's Eve Day.</text>
+    </include>
+    <codify:find-replace doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.9.6.080|(b)|(1)|(B)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.9.6.080|(b)|(1)|(B)">
+      <find>The following days are considered observed holidays: New Year's Day, Martin Luther King Jr. Day, Treaty Day, President's Day, Easter Sunday, American Indian Day, Memorial Day, Juneteenth, Independence Day, Honor the Earth (HTE) Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, Christmas Eve, and Christmas Day.</find>
+      <replace>The following days are considered observed holidays: New Year's Day, Martin Luther King Jr. Day, Treaty Day, President's Day, Easter Sunday, American Indian Day, Memorial Day, Juneteenth, We'enh Day, Independence Day, Honor the Earth Powwow Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, Christmas Eve Day, Christmas Day, and New Year's Eve Day.</replace>
+    </codify:find-replace>
+  </section>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>6<sup>th</sup> day of March, 2023</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
