@@ -44,14 +44,14 @@
     <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.9.6.080|(b)|(1)">PAP.9.6.080 (b)(1)</cite>
   </text>
   <text>(A) The holiday will be the 24-hour period that is considered for that work day unless otherwise specified by the Executive Management Team.</text>
-  <text>(B) The following days are considered observed holidays: New Year's Day, Martin Luther King Jr. Day, Treaty Day, President’s Day, Easter Sunday, American Indian Day, Memorial Day, Juneteenth, Independence Day, Honor the Earth (HTE) Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, Christmas Eve, and Christmas Day.</text>
+  <text>(B) The following days are considered observed holidays: New Year's Day, Martin Luther King Jr. Day, Treaty Day, President's Day, Easter Sunday, American Indian Day, Memorial Day, Juneteenth, Independence Day, Honor the Earth (HTE) Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, Christmas Eve, and Christmas Day.</text>
   <codify:find-replace path="|PAP.9.6.080|(b)|(1)|(A)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.9.6.080|(b)|(1)|(A)">
     <find>The holiday will be the 24 hour period beginning at 12:01 am and ending at 12:00 am on the designated holiday unless otherwise specified by the Executive Management Team.</find>
     <replace>The holiday will be the 24-hour period that is considered for that work day unless otherwise specified by the Executive Management Team.</replace>
   </codify:find-replace>
   <codify:find-replace path="|PAP.9.6.080|(b)|(1)|(B)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.9.6.080|(b)|(1)|(B)">
     <find>The following days are considered observed holidays: New Year's Eve beginning at 4 PM, New Year's Day, Treaty Day, Easter Day, American Indian Day, Memorial Day, Independence Day, Honor the Earth (HTE) Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, and Christmas Eve beginning at 4 PM and Christmas Day.</find>
-    <replace>The following days are considered observed holidays: New Year's Day, Martin Luther King Jr. Day, Treaty Day, President’s Day, Easter Sunday, American Indian Day, Memorial Day, Juneteenth, Independence Day, Honor the Earth (HTE) Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, Christmas Eve, and Christmas Day.</replace>
+    <replace>The following days are considered observed holidays: New Year's Day, Martin Luther King Jr. Day, Treaty Day, President's Day, Easter Sunday, American Indian Day, Memorial Day, Juneteenth, Independence Day, Honor the Earth (HTE) Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, Christmas Eve, and Christmas Day.</replace>
   </codify:find-replace>
   <procedural-data>
     <text class="center">CERTIFICATION</text>

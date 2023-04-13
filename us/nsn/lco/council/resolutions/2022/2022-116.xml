@@ -26,7 +26,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to “promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers;” and</text>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers;" and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -39,15 +39,15 @@
       <text>
         <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC|GNC.4|GNC.4.11|1|GNC.4.11.080">GNC.4.11.080</cite>
       </text>
-      <text>(f) “department” means the LCO conservation department;</text>
+      <text>(f) "department" means the LCO conservation department;</text>
       <text>TO:</text>
       <text>
         <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC|GNC.4|GNC.4.11|1|GNC.4.11.080">GNC.4.11.080</cite>
       </text>
-      <text>(f) “department” means the LCO Police Department and or the LCO Conservation Department;</text>
+      <text>(f) "department" means the LCO Police Department and or the LCO Conservation Department;</text>
       <codify:find-replace path="|GNC|GNC.4|GNC.4.11|1|GNC.4.11.080|(f)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.4.11.080|(f)">
-        <find>“department” means the LCO conservation department;</find>
-        <replace>“department” means the LCO Police Department and or the LCO Conservation Department;</replace>
+        <find>"department" means the LCO conservation department;</find>
+        <replace>"department" means the LCO Police Department and or the LCO Conservation Department;</replace>
       </codify:find-replace>
       <text>FROM:</text>
       <text>

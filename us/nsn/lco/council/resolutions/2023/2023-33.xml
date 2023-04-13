@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-33" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2023-33</num>
+  <heading>Amending the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law to Allow for the Fees and Costs to Be Waived for Indigent Tribal Members</heading>
+  <meta>
+    <effective>2023-04-03</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-33.pdf">Res. No. 2023-33</citation>
+    </citations>
+    <history>
+      <adopted>2023-04-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, 1(q)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "establish a tribal court for the purpose of enforcing tribal ordinances;" and "to promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and provide for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board wants to allow all tribal members to have access to the Tribal Court regardless of income; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is aware that because of income restrictions many members are unable to afford the cost of filing fees associated with commencing a cause of action in the tribal court; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board shall amend the tribal code referenced hereinbelow to allow for the Tribal Court to waive filing fees and costs for eligible tribal members.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby adopts <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2.15">Subchapter TCT.2.15</cite> Fees and Costs, as drafted hereinbelow, and requests <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.2.15.020" proof="needed">TCT.2.15.020</cite> to be published in the Lac Courte Oreilles Open Law Library.</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <include>
+      <container>
+        <num>TCT.2.15</num>
+        <heading>Fees and Costs</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <codify:insert path="TCT.2.15" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TCT.2.15.020"/>
+          <num>TCT.2.15.020</num>
+          <heading>Fees and Costs Waiver for Indigents</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any Tribal Member may commence or defend any action or special proceeding in LCO Tribal Court, without being required to pay a filing fee, upon order of the Court based on a finding that because of poverty the person is unable to pay the costs of the action or special proceeding,</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A person seeking an order under par. (a) shall file in the court a Petition for Waiver of Filing and Service Fees-Affidavit of Indigence and Order.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The court shall make a finding of poverty and issue an order under par. (a) if the affidavit demonstrates any of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>That the person is a recipient of means-tested public assistance, including aid to families with dependent children, relief provided by counties under Wis. Stat. §59.53 (21), medical assistance, supplemental security income, food stamps or benefits received by veterans under Wis. Stat. §45.40 (1m) or under 38 USC §§ 1501 to 1562.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>That the person is represented by an attorney through a legal services program for indigent persons.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>That the person is otherwise unable, because of poverty, to pay the costs of the action, proceeding or appeal. In determining the person's ability under this subdivision to pay the fees and costs, the court shall consider the person's household size, income, expenses, assets and debts and the federal poverty guidelines under 42 USC §9902 (2).</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The Court shall not waive fees and costs for any Tribal member who is incarcerated at the time of filing a cause of action, or who has an incarceration date pending within thirty days of filing.</text>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>6</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this 3<sup>rd</sup> day of April, 2023, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>5</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

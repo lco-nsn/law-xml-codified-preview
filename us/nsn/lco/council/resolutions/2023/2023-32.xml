@@ -1,0 +1,2243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-32" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2023-32</num>
+  <heading>Codification of Lac Courte Oreilles Band of Lake Superior Chippewa Indians Day Care Polices and Procedures PAP.22</heading>
+  <meta>
+    <effective>2023-03-27</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-32.pdf">Res. No. 2023-32</citation>
+    </citations>
+    <history>
+      <adopted>2023-03-27</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V(h)</cite> the Tribal Governing Board is empowered to "engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Day Care is in need of general policies, rules, and practices to ensure all employees are doing their best to create a safe, healthy, and positive learning environment for all children in their care.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby enacts and codifies the attached Lac Courte Oreilles Day Care Polices and Procedures <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.22">PAP.22</cite> to the Tribe's Code of Law.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>27<sup>th</sup> day of March, 2023</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+  <codify:insert path="PAP" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.22.1.010">
+    <container>
+      <num>PAP.22</num>
+      <heading>LCO Day Care - Genawendaawasong Personnel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+      <prefix>Chapter</prefix>
+      <text class="center">
+        <strong>Preamble</strong>
+      </text>
+      <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and pursuant to Article §V(h) of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Constitution and Amended Bylaws, "to engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people." This personnel policy and procedural manual, outlines the general policies, rules, and practices in effect for the LCO Day Care – Genawendaawasong and is intended to be a helpful reference during your employment with the LCO Day Care. The information contained herein is general information, and its contents do not create or constitute a contract between the LCO Day Care – Genawendaawasong and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. All approved updates to the policy shall be published on the Lac Courte Oreilles Law Library at law.lco-nsn.gov.</text>
+      <container>
+        <num>PAP.22.1</num>
+        <heading>General Provisions</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.1.010</num>
+          <heading>Title</heading>
+          <text>This personnel policies and procedures manual shall be known as the LCO Day Care-Genawendaawasang Personnel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        </section>
+        <section>
+          <num>PAP.22.1.020</num>
+          <heading>Authority</heading>
+          <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians  and pursuant to Article V(h) of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Constitution and Amended Bylaws, " to engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people."</text>
+        </section>
+        <section>
+          <num>PAP.22.1.030</num>
+          <heading>Purpose</heading>
+          <text>We know that a child's play is a child's work. We will put culture and a healthy lifestyle at the forefront of our program. We will ensure to provide "hands-on" learning experiences while supporting each child's social and emotional needs. Our program strives to create positive interactions with the children, families, and our community. Our program goals are:</text>
+          <para>
+            <num>1.</num>
+            <text>Parents are a child's first teacher, and we will work to provide a family-orientated setting and welcoming environment.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Community focused involvement activities</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Our program is healthy, safety, and nutritional based and will meet all healthy and safety guidelines.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>We encourage all families and our community to be involved in all special activities throughout the year.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.1.040</num>
+          <heading>Mission Statement</heading>
+          <text>Our mission is to strive for excellence while providing a safe, healthy, and culturally sensitive program. We understand that a strong connection with a child's language and culture helps to create a confident and competent future leader. Our programming will reflect the language and cultural aspects of the Lac Courte Oreilles Band of Lake Superior Ojibwe as we will continue to improve our understanding of the needs and rights of families in our community.</text>
+        </section>
+        <section>
+          <num>PAP.22.1.050</num>
+          <heading>Effective Date</heading>
+          <text>Except as otherwise provided in specific sections, the provisions of this personnel policy and procedural manual shall be effective on the date adopted by the Tribal Governing Board.</text>
+        </section>
+        <section>
+          <num>PAP.22.1.060</num>
+          <heading>Interpretation</heading>
+          <text>The provisions of this personnel policy and procedural manual:</text>
+          <para>
+            <num>(a)</num>
+            <text>Shall be interpreted and applied as minimum requirements applicable to the employment related activities of the LCO Day Care;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Shall be liberally construed in favor of the LCO Day Care;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.1.070</num>
+          <heading>Severability and Non-Liability</heading>
+          <text>If any section, provision or portion of this personnel policy and procedural manual is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this personnel policy and procedural manual shall not be affected thereby. The Tribe, on behalf of the LCO Day Care further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this personnel policy and procedural manual.</text>
+        </section>
+        <section>
+          <num>PAP.22.1.080</num>
+          <heading>Repeal of Inconsistent Governmental Manual(s)</heading>
+          <text>All previous personnel policy and procedural manual(s) of the LCO Day Care inconsistent with this manual are hereby repealed and the provisions of this manual shall govern the employment related activities of the LCO Day Care.</text>
+        </section>
+      </container>
+      <container>
+        <num>PAP.22.2</num>
+        <heading>Definitions</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.2.010</num>
+          <heading>General Definitions</heading>
+          <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+          <para>
+            <num>(a)</num>
+            <text><strong>"Compensatory Time" and "Compensatory Time Off" </strong>means paid time off, which is not counted as hours worked during the applicable workweek, or other work period for purposes of overtime compensation, and for which the non-exempt employee is compensated at the non-exempt employee's regular rate.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>"Contracted Employee"</strong> means an employee who has entered into a written contract, which has been properly authorized and signed by a signatory of the LCO Day Care and the employee which defines the employment relationship. The contract shall  be for a specified period, and shall outline benefits, pay and other conditions of employment. The terms and conditions of employment for Contracted employees may differ from the terms in this personnel policy and procedural manual, and this manual may be incorporated by reference in the Contracted Employee's written contract.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>"Employee" </strong>means an employee of the LCO Day Care including:  Exempt Employee, Non-exempt Employee, Full-time Employee, Part-time Employee, Seasonal Employee, or Temporary Employee.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>"Exempt Employee"</strong> means an employee who the Human Resources Director, or designee, categorizes as being exempt from accruing compensatory time, and includes executive, administrative, and professional employees who are compensated on a salary basis.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>"Full-time Employee"</strong> means an employee regularly scheduled to work thirty-two to forty (32-40) hours per week who has completed the ninety (90) day probationary period. Full-time employees are eligible for employee benefits subject to the limitations of the applicable benefit plans. Additional contracts do not impact eligibility for available benefits.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>"Fringe Benefit" </strong>means a potential extra benefit supplementing an employee's salary, such as health insurance, Worker's compensation, 401(k) benefits, short term and long term disability.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><strong>"Immediate family member"</strong> means Husband, Wife, Son, Daughter, Mother, Father, Brother, Sister, Grandparent, Grandchild, Niece, Nephew, Aunt and Uncle (including great-grandparents, in-laws, and step-relationship etc.). Immediate family member may also include a partner who has been in a relationship for a period of time or in a relationship under Ojibwe tradition and practices.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><strong>"Independent contractor"</strong> means an individual who is not an employee of the LCO Day Care, but rather has entered into a contract with the LCO Day Care, which defines the scope of services. Independent contractors are not employees, do not receive benefits, are not subject to this personnel policy and procedural manual and are governed by a written or verbal contract.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><strong>"Management" </strong>means the LCO Day Care Director, Department Director(s), and any employee who is assigned permanent or temporary supervisory or decision-making authority.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text><strong>"Non-Exempt Employee"</strong> means an employee who the LCO Day Care Director, Human Resource Director, or designee, categorizes as being non-exempt from accruing compensatory time.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text><strong>"Part-time Employee"</strong> means an employee regularly scheduled to work less than thirty-two (32) hours per week. Part-time employees are not eligible for employee benefits except as otherwise required by law or otherwise provided for in an employment contract with the LCO Day Care.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text><strong>"Positive Test Result"</strong> means a non-negative test result for drug or alcohol from the LCOCHC or other Tribally approved laboratory which determines whether an employee is under the influence as established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050">Section PAP.22.7.050</cite>.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text><strong>"Probationary Employee"</strong> means an employee who has not successfully completed their required probationary period.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>"<strong>LCO Day Care"</strong> means the LCO Day Care-Genawendaawasong.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text><strong>"LCO Day Care Director"</strong> means the individuals employed by the LCO Day Care to manage the affairs of the LCO Day Care – as provided for in this manual, the Employment Ordinance, the Education Ordinance, and other relevant documents.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text><strong>"Seasonal Employee"</strong> means an employee hired for an established period usually during peak workloads or seasonal demands. Seasonal workers may not be eligible for all employee benefits.</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <text><strong>"Serious Health Condition"</strong> means a condition which requires inpatient care at a hospital, hospice, or residential medical care facility, or a condition which requires continuing care by a licensed health care provider. This policy covers illnesses of a serious and long-term nature, resulting in recurring or lengthy absences. Generally, a chronic or long-term health condition which, if left untreated, would result in a period of incapacity of more than three (3) days would be considered a serious health condition.</text>
+          </para>
+          <para>
+            <num>(r)</num>
+            <text><strong>"Temporary Employee"</strong> means an employee hired for a period of ninety (90) days or less. Temporary employees may work a full-time or part-time schedule and are not eligible for employee benefits and paid leave.</text>
+          </para>
+          <para>
+            <num>(s)</num>
+            <text><strong>"Tribe"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(t)</num>
+            <text><strong>"Tribal Court"</strong> means the Court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(u)</num>
+            <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text><strong>"Under the Influence of Alcohol</strong>, <strong>Illegal Drugs or Controlled Substances"</strong> means the  non-negative test result that confirms the presence of illegal substance; or are results that confirm the presence of a controlled substances that an employee does not have a valid prescription for, or the levels exceed the prescribed dosage pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.22.7.050">Section PAP.22.7.050</cite>.</text>
+          </para>
+          <para>
+            <num>(w)</num>
+            <text><strong>"Valid Prescription"</strong> means a prescription that is current and issued for a medical purpose in the usual course of professional practice by a practitioner or a covering practitioner who has conducted at least one (1) in-person medical evaluation of the patient.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.22.3</num>
+        <heading>Governance</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.3.010</num>
+          <heading>General</heading>
+          <text>The Tribal Governing Board is the governing body of the Tribe. Pursuant to the Amended Constitution and Bylaws of the Tribe, ultimate legal and fiscal responsibility of the LCO Day Care is with the Tribal Governing Board, as the elected representatives of the members of the Tribe. The Tribal Governing Board possesses the inherent sovereign authority to delegate oversight and management responsibilities to program directors for the planning and daily operations of Tribal programs and entities.</text>
+        </section>
+        <section>
+          <num>PAP.22.3.020</num>
+          <heading>Sovereignty</heading>
+          <text>The LCO Day Care is a public body established as a subordinate entity of the Tribe. The Tribe is a sovereign nation, with inherent reserved rights recognized through federal treaties, as such the tribe exists within the geographical boundaries of the United States. Immunity from suit means that no private lawsuit can be maintained against the Tribe or any of its subordinate entities such as the LCO Day Care unless the Tribe consents to the action. Nothing in this manual constitutes a waiver of the Tribe's inherent sovereign immunity.</text>
+        </section>
+        <section>
+          <num>PAP.22.3.030</num>
+          <heading>Employment Laws</heading>
+          <text>It is the general policy of the LCO Day Care to extend to its employees, where possible, the rights and benefits provided by employers regulated by the laws of the United States. However, the Tribe looks to federal employment laws as guidelines only, and nothing in this personnel policy and procedural manual shall be construed as the Tribe's consent to application of such laws. Another aspect of the Tribe's inherent sovereignty is that Wisconsin Statutes are not applicable on LCO Day Care operations without the express written permission of the Tribal Governing Board. The Tribe reserves the right to create and modify its employment laws and policies without regard to such laws or interpretations thereof.</text>
+        </section>
+      </container>
+      <container>
+        <num>PAP.22.4</num>
+        <heading>Hiring Process</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.4.010</num>
+          <heading>Equal Employment Opportunity</heading>
+          <text>The LCO Day Care reaffirms its commitment to equal employment opportunity and advancement toward all applicants and employees regardless of race, color, creed, national origin, gender, sexual orientation, marital status, veteran status, religion, status with regard to public assistance, membership or activity in a local commission, disability, age, or any other status protected by law.</text>
+        </section>
+        <section>
+          <num>PAP.22.4.020</num>
+          <heading>Indian Preference</heading>
+          <text>Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000 <em>et. seq. </em>prohibits various forms of discrimination, including racial, color, gender-based, religion or national origin within the employment context. However, similar to the United States government, Indian tribes are expressly exempted from the definition of a covered "employer." Consistent with this exemption, the LCO Day Care grants Indian preference in employment, and shall  apply preference in the following order when there are two or more candidates that meet the job qualifications:</text>
+          <para>
+            <num>(a)</num>
+            <text>Members of the Lac Courte Oreilles Tribe,</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Members of other Federally Recognized Tribes with a dependent or dependents who are members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians,</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Members of other Federally Recognized Tribes,</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Non-members with a dependent or dependents who are members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians,</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>All Others.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.4.030</num>
+          <heading>Hiring Preferences</heading>
+          <text>The LCO Day Care shall  utilize the following preference ranking when considering an applicant for employment. It is the responsibility of the applicant to provide the necessary documents listed below for the purpose of obtaining preferences:</text>
+          <para>
+            <num>(a)</num>
+            <text>Indian preference as described above;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Veteran preference (Applicant must provide a Veterans Administration form DD214);</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Former employees of the LCO Day Care whom left in "good standing" and whose separation was not as a result of disciplinary action or an agreement in lieu of disciplinary action which would have otherwise resulted in termination.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.4.040</num>
+          <heading>Background Check</heading>
+          <para>
+            <num>(a)</num>
+            <text>All applicants who are being considered for employment with the LCO Day Care shall provide the information as described in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.4.080">Section PAP.22.4.080</cite> of this manual. Incomplete applications and applications which fail to provide consent for background checks shall not be considered. For all applicants considering employment with the LCO Day Care, the LCO Day Care reserves the right to conduct annual background checks on all employees.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Procedure</u>.</text>
+            <para>
+              <num>(1)</num>
+              <text>Prospected employees, employees, and volunteers shall submit a DCF Background check and DCF Field Print check prior to working at the licensed facility.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Employees shall submit mandatory criminal background check information to the Administration staff upon application, following any conviction occurring after commencement of employment, or upon request.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The LCO Day Care Director has the responsibility for ensuring that a background investigation is completed before participation in any LCO Day Care program activities and contractual arrangements.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Failure to pass a background check to the satisfaction of the LCO Day Care or to disclose a criminal charge or conviction may result in revocation of a conditional offer of hire or disciplinary action, up to and including termination.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>While employed with the LCO Day Care, every employee shall notify his or her supervisor within twenty-four (24) hours of:</text>
+            <para>
+              <num>(1)</num>
+              <text>The person has been convicted of any crime.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The person has been or is being investigated by any governmental agency for any other act, offense, or omission, including any investigation related to the abuse or neglect, or threat of abuse or neglect, to a child or other client, or an investigation related to misappropriation of a client's property.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The person has a governmental finding substantiated against them of abuse or neglect of a client or of misappropriation of a client's property.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>In the case of a position for which the person shall be credentialed by the department of regulation and licensing, the person has been denied a license, or department of regulation and licensing, the person has been denied a license, or the person's license has been restricted or otherwise limited.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The LCO Day Care shall pay for the initial Registry fee for the first year of hire, it will be the employee's responsibility to maintain their Registry account and all fees after the first year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The LCO Day Care reserves the right to:</text>
+            <para>
+              <num>(1)</num>
+              <text>issue disciplinary action depending upon the severity of the charge or conviction.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>conduct a criminal background check or personnel background check of current LCO Day Care employees with reasonable suspicion of policy violations as detailed in this manual.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Any person(s) donating time on LCO Day Care grounds, including but not limited to elders, volunteers, chaperones, or persons who will be in the LCO Day Care or attending LCO Day Care events, shall complete a Lac Courte Oreilles LCO Day Care Job Application Form and Background Check Release and Authorization form.  No persons may participate in LCO Day Care business prior to the completion and determination of a background check. This is done to ensure the safety of our children pursuant to the <em>Child Protection and Family Violence Prevention Act</em>, P.L. 101-630. Job Application and Background Check Release and Authorization Forms are available in the Administration office.  Forms can be mailed, faxed, or e-mailed upon request.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.4.050</num>
+          <heading>Funding and Approval</heading>
+          <text>Prior to posting or filing a position, the LCO Day Care Director shall ensure there are sufficient funds to pay for salary, fringe benefits and all other costs of the position. If the job is for a shorter period and only limited funds are available or if the position is contingent upon receiving funding, this constraint shall be explicitly specified at the time of advertisement.</text>
+        </section>
+        <section>
+          <num>PAP.22.4.060</num>
+          <heading>Orientation</heading>
+          <para>
+            <num>(a)</num>
+            <text>All staff members are given an orientation session during their first week at the center. During this session, all the center policies and licensing rules are discussed, and each staff member is informed of the confidentiality policy and signs a written agreement. A list of mandatory trainings shall  be distributed to both new and returning staff.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>New staff members are informed of their job responsibilities as they relate to their job responsibilities as they relate to their job descriptions.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Staff is introduced to the daily schedule of activities in the room where they will work and the procedures for attendance and child location.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>New staff also receive training in Child Guidance techniques and best practice teaching strategies. Returning staff receive annual training in all policies and procedures. All staff receive a copy of the Genawendaawasong Policies and Procedures and the DCF 251 Binder.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Genawendaawasong shall provide orientation within five (5) days of hire. Abusive Head Trauma Training, SIDS Training, CPR, healthy exam, and TB Test shall be completed prior to an employee's start date. Each employee shall also complete the most current DCF Orientation form.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Please note that an employee can be hired before their start date allowing time for qualifying training.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.4.070</num>
+          <heading>Probationary Period</heading>
+          <para>
+            <num>(a)</num>
+            <text>All employee's initial contract at the LCO Day Care shall involve a probationary period of ninety (90) calendar days, during which employees will get to know fellow employees, management and the duties involved for the position. The probationary period may be waived by the LCO Day Care Director for hourly or substitute employment.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The probationary period is a trial time for both the employee and the LCO Day Care. During this probationary period, the LCO Day Care shall  evaluate the employee's suitability for employment. At any time during the probationary period, an employee may resign without any detriment to the employee's record. In addition, if during this period an employee's work habits, attitude, attendance, or performance do not measure up to the LCO Day Care's expectations, the LCO Day Care may extend the probationary period for up to ninety (90) calendar days or terminate the employee's employment without the ability of the employee to appeal the decision.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Probationary employees are eligible for holiday leave and funeral leave. Probationary employees accrue Personal Time Off. Such employees cannot use Personal Time Off until the completion of their probationary period, unless authorized by their immediate supervisor with concurrence from the LCO Day Care Director and only for medical reasons or extreme circumstances. If an employee does not complete the probationary period for any reason, the employee forfeits all accrued but unused benefits.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>At the end of the probationary period, the LCO Day Care shall  prepare a written performance evaluation and discuss overall job performance with the employee. During the course of the discussion, the employee is encouraged to present his or her comments and ideas as well.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The probationary period ends only when a written evaluation of the employee is filed by the supervisor indicating the employee has passed probation, with no exceptions.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.4.080</num>
+          <heading>Job Application</heading>
+          <para>
+            <num>(a)</num>
+            <text>Application Form. Applicants for employment are required to submit an application form, which may include without limitation if applicable:</text>
+            <para>
+              <num>(1)</num>
+              <text>Signature for permission to perform a background and reference check.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Driving record and insurance information (if applicable).</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Pre-employment drug testing consent and authorization form.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Letter of interest</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Resume</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Proof of any stated qualifications</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Three (3) letters of recommendation</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Background Investigations. The LCO Day Care Director, Human Resource Director, or designee, shall ensure that background investigations are performed prior to applicant screening pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.4.040">Section PAP.22.4.040</cite> of this manual.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.22.5</num>
+        <heading>Employment</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.5.010</num>
+          <heading>Work Site Accommodations</heading>
+          <text>The LCO Day Care is exempted from the federal and state offered definition of an employer as provided by the Americans with Disabilities Act, 42 USC § 12111 (5) (B).  However, as a matter of its own internal policies the Tribe discourages discrimination against persons with disabilities and when possible seeks to accommodate persons with disabilities on the job. When possible, the LCO Day Care shall make reasonable efforts to provide reasonable accommodations to all employees and applicants, including work site accessibility. Employees shall notify their department head or director or the Human Resource Director, or designee, in writing of any requested reasonable accommodation within a reasonable period of time after the employee learns of the need for such accommodation.</text>
+        </section>
+        <section>
+          <num>PAP.22.5.020</num>
+          <heading>Personnel Files</heading>
+          <para>
+            <num>(a)</num>
+            <text>The LCO Day Care shall create and maintain a personnel file for each employee beginning at the time of employment. These files are the sole property of the LCO Day Care and are deemed confidential.  All employee files, past and present, shall be secured in a locked location at all times.  Access shall be limited to the Human Resource Director or designee, a department head or director, the LCO Day Care Director, an employee, or an employee's representative if designated in writing which states the purpose of the disclosure. An employee may inspect his or her personnel file in the Human Resources department by contacting the LCO Day Care Director, Human Resource Director, or designee, to make an appointment. Files shall be reviewed in a secure location under the supervision of the LCO Day Care Director, Human Resource Director, or designee. A personnel file shall include the following information:</text>
+            <para>
+              <num>(1)</num>
+              <text>A completed staff record on a form prescribed by the department. DCF-F-CFS0053.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Documentation from the department, either paper or electronic, that indicates that a childcare background check was completed in compliance with the timelines and requirements.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Documentation of the actual hours a provider, substitute, employee, or volunteer worked fi the hours were used to meet the applicable staff-to-child ratio.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>A physical examination report completed within twelve (12) months before or thirty (30) days after the person began working with children.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>A certificate from the registry, indicating the person is qualified for the position within six (6) months of beginning to work with children in care.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Documentation of compliance with continuing education requirements.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Original employment application,</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Letters of reference,</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Notice of hire,</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>New hire forms,</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text>Entrance interview checklist,</text>
+            </para>
+            <para>
+              <num>(12)</num>
+              <text>Current position description,</text>
+            </para>
+            <para>
+              <num>(13)</num>
+              <text>Professional development plan,</text>
+            </para>
+            <para>
+              <num>(14)</num>
+              <text>Records of all disciplinary actions,</text>
+            </para>
+            <para>
+              <num>(15)</num>
+              <text>Performance evaluations,</text>
+            </para>
+            <para>
+              <num>(16)</num>
+              <text>Starting pay scale and subsequent increases,</text>
+            </para>
+            <para>
+              <num>(17)</num>
+              <text>Change of employment status,</text>
+            </para>
+            <para>
+              <num>(18)</num>
+              <text>Applicable skills test results,</text>
+            </para>
+            <para>
+              <num>(19)</num>
+              <text>Transcripts, training, and career development records,</text>
+            </para>
+            <para>
+              <num>(20)</num>
+              <text>Copy of certification or licenses as required,</text>
+            </para>
+            <para>
+              <num>(21)</num>
+              <text>Copy of separation notice or letter of resignation,</text>
+            </para>
+            <para>
+              <num>(22)</num>
+              <text>Exit interview and inventory checklist,</text>
+            </para>
+            <para>
+              <num>(23)</num>
+              <text>Other documents relied upon by the LCO Day Care to make decisions concerning the employee's employment.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Accounting Department shall  maintain time, attendance, and payroll and leave records for each employee in a separate file.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.5.030</num>
+          <heading>Medical Documentation</heading>
+          <para>
+            <num>(a)</num>
+            <text>Medical files are the property of the LCO Day Care. The LCO Day Care shall  maintain employee documentation as it relates to Doctor's excuse for longer than the allowable three-day absence, return to work statements or any limitations on type of work to be performed by the employee. This information shall be maintained alongside an employee's personnel file but shall be maintained in a separate file. Access shall be limited to the LCO Day Care Director, Human Resource Director or designee.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A staff health report and physical examination report no more than twelve (12) months prior to no more than thirty (30) days after an employee is hired is needed for the staff file. The report needs to be signed and dated by a licensed physician, physician assistant, or other EPSDT provider and shall indicate that the person is free from illness detrimental to children, including tuberculosis, and that the person is physically able to work with young children.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.5.040</num>
+          <heading>Hours of Work</heading>
+          <para>
+            <num>(a)</num>
+            <text>All LCO Day Care employees work an eight-hour to ten-hour workday.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All LCO Day Care employees are entitled to two (2) fifteen(15) minutes breaks daily.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The floater-teacher shall serve as the break person.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>All LCO Day Care teaching staff shall eat with their classrooms in a family-style meal setting.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>All other facility staff are welcome to eat meals served from the Kitchen after all children have eaten.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Staff shall not leave the premises on breaks and lunches without supervisor's approval.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.5.050</num>
+          <heading>Pay Period</heading>
+          <text>The LCO Day Care's pay period is from Sunday through Saturday and all hours worked during this period.</text>
+        </section>
+        <section>
+          <num>PAP.22.5.060</num>
+          <heading>Reclassification</heading>
+          <text>The LCO Day Care may reclassify an employee (exempt, non-exempt, full-time, part-time, short-term substitute, long-term substitute or temporary, etc.) if the duties or need for the employee has changed. The reclassification of an employee may result in a change in the terms and conditions of employment including without limitation eligibility for benefits, and leave. Any supervisor who seeks to reclassify an employee shall obtain proper authorization in collaboration with the LCO Day Care Director.</text>
+        </section>
+        <section>
+          <num>PAP.22.5.070</num>
+          <heading>Evaluations</heading>
+          <para>
+            <num>(a)</num>
+            <text>Performance evaluations shall be completed by the licensee at the end of the probationary period and yearly thereafter. The results of the evaluations shall be discussed privately between the employee and the licensee. A written copy of the evaluation and future goals shall be signed by both the licensee and the employee and placed in the staff file. The evaluation shall include the following areas:</text>
+            <para>
+              <num>(1)</num>
+              <text>Fulfillment of job obligations</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Compliance with state standards</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Compliance with objectives and goals of the program</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Physical, mental and emotional competence to care for children</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Dependability and reliability</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Initiative in implementing the program</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Willingness to share the work load</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Relationships with staff, parents and children</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Attendance, promptness</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>Appropriateness of appearance</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.5.080</num>
+          <heading>Attendance</heading>
+          <para>
+            <num>(a)</num>
+            <text>Employees shall be on time every day.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Lateness as the failure to arrive on your post at the scheduled time.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Absence and lateness shall result in lost wages and difficulty in meeting the required adult/child ratio.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Employees shall be IN and AT their station by their designated time.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Notify your immediate supervisor if you will be late or absent. If you are going to be absent, please notify the supervisor no later than TWO hours before your shift. An employee shall also call each day if the situation persists otherwise their extended absence will not be excused. Failure to do so may result in demotion or dismissal.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Reoccurring lateness may result in a loss of scheduled hours, and/or a later scheduled time, and/or dismissal.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.5.090</num>
+          <heading>Inclement Weather</heading>
+          <para>
+            <num>(a)</num>
+            <text>The LCO Day Care Director shall determine if weather conditions are unsafe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If a decision has been made to close or delay school a HiMama message will be sent to families and the LCO Daycare Facebook page shall be updated as early as possible.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.22.6</num>
+        <heading>Available Benefits</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.6.010</num>
+          <heading>Available Benefits</heading>
+          <para>
+            <num>(a)</num>
+            <text>The following is a brief list of benefits that may be available to eligible employees;</text>
+            <para>
+              <num>(1)</num>
+              <text>Group Health Insurance/COBRA</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Holiday Pay</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Personal Time Off (PTO)</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Additional Paid Leave</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Unpaid Leave</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Family and Medical Leave</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Life Insurance, Disability Insurance and Retirement Plan</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Employee Assistance Program</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Employee Recognition – Years of Service</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The LCO Day Care reserves the right, at its sole and absolute discretion, to rescind or amend benefits, to change insurance carriers, or to require employees to contribute towards premium costs.  The LCO Day Care may make these changes at any time, except as provided by law. The Human Resource Director or Benefits Administrator, or their designee, shall notify employees of changes. While the LCO Day Care intends to continue offering sponsored benefits, there is no guarantee that such benefits shall always be available.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.6.020</num>
+          <heading>Holiday Pay</heading>
+          <para>
+            <num>(a)</num>
+            <text>The following days are considered observed holidays and non-exempt employees shall receive double the rate of pay if scheduled on and with the LCO Day Care Director's discretion: New Year's Day, Martin Luther King Jr. Day, Treaty Day, President's Day, Easter Sunday, American Indian Day, Memorial Day, Juneteenth, We'enh Day, Independence Day, Honor the Earth Powwow Saturday, Labor Day, Indigenous Peoples Day, Veteran's Day, Thanksgiving Day, Christmas Eve Day, Christmas Day, and New Year's Eve Day.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any Tribal Government Holiday and or Tribal Government Inclement Weather Day that non-exempt employees are required to work at the LCO Day Care Director's discretion, shall receive 1.5 at a rate of time and a half (1.5) for hours worked.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A Non-exempt employee shall not work over forty (40) hours in a workweek without the prior authorization of management. Management may adjust any employee's work schedule to avoid accumulation of overtime.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.6.030</num>
+          <heading>Eligibility</heading>
+          <text>The following employee classifications and eligibility for Fringe Benefits are as follows;</text>
+          <para>
+            <num>(a)</num>
+            <text><u>Full Time Employee</u>. Full time Employees, as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.2.010|(e)">Section PAP.22.2.010(e)</cite> of this manual, are eligible for all Fringe Benefits after satisfactorily completing their probationary period, unless otherwise provided for in an Employment Contract with the LCO Day Care or mandated by law.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Part Time Employee</u>. Part Time Employees, as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.2.010|(k)">Section PAP.22.2.010(k)</cite> of this manual, are not eligible for any fringe benefits offered by the LCO Day Care, unless provided for in an Employment Contract with the LCO Day Care or mandated by law.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.6.040</num>
+          <heading>Group Health Insurance / Cobra</heading>
+          <para>
+            <num>(a)</num>
+            <text>Group Health Insurance is through the Federal Employee Health Benefits; FEHB. An eligible employee may select an insurance provider that best meets their individual needs through FEHB. FEHB is offered for both single, single plus one, and family coverage. Employees considered to be full time status shall be required to pay twenty-one percent (21%) or as amended from time to time by official action of the Tribal Governing Board, of the premium for the plan selected, unless otherwise provided for in an employment contract. Employee's portion of payment shall be made through payroll deductions done weekly.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Employees who are covered by the group health plan may have the right to choose continuation of health coverage if coverage is lost due to a reduction in hours of employment or termination of employment. Continuation coverage is provided pursuant to the Consolidated Omnibus Budget Reconciliation Act of 1985, and later amendments, otherwise known as "COBRA".  Employees should contact the Human Resource Director for additional information regarding qualifying events or other requirements of COBRA.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.6.050</num>
+          <heading>Personal Time off</heading>
+          <para>
+            <num>(a)</num>
+            <text>Office employees will get paid Personal Time Off (PTO) at the following rates:</text>
+            <para>
+              <num>(1)</num>
+              <text>If employed up to three (0 to 3) years, 1 week per year.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If employed three years to ten years (3 to 10), 2 weeks per year.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If employed more than ten (10+) years, 3 weeks hours per year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Field employees will get paid Personal Time Off (PTO) at the following rate:</text>
+            <para>
+              <num>(1)</num>
+              <text>1 week per year.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>In no circumstance shall employees accrue any amounts over the maximum designated accumulations stated above. If an employee is on any leave without pay the employee shall not accrue any PTO until the employee returns to a full-time status. An employee who quits his or her employment without providing at least a four (4) week notice shall forfeit any accrued PTO unless otherwise approved by his or her supervisor or in collaboration with the LCO Day Care Director.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>For purposes of calculating length of service it shall be the responsibility of the employee to provide the Human Resources Director with a statement from other Lac Courte Oreilles Tribally controlled entities stating the start and end dates.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Prior to the utilization of accrued PTO, Employees shall schedule and have the use of accrued PTO time approved so it will not interfere with job responsibilities, except as otherwise provided by law. If an employee is on PTO and there is early release or closure of the employee's worksite, the employee shall be credited any such leave during the period of early release or closure. If requesting PTO time, employees shall obtain prior authorization at least two weeks or ten (10) working days in advance of the leave date. The supervisor or LCO Day Care Director may or may not approve such request depending on a variety of factors, including availability of substitutes, special events, and schedules. In extreme emergency situations the LCO Day Care Director, in consultation with the employee's supervisor, may waive the ten (10) day notification provision, if requested by the employee in writing citing the reason.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>For unscheduled absences, employees shall notify their immediate supervisor.  It is the supervisor's discretion whether to authorize PTO.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>If an Employee is absent from work for three (3) days or longer, which is related to an illness or other medical related issues, a Physicians excuse shall be provided that substantiates their absence.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Probationary employees shall not be able to use PTO during their ninety (90) day probationary period unless it is for extreme circumstances with approval of their supervisor and in concurrence of the LCO Day Care Director.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Use of Paid and Unpaid Leave. Employees who have accrued PTO shall use paid leave first and then take additional approved leave as unpaid leave.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Any and all Personal Time Off may not be cashed out without Tribal Governing Board approval.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.6.060</num>
+          <heading>Sharing of Personal Time</heading>
+          <text>Employees are permitted to share PTO with any non-probationary employee..</text>
+        </section>
+        <section>
+          <num>PAP.22.6.070</num>
+          <heading>Additional Paid Leave</heading>
+          <text>The LCO Day Care grants employees additional paid leave in certain situations, including the following:</text>
+          <para>
+            <num>(a)</num>
+            <text><u>Civil Leave</u>. The LCO Day Care grants eligible employees paid civil leave during the required absence when any employee appears as a witness for the federal, state or Tribal Government, in obedience to a subpoena. An employee shall promptly notify his or her supervisor upon receipt of any subpoena. If an employee receives any stipend for such civil leave, he or she shall use PTO during any work absence for such service. No employee shall take both compensated time and stipend pay during the required absence for civil leave.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Jury Duty Leave</u>. The LCO Day Care grants eligible employees paid leave during the required absence for jury service. An employee shall  promptly notify his or her supervisor upon receipt of any notice to appear. If an employee receives any stipend (other than food or fuel expenses) for such jury duty leave, he or she shall use PTO during any work absence for such service. No employee shall take both compensated time and stipend pay during the required absence for jury service.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Funeral Leave</u>.</text>
+            <para>
+              <num>(1)</num>
+              <text>All full-time employees shall be given up to five (5) days leave without loss of pay for funeral services for immediate family. Immediate family includes the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Husband, Wife, Son, Daughter, Mother, Father, Brother, Sister, Grandparent, Grandchild, Niece, Nephew, Aunt and Uncle (including great-grandparents, in-laws, and step-relationship, etc.), including a partner who has been in a relationship for a period of time or in relationship under Ojibwe tradition and practices.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Up to three (3) day leave for other persons shall be given only if the full-time employee is assisting the family during their immediate time of loss, subject to prior approval of employee's supervisor.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>All other funeral leave shall be limited to no more than one (1) day with pay to attend the funeral services, subject to the notification and approval of employee's immediate supervisor.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><u>Committee or Board Leave</u>. The LCO Day Care grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee shall receive prior approval from his or her supervisor prior to accepting an appointment or volunteering to sit on any committee or board. If an employee receives any stipend for such committee or board service, he or she shall use PTO during any work absence for such service. No employee shall take both compensated time and stipend pay when attending a committee or board meeting. Attendance at any meetings related to such appointment shall be preapproved by the employee's immediate supervisor and such appointment/meetings shall not interfere with an employee's work performance and duties.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><u>Maternity Leave</u>. The LCO Day Care grants eligible full-time female employees up to eight (8) weeks, a maximum of three hundred and twenty (320) hours paid leave, for time to deliver and care for a newborn child. If an employee has medical problems prior to delivery, she may utilize paid maternity leave, subject to the maximum limit, with written verification from her doctor. An employee shall request and obtain the prior approval of his or her supervisor to utilize this leave. The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.070">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.080">Section PAP.22.6.080</cite> of this manual.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><u>Paternity Leave</u>. The LCO Day Care grants eligible full-time employees up to two (2) weeks, maximum of eighty (80) hours, paid leave to care for a newborn child. An employee shall request and obtain the prior approval of their supervisor to utilize this leave. The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.070">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.080">Section PAP.22.6.080</cite> of this manual.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><u>Parental Leave</u>. The Tribe grants eligible full-time employees up to two (2) weeks, maximum of eighty (80) hours, paid leave for adoption, customary adoption, guardianship, protective placement, or an emergency safety plan of a pre-school (0-5 years of age) child. Leave may be granted prior to the legal proceedings having been completed. An employee must request the leave as early as possible and obtain approval of his or her supervisor to utilize leave. The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.070">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.080">Section PAP.22.6.080</cite> of this manual.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><u>Military Leave</u>. The LCO Day Care grants eligible full-time employees up to ten (10) days, maximum of eighty (80) hours, paid leave upon presentment of official orders requiring attendance for training or to perform other duties as a member of the United States Armed Forces. An employee serving on military leave with pay shall be paid only the difference between compensation fees received for such duties and his or her normal salary. An employee shall notify his or her supervisor prior to such leave. The LCO Day Care shall look to the provisions of the Uniformed Services Employment and Reemployment Rights Act (USERRA) 38 U.S.C. § 4301 <em>et. seq. </em>solely as a guideline in determining reemployment of employees who take extended military leave.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><u>Voting Leave</u>. The LCO Day Care shall  grant eligible employees the ability to leave campus once students depart, to exercise the right to vote.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text><u>Birthday Leave</u>. The LCO Day Care may grant eligible employees eight (8) hours of paid leave for the employee's birthday, provided the employee shall  take such leave during the calendar year.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text><u>In House Medical Appointment</u>. The LCO Day Care may grant employees up to two hours paid time to attend medical appointments at the Lac Courte Oreilles Community Health Center.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text><u>Ceremonial Leave</u>. The LCO Day Care shall grant full-time employees up to five (5) days paid leave during the calendar year to attend Midewiwin or other traditional ceremonies. An employee shall request and obtain the prior approval of his/her supervisor to utilize this leave.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text><u>School Leave</u>. The LCO Day Care may grant full-time employees up to (3) hours of paid leave to attend school upon supervisor approval. Employees shall have to submit their school schedule prior to the beginning of each semester to their supervisor. At the Conclusion of each Semester the employee shall submit a copy of their Report Card to their supervisor.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text><u>Disciplinary Leave</u>. The LCO Day Care may take disciplinary action, up to and including termination or suspension without pay, against employees who violate the provisions of this personnel policy and procedural manual.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text><u>Religious Leave</u>. The LCO Day Care may grant eligible employees up to an additional fifteen (15) days of unpaid religious leave. An employee shall request and obtain the prior approval of his/her supervisor to utilize this leave.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.6.080</num>
+          <heading>Family and Medical Leave</heading>
+          <text>Employees may be eligible for up to twelve (12) weeks of family and medical leave during any twelve (12) month period. The leave may be paid, unpaid, or a combination of paid and unpaid, depending on the circumstances. This policy sets forth the LCO Day Care's policies and procedures for requesting family and medical leave.</text>
+          <para>
+            <num>(a)</num>
+            <text><u>Eligibility for Leave</u>. To be eligible for family and medical leave under this policy all of the following conditions shall be met:</text>
+            <para>
+              <num>(1)</num>
+              <text>An employee must have been employed by the LCO Day Care for at least twelve (12) months or fifty-two (52) weeks.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>An employee must have worked at least one thousand two hundred fifty (1250) hours during the twelve (12) months immediately preceding the request for leave.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Reasons for Requesting and Types of Leave</u>. Employees who are eligible for leave under this policy may request up to twelve (12) workweeks of unpaid leave during any twelve (12) month period for the following reasons:</text>
+            <para>
+              <num>(1)</num>
+              <text>To care for a child following the child's birth or placement for adoption or foster care pursuant <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.070|(e)">PAP.22.6.070(e)</cite>, <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.070|(f)">PAP.22.6.070(f)</cite>, and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.070|(g)">PAP.22.6.070(g)</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>To care for an immediate family member who has a serious health condition pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.2.010|(q)">PAP.22.2.010(q)</cite>.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Because the employee has a serious health condition as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.2.010|(q)">PAP.22.2.010(q)</cite>, which prevents the employee from performing the functions of the position.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>If an employee takes PTO for a condition that progresses into a serious health condition and the employee requests unpaid leave as provided under this policy, the LCO Day Care may designate all or some portion of related leave taken as leave under this policy, to the extent that the earlier leave meets the necessary qualifications.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>If both parents work for the LCO Day Care, and both wish to take leave for the birth of a child, adoption, or acceptance of a child in foster care, or to care for an immediate family member with a serious health condition, the employees may only take a combined total of twelve (12) weeks of unpaid leave.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Employees can take up to twelve (12) weeks of leave under this policy during any twelve (12) month period. The LCO Day Care shall measure the twelve (12) month period as a rolling twelve (12) month period measured backward from the date an employee uses any leave under this policy. Each time an employee takes a leave, the LCO Day Care shall  compute the amount of leave you have taken under this policy and subtract it from the twelve (12) weeks of available leave, and the balance remaining is the amount an employee is entitled to take at that time. An employee's family or medical leave taken may run concurrently with other types of leave including workers' compensation and other leaves, such as short-term or long-term disability, etc.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><u>Intermittent or Reduced Work Schedule Leave</u>. Leaves may be taken all at once or on an intermittent or reduced work schedule basis. Intermittent or reduced work schedules may be used only in the following circumstances:</text>
+            <para>
+              <num>(1)</num>
+              <text>In situations where leave is requested due to the birth, adoption, or acceptance of a child in foster care, intermittent or reduced work schedules shall  be granted at the LCO Day Care's sole discretion and if granted shall be taken within one (1) year of the birth or placement of the child.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>In situations where leave is requested in order to care for an immediate family member who suffers from a serious health condition or because of an employee's own serious health condition, intermittent or reduced work schedules shall  be granted only when an employee can prove the leave is medically necessary.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>In situations where an intermittent or reduced work schedule is permitted, the LCO Day Care may require an employee to transfer to an alternative position with equivalent pay and benefits in order to accommodate the recurring periods of absence.</text>
+            </para>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><u>Use of Paid and Unpaid Leave</u>. Employees who have accrued PTO shall  use paid leave first and take the remainder of the twelve (12) weeks as unpaid leave.</text>
+            <para>
+              <num>(1)</num>
+              <text>Employees who take a leave because of their own serious health condition or the serious health condition of a family member shall  use all accumulated PTO prior to being eligible for unpaid leave.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Employees who take leave for the birth of a child shall  use paid PTO for physical recovery following childbirth, except where such leave is compensated as paid maternity leave under this personnel policy and procedural manual or as paid short-term or long-term disability leave. These employees shall  then use all paid vacation, and then shall  be eligible for unpaid leave for the remainder of the twelve (12) weeks. Employees who take leave for the adoption or acceptance of a child in foster care shall  use all paid PTO prior to being eligible for unpaid leave.</text>
+            </para>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><u>Procedure for Requesting Leave</u>. In situations where leave is foreseeable, employees shall provide written notice to the supervisor at least thirty (30) days prior to the date on which the leave is scheduled to begin. If the leave is foreseeable due to a planned medical treatment, employees shall  make reasonable efforts to schedule the treatment(s) to minimize disruptions to the LCO Day Care's operations. If circumstances occur, in which it is not practicable to provide thirty (30) days' notice, employees shall  provide written notice as far in advance as is practicable. If an employee fails to provide thirty (30) days advance written notice of a requested leave and have no reasonable excuse, the leave may at the LCO Day Care Director's discretion be delayed for up to thirty (30) days from the date of written notice.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><u>Medical Certification Requirement</u>. When leave is requested because of a serious health condition affecting an employee or his or her immediate family member, the LCO Day Care requires the employee to obtain certification of the health condition from the pertinent doctor or health care provider. This certification shall  be provided to the supervisor within fifteen (15) days after the leave is requested or, when the need for leave was unforeseeable, within fifteen (15) days after the leave has commenced unless it is not practicable to do because of the nature of the health condition.</text>
+            <para>
+              <num>(1)</num>
+              <text>If an employee seeking leave due to a serious health condition fails to provide the required medical certification, the leave shall  be denied until the certification is provided. If the leave request was not foreseeable, such as in a medical emergency, the failure to provide the required medical certification within a reasonable time may result in the denial of continuation of leave.  Medical certification provided in justification of a request for leave shall  include the following information:</text>
+              <para>
+                <num>(A)</num>
+                <text>The date on which the serious health condition started and its expected duration,</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The diagnosis concerning the condition,</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>A brief description of the treatment prescribed for the condition,</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>A statement of whether in-patient hospitalization is required, or</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>A statement that the employee is needed to care for his or her immediate family member afflicted with a serious health condition or, if the employee has the serious health condition, a statement that he or she is unable due to the health condition to perform the essential functions of the position or work of any kind.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The LCO Day Care, if it doubts the certification, at its expense, may require an employee seeking leave due to a serious medical condition to obtain a second opinion from a doctor or other health care professional designated by the LCO Day Care. If the second opinion conflicts with the certification provided by the employee, the LCO Day Care may, at its sole discretion and at its expense, require a third opinion from a doctor or other health care professional designated jointly by the LCO Day Care and the employee. Such a third opinion shall be final and binding.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If an employee plans to take intermittent leave or work a reduced schedule, the certification shall  also include dates and the duration of treatment and a statement of medical necessity for taking intermittent leave or working a reduced schedule. During a leave taken under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.080">this section</cite>, employees may be required to provide, periodically, written notice to the LCO Day Care Director concerning his or her status and intention to return to work.</text>
+            </para>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text><u>Return from Leave</u>. Upon completion of leave due to an employee's own serious health condition, the employee shall  provide the LCO Day Care with medical certification from his or her doctor or other health care professional that the employee is now able to return to work. If an employee fails to provide this certification, he or she will not be permitted to return to work until such certification is provided. An employee who takes leave under this policy will be able to return to the same job or a job with equivalent status, pay, benefits and other employment terms.  The LCO Day Care may choose to exempt certain highly compensated employees from this requirement and not return them to the same or similar position.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text><u>Health Benefits during Leave</u>.</text>
+            <para>
+              <num>(1)</num>
+              <text>During a leave taken pursuant to this policy, an employee's health benefits under any existing Tribal sponsored health plan will be continued as if the employee had continued in employment continuously for the duration of the leave. If, however, an employee fails to return at the end of a leave taken under this policy, except if this is due to the continuation, recurrence or onset of a serious health condition or something else beyond the employee's control, then the LCO Day Care may recover from the employee all of the health care premiums paid to maintain health coverage during the leave.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If under the LCO Day Care's current policy, an employee pays a portion of the health care premium, while on paid leave, the LCO Day Care will continue to make payroll deductions to collect the employee's share of the premium. While on unpaid leave, the employee shall continue to make this payment, either in person or by mail. The payment shall  be received by the first day of each month. If the payment is more than thirty (30) days late, the employee's health care coverage may be dropped for the duration of the leave.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.6.090</num>
+          <heading>Life Insurance, Disability Insurance and Retirement Plan</heading>
+          <text>If requested by the Employee, the LCO Day Care provides eligible employees Life and Disability insurances along with a Retirement Plan.  An Employee wanting these types of benefits should consult with the LCO Day Care's Benefit's Administrator for further information.</text>
+        </section>
+        <section>
+          <num>PAP.22.6.100</num>
+          <heading>Employee Assistance Program</heading>
+          <text>The Tribe recognizes that individual employees may develop personal problems which could have negative effects on job performance. The Tribe offers an Employee Assistance Program (EAP) for all employees, the purpose of which is to encourage the early diagnosis and treatment of personal, psychological, and medical problems. Employees are encouraged to contact the Human Resource Director, or designee, for information regarding the EAP. Employees are responsible for submission of all documents and paperwork to pay the costs incurred for services rendered in connection with the EAP. Employees may utilize their health insurance plan as coverage is available; otherwise, the service will be self-pay. Employees may attend a scheduled EAP appointment with the LCO-CHC during work hours. If the EAP appointment is at another facility the employee may use permitted paid or unpaid leave for EAP absences. EAP appointments (that the employee is required to attend by the Employer) will be coordinated with the employee's supervisor, so customer service does not get interrupted.</text>
+          <para>
+            <num>(a)</num>
+            <text><u>Self-Referral</u>.  An employee may request assistance from their supervisor for personal, psychological, or medical reasons at any time during their employment. Strict confidentiality will be maintained throughout this process.</text>
+            <para>
+              <num>(1)</num>
+              <text><u>Procedure</u>: A department head or director shall provide the employee and the Human Resource Director, or designee, with written notice using the LCOCHC – Behavior Health Clinic intake form and a signed consent form to release and or share information between departments of any referral. The Human Resource Director will set up the EAP Process with the LCOCHC – Behavioral Health Director. The Behavioral Health Director will report to the Human Resource Director on the status of the referral within five (5) working days after receipt of the referral. Regardless of any EAP referral, employees shall  maintain an acceptable level of job performance. Documentation of completion or non-completion of the EAP will be on file in the employee's personnel file located in the Human Resource Department.</text>
+              <para>
+                <num>(A)</num>
+                <text>A leave of absence to attend inpatient treatment shall be granted to employees requesting assistance through self-disclosure. The leave of absence may not exceed twelve (12) weeks pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.080">Section PAP.22.6.080</cite> of this manual.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Employees placed on a leave of absence from self-disclosure shall:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>Be allowed to return to the position, shift, and level of seniority that was held by the employee prior to the leave being granted.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>Be allowed to maintain tribally sponsored Health; Life and short-term disability Insurance Benefits during the leave.  The employee will be responsible for their portion of insurance premiums.</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>Be allowed to utilize any accrued Paid Time Off hours earned prior to the leave.</text>
+                </para>
+                <para>
+                  <num>(iv)</num>
+                  <text>Any accrual of Paid Time Off hours shall be in accordance with the Tribe's policies on family and medical leave pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.080">Section PAP.22.6.080</cite> of this manual.</text>
+                </para>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>An employee returning to duty following a leave of absence from self-disclosure will be required to undergo testing for illegal drugs and prescribed medication for which they do not have a valid prescription as a condition of returning to work. If the applicant is suspected to be under the influence of alcohol at the time of return to drug screen, a PBT may be requested. Employees who refuse to take a test is thereby insubordinate will be considered to have produced a positive test result and shall be terminated. Upon receipt of a positive test result as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.2.010|(l)">Section PAP.22.2.010(l)</cite>, the employee shall be subject to disciplinary action, up to and including termination pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(e)">PAP.22.7.050(e)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.020">PAP.22.10.020</cite> of this manual and the positive test sample will be sent for a confirmation test result pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(a)">Section PAP.22.7.050(a)</cite> of this manual.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Utilization of this self-disclosure provision does not negate any disciplinary action for which an employee is subject to of this manual, or any other tribal law or policy.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Employer Referral</u>.  An employee's department head or director shall refer an employee to the Human Resource Director, or designee, when an employee's conduct mandates as such.</text>
+            <para>
+              <num>(1)</num>
+              <text><u>Procedure</u>: A department head or director shall provide the employee and the Human Resource Director, or designee, with written notice using the LCOCHC – Behavior Health Clinic intake form and a signed consent form to release and or share information between departments of any referral. The Human Resource Director will set up the EAP Process with the LCOCHC – Behavioral Health Director. The Behavioral Health Director will report to the Human Resource Director on the status of the referral within five (5) working days after receipt of the referral. Employees shall comply with the referral to the EAP and follow subsequent recommendations for referral and treatment. Failure to show-up for required scheduled EAP appointment will result in further disciplinary action up to and including termination of employment. Regardless of any EAP referral, employees shall  maintain an acceptable level of job performance. Documentation of completion or non-completion of the EAP will be on file in the employee's personnel file located in the Human Resource Department.</text>
+              <para>
+                <num>(A)</num>
+                <text>A leave of absence to attend inpatient treatment shall be granted to employees when required by an approved LCOCHC- Behavioral Health EAP treatment plan. The leave of absence may not exceed twelve (12) weeks pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.080">Section PAP.22.6.080</cite> of this manual.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Employees placed on a leave of absence when required by an approved LCOCHC- Behavioral Health EAP treatment plan shall:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>Be allowed to return to the position, shift, and level of seniority that was held by the employee prior to the leave being granted.</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>Be allowed to maintain Tribally sponsored Health; Life and short-term disability Insurance Benefits during the leave. The employee will be responsible for their portion of insurance premiums.</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>Be allowed to utilize any accrued Paid Time Off hours earned prior to the leave.</text>
+                </para>
+                <para>
+                  <num>(iv)</num>
+                  <text>Any accrual of Paid Time Off hours shall be in accordance with the Tribe's policies on family and medical leave pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.080">Section PAP.22.6.080</cite> of this manual.</text>
+                </para>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>An employee returning to duty following a leave of absence from a referral of the employer will be required to undergo testing for illegal drugs and prescribed medication for which they do not have a valid prescription as a condition of returning to work. If the applicant is suspected to be under the influence of test at the time of return to drug screen, a PBT may be requested. Employees who refuse to take a test is thereby insubordinate will be considered to have produced a positive test result and shall be terminated. Upon receipt of a positive test result as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.2.010|(l)">Section PAP.22.2.010(l)</cite>, the employee shall be subject to disciplinary action, up to and including termination pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(e)">PAP.22.7.050(e)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.020">PAP.22.10.020</cite>  of this manual and the positive test sample will be sent for a confirmation test result pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(a)">Section PAP.22.7.050(a)</cite> of this manual.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Participation in an approved LCOCHC- Behavioral Health EAP treatment plan does not negate any disciplinary action for which an employee is subject of this manual, or any other tribal law or policy.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.22.7</num>
+        <heading>Conduct</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.7.010</num>
+          <heading>General Statement of Conduct</heading>
+          <text>All Employees shall conduct themselves in a manner, which is kind, courteous, ethical, and respectful to all members of the public, including fellow employees. In all instances, employees shall exercise good judgment and conduct themselves with the highest degree of professionalism. A failure to follow any conduct policies or other provisions of this personnel policy and procedure manual may result in disciplinary action, up to and including termination.</text>
+        </section>
+        <section>
+          <num>PAP.22.7.020</num>
+          <heading>Outside Employment</heading>
+          <para>
+            <num>(a)</num>
+            <text>Employees may accept simultaneous employment with another tribal agency or another employer without the express permission of the LCO Day Care Director.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>As such, outside employment will not be considered an excuse for poor performance, absenteeism, tardiness, or refusal/inability to work overtime.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.030</num>
+          <heading>Harassment</heading>
+          <para>
+            <num>(a)</num>
+            <text>The LCO Day Care has a "zero-tolerance" policy with respect to employee harassment.  Any form of unlawful employee harassment based on race, color, religion, sex, national (including Tribal) origin, age, disability, or status in any protected group is prohibited. The LCO Day Care will not tolerate interference with the ability of employees to perform their expected job duties.  Harassment of employees, tenants, or members of the public by employees will result in disciplinary action, up to and including termination.</text>
+            <para>
+              <num>(1)</num>
+              <text><u>Sexual Harassment</u>. Sexual harassment includes unwelcome sexual advances, requests for sexual favors, and other verbal, visual or physical conduct of a sexual nature. No supervisor, manager or any other employee shall threaten or insinuate, either explicitly or implicitly that another employee's refusal to submit to sexual advances will adversely affect that person's employment, wages, advancement, assigned duties, or any other condition of employment or career development. Similarly, no supervisor, manager or employee shall promise, imply, or grant any preferential treatment in connection with another employee engaging in sexual conduct.</text>
+              <para>
+                <num>(A)</num>
+                <text>Sexual harassment also includes unwelcome sexual flirtations, advances or propositions, verbal abuse of a sexual nature, subtle pressure or requests for sexual activities, unnecessary touching of an individual, graphic or verbal commentary about an individual's body, sexually degrading words used to describe an individual, a display in the workplace of sexually suggestive objects or pictures, sexually explicit or offensive jokes, or physical assault.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><u>Racial and National (including Tribal) Origin Harassment</u>. Racial and national origin harassment is verbal or physical conduct that denigrates, belittles, or shows hostility or aversion towards an individual because of his or her race or national (including tribal) origin and has the purpose or effect of creating an intimidating, hostile, or offensive working environment, or has the purpose or effect of unreasonably interfering with an individual's work performance or otherwise adversely affects an individual's employment opportunities. This includes, but is not limited to, epithets, slurs, intimidating or hostile acts that relate to race, or national (including tribal) origin, written or graphic material that denigrates, belittles, or shows hostility or aversion toward an individual because of his or her race, or national (including tribal) origin and that is placed on walls, bulletin boards or elsewhere on our premises or circulated in facilities.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><u>General</u>. Harassment under this policy may also include words, actions, or conduct committed by students, coworkers, parents, community members, customers, or suppliers of the LCO Day Care. In the event that any harassing or offensive language or conduct occurs, employees shall report it to the Human Resource Director, or designee, immediately so the matter can be addressed promptly.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text><u>Enforcement</u>.  Each member of Management is responsible for creating an atmosphere free of harassment, sexual, racial, or otherwise. Further, employees are responsible for respecting the rights of their coworkers.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If an employee experiences any job-related harassment based on sex, race, national (including tribal) origin, disability, or another factor, or believes that he or she has been treated in an unlawful, discriminatory manner, the employee shall  promptly report the incident to his or her supervisor, LCO Day Care Director, or designee, who will investigate the matter and take appropriate action. All employee complaints will be kept confidential to the maximum extent possible.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The LCO Day Care prohibits any form of retaliation against any employee for filing a bona fide complaint under this policy or for assisting in a complaint investigation. However, if, after investigating any complaint of harassment or unlawful discrimination, the LCO Day Care determines that the complaint is not bona fide and was not made in good faith or that an employee has provided false information regarding the complaint, disciplinary action may be taken against the individual who filed the complaint.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.040</num>
+          <heading>Alcohol and Drugs</heading>
+          <para>
+            <num>(a)</num>
+            <text>All employees of the Tribe are subject to the drug testing procedures.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Employees are expected to come to work with a clear mind, unimpaired by drugs or alcohol. No employee may work under the influence of alcohol, illegal drugs, or controlled substances.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Employees, while on the Tribe's property or on duty, shall not be under the influence of alcohol or illegal drugs; possess or consume alcoholic beverages; possess or consume prescription drugs in the absence of a valid prescription; or use, sell, possess, transfer, or purchase illegal drugs or controlled substances. Prescription drugs shall be used only in the manner, combination, and quantity prescribed by a licensed medical practitioner while on the Tribe's property or while on duty. As a condition of continued employment with the Tribe, all employees shall  notify the Tribe of any criminal drug statute conviction or charges against them no later than five (5) days after receiving such conviction or charges.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Drug means any substance other than alcohol capable of altering an individual's mood, perception, pain level or judgment. A prescribed drug is any substance prescribed for individual consumption by a licensed medical practitioner. An illegal drug is any drug or controlled substance, the sale or consumption of which is illegal.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The legal use of controlled substances prescribed by a licensed medical provider is not prohibited, but all employees are required to make such use known to the appropriate supervisor within five (5) days they are prescribed the controlled substance. Failure to make the legal use of a controlled substance as prescribed by a licensed medical provider to the appropriate supervisor shall result in disciplinary action up to and including termination.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.050</num>
+          <heading>Drug and Alcohol Testing Procedures</heading>
+          <text>All employees and applicants for employment are subject to drug and alcohol testing, including reasonable suspicion, pre-employment, return-to-duty. Drug tests require laboratory testing as provided by the Mandatory guidelines for Federal Workplace Drug Testing Programs pursuant to 94 FR 28101, May 15, 2015 as amended, as minimum standards for the following classes of drug and correlative cutoff concentrations: Cocaine; Opiates including opium and codeine derivatives such as Oxycodone, Oxymorphone, Hydrocodone, Hydromorphone; Amphetamines and Methamphetamines including Methylenedioxyamphetamine (MDA) and Methylenedioxyethylamphetamine (MDEA); Phencyclidine (PCP). Nothing precludes the LCO Day Care Director, Human Resource Director, or designee, in testing for substances which are not included on this list, should the LCO Day Care Director, or designee, determine it is in the best interests of the Tribe to include substances which are not listed above to ensure a drug free workplace. Employees are encouraged to contact the LCO Day Care Director, Human Resource Director, or designee, with any questions regarding drug and alcohol testing. Failure or refusal to participate in an employer-directed drug test is considered insubordination and the employee will be subject to immediate dismissal.</text>
+          <para>
+            <num>(a)</num>
+            <text><u>General Drug and Alcohol Testing Procedures</u>. In cases where an employee is required to undergo testing for the presence of alcohol or drugs including reasonable suspicion, pre-employment, and return-to-duty, the following procedures shall apply:</text>
+            <para>
+              <num>(1)</num>
+              <text>LCO-CHC using a licensed laboratory of the LCO-CHC choice that conducts substance abuse testing that is deemed appropriate by the Tribal Governing Board for business purposes; i.e., screening and confirmatory testing, will take a sufficient sample to assure that confirmation testing can occur in the event of an initial positive test result. The initial cost for this testing will be incurred by the Tribe.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The laboratory evaluation of the samples will be carried out by a laboratory that is contracted with the LCO-CHC and is certified by either the College of American Pathologists or the National Institute on Drug Abuse.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>In the event of a positive test result, a confirmation test will be performed by a laboratory specified in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(a)">Section PAP.22.7.050(a)</cite> above, using the original sample (not a new sample). The confirmation test will be based on a different analytical method of higher analytical certainty.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The employee within two (2) working days of the results shall request any further confirmation testing (using the original sample) by a laboratory specified in sub. 1(a) above, in writing. Costs of confirmation testing incurred will be paid by the employee.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The results of any drug or alcohol tests shall be kept confidential, except information shall be shared between departments as deemed necessary. All policies regarding employee personnel records shall be strictly adhered to and followed in accordance with the provisions of this Manual.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>A portable breath test (PBT) conducted by a Class 1 PBT Certified person of the LCO-CHC choice that is deemed appropriate by the Tribal Governing Board for business purposes shall be utilized for alcohol testing.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Pre-Employment Testing Procedures</u>.</text>
+            <para>
+              <num>(1)</num>
+              <text>An applicant for employment may be required to undergo testing for illegal drugs and prescribed medication for which they do not have a valid prescription as a condition of employment.  If the applicant is suspected to be under the influence of alcohol at the time of their pre-employment drug screen, a PBT may be requested.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Applicants who test positive for alcohol, illegal drugs, and/or prescribed medication for which they do not have a valid prescription, shall be denied employment.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>An applicant who initially declines a drug test will be denied employment and not eligible for employment for 90 days.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Probable Cause Testing Procedures</u>.</text>
+            <para>
+              <num>(1)</num>
+              <text>Upon a finding by an employee's supervisor that there is probable cause that the employee is either under the influence of alcohol (under the influence shall mean a blood alcohol concentration of 0.02 grams of alcohol per 100 milliliters of a person's blood or while the person has 0.02 grams of alcohol per 210 liters of a person's breath) or drug abuse that is impairing the employee's ability to carry out job-related activities, the employee shall be required to be tested for the presence of drugs or alcohol pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(c)|(3)">Section PAP.22.7.050(c)(3)</cite>, below. A finding of probable cause and directive requiring the employee to submit to testing for drugs or alcohol shall be in writing signed by the employee's supervisor. The probable cause finding shall be supported by evidence of specific, personal observations concerning job performance, appearance, behavior, speech, or bodily odors of the employee. If hearsay information is received, such information shall be corroborated by personal observations, or observations and evaluation by the LCO Day Care or designee.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Once an employee's supervisor has determined that probable cause pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(c)|(1)">Section PAP.22.7.050(c)(1)</cite>, above exists, the employee's supervisor shall immediately contact the LCO Day Care Director, Human Resource Director, or designee and convey that one of his or her employees is under the influence of alcohol or a controlled substance and that such influence is impairing that employee's ability to carry out his or her job related duties.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Upon receiving contact from an employee's supervisor, the Human Resource Director, or designee shall have the employee drug tested and if alcohol related have the employee submit to a portable breath test (PBT) conducted by a Class 1 PBT Certified person as specified in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(a)|(6)">Section PAP.22.7.050(a)(6)</cite>, above. If the employee refuses to take a test (including but not limited to a drug test, drug urine test, or PBT test) after being required to do so, the employee is thereby insubordinate and considered to be in violation of the Drug Testing Policy and shall be terminated<em>.</em></text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Upon receipt of a positive test result, the employee shall be immediately relieved of their duty station and will be subject to disciplinary action, <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(e)">Section PAP.22.7.050(e)</cite> below, and the positive test sample will be sent for a confirmation test result pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(a)">Section PAP.22.7.050(a)</cite> above. In all cases, an employee may face legal consequences for his/her actions. Upon receipt of a positive confirmation test result pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050|(a)">Section PAP.22.7.050(a)</cite> above, the employee shall be referred by the Human Resource Director, or designee to participate in the Employee Assistance Program pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.6.100|(b)">Section PAP.22.6.100(b)</cite> of this manual. Failure to comply and successfully complete an approved LCOCHC- Behavioral Health EAP treatment plan within the timeframe established in the treatment plan will result in termination.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><u>Return to Duty Procedures</u>. An employee returning to duty following a chemical dependency related leave of absence shall receive a release by a licensed physician stating that the reasons for the employee being placed on leave have been resolved.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><u>Discipline for Drug Testing Violation</u>. In all cases, an employee may face legal consequences for his/her actions.</text>
+            <para>
+              <num>(1)</num>
+              <text>Any employee who uses (or is under the influence of) alcohol and/or drugs, possesses alcohol and/or drugs or intoxicants on Tribal property or while on duty will be subject to disciplinary action, up to and including termination as follows:</text>
+              <para>
+                <num>(A)</num>
+                <text><u>First Offense</u>: The employee will be informed of a first offense in writing and will be suspended three (3) days without pay and with a negative drug test.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text><u>Second Offense</u>: If a second offense occurs, the employee shall be terminated. Such termination shall not be subject to appeal.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Any employee who refuses to take a test as established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.050">Section PAP.22.7.050</cite> will be considered insubordinate and will be terminated for insubordination. Such termination shall not be subject to appeal.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.060</num>
+          <heading>Drug Free Workplace Act Compliance</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribe hereby establishes a policy providing for a drug-free workplace as required by the Drug Free Workplace Act of 1988, 41 U.S.C. 2201 <em>et. seq.</em> As such, as required by the Act, the Tribe hereby publishes a statement notifying employees that the Tribe prohibits the unlawful manufacture, illegal distribution, dispensation, possession, or use of a controlled substance in the workplace. All employees who violate this policy shall be subject to disciplinary action, up to and including termination. As a condition of continued employment with the Tribe, all employees shall notify the Tribe of any criminal drug statute conviction or charges no later than three (3) days after receiving such conviction or charges.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>General Provisions</u>.</text>
+            <para>
+              <num>(1)</num>
+              <text><u>Consent</u>. No alcohol test may be administered, urine sample obtained, or any drug test conducted without the consent of the person being tested.  An employee gives consent to participate in any and all forms of testing as a condition of continued employment with the Tribe.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><u>Record Keeping</u>. It is essential that all necessary documentation from each form of testing is maintained in the Human Resources Department in applicable employee files for no less than 5 years. Employee violations will never expire.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><u>Notice of Conviction or Charges</u>.</text>
+              <para>
+                <num>(A)</num>
+                <text>An employee will be responsible for notifying his/her immediate supervisor in writing within five (5) day of any criminal drug statute conviction or charges for violation. The employee's supervisor shall notify the LCO Day Care Director or Human Resource Director who will notify the legal department.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>As required by law, the Legal Department will be responsible for notifying the applicable funding agency of the employee's department within ten days after receiving notice from the human resource director, or designee of an employee's criminal drug statute conviction or charges occurring in the workplace or while on duty.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text><u>Illegal Distribution or Illegal Dispensing of Controlled Substance on Tribal property</u>. Any employee who manufactures, illegally distributes, or illegally dispenses a controlled substance on Tribal property or while on duty will be terminated. Such termination shall not be subject to appeal.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.070</num>
+          <heading>Inspection and Search</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribe has the authority to inspect or search the entire workplace, including, but not limited to any office or desk when there are reasonable grounds for suspecting that the search will turn-up evidence that an employee violated any provision of this manual or otherwise engaged in work-related misconduct.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribe has the authority to inspect or search, when the inspection or search is necessary for non-investigatory work-related purposes, including locating and retrieving any information from a location within the workplace.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Tribe has the authority to inspect or search any employee's personal possessions located within the workplace when there are reasonable grounds for suspecting that the search will turn-up evidence that the employee violated any provision of this manual or otherwise engaged in work-related misconduct.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>If an employee is found to be in possession of any item or substance prohibited by this manual or fail to comply with any inspection or search conducted in accordance with this manual, the employee will be subject to appropriate disciplinary action, up to and including termination. Any illegal substances that are found, in the course of an inspection or search, will be turned over to law enforcement.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.080</num>
+          <heading>Confidentiality</heading>
+          <para>
+            <num>(a)</num>
+            <text>In the course of performing duties for the LCO Day Care, employees may obtain or become aware of confidential information, such as personnel, financial and legal information of the LCO Day Care.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Employees shall hold all Confidential Information in strict confidence and shall not directly or indirectly disclose Confidential Information or permit the release thereof to any outside person or entity except as necessary to perform employment duties or as otherwise required by law. If any question arises about whether information shall be treated as confidential, employees shall treat such information as confidential until confirmed otherwise by their director, in consultation with the legal department.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Violations of confidentiality, including the disclosure of confidential information (verbal, written or documents) as defined under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.7.080">this section</cite> shall be subject to discipline, up to and including termination.  The LCO Day Care reserves the right to prosecute any violations to fullest extent allowed under tribal, state, or federal law.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.090</num>
+          <heading>Media Inquiries</heading>
+          <text>The LCO Day Care generates public interest and persons often seek newsworthy information. Therefore, it is our policy to allow only authorized representatives to make contact with or provide information or comments to reporters and news agencies regarding the LCO Day Care. Any employee who is contacted by a reporter regarding the LCO Day Care shall inform his or her supervisor of the request for information. Prior written authorization by the LCO Day Care Director, Board Chairman or his/her designee is required prior to any media release of information.</text>
+        </section>
+        <section>
+          <num>PAP.22.7.100</num>
+          <heading>Security Measures / Limited Access Control Areas</heading>
+          <text>Maintaining security and limiting access to certain areas of the LCO Day Care's facilities is important to the continued success and is required by law in some instances. Employees shall not permit unauthorized persons, which may include Tribal employees, to enter secure and limited access-controlled areas or to access confidential or protected information.</text>
+        </section>
+        <section>
+          <num>PAP.22.7.110</num>
+          <heading>Dress and Appearance</heading>
+          <para>
+            <num>(a)</num>
+            <text>Employees shall dress and groom themselves in accordance with appropriate social and business standards. An employee's supervisor or the LCO Day Care Director retain the right to request any employee to change his or her mode of dress or grooming if deemed provocative or otherwise inappropriate. In addition, employees shall maintain good personal hygiene.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The LCO Day Care strives to ensure the comfort and safety of our employees and visitors by encouraging an environment to be free from smoke, fragrances, or unpleasant smells.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.130</num>
+          <heading>Smoking and Vaping</heading>
+          <text>The LCO Day Care is a smoke-free zone. Smoking and vaping are prohibited outside of designated areas. Employees may only smoke or vape during approved break times.</text>
+        </section>
+        <section>
+          <num>PAP.22.7.140</num>
+          <heading>Internet and Telephones</heading>
+          <para>
+            <num>(a)</num>
+            <text>All electronic and telephonic communication systems and all communications and information transmitted by, received from, or stored in these systems are the property of the LCO Day Care and as such are to be used solely for job-related purposes. The use of any software and business equipment, including, but not limited to, e-mail, internet access, facsimile machines, computers, telephones (land lines and cellular phones) and copy machines for private purposes is prohibited.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No employee may not use a pass code or voice-mail access code that has not been issued to that employee or that is unknown to the LCO Day Care. Moreover, improper use of the e-mail system (<em>e.g.</em>, distributing offensive jokes or remarks) will not be tolerated.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Cell phone usage for personal use, including calls, texting, and internet browsing, is completely prohibited in the classroom and the playground unless the employee is on an official 15 minute break.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Employees shall not use the LCO Day Care's internet, voice mail and e-mail resources, phones, and other systems in a prohibited manner, including:</text>
+            <para>
+              <num>(1)</num>
+              <text>To transmit, view, retrieve, or store any communications of a discriminatory or harassing nature or materials that are considered obscene or pornographic;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>To access pornographic internet sites, display or print any associated materials, pictures, and cartoons;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>To harass or transmit messages with derogatory or inflammatory remarks about an individual's race, sex (including pregnancy), age, disability, religion, national origin, or physical attributes or transmit abusive, profane, or offensive language;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>For non-business, personal or private use, including but not limited to game playing and personal communication not associated with business;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>To disclose any confidential or proprietary information except where such disclosure is authorized or permitted in this personnel policy and procedural manual.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Employees shall not use the LCO Day Care's internet, voice mail and e-mail resources and other systems and equipment, including but not limited to computer hardware, software, copier, fax machine and postage machine in a manner that is contrary to the provisions of any purchase or lease contract, such as unlawful copying of computer software.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Notwithstanding the LCO Day Care's right to retrieve and read any voice or electronic mail messages, such messages should be treated as confidential by other employees and accessed only by the intended recipient. Employees are not authorized to retrieve or read any voice or e-mail messages that are not sent to them. Any exception to this policy shall receive prior written approval by Management.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The LCO Day Care may monitor, record and listen to all internet, e-mail and voice mail usage, to assure compliance with its policies, for cost analysis and for legitimate business purposes.  Thus, the LCO Day Care may listen to, access, and disclose any information in the electronic communication and telephone systems, even such information or communication protected by an employee's personal password, at any time, with or without notice to the employee. Employees have no expectation of privacy in connection with the use of these systems, or the transmission, receipt, or storage of information in such systems.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.150</num>
+          <heading>Solicitation and Distribution</heading>
+          <para>
+            <num>(a)</num>
+            <text>In the interest of good housekeeping and safety, employees shall not distribute non-work literature such as leaflets, pamphlets, etc., at all times in working areas.  It is the responsibility of each employee of the LCO Day Care to keep all facilities clean and orderly.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Non-employees, other than customers and vendors, are not permitted on Tribal property for the purpose of solicitations or any other reason without the express authorization of the Tribal Governing Board.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.160</num>
+          <heading>Workplace Violence</heading>
+          <para>
+            <num>(a)</num>
+            <text>The LCO Day Care is concerned about the increased violence in society, which has also filtered into many workplaces, and has taken steps to help prevent incidents of violence from occurring at its facilities. It is our policy to expressly prohibit any acts or threats of violence against any employee, student, or visitor in or about our facilities or elsewhere at any time. We will not condone any acts or threats of violence against our employees, student, former employees or students, or visitors on the LCO Day Care's property at any time or while they are engaged in business with or on behalf of the LCO Day Care, on or off our premises.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>In keeping with the spirit and intent of this policy, and to ensure the objectives in this regard are attained, the LCO Day Care is committed to the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>To provide a safe and healthful work and educational environment;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>To take prompt remedial action, up to and including immediate termination, against any employee who engages in any threatening behavior or acts of violence or who uses any obscene, abusive, or threatening language or gestures;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>To take appropriate action when dealing with customers, former employees, or visitors to our property who engage in such behavior. Such action may include notifying the police or other law enforcement personnel and prosecuting violators of this policy to the maximum extent of the law;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>To establish viable security measures to ensure that the LCO Day Care's facilities are safe and secure for all inhabitants of this facility to the maximum extent possible and to properly handle access to the LCO Day Care's facilities by the public, students; either former or current, off-duty employees, and former employees.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Employees, former employees, customers, and visitors shall not bring or possess unauthorized firearms or other weapons onto the LCO Day Care's premises. Any employee who displays a tendency to engage in violent, abusive, or threatening behavior or who otherwise engages in behavior that the LCO Day Care, in its sole discretion, deems offensive or inappropriate, or who possesses a firearm or weapon in violation of this policy will be subject to disciplinary action, up to and including termination or in the case of students, disciplinary action up to and including expulsion.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Employees have a "duty to warn" their supervisorof any suspicious workplace activity or situations or incidents that they observe or that they are aware of that involve other employees, former employees, customers, or visitors and that appear problematic. This includes, for example, threats or acts of violence, aggressive behavior, offensive acts, threatening or offensive comments or remarks, and the like. Employee reports made pursuant to this policy will be held in confidence to the maximum possible extent. The LCO Day Care will not condone any form of retaliation against any employee for making a report under this policy.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.7.170</num>
+          <heading>Off-Duty Misconduct</heading>
+          <text>Employees shall not engage in off-duty misconduct which is deemed detrimental to the Tribe, LCO Day Care or children. While it is impossible to predict every detrimental situation, the LCO Day Care may determine that off-duty misconduct is adverse to the Tribe, LCO Day Care, or children because it is serious in nature; is at odds with an employee's job duties; how the conduct is perceived to children and families; or is notorious and has the potential to discredit the Tribe and/or LCO Day Care.</text>
+        </section>
+        <section>
+          <num>PAP.22.7.180</num>
+          <heading>Policy Regarding Use of Social Media by Employees</heading>
+          <para>
+            <num>(a)</num>
+            <text>While the LCO Day Care encourages its employees to enjoy and make good use of their off-duty time, certain activities on the part of employees may become a concern if they have the effect of impairing the work of any employee; harassing, demeaning, or creating a hostile working environment for any employee; disrupting the smooth and orderly flow of work within the office; or harming the goodwill and reputation of the LCO Day Care. In the area of social media (print, broadcast, digital, and online services such as Facebook, LinkedIn, Myspace, Plaxo, and Twitter, among others), employees may use such media in any way they choose as long as such use does not produce the adverse consequences noted above. For this reason, the following provisions apply regarding an employee's use of social media, both on and off duty:</text>
+            <para>
+              <num>(1)</num>
+              <text>An employee shall be subject to disciplinary action, up to and including termination of employment, depending upon the severity and repeat nature of the offense, if an employee publishes any personal information about the employee, another employee of the LCO Day Care, the LCO Day Care and its officials, the Tribe and its officials, or a tribal member in any public medium (print, broadcast, digital, or online) that:</text>
+              <para>
+                <num>(A)</num>
+                <text>has the potential or effect of involving the employee, their coworkers, tribal members or the LCO Day Care in any kind of dispute or conflict with other employees or third parties;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>interferes with the work of any employee;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>creates a harassing, demeaning, or hostile working environment for any employee;</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>disrupts the smooth and orderly flow of work within the office, or the delivery of services to tribal members;</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>harms the goodwill and reputation of the LCO Day Care in the community at large; or</text>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>tends to place in doubt the reliability, trustworthiness, or sound judgment of the person who is the subject of the information.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>No employee may use the LCO Day Care's equipment or facilities for furtherance of non-work-related social media related activities or relationships without the express advance permission of their supervisor.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Employees who conduct themselves in such a way that their social media related actions toward and relationships with each other interfere with or damage work relationships, disrupt the flow of work or tribal member relations, or cause unfavorable publicity in the community, may be subject to discipline.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Use of social media that involves any kind of criminal activity or harms the rights of others may result in criminal prosecution or civil liability to those harmed, or both.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Social media access and use involving LCO Day Care equipment and resources are subject to the LCO Day Care's computer and internet policy at all times.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The provisions in this policy are not intended to restrict communications regarding the terms and conditions of the workplace.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>How an employee uses social media is not a matter of concern as long as it is consistent with the aforementioned provisions on this policy.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.22.8</num>
+        <heading>Safety</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.8.010</num>
+          <heading>General Rules</heading>
+          <para>
+            <num>(a)</num>
+            <text>The safety of employees is important to the LCO Day Care. Fire extinguishers, exits and first-aid kits are available in marked locations around the LCO Day Care.  Employees shall strictly adhere to all applicable safety regulations and comply with the following general rules:</text>
+            <para>
+              <num>(1)</num>
+              <text>Employees shall report immediately all accidents or injuries to a supervisor without exception;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Employees may smoke only in designated areas;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Employees shall  be careful and take necessary precautions when operating, cleaning, or repairing any machinery;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Employees shall  be present prior to starting any operation or task which calls for more than one employee;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Employee shall not attempt to operate equipment without authorization or proper training or certification;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The LCO Day Care will not tolerate horseplay or practical jokes. Accidents or injuries resulting from such horseplay or conduct shall not be considered work related.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.8.020</num>
+          <heading>Accidents or Injuries</heading>
+          <para>
+            <num>(a)</num>
+            <text>If an accident or injury occurs, until medical help arrives employees should try to provide aid and comfort to the injured person. Employees should try to keep the circumstances of any accident or injury fresh in their minds so that the incident can be reported accurately and to provide information that may prevent a repeated incident.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Within 24 hours, the injured employee is required to see the LCO Day Care Director when possible and fill out a "Report of first Injury" form. The "Report of First Injury" form is available from the LCO Day Care Director  or the Human Resource Director. This form is an important first step in case a Workers Compensation benefit is to be filed.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Reporting of Conflicts with Staff and Students</u>. In the event of any type of conflict, confrontation, verbal or physical altercation, the employee and/or student are to contact the building Principal and fill-out a "Report of First Injury" form. The "Report of First Injury" form is available from the LCO Day Care Director or the Human Resource Director. This form is an important first step in case a Workers Compensation benefit is to be filed. After an altercation of any kind, all parties involved are to submit a written explanation of what occurred to their immediate supervisor..</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.8.030</num>
+          <heading>Protective Equipment</heading>
+          <text>The LCO Day Care will furnish required safety equipment to employees if the work requires such equipment.</text>
+        </section>
+        <section>
+          <num>PAP.22.8.040</num>
+          <heading>Personal Responsibility</heading>
+          <text>All employees shall take personal responsibility in the performance of all workplace related activities. If at any time an employee reasonably determines that a workplace related activity is unsafe or warrants protective equipment, the employee shall make all reasonable efforts to remedy the situation.</text>
+        </section>
+      </container>
+      <container>
+        <num>PAP.22.9</num>
+        <heading>Problem Solving</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.9.010</num>
+          <heading>Scope</heading>
+          <para>
+            <num>(a)</num>
+            <text><u>Problem Solving Process</u>. When people work closely together it is only natural that problems, questions, or conflict may sometimes arise. It is in the best interests of the LCO Day Care and all employees that these issues be resolved as quickly and fairly as possible; therefore, the LCO Day Care supports an "open-communication policy" to encourage addressing these issues. The following "Problem Solving Process" has been designed to provide guidelines for resolution of questions, problems, or conflicts:</text>
+            <para>
+              <num>(1)</num>
+              <text>If you have a work related or personal problem that you think the LCO Day Care can help you resolve, you are encouraged to discuss it with your supervisor. Your supervisor is usually in the best position to help you.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If you do not get an answer, or you are not satisfied with the answer, the issue should be written down and presented to the LCO Day Care Director.  The LCO Day Care Director will facilitate a meeting to assist with mutually resolving the issue.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>In the unlikely situation that these steps have not resolved the issue, you may take your problem to the  Human Resources Director.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Chain of Command</u>. All employees are required to follow the chain of command, with no exceptions. The chain of command consists of and is limited to the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Supervisor</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Director</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Human Resources Director</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Executive Director</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Open Communication Policy</u>. The LCO Day Care supports open lines of communication between employees, which assures all employees concerns will be heard and considered. It is the belief and commitment of the LCO Day Care to maintain direct lines of communication and good working relationships with all employees. Problems arise in all workplaces and this process is designated to identify and correct those problems and issues in a fair, equitable and timely manner. It should be noted that not all problems or issues will have an outcome that all parties agree with but in no circumstances will insubordinate behavior or communications be tolerated.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.22.10</num>
+        <heading>Disciplinary Action and Appeal</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.10.010</num>
+          <heading>Consent</heading>
+          <text>The Appeals Procedure constitutes a contract between the LCO Day Care and the employee and establishes the framework under which employees may appeal disciplinary action imposed under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.22.10">this subchapter</cite> or employment claims, provided no employee can appeal any disciplinary action based on activity that results in an arrest and conviction. In addition, regarding employment claims, it is important to note that nothing in this personnel policy and procedural manual shall be construed as the LCO Day Care consenting to application of any law or waiving applicable defenses, including the defense that the subject law does not apply to the LCO Day Care.</text>
+        </section>
+        <section>
+          <num>PAP.22.10.020</num>
+          <heading>Grounds for Disciplinary Action</heading>
+          <para>
+            <num>(a)</num>
+            <text>Employees shall perform assigned duties at or above satisfactory levels; they shall follow standards of workplace behavior contained in this manual and comply strictly with all applicable laws, rules, and regulations. A system of progressive discipline will be utilized, when appropriate, to afford employees an opportunity to correct behavior. Therefore, verbal and written warnings are utilized as a corrective action tool and will not be subject to the appeal procedures.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>An employee may be suspended for any conduct which results in an arrest, pending the determination of the LCO Day Care Director of the seriousness of the offense. Conduct by an employee which results in a felony arrest and/or felony conviction as defined under state and federal law will result in termination.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The LCO Day Care reserves the right to impose discipline for any of the actions listed in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.020">this section</cite>; such action may include a verbal warning, a write-up, suspension and /or termination:</text>
+            <para>
+              <num>(1)</num>
+              <text>Incompetence;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Neglect of duty;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Insubordination;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Refusal to work;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Willful misconduct;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Any habitual noncompliance with DCF 251 regulations;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>False representation in conjunction with job performance;</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Intoxication or use of intoxicants during working hours;</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Failure to pass a drug screen;</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>Conviction of any felony either in performance of job duties, or in private affairs;</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text>Proven allegations of child abuse, neglect, or endangerment;</text>
+            </para>
+            <para>
+              <num>(12)</num>
+              <text>Negligence or willful damage to tribal property;</text>
+            </para>
+            <para>
+              <num>(13)</num>
+              <text>Discourteous treatment of the public or fellow employees during working hours;</text>
+            </para>
+            <para>
+              <num>(14)</num>
+              <text>Job performance which results in serious harm to the employee's program;</text>
+            </para>
+            <para>
+              <num>(15)</num>
+              <text>Failure to properly report to work on time;</text>
+            </para>
+            <para>
+              <num>(16)</num>
+              <text>Unauthorized disclosure of confidential information;</text>
+            </para>
+            <para>
+              <num>(17)</num>
+              <text>Conflict of interest;</text>
+            </para>
+            <para>
+              <num>(18)</num>
+              <text>Theft;</text>
+            </para>
+            <para>
+              <num>(19)</num>
+              <text>Falsification of timecards;</text>
+            </para>
+            <para>
+              <num>(20)</num>
+              <text>Willful violation of any Tribal law, rule, regulations, or any deliberate action that is detrimental to the LCO Day Care or Tribe;</text>
+            </para>
+            <para>
+              <num>(21)</num>
+              <text>Willful violation of security or safety rules;</text>
+            </para>
+            <para>
+              <num>(22)</num>
+              <text>Negligence or any careless action which endangers the life or safety of another person;</text>
+            </para>
+            <para>
+              <num>(23)</num>
+              <text>Unauthorized possession of dangerous or illegal firearms, weapons, or explosives on the LCO Day Care's property or while on duty;</text>
+            </para>
+            <para>
+              <num>(24)</num>
+              <text>Engaging in criminal conduct or acts of violence, or making threats of violence toward anyone on the LCO Day Care's premises or when representing the LCO Day Care;</text>
+            </para>
+            <para>
+              <num>(25)</num>
+              <text>Provoking a fight on LCO Day Care or Tribal property;</text>
+            </para>
+            <para>
+              <num>(26)</num>
+              <text>Refusing to obey instructions properly issued by Management;</text>
+            </para>
+            <para>
+              <num>(27)</num>
+              <text>Refusing to help out on a special assignment;</text>
+            </para>
+            <para>
+              <num>(28)</num>
+              <text>Threatening, intimidating, or coercing fellow employees on or off the premises – at any time, for any purpose;</text>
+            </para>
+            <para>
+              <num>(29)</num>
+              <text>Dishonesty; willful falsification or misrepresentation on the application for employment or other work records; falsifying other data requested by the LCO Day Care;</text>
+            </para>
+            <para>
+              <num>(30)</num>
+              <text>Giving confidential or proprietary Tribal information to competitors, other organizations, the general public, or to unauthorized employees; working for a competing business while still employed by the LCO Day Care, breach of confidentiality of personnel information;</text>
+            </para>
+            <para>
+              <num>(31)</num>
+              <text>Malicious gossip and/or spreading rumors; engaging in behavior designed to create discord and lack of harmony; interfering with another employee on the job;</text>
+            </para>
+            <para>
+              <num>(32)</num>
+              <text>Poor work performance;</text>
+            </para>
+            <para>
+              <num>(33)</num>
+              <text>Leaving work before the end of a workday or not being ready to work at the start of a workday without approval of Management; stopping work before time specified for such purposes, unless authorized by law;</text>
+            </para>
+            <para>
+              <num>(34)</num>
+              <text>Any violation of the Telephone and Internet policy.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.10.030</num>
+          <heading>Types of Disciplinary Actions</heading>
+          <para>
+            <num>(a)</num>
+            <text>Employees must perform assigned duties at or above satisfactory levels, follow standards of workplace behavior contained in this personnel policy and procedural manual and comply strictly with all applicable laws, rules and regulations. A system of progressive discipline will be utilized, when appropriate, to afford employees an opportunity to correct behavior, however some personnel infractions are severe enough to impose any of the below-mentioned disciplinary actions, up to and including termination. Disciplinary actions may be handled in any manner deemed appropriate by the LCO Day Care. This may include, but is not limited to, the following:</text>
+            <para>
+              <num>(1)</num>
+              <text><u>Employee Warning</u>.</text>
+              <para>
+                <num>(A)</num>
+                <text>An employee may receive a verbal or written warning from their supervisor to rectify behavior which requires disciplinary action.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The supervisor shall discuss with the employee the seriousness of the problem and the possible consequences of a failure to correct the problem. The supervisor shall review applicable policies and will document the meeting.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The LCO Day Care, shall maintain all employee warnings in an employee's personnel file in the event that further progressive discipline is necessary.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><u>Suspension</u>.</text>
+              <para>
+                <num>(A)</num>
+                <text>An employee may be recommended for suspension by their supervisor when the employee's behavior warrants such disciplinary action. All suspensions are without pay.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Upon return from suspension, the supervisor shall meet with an employee regarding the nature of the problem. A corrective action plan may be developed with the employee including specific timelines for completion.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The LCO Day Care, shall document all suspensions and maintain all corrective action plans in the employee's personnel file in the event that further progressive discipline is necessary.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><u>Probationary Period in lieu of Termination</u>.</text>
+              <para>
+                <num>(A)</num>
+                <text>In lieu of termination an employee may be placed on a probationary period for a serious violation of this personnel policy and procedural manual, as recommended by the supervisor. If during this period an employee has not shown improvement or adequately addressed the issues surrounding the probationary period in lieu of termination the supervisor may recommend the termination of the employee's employment.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Employees placed on a probationary period pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.030">this section</cite> are eligible for holiday leave and funeral leave. Such employees cannot use Personal Time Off until the completion of their probationary period.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>At the end of the probationary period pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.030">this section</cite>, the supervisor shall  prepare a written performance evaluation and discuss with the employee the problem causing the probationary period as well as the employee's overall job performance.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>The LCO Day Care, shall document all probationary periods pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.030">this section</cite> and maintain all written performance evaluations pertaining to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.030">this section</cite> in the employee's personnel file in the event that further progressive discipline is necessary.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text><u>Termination</u>.</text>
+              <para>
+                <num>(A)</num>
+                <text>An employee may be recommended for termination from employment by their supervisor at any time, depending upon the severity of the offense.  The recommendation must be written in a manner that clearly states the justifiable reason and forwarded to the Director.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The Director shall document all terminations and provide a copy of all documentation to the Human Resources designee.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The LCO Day Care retains the sole discretion to determine what behavior warrants disciplinary action and what type of disciplinary action will be imposed. The LCO Daycare reserves the right to terminate employees at any time for any reason that does not violate applicable law with or without notice and with or without prior resort to other means of discipline.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.10.040</num>
+          <heading>Disciplinary Action Appeal Procedure</heading>
+          <para>
+            <num>(a)</num>
+            <text><u>Appeal Policy</u>.</text>
+            <para>
+              <num>(1)</num>
+              <text>It is the policy of the Tribe to ensure fair and equitable treatment for all employees. Therefore, the Tribe hereby issues a waiver of its sovereign immunity pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.1.3.010">Section TCT.1.3.010</cite> to all non-contracted employees for the limited purpose of appealing in Tribal Court as detailed in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.040">this section</cite>, any suspension or termination received by an employee pursuant <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.1.12.020">Section PAP.1.12.020</cite> of this manual. Probationary employees may appeal a termination. Verbal and written warnings are corrective action tools and thus are not subject to appeal.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Any additional claims asserted by an employee against the Tribe, must be filled pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.2.9.010">Section TCT.2.9.010</cite>. The Tribe has not waived its sovereign immunity with regard to any claims filed pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.2.9.010">Section TCT.2.9.010</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Appeal Procedures</u>. A formal appeal will be filed and processed in the manner described below, except that time limits may be waived or extended by written mutual consent of the parties involved.</text>
+            <para>
+              <num>(1)</num>
+              <text><u>Appeal</u>. The employee will submit a written statement detailing the issue being appealed within five (5) working days of receiving a suspension or termination pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.020">Section PAP.22.10.020</cite> of this manual directly to the LCO Tribal Court.  An employee's failure to file an appeal within the specified time period will be considered a waiver of the formal appeal procedure and the disciplinary action will be final.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If at any time during the process the employee and the employee's supervisor are able to agree on a solution to the appeal filed, they may submit a joint statement outlining the acceptable terms to the LCO Day Care Director. If the terms are approved by the LCO Day Care Director, then the matter is settled with copies provided to the employee and the supervisor with a copy retained by the LCO Day Care Director.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Hearings</u>.</text>
+            <para>
+              <num>(1)</num>
+              <text><u>Scheduling of Hearings</u>.</text>
+              <para>
+                <num>(A)</num>
+                <text>The employment may appeal to the employment decision directly to  the Tribal Court and request an initial hearing within three days of receiving the suspension or termination.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The Tribal Court shall notify the employee of the initial hearing date of their employment appeal by personal delivery or certified mail at least five (5) days prior to the scheduled hearing date.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The Lac Courte Oreilles Office of the Attorney General shall be notified of all appeals by the Tribal Court. The Human Resource Director, LCO Day Care Director, or designee, shall provide the Lac Courte Oreilles Office of the Attorney General with the entire record of the grievance and all information submitted in connection to the appeal.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>All employees requested to testify at an employment appeal hearing, shall  attend the hearing when directed by the Human Resource Director, or designee. Failure to appear may result in a monetary fine or disciplinary action or both. The LCO Day Care recognizes that some employees possess official immunity and may not be compelled to testify.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><u>Tribal Court Hearings</u>. The Tribal Court shall conduct an employment appeal hearing pursuant to the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.040">this section</cite>. Any reliance by the Tribal Court upon the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2">Chapter TCT.2</cite> of the LCOTCL – Court and Civil Procedure Code shall be secondary to the provisions of this ordinance.</text>
+              <para>
+                <num>(A)</num>
+                <text>The Tribal Court shall schedule an initial appearance within thirty (30) days of the filing, at which time the LCO Day Care shall enter its initial plea, the Tribal Court shall set forth a scheduling order pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.2.9.050">Section TCT.2.9.050</cite> and shall schedule a trial date pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.2.10.010">Section TCT.2.10.010</cite>. The initial trial date shall be scheduled within sixty (60) days of the filing.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the Trial shall be conducted pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2.10">Subchapter TCT.2.10</cite>.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The Tribal Court shall determine, by a preponderance of the evidence, whether the LCO Day Care reasonably believed that the employee committed any of the policy violation(s) upon which the discipline was based and whether the employer followed the appropriate procedural steps established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.020">Section PAP.22.10.020</cite> of this manual.</text>
+                <para>
+                  <num>(i)</num>
+                  <text>The Tribal Court is required to defer to interpretations of this ordinance as made by the LCO Day Care [pursuant to the Chevron Doctrine] unless such interpretations are unreasonable.  An action determined to be unreasonable shall be established by clear and convincing evidence.</text>
+                </para>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>If the Tribal Court determines that the employer had a reasonable basis to believe that it met the burden of proof regarding any of the violations and the appropriate procedural steps established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.020">Section PAP.22.10.020</cite> of this manual were followed, it shall uphold the decision of the employer; and shall uphold all disciplinary measures taken without substituting its judgment for that of the employer.</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>If the Tribal Court determines that the employer did not have a reasonable basis to believe that it met the burden of proof regarding any of the violations and procedural steps established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.020">Section PAP.22.10.020</cite> of this manual, it shall overturn the decision of the employer and order that the employee's personnel file reflect such decision conditioned on the following:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>Any award of back wages or other benefits that may have been withheld from the employee shall be limited to ninety (90) days;</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>No attorney's fees may be awarded as established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.2.11.060">Section TCT.2.11.060</cite>.</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>Any award of back wages shall be reduced by all amounts earned through other employment or unemployment insurance during the time between the employee's separation and the conclusion of this action;</text>
+                </para>
+                <para>
+                  <num>(iv)</num>
+                  <text>The employee has a duty to mitigate any award of back wages by attempting to retain other employment. In order to provide proof of mitigation, the employee shall  provide evidence to the Tribal Court that the employee has applied for at least one (1) equivalent position per week.</text>
+                </para>
+                <para>
+                  <num>(v)</num>
+                  <text>The employee is not guaranteed restoration to his or her previous position. Such reinstatement shall occur at the discretion of the LCO Day Care. If the LCO Day Care restores the employee to his or her previous position, the Human Resource Director shall meet with the employee and the department head or director and develop a work reinstatement plan including specific timelines and tasks for reintroduction into the workforce.</text>
+                </para>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>The Tribal Court may issue its decision orally immediately. In all cases it shall issue a written decision within forty-five (45) days as established by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.2.11.040">Section TCT.2.11.040</cite> and shall provide the parties with notice thereof. If the Tribal Court does not issue a written decision within forty-five (45) days, it is presumed that the Tribal Court has determined that the employer had a reasonable basis to believe that it met the burden of proof and as a result the action of the employer shall be upheld. The written decision shall include findings of fact, a conclusion regarding each violation, and any money judgments as conditioned in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.040|(e)|(2)|(E)">Section PAP.22.10.040(e)(2)(E)</cite>, above. The decision shall be provided to each party by first-class mail to the person's last known address; electronic mail to the party and to the party's attorney or lay advocate who has filed a notice of appearance in the action; or by delivery to such person, the person's home, or the person's office.</text>
+              </para>
+              <para>
+                <num>(G)</num>
+                <text>If either party disagrees with the decision of the Tribal Court, that party may appeal the decision to the Court of Appeals by filing a notice of appeal within ten (10) working days of the party's receipt of the decision. The filing of an appeal by the employer shall stay any action, pending resolution of the appeal by the Court of Appeals. Failure to abide by the timeline stated in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.040">this section</cite> shall be deemed a waiver of the disciplinary appeal and the Tribal Court's decision shall be deemed as final. A Clerk of Court shall submit to the Court of Appeals the record of the employment appeal hearing within five (5) working days of receiving a copy of the notice of appeal. The Lac Courte Oreilles Office of the Attorney General shall be notified of all appeals of a Tribal Court decision pursuant to the methods established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.040|(c)|(2)|(F)">Section PAP.22.10.040(c)(2)(F)</cite> above.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><u>Court of Appeals Hearings</u>. Either party may request a review of the Tribal Court's decision by the Lac Courte Oreilles Court of Appeals. The Court of Appeals review shall be limited to the information presented to the Tribal Court and the limited review is to determine whether the Tribal Court committed a clear error. If the Court of Appeals finds any clear errors in the decision of the Tribal Court, it shall overturn the decision and may remand the matter back the Tribal Court for further review consistent with the Court of Appeals findings.</text>
+              <para>
+                <num>(A)</num>
+                <text>The Court of Appeals shall have the discretion to decide whether to schedule an oral argument pertaining to an employment appeal.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The Court of Appeals may issue a decision without an oral argument after reviewing the decision of the Tribal Court and the evidence submitted during the grievance and appeal processes.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>In all cases, the Court of Appeals shall review the findings of fact and conclusions of law solely to determine whether the Tribal Court committed a clear error. A "clear error" occurs when a decision is not reasonably supported by the facts, law, standard of review, or evidentiary standards.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>If the Court of Appeals determines that the Tribal Court committed a clear error, regarding any of the violations and procedural steps established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.020">Section PAP.22.10.020</cite> of this manual, it shall overturn the decision of the Tribal Court and may remand the matter back the Tribal Court for further review consistent with the Court of Appeals findings</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>If the Court of Appeals determines that the Tribal Court did not commit a clear error(s) regarding any of the violations and the procedural steps established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PAP.22.10.020">Section PAP.22.10.020</cite> of this manual, it shall uphold the decision of the Tribal Court.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+      </container>
+      <container>
+        <num>PAP.22.11</num>
+        <heading>Miscellaneous Employee Procedures</heading>
+        <prefix>Subchapter</prefix>
+        <section>
+          <num>PAP.22.11.010</num>
+          <heading>Mandated Reporting</heading>
+          <text>A mandated reporter, having reasonable cause to suspect that a child seen in the course of professional duties has been abused or neglected or having reason to believe that a child seen in the course of professional duties has been threatened with abuse or neglect and that abuse or neglect of the child will occur, shall report those reasons to law enforcement or Lac Courte Oreilles Indian Child Welfare.</text>
+          <para>
+            <num>(a)</num>
+            <text><u>Mandated Reporters</u>. All LCO Day Care Employees shall be considered Mandated Reporters.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Reporting Law Provisions</u>.</text>
+            <para>
+              <num>(1)</num>
+              <text>A mandated reporter <u>shall</u> make a report when:</text>
+              <para>
+                <num>(A)</num>
+                <text>The reporter has reasonable cause to suspect that abuse or neglect has occurred; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The reporter has a reason to believe that abuse or neglect has been threatened and will occur.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The reporter's suspicion or belief comes from information obtained from having seen the child in the course of doing professional duties.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Anyone <u>may</u> make a report at any time.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>No one making a report may be fired from his or her job for making the report.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>A mandated reporter's intentional failure to report shall result in disciplinary action.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>No information that would identify the reporter may be released to the subject of the report, the child's parent, the child's foster parent, researchers, parents involved in custody proceedings, or an attorney representing the subject of the report.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Good faith reporters have immunity from civil and criminal liability that results from the report.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Definitions of Abuse</u>.</text>
+            <para>
+              <num>(1)</num>
+              <text><u>Physical Abuse</u>. Physical injury inflicted on a child by other than accidental means reasonable punishment of a child by a parent is not physical abuse even if it includes corporal punishment.  However, punishment whose reasonably foreseeable outcome is or could be the child's serious physical injury is not reasonable and should be reported.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><u>Sexual Abuse</u>. Sexual intercourse or sexual contact with a child under eighteen (18), sexual assault or sexual exploitation of a child, allowing the prostitution of a child, or a child's forced viewing of sexual activity.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><u>Emotional Abuse</u>. Emotional abuse is not defined, but criteria for inferring its presence are given.  This is called emotional damage.  Emotional damage shall  be harm to a child's psychological or intellectual functioning.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text><u>Neglect</u>. Failure, refusal, or inability on the part of the caretaker to provide necessary care, food, clothing, medical or dental care, or shelter.  The neglect <u>must</u> be caused by a reason other than poverty and seriously endanger the physical health of the child.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>For details and additional information on <u>mandated reporting</u> consult the Human Resource Director, or LCO Day Care Director.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.11.020</num>
+          <heading>Cultural Involvement and Responsibilities</heading>
+          <text>All employees shall be supportive of the mission, philosophy, concept, policies, and procedures of the LCO Day Care.</text>
+          <para>
+            <num>(a)</num>
+            <text><u>Assemblies</u>.  On the first morning of the week there is a LCO Day Care-wide assembly.  All teachers, paraprofessionals and support staff shall be in attendance and on time to participate and supervise when their schedules permit.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Powwows</u>.  During the course of the year there are many powwows that staff, unless pre-excused, are required to attend.</text>
+            <para>
+              <num>(1)</num>
+              <text><u>Student powwows</u>.  All teaching, paraprofessional and support staff is required to attend and supervise all student pow wows during the LCO Day Care year.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><u>Veteran's Powwow</u>. Staff is required to sign up and work predetermined hours on Veteran's Day for the Veteran's Powwow.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Graduation Celebration</u>.  Staff is required to sign up and work predetermined hours during the end-of-the-year graduation celebration.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Staff, unless pre-excused, are required to attend Ojibwe Language classes when offered at the LCO Day Care.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Staff is required to participate in on-going cultural awareness activities.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.11.030</num>
+          <heading>LCO Day Care Safety and Threats</heading>
+          <text>In the event of natural or manmade occurrences there shall be times when specific procedures should be followed. These procedures shall be followed accurately and immediately.  These may include: tornadoes, armed or unarmed intruders, bomb threats, fires, riots, etc.</text>
+          <para>
+            <num>(a)</num>
+            <text>You are responsible to attend specific training during the pre-service at the start of each LCO Day Care year. If, for any reason, you cannot attend this training, you are responsible to acquire the necessary information.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>You are responsible to maintain confidentiality regarding codes, protocols and procedures obtained at this training. Drills are scheduled throughout the year to practice appropriate responses.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>During drills and crisis situations you are to remain off all communication devices as communication shall be left open during these situations.</text>
+          </para>
+        </section>
+        <section>
+          <num>PAP.22.11.040</num>
+          <heading>General Staff Responsibilities</heading>
+          <text>Procedures shall be followed and proper documents shall be submitted to assure compliance with all governing bodies.</text>
+          <para>
+            <num>(a)</num>
+            <text><u>Laptops</u>. If you are assigned a laptop, you are responsible for the control, security, and use of this tool.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Staff Meetings and In-service</u>. Attendance at these activities is required by all staff unless prior arrangements are made.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>LCO Day Care Property</u>. All LCO Day Care property under your control (i.e., computers, cameras, printers, palm pilots, etc.) is your responsibility. If stolen, broken, or lost, report immediately to the proper authorities or immediate supervisor. You may be liable for the replacement of such items.</text>
+          </para>
+        </section>
+      </container>
+    </container>
+  </codify:insert>
+</document>
