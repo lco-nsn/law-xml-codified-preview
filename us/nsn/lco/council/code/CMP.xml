@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Title</prefix>
   <num>CMP</num>
   <heading>Commercial Practices</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>CMP.1</num>
     <heading>Gaming Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>The Tribe declares that the public good and the welfare of the Tribe requires the enactment of this ordinance in order to improve the Tribe's economic self-sufficiency, to enable the Tribe to better serve the social, economic, educational, and health and safety needs of its members and visitors, and to provide its members with opportunities to improve their own economic circumstances, which is enacted pursuant to the Tribe's inherent sovereign authority which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, §§ 1 (m)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">(n)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Tribe of Lake Superior Chippewa Indians empowers the Tribal Governing Board: "to delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, § 1 (m)</cite>; and "regulate, by enactment of ordinances, the conduct of business within the territory of the Band, including the power to impose taxes or license fees upon members and non-members doing business within the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1 (n)</cite>.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.1.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.1.1.010</num>
         <heading>Title</heading>
@@ -187,9 +187,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.1.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.1.2.010</num>
         <heading>General Definitions</heading>
@@ -487,9 +487,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.1.3</num>
       <heading>General</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.1.3.010</num>
         <heading>Ownership of Gaming</heading>
@@ -699,9 +699,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.1.4</num>
       <heading>Administration</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.1.4.010</num>
         <heading>Duties of the Tribal Governing Board</heading>
@@ -1072,9 +1072,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.1.5</num>
       <heading>Table Games</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.1.5.010</num>
         <heading>General</heading>
@@ -1826,9 +1826,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.1.6</num>
       <heading>Licensing of Gaming Operations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.1.6.010</num>
         <heading>Prohibition of Non-Licensed Gaming Operations</heading>
@@ -2184,9 +2184,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.1.7</num>
       <heading>Criminal Activity</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.1.7.010</num>
         <heading>Criminal Activity</heading>
@@ -2200,9 +2200,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.1.8</num>
       <heading>Amendments</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.1.8.010</num>
         <heading>Amendments</heading>
@@ -2217,17 +2217,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>CMP.2</num>
     <heading>Tribal Consumer Financial Services Regulatory Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>The Tribe declares that the public good and the welfare of the Tribe requires the enactment of this ordinance in order to improve the Tribe's economic self-sufficiency, to enable the Tribe to better serve the social, economic, educational, and health and safety needs of its members and visitors, and to provide its members with opportunities to improve their own economic circumstances, which is enacted pursuant to the Tribe's inherent sovereign authority which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1(h) of the Amended Constitution and By-laws of the Lac Courte Oreilles Tribe of Lake Superior Chippewa Indians</cite> empowers the tribal governing board to "To engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people."</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.1.010</num>
         <heading>Title</heading>
@@ -2477,9 +2477,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.2.010</num>
         <heading>General Definitions</heading>
@@ -2590,9 +2590,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.3</num>
       <heading>Tribal Regulatory Authority</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.3.010</num>
         <heading>Establishment and Purpose</heading>
@@ -3011,9 +3011,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.4</num>
       <heading>Licenses</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.4.010</num>
         <heading>Applicability</heading>
@@ -3355,14 +3355,14 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.5</num>
       <heading>[Reserved]</heading>
-      <prefix>Subchapter</prefix>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.6</num>
       <heading>Licensees</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.6.010</num>
         <heading>Compliance</heading>
@@ -3510,9 +3510,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.7</num>
       <heading>Authorized Consumer Financial Services</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.7.010</num>
         <heading>General Authority</heading>
@@ -3820,9 +3820,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.8</num>
       <heading>Enforcement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.8.010</num>
         <heading>Jurisdiction</heading>
@@ -3929,9 +3929,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.9</num>
       <heading>Resolving Borrower Disputes</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.9.010</num>
         <heading>General Principles</heading>
@@ -4166,9 +4166,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.10</num>
       <heading>Uniform Commercial Code; Secured Transactions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.10.010</num>
         <heading>Adoption by Reference</heading>
@@ -4273,9 +4273,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.11</num>
       <heading>Uniform Commercial Code; Leases</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.11.010</num>
         <heading>Adoption by Reference</heading>
@@ -4371,9 +4371,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.2.12</num>
       <heading>Uniform Commercial Code; Lease Distinguished from Security Interest</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.2.12.010</num>
         <heading>Adoption by Reference</heading>
@@ -4461,13 +4461,13 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>CMP.6</num>
     <heading>Workers' Compensation Ordinance of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.6.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.6.1.010</num>
         <heading>Purpose</heading>
@@ -4483,9 +4483,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.6.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.6.2.010</num>
         <heading>Definitions</heading>
@@ -4568,9 +4568,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.6.3</num>
       <heading>Eligibility</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.6.3.010</num>
         <heading>Persons Eligible</heading>
@@ -4689,9 +4689,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.6.4</num>
       <heading>Procedures</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.6.4.010</num>
         <heading>Submission of Claims</heading>
@@ -4709,9 +4709,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.6.5</num>
       <heading>Benefits</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.6.5.010</num>
         <heading>Medical Care, Benefits and Examination of Claims</heading>
@@ -4828,9 +4828,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CMP.6.6</num>
       <heading>Review</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CMP.6.6.010</num>
         <heading>Fraudulent Claims/Reporting and Investigations</heading>

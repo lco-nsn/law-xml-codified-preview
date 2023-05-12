@@ -58,17 +58,17 @@
   </procedural-data>
   <codify:insert path="PAP" after="PAP.14" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.15.1.010">
     <container>
+      <prefix>Chapter</prefix>
       <num>PAP.15</num>
       <heading>Kinship Care and Long-Term Kinship Care Program Policies and Procedures</heading>
-      <prefix>Chapter</prefix>
       <text class="center">
         <strong>Preamble</strong>
       </text>
       <text>The Lac Courte Oreilles Kinship Care and Long-Term Kinship Care Program is managed by the Lac Courte Oreilles Indian Child Welfare Program to help support a child who lives outside of his or her home with a relative. As required by the Cross-Governmental Contract Agreement by and between Wisconsin Department of Children and Families and Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin, relative shall be defined solely as: stepparent, brother, sister, stepbrother, stepsister, half-brother, half-sister, brother−in−law, sister−in−law, first cousin, 2nd cousin, nephew, niece, aunt, uncle, step-uncle, step-aunt, or any person of a preceding generation as denoted by the prefix of grand, great or great− great, whether by blood, marriage or legal adoption, or the spouse of any person named in this subsection, even if the marriage is terminated by death or divorce. This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q),</cite> <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite>, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">(t)</cite>, and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">(u)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowered the Tribal Governing Board to establish a Children's Court Division of the Lac Courte Oreilles Tribal Court..." It is the purpose of this ordinance to establish criteria and procedures for determining initial and continuing eligibility of a relative who provides care and maintenance for a child to receive a monthly payment to help with the expenses involving in providing that care and maintenance.</text>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.15.1</num>
         <heading>General Provisions</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.15.1.010</num>
           <heading>Title</heading>
@@ -138,9 +138,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.15.2</num>
         <heading>Definitions</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.15.2.010</num>
           <heading>General Definitions</heading>
@@ -283,9 +283,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.15.3</num>
         <heading>Eligibility Requirements and Procedures</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.15.3.010</num>
           <heading>Eligibility Criteria for Kinship Care and Long-Term Kinship Care</heading>
@@ -436,9 +436,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.15.4</num>
         <heading>Background Checks</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.15.4.010</num>
           <heading>When Conducted</heading>
@@ -661,9 +661,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.15.5</num>
         <heading>Best Interests of the Child</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.15.5.010</num>
           <heading>Criteria for Best Interest Determination.</heading>
@@ -867,9 +867,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.15.6</num>
         <heading>LCO Kinship Care Office Procedures</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.15.6.010</num>
           <heading>Application.</heading>
@@ -1298,9 +1298,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.15.7</num>
         <heading>Changes and Reviews/redeterminations</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.15.7.010</num>
           <heading>Change in Circumstances.</heading>

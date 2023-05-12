@@ -42,9 +42,9 @@
   </procedural-data>
   <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.7.3" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.010">
     <container>
+      <prefix>Subchapter</prefix>
       <num>PRP.7.3</num>
       <heading>General</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PRP.7.3.010</num>
         <heading>Housing Authority</heading>

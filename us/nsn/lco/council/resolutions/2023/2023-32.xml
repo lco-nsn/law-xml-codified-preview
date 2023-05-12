@@ -42,17 +42,17 @@
   </procedural-data>
   <codify:insert path="PAP" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.22.1.010">
     <container>
+      <prefix>Chapter</prefix>
       <num>PAP.22</num>
       <heading>LCO Day Care - Genawendaawasong Personnel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-      <prefix>Chapter</prefix>
       <text class="center">
         <strong>Preamble</strong>
       </text>
       <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and pursuant to Article §V(h) of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Constitution and Amended Bylaws, "to engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people." This personnel policy and procedural manual, outlines the general policies, rules, and practices in effect for the LCO Day Care – Genawendaawasong and is intended to be a helpful reference during your employment with the LCO Day Care. The information contained herein is general information, and its contents do not create or constitute a contract between the LCO Day Care – Genawendaawasong and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. All approved updates to the policy shall be published on the Lac Courte Oreilles Law Library at law.lco-nsn.gov.</text>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.1</num>
         <heading>General Provisions</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.1.010</num>
           <heading>Title</heading>
@@ -123,9 +123,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.2</num>
         <heading>Definitions</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.2.010</num>
           <heading>General Definitions</heading>
@@ -225,9 +225,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.3</num>
         <heading>Governance</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.3.010</num>
           <heading>General</heading>
@@ -245,9 +245,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.4</num>
         <heading>Hiring Process</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.4.010</num>
           <heading>Equal Employment Opportunity</heading>
@@ -462,9 +462,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.5</num>
         <heading>Employment</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.5.010</num>
           <heading>Work Site Accommodations</heading>
@@ -714,9 +714,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.6</num>
         <heading>Available Benefits</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.6.010</num>
           <heading>Available Benefits</heading>
@@ -1173,9 +1173,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.7</num>
         <heading>Conduct</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.7.010</num>
           <heading>General Statement of Conduct</heading>
@@ -1612,9 +1612,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.8</num>
         <heading>Safety</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.8.010</num>
           <heading>General Rules</heading>
@@ -1675,9 +1675,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.9</num>
         <heading>Problem Solving</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.9.010</num>
           <heading>Scope</heading>
@@ -1724,9 +1724,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.10</num>
         <heading>Disciplinary Action and Appeal</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.10.010</num>
           <heading>Consent</heading>
@@ -2094,9 +2094,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>PAP.22.11</num>
         <heading>Miscellaneous Employee Procedures</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>PAP.22.11.010</num>
           <heading>Mandated Reporting</heading>

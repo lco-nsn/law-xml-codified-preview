@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Title</prefix>
   <num>CSV</num>
   <heading>Conservation</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>CSV.1</num>
     <heading>Reservation / Tribal Land Conservation Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
@@ -51,9 +51,9 @@
     <text>The Great Spirit then took a miigis shell and blew the breath of life into the Indian man and woman. Before the Indian man and woman awoke, the Great Spirit, the Bear Spirit and the Deer Spirit hid, so as to not frighten the Indian man and woman.</text>
     <text>When the man awoke, he took the bow and arrow, tested it, and he liked it. The Great Spirit spoke into the man's mind: "Because you picked up the bow and arrow; that is the life style that you have chosen." This is why our hunting and fishing rights could not be traded away in treaties; they are god given rights.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.1.010</num>
         <heading>Title</heading>
@@ -207,9 +207,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.2.010</num>
         <heading>General Definitions</heading>
@@ -674,9 +674,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.3</num>
       <heading>General</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.3.010</num>
         <heading>Title to Wild Animals, Wild Rice, and Miscellaneous Forest Products</heading>
@@ -1276,9 +1276,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.4</num>
       <heading>Enforcement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.4.010</num>
         <heading>Hearings in Tribal Court</heading>
@@ -1622,9 +1622,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.5</num>
       <heading>Wild Rice Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.5.010</num>
         <heading>Manoomin Gakinoo'amaagewin</heading>
@@ -1795,9 +1795,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.6</num>
       <heading>Big Game Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.6.010</num>
         <heading>Awesiinyag Mendidojib Gidizhitwaawininaan</heading>
@@ -2080,9 +2080,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.7</num>
       <heading>Bear Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.7.010</num>
         <heading>Makwag Gidizhitwaawininaan</heading>
@@ -2122,9 +2122,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.8</num>
       <heading>Small Game Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.8.010</num>
         <heading>Awesiiensag Gidizhitwaawininaan</heading>
@@ -2723,9 +2723,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.9</num>
       <heading>Fish Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.9.010</num>
         <heading>Giigoonhyag Gidizhitwaawininaan</heading>
@@ -3340,9 +3340,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.10</num>
       <heading>Migratory Bird Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.10.010</num>
         <heading>Bimisemagak Gidizhitwaawininaan</heading>
@@ -3848,9 +3848,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.11</num>
       <heading>Timber Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.11.010</num>
         <heading>Background and Purpose</heading>
@@ -3982,9 +3982,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.1.12</num>
       <heading>Miscellaneous Forest Product Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.1.12.010</num>
         <heading>Mitigoog Gidizhitwaawininaan</heading>
@@ -4653,17 +4653,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>CSV.2</num>
     <heading>Wi 1837/1842 Treaty Off-Reservation Conservation Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to implement its inherent Anishinaabe rights to utilize the natural resources found in ceded territories for subsistence, medicinal, cultural, religious and economic purposes, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(o)">Article V, Section 1 (o)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">(q)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to "promulgate and enact ordinances governing the conduct of Tribal citizens (members) in the exercise of rights to hunt, fish, trap, gather wild rice and other usual rights of occupancy throughout the off­reservation area covered by the jurisdiction of the Band" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(o)">Article V, Section 1 (o)</cite>;  "establish a tribal court for the purpose of enforcing tribal ordinance, to appoint tribal game wardens, and to provide by appropriate ordinances, for fines, imprisonment or confiscation of equipment for violation of such    ordinances" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, Section 1 (q)</cite>. It is the purpose of this ordinance to provide an orderly system for tribal control and regulation of hunting, fishing and gathering on the off-reservation lands ceded by the Tribe in the Treaty of 1837, 7 Stat. 536, and the Treaty of 1842, 7 Stat. 591; and provide a means to promote public health and safety and the conservation and management of fish, wildlife and plant populations in the ceded territory through the regulation of member harvesting activities occurring there consistent with the <em>Natural Resource Management Plans for the Northern Wisconsin Ceded Territories</em> and the <em>Chippewa Intertribal Agreement Governing Resource Management and Regulation of Off-Reservation Treaty Rights in the Ceded Territory</em>.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.1.010</num>
         <heading>Title</heading>
@@ -4785,9 +4785,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.2</num>
       <heading>General Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.2.010</num>
         <heading>General Definitions</heading>
@@ -4886,9 +4886,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.3</num>
       <heading>General</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.3.010</num>
         <heading>Title to Wild Animals and Wild Plants</heading>
@@ -5946,9 +5946,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.4</num>
       <heading>Enforcement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.4.010</num>
         <heading>Hearings in Tribal Court</heading>
@@ -6204,9 +6204,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.5</num>
       <heading>Wild Rice Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.5.010</num>
         <heading>Tribal Wild Rice Authority</heading>
@@ -6390,9 +6390,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.6</num>
       <heading>Deer Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.6.010</num>
         <heading>Definitions</heading>
@@ -7397,9 +7397,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.7</num>
       <heading>Bear Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.7.010</num>
         <heading>Definitions</heading>
@@ -7968,9 +7968,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.8</num>
       <heading>Small Game Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.8.010</num>
         <heading>Purpose</heading>
@@ -8941,9 +8941,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.9</num>
       <heading>Fish Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.9.010</num>
         <heading>Definitions</heading>
@@ -10633,9 +10633,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.10</num>
       <heading>Migratory Bird Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.10.010</num>
         <heading>Definitions</heading>
@@ -11118,9 +11118,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.11</num>
       <heading>[Open]</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.11.010</num>
         <heading>[Open]</heading>
@@ -11252,9 +11252,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.12</num>
       <heading>Miscellaneous Forest Product Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.12.010</num>
         <heading>Purpose</heading>
@@ -11773,9 +11773,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.13</num>
       <heading>Miscellaneous Wild Animal Harvesting Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.13.010</num>
         <heading>Purpose</heading>
@@ -12977,9 +12977,9 @@
       </annotations>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.2.14</num>
       <heading>Boating Safety Regulations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.2.14.010</num>
         <heading>Definitions</heading>
@@ -13328,17 +13328,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>CSV.7</num>
     <heading>Shoreland Protection Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to promote the health, safety, and welfare of Lac Courte Oreilles citizens (members) and protect the environment of the Lac Courte Oreilles Reservation, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, §§ 1(s)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(f)">(f)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1 (s)</cite> and "to manage, lease, permit or otherwise deal with tribal lands, interests in lands or other assets, and to purchase lands, or interests in lands, within or without the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(f)">Article V, § 1 (f)</cite>. Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby recognizes that uncontrolled use of the shorelands and pollution of the navigable waters of the Lac Courte Oreilles Reservation would adversely affect the public health, safety and general welfare of Lac Courte Oreilles citizens (members). The Lac Courte Oreilles Tribal Governing Board has the responsibility to promote the health, safety, and welfare, of Lac Courte Oreilles citizens (members); to further the maintenance of safe and healthful conditions; prevent and control water pollution; protect spawning grounds, fish and aquatic life; control building sites, placement of structures; and to preserve shore cover and natural beauty. This ordinance has been adopted for the purpose of protecting the environment of the Lac Courte Oreilles Reservation.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.7.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.7.1.010</num>
         <heading>Title</heading>
@@ -13490,9 +13490,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.7.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.7.2.010</num>
         <heading>General Definitions</heading>
@@ -13540,9 +13540,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.7.3</num>
       <heading>General</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.7.3.010</num>
         <heading>Compliance</heading>
@@ -13572,9 +13572,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.7.4</num>
       <heading>Enforcement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.7.4.010</num>
         <heading>Enforcement</heading>
@@ -13762,9 +13762,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.7.5</num>
       <heading>Shoreland Protection</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.7.5.010</num>
         <heading>Setbacks from Navigable Water</heading>
@@ -14041,17 +14041,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>CSV.8</num>
     <heading>Industrial Hemp Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">(n)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people," <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h)</cite>; and "To regulate, by enactment of ordinances, the conduct of business within the territory of the Band, including the power to impose taxes or license fees upon members and non-members doing business within the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1 (n)</cite>. Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes the Agricultural Division of the Lac Courte Oreilles Conservation Department as a governmental instrumentality of the Tribe, and enacts this ordinance which shall establish the purposes, powers and duties of the same. The Agricultural Division shall carry out the requirements of the final rule established by the Domestic Hemp Production Program mandated by the Agriculture Improvement Act of 2018 (the "2018 Farm Bill"). The 2018 Farm Bill recognizes the Tribe's primary regulatory authority over the production of hemp within the Tribe's territory and in accordance with federal and tribal laws, and a Tribal Hemp Plan approved by the United States Secretary of Agriculture. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.1.010</num>
         <heading>Title</heading>
@@ -14211,9 +14211,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.2.010</num>
         <heading>General Definitions</heading>
@@ -14452,9 +14452,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.3</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.3.010</num>
         <heading>Exemption from Prosecution for Certain Acts</heading>
@@ -14538,9 +14538,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.4</num>
       <heading>Administration</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.4.010</num>
         <heading>Establishment of the Agricultural Division; Attributes</heading>
@@ -14757,9 +14757,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.5</num>
       <heading>Licensing</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.5.010</num>
         <heading>Applications for Cultivation and Processor Licensing Agreements</heading>
@@ -15086,9 +15086,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.6</num>
       <heading>Sampling, Testing and Inspections</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.6.010</num>
         <heading>Procedures for Sampling and Testing</heading>
@@ -15261,9 +15261,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.7</num>
       <heading>Disposal or Remediation of Non-Compliant Hemp<annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§7" type="History"/></heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.7.010</num>
         <heading>Procedures for Disposal or Remediation of Non-Compliant Hemp</heading>
@@ -15349,9 +15349,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.8</num>
       <heading>Enforcement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.8.010</num>
         <heading>Prohibited Acts</heading>
@@ -15506,9 +15506,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.9</num>
       <heading>Seed or Propagule Acquisition</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.9.010</num>
         <heading>Seed or Propagule Acquisition</heading>
@@ -15540,9 +15540,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.10</num>
       <heading>Transportation</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.10.010</num>
         <heading>Transportation</heading>
@@ -15562,9 +15562,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>CSV.8.11</num>
       <heading>Information Sharing</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>CSV.8.11.010</num>
         <heading>Information Sharing</heading>

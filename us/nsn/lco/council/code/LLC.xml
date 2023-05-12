@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Title</prefix>
   <num>LLC</num>
   <heading>Limited Liability Company</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>LLC.1</num>
     <heading>Limited Liability Company Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <container>
+      <prefix>Subchapter</prefix>
       <num>LLC.1.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>LLC.1.1.010</num>
         <heading>Short Title</heading>
@@ -367,9 +367,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>LLC.1.2</num>
       <heading>Operating Agreement and Dealing with LLC</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>LLC.1.2.010</num>
         <heading>Articles of Organization</heading>
@@ -551,9 +551,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>LLC.1.3</num>
       <heading>Owners and Managers</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>LLC.1.3.010</num>
         <heading>Management</heading>
@@ -833,9 +833,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>LLC.1.4</num>
       <heading>Finance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>LLC.1.4.010</num>
         <heading>Contributions</heading>
@@ -874,9 +874,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>LLC.1.5</num>
       <heading>Non-Liquidating Distributions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>LLC.1.5.010</num>
         <heading>Interim Distributions</heading>
@@ -973,9 +973,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>LLC.1.6</num>
       <heading>Ownership and Transfer of Property</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>LLC.1.6.010</num>
         <heading>Ownership of LLC Property</heading>
@@ -1074,9 +1074,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>LLC.1.7</num>
       <heading>Dissolution</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>LLC.1.7.010</num>
         <heading>Dissolution</heading>
@@ -1292,9 +1292,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>LLC.1.8</num>
       <heading>Merger</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>LLC.1.8.010</num>
         <heading>Definitions</heading>
@@ -1455,13 +1455,13 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>LLC.1.9</num>
       <heading>Limited Liability Companies Wholly-Owned by the Tribe</heading>
-      <prefix>Subchapter</prefix>
       <container>
+        <prefix>Part</prefix>
         <num>1</num>
         <heading>General Provisions for Tribally-Owned LLC's</heading>
-        <prefix>Part</prefix>
         <section>
           <num>LLC.1.9.010</num>
           <heading>Tribally-Owned Companies</heading>
@@ -1537,9 +1537,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>2</num>
         <heading>Special Formation Requirements for Tribally-Owned LLC's</heading>
-        <prefix>Part</prefix>
         <section>
           <num>LLC.1.9.080</num>
           <heading>Formation</heading>
@@ -1598,9 +1598,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>3</num>
         <heading>Management of Tribally-Owned LLC's</heading>
-        <prefix>Part</prefix>
         <section>
           <num>LLC.1.9.100</num>
           <heading>Management</heading>
@@ -1633,9 +1633,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>4</num>
         <heading>Decisions and Voting for Tribally-Owned LLC's</heading>
-        <prefix>Part</prefix>
         <section>
           <num>LLC.1.9.120</num>
           <heading>Voting</heading>
@@ -1651,9 +1651,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>5</num>
         <heading>Distributions for Tribally-Owned LLC's</heading>
-        <prefix>Part</prefix>
         <section>
           <num>LLC.1.9.130</num>
           <heading>Distributions of Income</heading>
@@ -1669,9 +1669,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>6</num>
         <heading>Additional Reports and Audits</heading>
-        <prefix>Part</prefix>
         <section>
           <num>LLC.1.9.140</num>
           <heading>Audit</heading>
@@ -1698,9 +1698,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>7</num>
         <heading>Actions Against Tribally-Owned LLC's</heading>
-        <prefix>Part</prefix>
         <section>
           <num>LLC.1.9.160</num>
           <heading>Court Actions by a Tribe Authorized</heading>

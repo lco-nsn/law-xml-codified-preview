@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Title</prefix>
   <num>ELE</num>
   <heading>Elections</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>ELE.1</num>
     <heading>Election Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to determine its Tribal leadership which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|IV|3">Article IV, § 3 of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the tribal governing board to "prescribe rules and regulations conducting all subsequent elections." The Tribal Governing Board duly enacted the Election Code on April 29, 2005 pursuant to Tribal Governing Board Resolution No. 05-29; as amended on May 16, 2005 pursuant to Tribal Governing Board Resolution No. 05-50; as amended on May 29, 2007 pursuant to Tribal Governing Board Resolution No. 07-59; as amended on March 11, 2011 by the Tribal Governing Board at the Lac Courte Oreilles Tribal General Membership Meeting; as amended on May 27, 2015 pursuant to Tribal Governing Board Resolution No. 15-53; and as amended on March 1, 2021 pursuant to Tribal Governing Board Resolution No. 20-2021.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>ELE.1.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>ELE.1.1.010</num>
         <heading>Title</heading>
@@ -130,9 +130,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>ELE.1.2</num>
       <heading>General Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>ELE.1.2.010</num>
         <text>The following terms, wherever used in this ordinance, shall be construed to apply as follows:</text>
@@ -262,9 +262,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>ELE.1.3</num>
       <heading>Election Committee and Polling Site Workers</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>ELE.1.3.010</num>
         <heading>Election Committee</heading>
@@ -482,9 +482,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>ELE.1.4</num>
       <heading>Election Policy and Procedure</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>ELE.1.4.010</num>
         <heading>Election Procedure</heading>
@@ -675,9 +675,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>ELE.1.5</num>
       <heading>Elections</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>ELE.1.5.010</num>
         <heading>Caucus</heading>
@@ -1135,17 +1135,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>ELE.2</num>
     <heading>Referendum Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to ascertain the will of the people which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|VI">Article VI of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "enact an ordinance to implement the provisions of this Article [Referendum]."</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>ELE.2.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>ELE.2.1.010</num>
         <heading>Title</heading>
@@ -1265,9 +1265,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>ELE.2.2</num>
       <heading>General Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>ELE.2.2.010</num>
         <heading>General Definitions</heading>
@@ -1347,9 +1347,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>ELE.2.3</num>
       <heading>Referendum Policy</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>ELE.2.3.010</num>
         <heading>Introduction</heading>
@@ -1509,9 +1509,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>ELE.2.4</num>
       <heading>Referendum Election Procedure</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>ELE.2.4.010</num>
         <heading>Election Procedure</heading>

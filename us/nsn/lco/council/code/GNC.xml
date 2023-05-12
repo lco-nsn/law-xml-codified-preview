@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Title</prefix>
   <num>GNC</num>
   <heading>General Conduct</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>GNC.4</num>
     <heading>General Conduct Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.1</num>
       <heading>General Procedure</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.1.010</num>
         <heading>Nature of Offenses</heading>
@@ -169,9 +169,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.2</num>
       <heading>Protection of the Judicial Process and Other Governmental Processes</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.2.010</num>
         <heading>Perjury</heading>
@@ -387,9 +387,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.3</num>
       <heading>Protection of Property</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.3.010</num>
         <heading>Damage to Property</heading>
@@ -795,9 +795,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.4</num>
       <heading>Protection of Public Peace</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.4.010</num>
         <heading>Disorderly Conduct</heading>
@@ -997,9 +997,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.5</num>
       <heading>Regulation of Motor Vehicles</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.5.010</num>
         <heading>Adoption of State Laws</heading>
@@ -1041,9 +1041,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.6</num>
       <heading>Operation of All-Terrain Vehicles</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.6.010</num>
         <heading>Purpose</heading>
@@ -1243,10 +1243,10 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.7</num>
       <reason>Repealed</reason>
       <heading>School Attendance</heading>
-      <prefix>Subchapter</prefix>
       <section placeholder="Repealed">
         <reason>Repealed</reason>
         <num>GNC.4.7.010</num>
@@ -1340,9 +1340,9 @@
       <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.8</num>
       <heading>Curfew for Minors</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.8.010</num>
         <heading>Authority</heading>
@@ -1553,9 +1553,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.9</num>
       <heading>Open Burning Fire Prevention</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.9.010</num>
         <heading>Purpose and Scope</heading>
@@ -1847,9 +1847,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.10</num>
       <heading>Fireworks Ordinance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.10.010</num>
         <heading>Definitions</heading>
@@ -2184,13 +2184,13 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.11</num>
       <heading>Animal Control Ordinance</heading>
-      <prefix>Subchapter</prefix>
       <container>
+        <prefix>Part</prefix>
         <num>1</num>
         <heading>General Provisions</heading>
-        <prefix>Part</prefix>
         <section>
           <num>GNC.4.11.010</num>
           <heading>Title</heading>
@@ -2406,9 +2406,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>2</num>
         <heading>Licensing and Vaccination</heading>
-        <prefix>Part</prefix>
         <section>
           <num>GNC.4.11.090</num>
           <heading>Licensing</heading>
@@ -2450,9 +2450,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>3</num>
         <heading>Restraint of Animals</heading>
-        <prefix>Part</prefix>
         <section>
           <num>GNC.4.11.110</num>
           <heading>Collar or Harness</heading>
@@ -2515,9 +2515,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>4</num>
         <heading>Animal Bites</heading>
-        <prefix>Part</prefix>
         <section>
           <num>GNC.4.11.160</num>
           <heading>Reporting</heading>
@@ -2536,9 +2536,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>5</num>
         <heading>Treatment of Animals</heading>
-        <prefix>Part</prefix>
         <section>
           <num>GNC.4.11.180</num>
           <heading>Food, Water and Health</heading>
@@ -2631,9 +2631,9 @@
         </section>
       </container>
       <container>
+        <prefix>Part</prefix>
         <num>6</num>
         <heading>Impoundment</heading>
-        <prefix>Part</prefix>
         <section>
           <num>GNC.4.11.240</num>
           <heading>Authority to Impound</heading>
@@ -2998,9 +2998,9 @@
       </container>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.12</num>
       <heading>Lac Courte Oreilles Trespass Ordinance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.12.010</num>
         <heading>Title</heading>
@@ -3223,9 +3223,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.4.13</num>
       <heading>Off Reservation Territory Ordinance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.4.13.010</num>
         <heading>Title</heading>
@@ -3609,17 +3609,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>GNC.5</num>
     <heading>School Attendance (Truancy) Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to require the regular attendance at school of all school age person which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.5.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.5.1.010</num>
         <heading>Title</heading>
@@ -3708,9 +3708,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.5.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.5.2.010</num>
         <heading>General Definitions</heading>
@@ -3755,9 +3755,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>GNC.5.3</num>
       <heading>General</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>GNC.5.3.010</num>
         <heading>Truancy</heading>

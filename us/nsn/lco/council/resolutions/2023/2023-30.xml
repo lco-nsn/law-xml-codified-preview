@@ -42,17 +42,17 @@
   </procedural-data>
   <codify:insert path="MCC" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.2.1.010">
     <container>
+      <prefix>Chapter</prefix>
       <num>MCC.2</num>
       <heading>Meeting Ordinance OF THE LAC COURTE OREILLES BAND OF LAKE SUPERIOR CHIPPEWA INDIANS</heading>
-      <prefix>Chapter</prefix>
       <text class="center">
         <strong>Preamble</strong>
       </text>
       <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide for the decent, safe and sanitary dwellings for the members of the Tribe which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a Tribal Governing Board, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation." (<cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, § 1(l)</cite>). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby enacts  this ordinance.</text>
       <container>
+        <prefix>Subchapter</prefix>
         <num>MCC.2.1</num>
         <heading>General Provisions</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>MCC.2.1.010</num>
           <heading>Title.</heading>
@@ -134,9 +134,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>MCC.2.2</num>
         <heading>Definitions</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>MCC.2.2.010</num>
           <heading>General Definitions.</heading>
@@ -216,9 +216,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>MCC.2.3</num>
         <heading>Regular Meetings</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>MCC.2.3.010</num>
           <heading>Time of Regular Weekly Meetings.</heading>
@@ -310,9 +310,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>MCC.2.4</num>
         <heading>General Membership Meeting</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>MCC.2.4.010</num>
           <heading>General Membership Meetings.</heading>
@@ -364,9 +364,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>MCC.2.5</num>
         <heading>Special Meetings</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>MCC.2.5.010</num>
           <heading>Time and Location.</heading>
@@ -402,9 +402,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>MCC.2.6</num>
         <heading>General Rules and Common Motions</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>MCC.2.6.010</num>
           <heading>General Rules and Common Motions.</heading>

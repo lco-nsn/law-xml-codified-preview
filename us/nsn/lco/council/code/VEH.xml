@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Title</prefix>
   <num>VEH</num>
   <heading>Vehicles</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>VEH.3</num>
     <heading>Vehicle Licensing and Registration Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.1</num>
       <heading>Motor Vehicle Registration Ordinance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.1.010</num>
         <heading>Title</heading>
@@ -220,9 +220,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.2</num>
       <heading>Registration Periods</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.2.010</num>
         <heading>Regular Automobiles</heading>
@@ -362,9 +362,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.3</num>
       <heading>Application for Registration</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.3.010</num>
         <heading>Applications in General</heading>
@@ -484,9 +484,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.4</num>
       <heading>Registration Plates</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.4.010</num>
         <heading>Design, Procurement and Issuance of Registration Plates</heading>
@@ -660,9 +660,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.5</num>
       <heading>Display of Registration Plates</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.5.010</num>
         <heading>Placement of Plates or Decals on Vehicles</heading>
@@ -700,9 +700,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.6</num>
       <heading>Issuance of Replacement Plates</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.6.010</num>
         <heading>Lost or Destroyed Plates</heading>
@@ -736,9 +736,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.7</num>
       <heading>Department to Compile Registration Lists</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.7.010</num>
         <heading>Maintaining Lists</heading>
@@ -943,9 +943,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.8</num>
       <heading>Special Registration Fees for Certain Vehicles</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.8.010</num>
         <heading>Lac Courte Oreilles Government Vehicles</heading>
@@ -963,9 +963,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.9</num>
       <heading>Antique Motor Vehicles; Registration, Plates, Use</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.9.010</num>
         <heading>Antique Motor Vehicles</heading>
@@ -987,9 +987,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.10</num>
       <heading>Special Interest Vehicles: Registration, Plates, Use</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.10.010</num>
         <heading>Special Interest Vehicle/Collectors Special Vehicle</heading>
@@ -1039,9 +1039,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.11</num>
       <heading>Part-Year Fees for Private Automobiles</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.11.010</num>
         <heading>Calculation of Partial Fees</heading>
@@ -1246,9 +1246,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.12</num>
       <heading>Penalties</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.12.010</num>
         <heading>Fraudulent Applications</heading>
@@ -1287,9 +1287,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.13</num>
       <heading>When Registration Is to Be Suspended</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.13.010</num>
         <heading>When Suspended</heading>
@@ -1350,9 +1350,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.3.14</num>
       <heading>Nonmoving Violations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.3.14.010</num>
         <heading>Non-Moving Violation</heading>
@@ -1419,17 +1419,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>VEH.4</num>
     <heading>All-Terrain Vehicles and Utility Task Vehicles</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide a code for the operation and enforcement for ATV/UTV vehicles on the Reservation, including the regulation of operation and identification of enforcement for persons who operate under this code. To provide regulations for the safe operation of ATV/UTV vehicles to protect real or personal property of the Band, harming its members or Reservation residents, or by endangering or harming the natural, social, or physical well-being of members or other persons on the Reservation which predates its treaties of 1825, 1826, 1837, 1842, 1847, and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice…."</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.4.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.4.1.010</num>
         <heading>Title</heading>
@@ -1504,9 +1504,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.4.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.4.2.010</num>
         <heading>General Definitions</heading>
@@ -1581,9 +1581,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.4.3</num>
       <heading>Rules of Operation</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.4.3.010</num>
         <heading>Authorized Operation</heading>
@@ -1743,9 +1743,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.4.4</num>
       <heading>Enforcement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.4.4.010</num>
         <heading>Enforcement</heading>
@@ -1791,9 +1791,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>VEH.4.5</num>
       <heading>Penalties</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>VEH.4.5.010</num>
         <heading>Penalties</heading>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Title</prefix>
   <num>PAP</num>
   <heading>Policies and Procedures</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.1</num>
     <heading>Governmental Personnel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Tribal Government and is intended to be a helpful reference during your employment with the Tribe. The information contained herein is general information, and its contents do not create or constitute a contract between the Tribe and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.1.010</num>
         <heading>Title</heading>
@@ -157,9 +157,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.2.010</num>
         <heading>General Definitions</heading>
@@ -274,9 +274,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.3</num>
       <heading>Governance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.3.010</num>
         <heading>General</heading>
@@ -327,9 +327,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.4</num>
       <heading>Hiring Process</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.4.010</num>
         <heading>Equal Employment Opportunity</heading>
@@ -808,9 +808,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.5</num>
       <heading>Employment</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.5.010</num>
         <heading>Work Site Accommodations</heading>
@@ -1133,9 +1133,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.6</num>
       <heading>Wages</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.6.010</num>
         <heading>Wage Classifications</heading>
@@ -1286,9 +1286,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.7</num>
       <heading>Available Benefits</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.7.010</num>
         <heading>Available Benefits</heading>
@@ -1963,9 +1963,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.8</num>
       <heading>Conduct</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.8.010</num>
         <heading>General Statement of Conduct</heading>
@@ -2659,9 +2659,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.9</num>
       <heading>Workplace Safety</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.9.010</num>
         <heading>General Rules</heading>
@@ -2771,9 +2771,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.10</num>
       <heading>Vehicle Driver Certification</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.10.010</num>
         <heading>Purpose</heading>
@@ -3017,9 +3017,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.11</num>
       <heading>Problem Solving</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.11.010</num>
         <heading>Scope</heading>
@@ -3073,9 +3073,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.1.12</num>
       <heading>Disciplinary Action and Appeal</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.1.12.010</num>
         <heading>Consent</heading>
@@ -3504,17 +3504,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.2</num>
     <heading>Property and Procurement Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to negotiate, make and perform contracts and agreements of every description which predates its treaties of 1825, 1826, 1837, 1842, 1847, and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(c)">Article V, § 1(c) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "negotiate, make and perform contracts and agreements of every description, not inconsistent with law or with any provisions of this Constitution, with any person, association, or corporation, with any county, or with the State of Wisconsin or the United States." It is the purpose of this ordinance to: (1) Provide for the fair and equitable treatment of all persons or firms involved in purchasing by the Tribe; (2) Provide a means to assure that supplies, services, and construction are procured efficiently, effectively, and at the most favorable prices available to the Tribe; (3) Provide a means to assure competition in contracting; (4) Provide safeguards for maintaining a procurement system of quality and integrity; and (5) Provide a means to assure that Tribe's purchasing actions are in full compliance with applicable federal standards and regulations along with any applicable state and local laws.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.1.010</num>
         <heading>Title</heading>
@@ -3708,9 +3708,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.2.010</num>
         <heading>General Definitions</heading>
@@ -3894,9 +3894,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.3</num>
       <heading>Authority and Administrations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.3.010</num>
         <heading>General</heading>
@@ -3969,9 +3969,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.4</num>
       <heading>General Requirements</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.4.010</num>
         <heading>Procurement Planning</heading>
@@ -4116,9 +4116,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.5</num>
       <heading>Small Purchase Procedures</heading>
-      <prefix>Subchapter</prefix>
       <text>Small purchase procedures are a simplified method for acquiring supplies, materials, and services (including professional and construction) that do not exceed the Tribe's small purchase threshold. These procedures are the simplest method of procurement and will be used for the vast majority of Tribal purchases.</text>
       <section>
         <num>PAP.2.5.010</num>
@@ -4771,9 +4771,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.6</num>
       <heading>Sealed Bids</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.6.010</num>
         <heading>Formal Advertising or Formal Solicitations</heading>
@@ -5424,9 +5424,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.7</num>
       <heading>Cost and Price Analysis</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.7.010</num>
         <heading>Cost or Price Analysis</heading>
@@ -5465,9 +5465,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.8</num>
       <heading>Cancellation of Solicitations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.8.010</num>
         <heading>Cancellation</heading>
@@ -5542,9 +5542,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.9</num>
       <heading>Cooperative Purchasing</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.9.010</num>
         <heading>Agreements</heading>
@@ -5563,9 +5563,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.10</num>
       <heading>Contracts, Clauses, and Solicitation</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.10.010</num>
         <heading>Contract Categories</heading>
@@ -5761,9 +5761,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.11</num>
       <heading>Appeals and Remedies</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.11.010</num>
         <heading>General</heading>
@@ -5808,9 +5808,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.12</num>
       <heading>Ethics in Procurement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.12.010</num>
         <heading>General</heading>
@@ -5868,9 +5868,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.2.13</num>
       <heading>Property and Equipment Inventory</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.2.13.010</num>
         <heading>Property and Equipment Inventory Policy</heading>
@@ -6432,17 +6432,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.3</num>
     <heading>Travel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This travel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(j)">Article V, § 1(j) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "make expenditures from available funds for public purposes, including salaries or other remuneration of Band officials, employees or members." This travel policy and procedural manual, outlines the general policies, rules and practices and is intended to be a helpful reference. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this travel policy and procedural manual from time to time.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.3.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.1.010</num>
         <heading>Title</heading>
@@ -6529,9 +6529,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.3.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.2.010</num>
         <heading>General Definitions</heading>
@@ -6587,9 +6587,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.3.3</num>
       <heading>Travel Authorization</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.3.010</num>
         <heading>Approval Authority</heading>
@@ -6746,9 +6746,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.3.4</num>
       <heading>Transportation Expenses</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.4.010</num>
         <heading>Airline Travel</heading>
@@ -6984,9 +6984,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.3.5</num>
       <heading>Per Diem</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.5.010</num>
         <heading>General per Diem Rules</heading>
@@ -7090,9 +7090,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.3.6</num>
       <heading>Miscellaneous</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.6.010</num>
         <heading>Unusual Circumstances</heading>
@@ -7187,9 +7187,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.3.7</num>
       <heading>Conferences and Trainings</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.7.010</num>
         <heading>Approval</heading>
@@ -7220,9 +7220,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.3.8</num>
       <heading>Cancellation/Changes</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.8.010</num>
         <heading>General Rules</heading>
@@ -7249,9 +7249,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.3.9</num>
       <heading>Employee Conduct</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.9.010</num>
         <heading>Expectations</heading>
@@ -7270,9 +7270,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.3.10</num>
       <heading>Abuse of Policy</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.3.10.010</num>
         <heading>Allegations</heading>
@@ -7304,17 +7304,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.4</num>
     <heading>Housing Authority Personnel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of <cite path="PRP|PRP.7">Chapter PRP.7</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Housing Authority Code, which was enacted by Lac Courte Oreilles Tribal Governing Board Resolution No. 15-95. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect at Lac Courte Oreilles Housing Authority (hereinafter "LCOHA") and is intended to be a helpful reference during your employment with the LCOHA. The information contained herein is general information, and its contents do not create or constitute a contract between the LCOHA and any employee. The Tribal Governing Board acting in its sovereign capacity on behalf of the LCOHA may in its sole discretion amend this personnel policy and procedural manual from time to time. The LCOHA Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.1.010</num>
         <heading>Title</heading>
@@ -7421,9 +7421,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.2.010</num>
         <heading>General Definitions</heading>
@@ -7533,9 +7533,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.3</num>
       <heading>Governance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.3.010</num>
         <heading>General</heading>
@@ -7571,9 +7571,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.4</num>
       <heading>Hiring Process</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.4.010</num>
         <heading>Equal Employment Opportunity</heading>
@@ -7953,9 +7953,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.5</num>
       <heading>Employment</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.5.010</num>
         <heading>Work Site Accommodations</heading>
@@ -8168,9 +8168,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.6</num>
       <heading>Wages</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.6.010</num>
         <heading>Wage Classifications</heading>
@@ -8281,9 +8281,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.7</num>
       <heading>Fringe Benefits</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.7.010</num>
         <heading>Fringe Benefits</heading>
@@ -8861,9 +8861,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.8</num>
       <heading>Conduct</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.8.010</num>
         <heading>General Statement of Conduct</heading>
@@ -9485,9 +9485,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.9</num>
       <heading>Safety</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.9.010</num>
         <heading>General Rules</heading>
@@ -9572,9 +9572,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.10</num>
       <heading>Vehicle Driver Certification</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.10.010</num>
         <heading>Purpose</heading>
@@ -9783,9 +9783,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.11</num>
       <heading>Problem Solving</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.11.010</num>
         <heading>Scope</heading>
@@ -9834,9 +9834,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.4.12</num>
       <heading>Disciplinary Action and Appeal</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.4.12.010</num>
         <heading>Consent</heading>
@@ -10261,17 +10261,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.5</num>
     <heading>LCO Community Health Center Personnel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="III|5">Title III, Chapter 5</cite> of the LCOTCL – Community Health Center Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Community Health Center and is intended to be a helpful reference during your employment with the LCO-CHC. The information contained herein is general information, and its contents do not create or constitute a contract between the LCO-CHC and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.1.010</num>
         <heading>Title</heading>
@@ -10422,9 +10422,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.2.010</num>
         <heading>General Definitions</heading>
@@ -10539,9 +10539,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.3</num>
       <heading>Governance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.3.010</num>
         <heading>General</heading>
@@ -10844,9 +10844,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.4</num>
       <heading>Hiring Process</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.4.010</num>
         <heading>Equal Employment Opportunity</heading>
@@ -11277,9 +11277,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.5</num>
       <heading>Employment</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.5.010</num>
         <heading>Work Site Accommodations</heading>
@@ -11557,9 +11557,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.6</num>
       <heading>Wages</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.6.010</num>
         <heading>Wage Classifications</heading>
@@ -11678,9 +11678,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.7</num>
       <heading>Available Benefits</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.7.010</num>
         <heading>Available Benefits</heading>
@@ -12308,9 +12308,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.8</num>
       <heading>Conduct</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.8.010</num>
         <heading>General Statement of Conduct</heading>
@@ -13026,9 +13026,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.9</num>
       <heading>Workplace Safety</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.9.010</num>
         <heading>General Safety</heading>
@@ -13235,9 +13235,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.10</num>
       <heading>Vehicle Driver Certification</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.10.010</num>
         <heading>Purpose</heading>
@@ -13453,9 +13453,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.11</num>
       <heading>Problem Solving</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.11.010</num>
         <heading>Scope</heading>
@@ -13505,9 +13505,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.12</num>
       <heading>Disciplinary Action and Appeal</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.12.010</num>
         <heading>Consent</heading>
@@ -13903,9 +13903,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.5.13</num>
       <heading>Miscellaneous Employee Procedures</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.5.13.010</num>
         <heading>Mandated Reporting</heading>
@@ -14157,17 +14157,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.7</num>
     <heading>LCO Ojibwe School - Waadookodaading Personnel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="VII|7">Title VII, Chapter 7</cite> of the LCOTCL – Education Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the LCO Ojibwe School – Waadookodaading and is intended to be a helpful reference during your employment with the School. The information contained herein is general information, and its contents do not create or constitute a contract between the LCO Ojibwe School – Waadookodaading and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.1.010</num>
         <heading>Title</heading>
@@ -14286,9 +14286,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.2.010</num>
         <heading>General Definitions</heading>
@@ -14419,9 +14419,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.3</num>
       <heading>Governance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.3.010</num>
         <heading>General</heading>
@@ -14460,9 +14460,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.4</num>
       <heading>Hiring Process</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.4.010</num>
         <heading>Equal Employment Opportunity</heading>
@@ -14897,9 +14897,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.5</num>
       <heading>Employment</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.5.010</num>
         <heading>Work Site Accommodations</heading>
@@ -15241,9 +15241,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.6</num>
       <heading>Wages</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.6.010</num>
         <heading>Wage Classifications</heading>
@@ -15383,9 +15383,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.7</num>
       <heading>Available Benefits</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.7.010</num>
         <heading>Available Benefits</heading>
@@ -16008,9 +16008,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.8</num>
       <heading>Conduct</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.8.010</num>
         <heading>General Statement of Conduct</heading>
@@ -16657,9 +16657,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.9</num>
       <heading>Safety</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.9.010</num>
         <heading>General Rules</heading>
@@ -16760,9 +16760,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.10</num>
       <heading>Vehicle Driver Certification</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.10.010</num>
         <heading>Purpose</heading>
@@ -17001,9 +17001,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.11</num>
       <heading>Problem Solving</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.11.010</num>
         <heading>Scope</heading>
@@ -17058,9 +17058,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.12</num>
       <heading>Disciplinary Action and Appeal</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.12.010</num>
         <heading>Consent</heading>
@@ -17448,9 +17448,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.7.13</num>
       <heading>Miscellaneous Employee Procedures</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.7.13.010</num>
         <heading>Mandated Reporting</heading>
@@ -17812,17 +17812,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.9</num>
     <heading>Gaming Enterprises Personnel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code and <cite path="CMP|CMP.1">Chapter CMP.1</cite> of the LCOTCL – Gaming Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Gaming Enterprises and is intended to be a helpful reference during your employment with the Gaming Enterprises. The information contained herein is general information, and its contents do not create or constitute a contract between the Gaming Enterprises and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.1.010</num>
         <heading>Title</heading>
@@ -18221,9 +18221,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.2.010</num>
         <heading>General Definitions</heading>
@@ -18479,9 +18479,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.3</num>
       <heading>Governance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.3.010</num>
         <heading>General</heading>
@@ -19148,9 +19148,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.4</num>
       <heading>Hiring Process</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.4.010</num>
         <heading>Employment At-Will</heading>
@@ -19982,9 +19982,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.5</num>
       <heading>Employment</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.5.010</num>
         <heading>Work Site Accommodations</heading>
@@ -20889,9 +20889,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.6</num>
       <heading>Wages</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.6.010</num>
         <heading>Wage Classifications</heading>
@@ -21679,9 +21679,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.7</num>
       <heading>Available Benefits</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.7.010</num>
         <heading>Available Benefits</heading>
@@ -22679,9 +22679,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.8</num>
       <heading>Conduct</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.8.010</num>
         <heading>General Statement of Conduct</heading>
@@ -23943,9 +23943,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.9</num>
       <heading>Attendance and Punctuality Policy</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.9.010</num>
         <heading>Reporting for Work</heading>
@@ -24315,9 +24315,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.10</num>
       <heading>Personal Appearance and Grooming</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.10.010</num>
         <heading>Introduction</heading>
@@ -24579,9 +24579,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.11</num>
       <heading>Drug-Free Workplace</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.11.010</num>
         <heading>Drug Free Workplace Act Compliance</heading>
@@ -25522,9 +25522,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.12</num>
       <heading>Conduct / Performance Infractions, Progressive Discipline and Appeal</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.12.010</num>
         <heading>Consent</heading>
@@ -26125,9 +26125,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.9.13</num>
       <heading>Safety and Security Program</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.9.13.010</num>
         <heading>General Safety Guidelines</heading>
@@ -27545,17 +27545,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.10</num>
     <heading>Governmental Fiscal Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This fiscal policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. This fiscal policy and procedural manual, sets forth the fiscal and accounting policies and procedures in effect for the Lac Courte Oreilles Tribal Government. This Manual replaces any and all previous fiscal and accounting policy statements, whether written or oral. No prior fiscal or accounting policies or procedures will have any force or effect after the effective date of this Manual. This Manual will not be construed to create any contract or any other right. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this fiscal policy and procedural manual from time to time. All amendments to this Manual will be made in writing, and no amendment will be effective until approved by the Tribal Governing Board and signed by the Secretary/Treasurer. In the event of an inconsistency between any provision of this Manual and applicable law, the provision of this Manual shall be void and deemed stricken, and this Manual shall be amended to the extent necessary to comply with the same.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.1.010</num>
         <heading>Title</heading>
@@ -27653,9 +27653,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.2.010</num>
         <heading>General Definitions</heading>
@@ -27947,9 +27947,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.3</num>
       <heading>Method of Accounting</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.3.010</num>
         <heading>General</heading>
@@ -28018,9 +28018,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.4</num>
       <heading>Chart of Accounts</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.4.010</num>
         <heading>Purposes</heading>
@@ -28053,9 +28053,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.5</num>
       <heading>Internal Controls</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.5.010</num>
         <heading>Objective</heading>
@@ -28174,9 +28174,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.6</num>
       <heading>Grants Management</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.6.010</num>
         <heading>Separate Accounting</heading>
@@ -28474,9 +28474,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.7</num>
       <heading>Budgets</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.7.010</num>
         <heading>Annual Budgets</heading>
@@ -28524,9 +28524,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.8</num>
       <heading>Audits</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.8.010</num>
         <heading>Audit Accordance</heading>
@@ -28556,9 +28556,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.9</num>
       <heading>Petty Cash</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.9.010</num>
         <heading>Petty Cash</heading>
@@ -28622,9 +28622,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.10</num>
       <heading>Bank Reconciliations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.10.010</num>
         <heading>Separate Accounts</heading>
@@ -28707,9 +28707,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.11</num>
       <heading>Cash Receipts</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.11.010</num>
         <heading>Cash Transactions</heading>
@@ -28845,9 +28845,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.12</num>
       <heading>Procurement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.12.010</num>
         <heading>Purchases</heading>
@@ -28960,9 +28960,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.13</num>
       <heading>Cash Disbursements</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.13.010</num>
         <heading>Unused Checks</heading>
@@ -29102,9 +29102,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.14</num>
       <heading>Credit Cards</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.14.010</num>
         <heading>Credit Cards</heading>
@@ -29116,9 +29116,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.15</num>
       <heading>Travel</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.15.010</num>
         <heading>Travel</heading>
@@ -29130,9 +29130,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.16</num>
       <heading>Payroll</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.16.010</num>
         <heading>Personnel Policy and Procedures Manual</heading>
@@ -29313,9 +29313,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.17</num>
       <heading>Journal Entries</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.17.010</num>
         <heading>General</heading>
@@ -29352,9 +29352,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.18</num>
       <heading>General Ledger</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.18.010</num>
         <heading>Journal Entries to the General Ledger on a Weekly Basis</heading>
@@ -29383,9 +29383,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.19</num>
       <heading>Year End Accruals</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.19.010</num>
         <heading>Finance Department Responsibilities Each Fiscal Year</heading>
@@ -29413,9 +29413,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.20</num>
       <heading>Fixed Assets</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.20.010</num>
         <heading>Purchases</heading>
@@ -29503,9 +29503,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.21</num>
       <heading>Indirect Cost Proposal</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.21.010</num>
         <heading>Indirect Cost Proposal Preparation</heading>
@@ -29526,9 +29526,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.22</num>
       <heading>Matching Funds</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.22.010</num>
         <heading>Matching Funds Required</heading>
@@ -29571,9 +29571,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.23</num>
       <heading>Eligibility</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.23.010</num>
         <heading>Eligibility Requirements</heading>
@@ -29594,9 +29594,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.24</num>
       <heading>Financial Software</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.24.010</num>
         <heading>Designated Financial Software</heading>
@@ -29617,9 +29617,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.10.25</num>
       <heading>Loans and Delinquent Debts</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.10.25.010</num>
         <heading>Loans</heading>
@@ -29683,17 +29683,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.14</num>
     <heading>LCO Development Corporation Personnel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in the implementation of Title XII, Chapter 3 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law (LCOTCL) – Employment Code. This personnel policy and procedural manual, outlines the general policies, rules and practices in effect for the Lac Courte Oreilles Tribal Government and is intended to be a helpful reference during your employment with the Tribe. The information contained herein is general information, and its contents do not create or constitute a contract between the Tribe and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. The Human Resource Director, or designee, will distribute approved revisions to all employees.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.1.010</num>
         <heading>Title</heading>
@@ -29772,9 +29772,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.2.010</num>
         <heading>General Definitions</heading>
@@ -29873,9 +29873,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.3</num>
       <heading>Governance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.3.010</num>
         <heading>General</heading>
@@ -29902,9 +29902,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.4</num>
       <heading>Hiring Process</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.4.010</num>
         <heading>Equal Employment Opportunity</heading>
@@ -30251,9 +30251,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.5</num>
       <heading>Employment</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.5.010</num>
         <heading>Work Site Accommodations</heading>
@@ -30446,9 +30446,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.6</num>
       <heading>Wages</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.6.010</num>
         <heading>Wage Classifications</heading>
@@ -30514,9 +30514,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.7</num>
       <heading>Available Benefits</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.7.010</num>
         <heading>Available Benefits</heading>
@@ -30988,9 +30988,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.8</num>
       <heading>Conduct</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.8.010</num>
         <heading>General Statement of Conduct</heading>
@@ -31497,9 +31497,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.9</num>
       <heading>Workplace Safety</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.9.010</num>
         <heading>General Rules</heading>
@@ -31569,9 +31569,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.10</num>
       <heading>Vehicle Driver Certification</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.10.010</num>
         <heading>Purpose</heading>
@@ -31759,9 +31759,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.11</num>
       <heading>Problem Solving</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.11.010</num>
         <heading>Scope</heading>
@@ -31807,9 +31807,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.14.12</num>
       <heading>Disciplinary Action and Appeal</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.14.12.010</num>
         <heading>Consent</heading>
@@ -32076,17 +32076,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.15</num>
     <heading>Kinship Care and Long-Term Kinship Care Program Policies and Procedures</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>The Lac Courte Oreilles Kinship Care and Long-Term Kinship Care Program is managed by the Lac Courte Oreilles Indian Child Welfare Program to help support a child who lives outside of his or her home with a relative. As required by the Cross-Governmental Contract Agreement by and between Wisconsin Department of Children and Families and Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin, relative shall be defined solely as: stepparent, brother, sister, stepbrother, stepsister, half-brother, half-sister, brother−in−law, sister−in−law, first cousin, 2nd cousin, nephew, niece, aunt, uncle, step-uncle, step-aunt, or any person of a preceding generation as denoted by the prefix of grand, great or great− great, whether by blood, marriage or legal adoption, or the spouse of any person named in this subsection, even if the marriage is terminated by death or divorce. This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q),</cite> <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite>, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">(t)</cite>, and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">(u)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowered the Tribal Governing Board to establish a Children's Court Division of the Lac Courte Oreilles Tribal Court..." It is the purpose of this ordinance to establish criteria and procedures for determining initial and continuing eligibility of a relative who provides care and maintenance for a child to receive a monthly payment to help with the expenses involving in providing that care and maintenance.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.15.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.15.1.010</num>
         <heading>Title</heading>
@@ -32180,9 +32180,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.15.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.15.2.010</num>
         <heading>General Definitions</heading>
@@ -32328,9 +32328,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.15.3</num>
       <heading>Eligibility Requirements and Procedures</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.15.3.010</num>
         <heading>Eligibility Criteria for Kinship Care and Long-Term Kinship Care</heading>
@@ -32511,9 +32511,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.15.4</num>
       <heading>Background Checks</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.15.4.010</num>
         <heading>When Conducted</heading>
@@ -32757,9 +32757,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.15.5</num>
       <heading>Best Interests of the Child</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.15.5.010</num>
         <heading>Criteria for Best Interest Determination.</heading>
@@ -32984,9 +32984,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.15.6</num>
       <heading>LCO Kinship Care Office Procedures</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.15.6.010</num>
         <heading>Application.</heading>
@@ -33466,9 +33466,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.15.7</num>
       <heading>Changes and Reviews/redeterminations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.15.7.010</num>
         <heading>Change in Circumstances.</heading>
@@ -34256,18 +34256,18 @@
     <annotation app="2023-01-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-05" eff="2023-01-09" path="" type="History"/>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.17</num>
     <heading>Big Fish Golf Corporation Personnel Policies and Procedures</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>The Lac Courte Oreilles Band of Lake Superior Chippewa Indians (hereinafter "Band" or "Tribe") in an effort to diversify the economy of the Tribe's reservation in order to improve the Tribe's economic self-sufficiency petitioned the Secretary of the Interior to issue a charter of corporation pursuant to section 17 of the Indian Reorganization Act, codified at U.S.C. § 5124. The BIA – Midwest Regional Office issued a certificate of incorporation for the Big Fish Golf Corporation (hereinafter "Big Fish Golf Corp" or "BFGC"). Big Fish Golf Corp is a legal entity wholly owned by the Tribe, but distinct and separate from the Tribe.</text>
     <text>This personnel policy and procedural manual is enacted pursuant to the management authority of the Board of Directors of the Big Fish Golf Corp. This personnel and procedure manual outlines the general policies, rules and procedures and is intended to be a helpful reference during your employment with the BFGC. The information contained herein is general information, and its contents do not create or constitute a contract between BFGC and any employee. The Board of Directors acting in its management capacity may in its sole discretion amend this personnel policy and procedural manual from time to time.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.1.010</num>
         <heading>Title</heading>
@@ -34346,9 +34346,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.2.010</num>
         <heading>General Definitions</heading>
@@ -34403,9 +34403,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.3</num>
       <heading>Governance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.3.010</num>
         <heading>General</heading>
@@ -34432,9 +34432,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.4</num>
       <heading>Hiring Process</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.4.010</num>
         <heading>Equal Employment Opportunity</heading>
@@ -34647,9 +34647,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.5</num>
       <heading>Employment</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.5.010</num>
         <heading>Work Site Accommodations</heading>
@@ -34761,9 +34761,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.6</num>
       <heading>Wages</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.6.010</num>
         <heading>Wage Classifications</heading>
@@ -34806,9 +34806,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.7</num>
       <heading>Benefits</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.7.010</num>
         <heading>Employee Merchandise Privileges</heading>
@@ -34852,9 +34852,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.8</num>
       <heading>Expectations and Conduct</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.8.010</num>
         <heading>General Statement of Expectations and Conduct</heading>
@@ -35226,9 +35226,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.9</num>
       <heading>Safety</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.9.010</num>
         <heading>General Rules</heading>
@@ -35266,9 +35266,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.10</num>
       <heading>Problem Solving</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.10.010</num>
         <heading>General Statement</heading>
@@ -35287,9 +35287,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.11</num>
       <heading>Disciplinary Action</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.11.010</num>
         <heading>Grounds for Disciplinary Action</heading>
@@ -35423,9 +35423,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.17.12</num>
       <heading>Miscellaneous</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.17.12.010</num>
         <heading>Cash Handling Policy</heading>
@@ -35494,13 +35494,13 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.18</num>
     <heading>Police Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.18.1</num>
       <heading>Personal Appearance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.18.1.010</num>
         <heading>Policy</heading>
@@ -35595,9 +35595,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.18.2</num>
       <heading>Uniform and Equipment Allowance</heading>
-      <prefix>Subchapter</prefix>
       <text>The dress for Patrol Officers shall be properly and completely worn while on duty. It is never proper to wear the uniform mixed with civilian clothing, or to wear non-authorized articles (e.g., patches, badges, insignias and the like) on or as part of the uniform.</text>
       <text>Long sleeve uniform shirts shall be worn between November 1<sup>st</sup> and March 31<sup>st</sup>. While wearing a long sleeve uniform shirt you will either wear a black tie and a tie clip or a black turtleneck shirt under the uniform, and either blue pants or blue tactical style pants, black socks, shoes and belt.</text>
       <text>While wearing a short sleeve uniform shirt you will wear a black or white undershirt, either blue pants or blue tactical style pants, black socks, shoes and belt.</text>
@@ -35942,9 +35942,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.18.3</num>
       <heading>Classification of Calls for Service</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.18.3.010</num>
         <heading>Purpose</heading>
@@ -35998,9 +35998,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.18.4</num>
       <heading>Field Training Program</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.18.4.010</num>
         <heading>Policy</heading>
@@ -36356,9 +36356,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.18.5</num>
       <heading>Nasal Naloxone</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.18.5.010</num>
         <heading>Purpose</heading>
@@ -36542,9 +36542,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.18.6</num>
       <heading>Body Worn Cameras</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.18.6.010</num>
         <heading>Purpose</heading>
@@ -36807,17 +36807,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PAP.22</num>
     <heading>LCO Day Care - Genawendaawasong Personnel Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This personnel policy and procedural manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and pursuant to Article §V(h) of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Constitution and Amended Bylaws, "to engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people." This personnel policy and procedural manual, outlines the general policies, rules, and practices in effect for the LCO Day Care – Genawendaawasong and is intended to be a helpful reference during your employment with the LCO Day Care. The information contained herein is general information, and its contents do not create or constitute a contract between the LCO Day Care – Genawendaawasong and any employee. The Tribal Governing Board acting in its sovereign capacity may in its sole discretion amend this personnel policy and procedural manual from time to time. All approved updates to the policy shall be published on the Lac Courte Oreilles Law Library at law.lco-nsn.gov.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.1.010</num>
         <heading>Title</heading>
@@ -36912,9 +36912,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.2.010</num>
         <heading>General Definitions</heading>
@@ -37017,9 +37017,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.3</num>
       <heading>Governance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.3.010</num>
         <heading>General</heading>
@@ -37046,9 +37046,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.4</num>
       <heading>Hiring Process</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.4.010</num>
         <heading>Equal Employment Opportunity</heading>
@@ -37287,9 +37287,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.5</num>
       <heading>Employment</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.5.010</num>
         <heading>Work Site Accommodations</heading>
@@ -37566,9 +37566,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.6</num>
       <heading>Available Benefits</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.6.010</num>
         <heading>Available Benefits</heading>
@@ -38055,9 +38055,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.7</num>
       <heading>Conduct</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.7.010</num>
         <heading>General Statement of Conduct</heading>
@@ -38545,9 +38545,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.8</num>
       <heading>Safety</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.8.010</num>
         <heading>General Rules</heading>
@@ -38620,9 +38620,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.9</num>
       <heading>Problem Solving</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.9.010</num>
         <heading>Scope</heading>
@@ -38672,9 +38672,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.10</num>
       <heading>Disciplinary Action and Appeal</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.10.010</num>
         <heading>Consent</heading>
@@ -39054,9 +39054,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PAP.22.11</num>
       <heading>Miscellaneous Employee Procedures</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PAP.22.11.010</num>
         <heading>Mandated Reporting</heading>

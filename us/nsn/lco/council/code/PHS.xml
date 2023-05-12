@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Title</prefix>
   <num>PHS</num>
   <heading>Public Health and Safety</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>PHS.1</num>
     <heading>Public Safety Commission Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide policy guidance and ensure that the Tribe's public safety agencies serve the members and visitors of the Lac Courte Oreilles Reservation, which authority predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, §§ 1(l)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">(m)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group … for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, § 1 (l)</cite>;  and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, § 1 (m)</cite>. Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes a public body known as the Lac Courte Oreilles Public Safety Commission (hereinafter referred to as the Public Safety Commission), and enacts this ordinance which shall establish the purposes, powers and duties of the Public Safety Commission. In any suit, action or proceeding involving the validity or enforcement of or relating to any of actions of the Tribe's public safety agencies, the Public Safety Commission shall be conclusively deemed to have become established and authorized to transact business and exercise its powers upon proof of the adoption of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action or proceedings.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.1.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.1.1.010</num>
         <heading>Title</heading>
@@ -157,9 +157,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.1.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.1.2.010</num>
         <heading>General Definitions</heading>
@@ -200,9 +200,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.1.3</num>
       <heading>General</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.1.3.010</num>
         <heading>Public Safety Commission</heading>
@@ -627,9 +627,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.1.4</num>
       <heading>Adjudicatory Board for Disciplinary Actions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.1.4.010</num>
         <heading>Disciplinary Proceedings</heading>
@@ -1082,9 +1082,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.1.5</num>
       <heading>Establishment of Tribal Police</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.1.5.010</num>
         <heading>General Principles</heading>
@@ -1323,9 +1323,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.1.6</num>
       <heading>Firearms Control</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.1.6.010</num>
         <heading>General Principles</heading>
@@ -1347,17 +1347,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PHS.2</num>
     <heading>Solid Waste Disposal and Recycling Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, to promote and protect the land, water, health, safety, and well-being of the Lac Courte Oreilles tribal community and surrounding area and to ensure that efficient and environmentally safe solid waste management procedures are practiced on the Lac Courte Oreilles Reservation, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to: "To promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice…" Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby regulates solid waste and recycling by providing procedural guidelines and planning for the administration and enforcement of ordinance violations. This ordinance applies to the disposal and recycling activities of citizens (members) on the Lac Courte Oreilles Reservation. Further, this ordinance applies to residences, tribal programs and tribal enterprises located within the exterior boundaries of the reservation.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.2.1</num>
       <heading>General Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.2.1.010</num>
         <heading>Title</heading>
@@ -1444,9 +1444,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.2.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.2.2.010</num>
         <heading>General Definitions</heading>
@@ -1534,9 +1534,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.2.3</num>
       <heading>General</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.2.3.010</num>
         <heading>Transfer Station Site</heading>
@@ -1701,9 +1701,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.2.4</num>
       <heading>General</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.2.4.010</num>
         <heading>Hearings in Tribal Court</heading>
@@ -1879,17 +1879,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PHS.3</num>
     <heading>Exclusion and Removal Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide a procedure for excluding and removing nonmembers from the Reservation when it is in the best interest of the Band to do so, including the exclusion and removal of nonmembers who act in disregard of tribal or other applicable law, by destroying real or personal property of the Band, harming its members or Reservation residents, or by endangering or harming the natural, social, psychological or physical well-being of members or other persons on the Reservation which predates its treaties of 1825, 1826, 1837, 1842, 1847, and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice...."</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.3.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.3.1.010</num>
         <heading>Title</heading>
@@ -1964,9 +1964,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.3.2</num>
       <heading>General Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.3.2.010</num>
         <heading>General Definitions</heading>
@@ -2005,9 +2005,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.3.3</num>
       <heading>Exclusion and Removal Policy and Procedure</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.3.3.010</num>
         <heading>Petition</heading>
@@ -2128,13 +2128,13 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>PHS.7</num>
     <heading>Tattoo and Body Piercing Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <container>
+      <prefix>Subchapter</prefix>
       <num>PHS.7.1</num>
       <heading>Lac Courte Oreilles Tattoo and Body Piercing Ordinance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>PHS.7.1.010</num>
         <heading>Title</heading>

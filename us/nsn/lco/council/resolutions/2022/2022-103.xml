@@ -51,17 +51,17 @@
   </procedural-data>
   <codify:insert path="VEH" after="VEH.3" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.1.010">
     <container>
+      <prefix>Chapter</prefix>
       <num>VEH.4</num>
       <heading>All-Terrain Vehicles and Utility Task Vehicles</heading>
-      <prefix>Chapter</prefix>
       <text class="center">
         <strong>Preamble</strong>
       </text>
       <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide a code for the operation and enforcement for ATV/UTV vehicles on the Reservation, including the regulation of operation and identification of enforcement for persons who operate under this code. To provide regulations for the safe operation of ATV/UTV vehicles to protect real or personal property of the Band, harming its members or Reservation residents, or by endangering or harming the natural, social, or physical well-being of members or other persons on the Reservation which predates its treaties of 1825, 1826, 1837, 1842, 1847, and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice…."</text>
       <container>
+        <prefix>Subchapter</prefix>
         <num>VEH.4.1</num>
         <heading>Introduction</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>VEH.4.1.010</num>
           <heading>Title</heading>
@@ -112,9 +112,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>VEH.4.2</num>
         <heading>Definitions</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>VEH.4.2.010</num>
           <heading>General Definitions</heading>
@@ -186,9 +186,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>VEH.4.3</num>
         <heading>Rules of Operation</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>VEH.4.3.010</num>
           <heading>Authorized Operation</heading>
@@ -319,9 +319,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>VEH.4.4</num>
         <heading>Enforcement</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>VEH.4.4.010</num>
           <heading>Enforcement</heading>
@@ -358,9 +358,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>VEH.4.5</num>
         <heading>Penalties</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>VEH.4.5.010</num>
           <heading>Penalties</heading>

@@ -46,13 +46,13 @@
   </procedural-data>
   <codify:insert path="TCT" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TCT.5.1.010">
     <container>
+      <prefix>Chapter</prefix>
       <num>TCT.5</num>
       <heading>Financial Services Regulatory Authority Administrative Appellate Procedures</heading>
-      <prefix>Chapter</prefix>
       <container>
+        <prefix>Subchapter</prefix>
         <num>TCT.5.1</num>
         <heading>General Provisions</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>TCT.5.1.010</num>
           <heading>Applicability</heading>
@@ -105,9 +105,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>TCT.5.2</num>
         <heading>Definitions</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>TCT.5.2.010</num>
           <heading>General Definitions</heading>
@@ -166,9 +166,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>TCT.5.3</num>
         <heading>Appeal Procedure and Practice</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>TCT.5.3.010</num>
           <heading>Form, Captioning, Signing, and Verifying Documents</heading>
@@ -202,7 +202,7 @@
           </para>
         </section>
         <section>
-          <num>THT.5.3.020</num>
+          <num>TCT.5.3.020</num>
           <heading>Service</heading>
           <text>In addition to §§<cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.9.020">TCT.2.9.020</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.9.040">TCT.2.9.040</cite>, the following shall apply:</text>
           <para>
@@ -565,9 +565,9 @@
         </section>
       </container>
       <container>
+        <prefix>Subchapter</prefix>
         <num>TCT.5.4</num>
         <heading>Enforcement of Judgment</heading>
-        <prefix>Subchapter</prefix>
         <section>
           <num>TCT.5.4.010</num>
           <heading>Enforcement.</heading>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Lac Courte Oreilles Tribal Code of Law">
+  <prefix>Title</prefix>
   <num>DMR</num>
   <heading>Domestic Relations</heading>
-  <prefix>Title</prefix>
   <container>
+    <prefix>Chapter</prefix>
     <num>DMR.1</num>
     <heading>Children's Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q)</cite>, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite>, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">(t)</cite>, and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">(u)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance..." <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q)</cite>; "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1 (s)</cite>; "provide for the regulation of child custody and domestic relations matters by ordinances or resolution" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">Article V, § 1 (t)</cite>; "provide for the appointment of guardians for minors, aged persons, and mental incompetents by ordinance or resolution" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">Article V, § 1 (u)</cite>. It is the purpose of this ordinance to protect the health, safety, and welfare of all children within the jurisdiction of the Lac Courte Oreilles Tribe.  In the children lie the Tribe's future, and in their retention of Ojibwe traditions and culture lies the preservation of the Tribe's past. It is the policy of the Tribe to strengthen family structures, to prevent family breakups, and to foster conditions favorable to the growth, spirit, culture, and individuality of each child. A child without knowledge of the past is directionless in the path forward; a child without a nurturing present is denied the strengths that lead to the future. It is the Tribe's policy to favor preventive action over belated reaction, meditation over confrontation, counseling over lecturing, conciliation over punishment, - but in all decisions made under this ordinance the welfare of the child shall be the ultimate touchstone.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.1.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.1.1.010</num>
         <heading>Title</heading>
@@ -133,9 +133,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.1.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.1.2.010</num>
         <heading>General Definitions</heading>
@@ -299,9 +299,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.1.3</num>
       <heading>Children's Court</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.1.3.010</num>
         <heading>Children's Court Division</heading>
@@ -592,9 +592,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.1.4</num>
       <heading>Emergency Custody Proceeding</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.1.4.010</num>
         <heading>Taking a Child into Emergency Custody</heading>
@@ -838,9 +838,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.1.5</num>
       <heading>Minor in Need of Care Proceedings</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.1.5.010</num>
         <heading>Jurisdiction</heading>
@@ -1368,9 +1368,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.1.6</num>
       <heading>Termination or Suspension of Parental Rights</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.1.6.010</num>
         <heading>Effect of Termination; Petition and Hearing Required</heading>
@@ -1927,9 +1927,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.1.7</num>
       <heading>Guardianship</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.1.7.010</num>
         <heading>Petition for Guardianship</heading>
@@ -2110,9 +2110,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.1.8</num>
       <heading>Adoption and Customary Adoption</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.1.8.010</num>
         <heading>Effect of Adoption and Customary Adoption; Who May Adopt and Be Adopted</heading>
@@ -2443,9 +2443,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.1.9</num>
       <heading>Administration</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.1.9.010</num>
         <heading>Notices Under the Indian Child Welfare Act</heading>
@@ -2568,9 +2568,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.1.10</num>
       <heading>AODA Minor in Need of Care Proceedings</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.1.10.010</num>
         <heading>Purpose</heading>
@@ -2955,13 +2955,13 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>DMR.2</num>
     <heading>Domestic Relations Court Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.1</num>
       <heading>Jurisdiction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.1.010</num>
         <heading>Domestic Relations Defined</heading>
@@ -3036,9 +3036,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.2</num>
       <heading>Marriages</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.2.010</num>
         <heading>Valid Marriages</heading>
@@ -3142,9 +3142,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.3</num>
       <heading>Divorce and Legal Separation</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.3.010</num>
         <heading>Effect of Divorce, Grounds</heading>
@@ -3482,9 +3482,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.4</num>
       <heading>Child Custody and Placement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.4.010</num>
         <heading>Definitions</heading>
@@ -3619,9 +3619,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.5</num>
       <heading>Maintenance</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.5.010</num>
         <heading>Grounds for Maintenance Award</heading>
@@ -3684,9 +3684,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.7</num>
       <heading>Division of Property and Assignment of Debts</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.7.010</num>
         <heading>Policy for Division of Property and Assignment of Debts</heading>
@@ -3713,9 +3713,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.8</num>
       <heading>Payment of Maintenance or Support</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.8.010</num>
         <heading>Payments to the Clerk of Court or LCO Child Support Program</heading>
@@ -3832,9 +3832,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.9</num>
       <heading>Modification of Financial and Property Provisions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.9.010</num>
         <heading>Child Support</heading>
@@ -3906,9 +3906,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.10</num>
       <heading>Costs and Attorney Fees</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.10.010</num>
         <heading>Costs and Attorney Fees to Equalize Advantage</heading>
@@ -3927,9 +3927,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.13</num>
       <heading>Visitation Rights for Grandparents and Others</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.13.010</num>
         <heading>Purpose</heading>
@@ -4035,9 +4035,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.16</num>
       <heading>Name Changes</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.16.010</num>
         <heading>Applicability</heading>
@@ -4197,9 +4197,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.2.17</num>
       <heading>Domestic Abuse Restraining Orders and Injunctions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.2.17.010</num>
         <heading>Definitions</heading>
@@ -4540,17 +4540,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>DMR.3</num>
     <heading>Guardianship of Adults and Protective Placement Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1 (s)</cite>, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">(t)</cite>, and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">(u)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1 (s)</cite>; "provide for the regulation of … domestic relations matters by ordinances or resolution" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">Article V, § 1 (t)</cite>; "provide for the appointment of guardians for … mental incompetents by ordinance or resolution" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">Article V, § 1 (u)</cite>. The Lac Courte Oreilles Band of Lake Superior Chippewa Indians recognizes the need to promote the traditional value of respect for adults in need of protective placement or guardianship. The Tribe recognizes that adults that suffer from physical or mental disability, incapacity, other disability, or are substantially impaired whether from age, disease, alcohol, substance abuse, or psychological problems all deserve to lead a life of safety and respect. The dignity, self-reliance and rights of adults in need of protective placement or guardianship must be respected by family members, the Tribal community, employees of the Tribe and all people who are part of or inter-act with the Tribe and its adults in need of protective placement or guardianship. It is the purpose of this ordinance to protect the health, safety and welfare of all persons within the jurisdiction of the Lac Courte Oreilles Tribe and to codify a process and procedure governing the appointment of a Guardian for Adults who are incapable of managing their own affairs, require assistance in conducting business, or require assistance in obtaining necessary services. Thus, it is in the best interest of and serves the welfare of the Tribe to protect adults in need of protective placement or guardianship.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.3.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.3.1.010</num>
         <heading>Title</heading>
@@ -4649,9 +4649,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.3.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.3.2.010</num>
         <heading>General Definitions</heading>
@@ -4703,9 +4703,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.3.3</num>
       <heading>Jurisdiction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.3.3.010</num>
         <heading>Jurisdiction</heading>
@@ -4724,9 +4724,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.3.4</num>
       <heading>Adult Guardianships</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.3.4.010</num>
         <heading>Types of Adult Guardianships</heading>
@@ -4785,9 +4785,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.3.5</num>
       <heading>Adult Guardianship Procedures</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.3.5.010</num>
         <heading>Who May Petition for Adult Guardianship</heading>
@@ -4959,9 +4959,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.3.6</num>
       <heading>Protective Placement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.3.6.010</num>
         <heading>Order</heading>
@@ -5030,9 +5030,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.3.7</num>
       <heading>Termination or Changes</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.3.7.010</num>
         <heading>Termination or Changes to an Order for Adult Guardianship</heading>
@@ -5080,17 +5080,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>DMR.4</num>
     <heading>Elders and Vulnerable Adults Protection Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value of respect for tribal elders and vulnerable adults which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …" It is the purpose of this ordinance to protect elders and vulnerable adults within the jurisdiction of the Lac Courte Oreilles Tribe from abuse and neglect as defined in this ordinance.  This ordinance provides for: (a) reporting abuse or neglect to the proper agency; (b) receiving reports of and investigating suspected abuse or neglect; and (c) delivering elder protection services.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.4.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.4.1.010</num>
         <heading>Title</heading>
@@ -5193,9 +5193,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.4.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.4.2.010</num>
         <heading>General Definitions</heading>
@@ -5303,9 +5303,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.4.3</num>
       <heading>Reporting and Investigations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.4.3.010</num>
         <heading>Duty to Report Abuse or Neglect of an Elder</heading>
@@ -5452,9 +5452,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.4.4</num>
       <heading>Elder Protective Services and Placement</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.4.4.010</num>
         <heading>Elder Protective Services and Elder Protective Placement; Other Services; Evaluation Procedures; Duty to Pay</heading>
@@ -5485,9 +5485,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.4.5</num>
       <heading>Emergency Situations</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.4.5.010</num>
         <heading>Emergency</heading>
@@ -5562,9 +5562,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.4.6</num>
       <heading>Rights and Privileges</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.4.6.010</num>
         <heading>Rights of Elders, Their Families and Caretakers</heading>
@@ -5595,9 +5595,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.4.7</num>
       <heading>Procedures</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.4.7.010</num>
         <heading>Procedures for Determining Incapacity, Abuse, Neglect or Self Neglect</heading>
@@ -5708,17 +5708,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>DMR.5</num>
     <heading>Aging Administration Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians relating to the delivery of elder services which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, §§ 1(l)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">(m)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, § 1 (l)</cite>;  and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, § 1 (m)</cite>. This ordinance promotes the well-being of older individuals by providing services and programs designed to help them live independently in their homes and communities. This ordinance also empowers the Tribal government to receive funds form the Federal and State governments for supportive services for individuals over the age of 55.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.5.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.5.1.010</num>
         <heading>Title</heading>
@@ -5814,9 +5814,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.5.2</num>
       <heading>General Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.5.2.010</num>
         <heading>General Definitions</heading>
@@ -5876,9 +5876,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.5.3</num>
       <heading>General</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.5.3.010</num>
         <heading>Aging Unit</heading>
@@ -6253,17 +6253,17 @@
     </container>
   </container>
   <container>
+    <prefix>Chapter</prefix>
     <num>DMR.6</num>
     <heading>Paternity and Child Support Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <prefix>Chapter</prefix>
     <text class="center">
       <strong>Preamble</strong>
     </text>
     <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance..." <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1(q)</cite>; "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s)</cite>; "provide for the regulation of child custody and domestic relations matters by ordinance or resolution" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">Article V, § 1 (t)</cite>. It is the purpose of this ordinance to establish paternity and child support guidelines and procedures for the enforcement of child support and to provide for the reciprocal recognition and enforcement of child support orders and judgments. Indian children are the most vital and valued resource to the continued existence, the future, and integrity of the Lac Courte Oreilles Tribe. The establishment of these guidelines and procedures is in the best interests of all families within the jurisdiction of the Lac Courte Oreilles Tribe, and especially its children, who have a right and need to receive support from their parents.</text>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.6.1</num>
       <heading>Introduction</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.6.1.010</num>
         <heading>Title</heading>
@@ -6344,9 +6344,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.6.2</num>
       <heading>Definitions</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.6.2.010</num>
         <heading>General Definitions</heading>
@@ -6486,9 +6486,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.6.3</num>
       <heading>Jurisdiction and Procedure</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.6.3.010</num>
         <heading>Jurisdiction</heading>
@@ -6539,9 +6539,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.6.4</num>
       <heading>Referral</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.6.4.010</num>
         <heading>Paternity</heading>
@@ -6584,9 +6584,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.6.5</num>
       <heading>Paternity</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.6.5.010</num>
         <heading>Actions for Paternity</heading>
@@ -6881,9 +6881,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.6.6</num>
       <heading>Child Support</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.6.6.010</num>
         <heading>Actions for Child Support</heading>
@@ -7421,9 +7421,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.6.7</num>
       <heading>Payment of Child Support</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.6.7.010</num>
         <heading>Payments to LCO Child Support Services</heading>
@@ -7610,9 +7610,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.6.8</num>
       <heading>Modification of Child Support</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.6.8.010</num>
         <heading>Child Support Modifications</heading>
@@ -7671,9 +7671,9 @@
       </section>
     </container>
     <container>
+      <prefix>Subchapter</prefix>
       <num>DMR.6.9</num>
       <heading>Incarcerated Payers</heading>
-      <prefix>Subchapter</prefix>
       <section>
         <num>DMR.6.9.010</num>
         <heading>Request for Review/Modification/Suspension of Child Support Due to Incarceration</heading>
