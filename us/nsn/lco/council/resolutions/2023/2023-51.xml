@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-51" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2023-51</num>
+  <heading>Lac Courte Oreilles Band of Lake Superior Indians Tribal Code of Law Amendments to the ATV/UTV Code VEH.4 Vehicles</heading>
+  <meta>
+    <effective>2023-05-10</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-51.pdf">Res. No. 2023-51</citation>
+    </citations>
+    <history>
+      <adopted>2023-05-10</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V">Article V</cite>, including, but not limited to, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Sections 1 (q)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "establish a tribal court for the purpose of enforcing tribal ordinance" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, Section 1 (q)</cite> and "to promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1 (s)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Lac Courte Oreilles Tribal Governing Board is authorized to regulate operations of all-terrain vehicles and utility terrain vehicles, (hereinafter "ATV/UTV") on the Reservation and to establish safety regulations for safe use; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe has amended and edited the Code as follows to allow for increased access to the ATV/UTV trails for tribal members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to encourage registration of all ATV/UTV with the Tribe.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the following changes are approved and adopted by the Tribal Governing Board to increase access to ATV/UTV trails within the Reservation and to encourage registration of all ATV/UTV vehicles for the safety of all uses.</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.040|(a)">Section VEH.4.3.040(a)</cite> as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="|VEH.4.3.040|(a)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.3.040|(a)"/>
+        <num>(a)</num>
+        <text>Hours of Operation for recreational use of ATV/UTV on the Lac Courte Oreilles Reservation shall be from 6:00 A.M. until 11:00 P.M Sunday through Saturday.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>To remove the word "City" from the title in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.070">Section VEH.4.3.070</cite>.</text>
+    <codify:replace path="|VEH.4.3.070|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.3.070">
+      <heading>Northwoods Beach Limits</heading>
+    </codify:replace>
+  </section>
+  <section>
+    <num>3</num>
+    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.070">Section VEH.4.3.070</cite> as follows:</text>
+    <include>
+      <text>The roads in the Northwoods Beach residential area may be used by Tribally registered ATV/UTV users pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.030">VEH.4.4.030</cite>.</text>
+    </include>
+    <codify:find-replace path="|VEH.4.3.070" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.3.070">
+      <find>The roads in the Northwoods beach residential area may be used by residential owners for the limited purpose of the accessing marked ATV/UTV trails in close proximity to the residential homes.</find>
+      <replace>The roads in the Northwoods Beach residential area may be used by Tribally registered ATV/UTV users pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.030">VEH.4.4.030</cite>.</replace>
+    </codify:find-replace>
+  </section>
+  <section>
+    <num>4</num>
+    <text>To remove the following from <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.070">Section VEH.4.3.070</cite>:</text>
+    <include>
+      <text>Nothing in this section shall be construed as permission of the tribe for ATV/UTV and the tribe and all agents are not liable for the use of ATV/UTV operations under this section.</text>
+    </include>
+    <codify:find-replace path="|VEH.4.3.070" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.3.070">
+      <find>Nothing in this section shall be construed as a permission of the tribe for ATV/UTV and the tribe and all agents are not liable for the use of ATV/UTV operation under this section.</find>
+      <replace/>
+    </codify:find-replace>
+  </section>
+  <section>
+    <num>5</num>
+    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.010">Section VEH.4.4.010</cite> as follows:</text>
+    <include>
+      <text>A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, and the Lac Courte Oreilles Conservation Wardens, are authorized to enforce the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4">this chapter</cite> and to cite individuals for violation thereof into Tribal Court.</text>
+    </include>
+    <codify:find-replace path="|VEH.4.4.010" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.010">
+      <find>A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, Lac Courte Oreilles Conservation Warden, and are authorized to enforce the provisions of <cite path="VEH.4">this chapter</cite> and to cite individuals for violation thereof into Tribal Court.</find>
+      <replace>A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, and the Lac Courte Oreilles Conservation Wardens, are authorized to enforce the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4">this chapter</cite> and to cite individuals for violation thereof into Tribal Court.</replace>
+    </codify:find-replace>
+  </section>
+  <section>
+    <num>6</num>
+    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.020" proof="needed">Section VEH.4.4.020</cite> by including the word "have" as follows:</text>
+    <include>
+      <text>The Tribal Court shall have personal and subject matter jurisdiction…..</text>
+    </include>
+    <codify:find-replace path="|VEH.4.4.020" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.020">
+      <find>The Tribal Court shall personal and subject-matter</find>
+      <replace>The Tribal Court shall have personal and subject matter</replace>
+    </codify:find-replace>
+  </section>
+  <section>
+    <num>7</num>
+    <text>To add three sections to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.030">VEH.4.4.030</cite> as follows:</text>
+    <include>
+      <para>
+        <codify:insert path="|VEH.4.4.030" num-value="(f)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030|(f)"/>
+        <num>(e)</num>
+        <text>LCO Tribal members shall register their ATV/UTV, however, tribal members registration fee shall be waived if a valid LCO Tribal ID is provided at the time of registration.</text>
+      </para>
+      <para>
+        <codify:insert path="|VEH.4.4.030" num-value="(g)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030|(g)"/>
+        <num>(f)</num>
+        <text>Falsification of ATV/UTV use permit is subject to all penalties included in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.5.010">VEH.4.5.010</cite>.</text>
+      </para>
+      <para>
+        <codify:insert path="|VEH.4.4.030" num-value="(h)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030|(h)"/>
+        <num>(g)</num>
+        <text>The illegal transfer of ATV/UTV permit is subject to all penalties included in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.5.010">VEH.4.5.010</cite>.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text>To add the words "outside of" to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.5.010|(b)">Section VEH.4.5.010(b)</cite> as follows:</text>
+    <include>
+      <text>…and remove the vehicle outside of the Reservation boundary.</text>
+    </include>
+    <codify:find-replace path="|VEH.4.5.010|(b)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.5.010|(b)">
+      <find>remove the vehicle the Reservation boundary.</find>
+      <replace>remove the vehicle outside of the Reservation boundary.</replace>
+    </codify:find-replace>
+  </section>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom 6 being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this 10th day of May 2023, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of 5 members, 0 against, 0 abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

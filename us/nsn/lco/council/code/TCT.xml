@@ -3172,7 +3172,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><u>Administrative Appeal; Administrative Exhaustion.</u>  A person aggrieved by a final decision or order in a Contested Case, whether such decision or order is affirmative or negative in form, may appeal under <cite path="TCT.5">this Chapter</cite> to the Tribal Court ("administrative appeal"). An administrative appeal under <cite path="TCT.5">this Chapter</cite> is part of the administrative process and constitutes an administrative remedy. Accordingly, a final decision following an administrative appeal is a prerequisite to judicial review of an Agency Action. A motion or application for rehearing or reconsideration to the Agency is not required to appeal under <cite path="TCT.5">this Chapter</cite> unless specifically required by Agency rules.</text>
+          <text><u>Exhaustion.</u> When a person has exhausted all administrative remedies available within the Agency and is aggrieved by a final decision or order in a Contested Case, whether such decision or order is affirmative or negative in form, the decision or order is subject to direct review by the Tribal Court.  Exhaustion of administrative remedies does not require the filing of a motion or application for rehearing or reconsideration unless the Agency rules require the filing before judicial review is sought.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -3184,6 +3184,7 @@
         </para>
         <annotations>
           <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-49" eff="2023-05-10" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3631,7 +3632,7 @@
           <text>Grounds for reversal. The court shall set aside a Final Agency Action, findings, and conclusions found to be:</text>
           <para>
             <num>(1)</num>
-            <text>In violation of the LCO Tribal constitution or other LCO tribal law.</text>
+            <text>In violation of any tribal or applicable federal law.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -3708,6 +3709,7 @@
         </para>
         <annotations>
           <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-49" eff="2023-05-10" path="§2" type="History"/>
         </annotations>
       </section>
     </container>

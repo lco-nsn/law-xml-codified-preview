@@ -1698,7 +1698,7 @@
         <heading>Hours of Operation</heading>
         <para>
           <num>(a)</num>
-          <text>Hours of Operation for recreational use of ATV/UTV on the Lac Courte Oreilles Reservation shall be from sunrise to sunset Sunday through Saturday.</text>
+          <text>Hours of Operation for recreational use of ATV/UTV on the Lac Courte Oreilles Reservation shall be from 6:00 A.M. until 11:00 P.M Sunday through Saturday.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1707,6 +1707,7 @@
         <annotations>
           <annotation app="2022-10-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-103" eff="2022-10-24" path="" type="History"/>
           <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-115" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-51" eff="2023-05-10" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1733,12 +1734,15 @@
       </section>
       <section>
         <num>VEH.4.3.070</num>
-        <heading>Northwoods Beach City Limits</heading>
-        <text>The roads in the Northwoods beach residential area may be used by residential owners for the limited purpose of the accessing marked ATV/UTV trails in close proximity to the residential homes.</text>
-        <text>Nothing in this section shall be construed as a permission of the tribe for ATV/UTV and the tribe and all agents are not liable for the use of ATV/UTV operation under this section.</text>
+        <heading>Northwoods Beach Limits</heading>
+        <text>The roads in the Northwoods Beach residential area may be used by Tribally registered ATV/UTV users pursuant to <cite path="§VEH.4.4.030">VEH.4.4.030</cite>.</text>
+        <text></text>
         <annotations>
           <annotation app="2022-10-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-103" eff="2022-10-24" path="" type="History"/>
           <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-115" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-51" eff="2023-05-10" path="§2" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-51" eff="2023-05-10" path="§3" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-51" eff="2023-05-10" path="§4" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1749,17 +1753,19 @@
       <section>
         <num>VEH.4.4.010</num>
         <heading>Enforcement</heading>
-        <text>A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, Lac Courte Oreilles Conservation Warden, and are authorized to enforce the provisions of <cite path="VEH.4">this chapter</cite> and to cite individuals for violation thereof into Tribal Court.</text>
+        <text>A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, and the Lac Courte Oreilles Conservation Wardens, are authorized to enforce the provisions of <cite path="|VEH.4">this chapter</cite> and to cite individuals for violation thereof into Tribal Court.</text>
         <annotations>
           <annotation app="2022-10-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-103" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-51" eff="2023-05-10" path="§5" type="History"/>
         </annotations>
       </section>
       <section>
         <num>VEH.4.4.020</num>
         <heading>Tribal Court</heading>
-        <text>All citations issued under this code shall be heard in the Lac Courte Oreilles Tribal Court.  The Tribal Court shall personal and subject-matter jurisdiction for all citations issued under this code.</text>
+        <text>All citations issued under this code shall be heard in the Lac Courte Oreilles Tribal Court.  The Tribal Court shall have personal and subject matter jurisdiction for all citations issued under this code.</text>
         <annotations>
           <annotation app="2022-10-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-103" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-51" eff="2023-05-10" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1785,8 +1791,21 @@
           <num>(e)</num>
           <text>Failure to register ones ATV/UTV may result in immediate impoundment of the ATV/UTV, at the owner's expense.</text>
         </para>
+        <para>
+          <num>(f)</num>
+          <text>LCO Tribal members shall register their ATV/UTV, however, tribal members registration fee shall be waived if a valid LCO Tribal ID is provided at the time of registration.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Falsification of ATV/UTV use permit is subject to all penalties included in <cite path="§VEH.4.5.010">VEH.4.5.010</cite>.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The illegal transfer of ATV/UTV permit is subject to all penalties included in <cite path="§VEH.4.5.010">VEH.4.5.010</cite>.</text>
+        </para>
         <annotations>
           <annotation app="2022-10-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-103" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-51" eff="2023-05-10" path="§7" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1803,7 +1822,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>For any ATV/UTV that is operating outside the posted roadways or ATV/UTV trails, the Tribe reserves the right to confiscate any ATV/UTV and remove the vehicle the Reservation boundary.  The Lac Courte Oreilles Police Department  or the Lac Courte Oreilles Conservation Department reserves the right to impound any ATV/UTV that violates any section under this Code.</text>
+          <text>For any ATV/UTV that is operating outside the posted roadways or ATV/UTV trails, the Tribe reserves the right to confiscate any ATV/UTV and remove the vehicle outside of the Reservation boundary.  The Lac Courte Oreilles Police Department  or the Lac Courte Oreilles Conservation Department reserves the right to impound any ATV/UTV that violates any section under this Code.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1819,6 +1838,7 @@
         </para>
         <annotations>
           <annotation app="2022-10-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-103" eff="2022-10-24" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-51" eff="2023-05-10" path="§8" type="History"/>
         </annotations>
       </section>
       <section>

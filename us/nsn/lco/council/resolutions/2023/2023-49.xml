@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-49" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2023-49</num>
+  <heading>Amendment of the Lac Courte Oreilles Tribal Code of Law TCT.5 Financial Services Regulatory Authority Administrative Appellate Procedures</heading>
+  <meta>
+    <effective>2023-05-10</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-49.pdf">Res. No. 2023-49</citation>
+    </citations>
+    <history>
+      <adopted>2023-05-10</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, Section 1(l)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">(m)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, Section 1(l)</cite>: and "delegate to subordinate boards, officers, committees, or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, Section 1(m)</cite>.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, Section 1(h) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board has the full authority to engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">Chapter TCT.5</cite>, Financial Services Regulatory Authority Administrative Appellate Procedures to protect the Tribe, its members, and consumers; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board determines that it is in the best interests of the Tribe, its members, and consumers to amend the Financial Services Regulatory Authority Administrative Appellate Procedures.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby approves and enacts the following edits and amendments to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">TCT.5</cite>. The edits and amendments to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.5">TCT.5</cite> shall be submitted to the Lac Courte Oreilles Law Library as codified law.</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.5.1.020|(b)">subsection (b)</cite> to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.5.1.020">TCT.5.1.020</cite> as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="|TCT.5.1.020|(b)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TCT.5.1.020|(b)"/>
+        <num>(b)</num>
+        <text><u>Exhaustion.</u> When a person has exhausted all administrative remedies available within the Agency and is aggrieved by a final decision or order in a Contested Case, whether such decision or order is affirmative or negative in form, the decision or order is subject to direct review by the Tribal Court.  Exhaustion of administrative remedies does not require the filing of a motion or application for rehearing or reconsideration unless the Agency rules require the filing before judicial review is sought.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.5.3.090|(e)|(1)">subsection TCT.5.3.090(e)(1)</cite> as follows:</text>
+    <include>
+      <para>
+        <num>(e)</num>
+        <text>Grounds for reversal.  The court shall set aside a Final Agency Action, findings, and conclusions found to be:</text>
+        <para>
+          <codify:replace path="|TCT.5.3.090|(e)|(1)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TCT.5.3.090|(e)|(1)"/>
+          <num>(1)</num>
+          <text>In violation of any tribal or applicable federal law.</text>
+        </para>
+      </para>
+    </include>
+  </section>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom 6 being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this 10th day of May 2023, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of 5 members, 0 against, 0 abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
