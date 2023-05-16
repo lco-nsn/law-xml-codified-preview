@@ -326,7 +326,7 @@
         <text>Sampling must occur within <u>thirty (30) days</u> prior to the harvest of any Cannabis satvia L;</text>
       </para>
     </include>
-    <codify:replace path="CSV.8.6.010|(e)|(2)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.8.6.010|(e)|(2)">
+    <codify:replace path="CSV.8.6.010|(e)|(2)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.8.6.010">
       <para>
         <num>(2)</num>
         <text>Sampling must occur within thirty (30) days prior to the harvest of any Cannabis satvia L;</text>
@@ -342,7 +342,7 @@
         <text>The Agricultural Division will design its sampling program to ensure, with a 95% level of confidence, that <u>no more than [remove: "testing will identify if more than"] 1</u>% of the Cannabis satvia L. sampled from the Registered Land Area will fail to meet the definition of Hemp under this ordinance;</text>
       </para>
     </include>
-    <codify:replace path="CSV.8.6.010|(e)|(6)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.8.6.010|(e)|(6)">
+    <codify:replace path="CSV.8.6.010|(e)|(6)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.8.6.010">
       <para>
         <num>(6)</num>
         <text>The Agricultural Division will design its sampling program to ensure, with a 95% level of confidence, that no more than 1% of the Cannabis satvia L. sampled from the Registered Land Area will fail to meet the definition of Hemp under this ordinance;</text>
@@ -358,7 +358,7 @@
         <text>Samples shall be obtained from the flowering tops of plants when flowering tops are present, and shall be approximately five to eight inches in length from the main stem, terminal bud, or central cola of the flowering top of the plant.</text>
       </para>
     </include>
-    <codify:insert path="CSV.8.6.010|(e)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.8.6.010|(e)|(10)">
+    <codify:insert path="CSV.8.6.010|(e)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.8.6.010">
       <para>
         <num>(10)</num>
         <text>Samples shall be obtained from the flowering tops of plants when flowering tops are present, and shall be approximately five to eight inches in length from the main stem, terminal bud, or central cola of the flowering top of the plant.</text>
@@ -488,7 +488,7 @@
         <text>The Licensee shall notify the Agricultural Division of the method of disposal or remediation, the completion date, and the total acreage destroyed or remediated.</text>
       </para>
     </include>
-    <codify:replace path="CSV.8.7.010|(c)|(7)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.8.7.010|(c)|(7)">
+    <codify:replace path="CSV.8.7.010|(c)|(7)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.8.7.010">
       <para>
         <num>(7)</num>
         <text>The Licensee shall notify the Agricultural Division of the method of disposal or remediation, the completion date, and the total acreage destroyed or remediated.</text>
@@ -501,7 +501,7 @@
     <include>
       <text>[Remove: (6) If cultivation is to occur outdoors, certification that only feminized Seed and/or female Hemp plants will be cultivated and that any male plants discovered during cultivation will be immediately destroyed.]</text>
     </include>
-    <codify:replace path="CSV.8.5.010|(i)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.8.5.010|(i)">
+    <codify:replace path="CSV.8.5.010|(i)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.8.5.010">
       <para>
         <num>(i)</num>
         <text>A business plan and/or operations plan shall be included with the application that includes at a minimum the following:</text>
