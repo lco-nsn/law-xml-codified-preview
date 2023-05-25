@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-46" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2023-46</num>
+  <heading>Amending the Lac Courte Oreilles Band of Lake Superior Chippewa's Codes to Allow for Sharing of Personal Time off</heading>
+  <meta>
+    <effective>2023-05-10</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-46.pdf">Res. No. 2023-46</citation>
+    </citations>
+    <history>
+      <adopted>2023-05-10</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, Section 1(n) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> shall "regulate, by the enactment of ordinances, the conduct of business within the territory of the band" and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, Section 1(h)</cite> "to engage in any business that will further the social or economic well-being of members of the Band; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Governing Board duly enacted all Tribal Codes of Law, now wishes to amend the policies to allow for sharing of personal time off.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby amends the following Tribal Codes to allow for the sharing of Personal Time Off (PTO) as follows:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text/>
+    <include>
+      <section>
+        <codify:replace path="PAP.4.7.060" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.4.7.060"/>
+        <num>PAP.4.7.060</num>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Employees are permitted to share PTO within the same Employer Tax ID.  Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off. Employees may cash-out PTO with Director's approval.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text/>
+    <include>
+      <section>
+        <codify:replace path="PAP.1.7.060" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.1.7.060"/>
+        <num>PAP.1.7.060</num>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Employees are permitted to share PTO within the same Employer Tax ID. Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off. Employees may cash-out PTO with Tribal Governing Board approval.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text/>
+    <include>
+      <section>
+        <codify:replace path="PAP.5.7.060" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.5.7.060"/>
+        <num>PAP.5.7.060</num>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Employees are permitted to share PTO within the same Employer Tax ID. Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off.  Employees may cash-out PTO with Tribal Governing Board approval.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text/>
+    <include>
+      <section>
+        <codify:replace path="PAP.7.7.060" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.7.7.060"/>
+        <num>PAP.7.7.060</num>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Employees are permitted to share PTO within the same Employer ID. Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off. Employees may cash-out PTO with School Director's approval.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text/>
+    <include>
+      <section>
+        <codify:replace path="PAP.14.7.060" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.14.7.060"/>
+        <num>PAP.14.7.060</num>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Employees are permitted to share PTO with other LCO Development staff with the approval of the Director/Manager and the Human Resource Director. Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off. Employees may cash-out PTO with Director's approval.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text/>
+    <include>
+      <section>
+        <num>PAP.9.7.070</num>
+        <heading>(i) Sharing of Personal Time Off</heading>
+        <text>Team members are permitted to share PTO with other Casino staff with approval of the Director/Manager and the Human Resource Director. Employees may cash-out PTO with the Manager and Human Resource Director's approval.</text>
+      </section>
+    </include>
+    <codify:replace path="PAP.9.7.070|(i)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.9.7.070|(i)">
+      <para>
+        <num>(i)</num>
+        <text><u>Sharing of Personal Time Off</u>. Team members are permitted to share PTO with other Casino staff with approval of the Director/Manager and the Human Resource Director. Employees may cash-out PTO with the Manager and Human Resource Director's approval.</text>
+      </para>
+    </codify:replace>
+  </section>
+  <section>
+    <num>7</num>
+    <text/>
+    <include>
+      <section>
+        <codify:replace path="MCC.1.6.160" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.160"/>
+        <num>MCC.1.6.160</num>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Elected Officials are permitted to share PTO.</text>
+      </section>
+    </include>
+  </section>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom 6 being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this 10th day of May 2023, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of 5 members, 0 against, 0 abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-43" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2023-43</num>
+  <heading>Adopting GNC.4.4.015 Banning Electric Smoking Devices into the Lac Courte Oreilles Tribal Code of Law</heading>
+  <meta>
+    <effective>2023-05-10</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-43.pdf">Res. No. 2023-43</citation>
+    </citations>
+    <history>
+      <adopted>2023-05-10</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, §1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board is empowered to "to promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice…" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board has the authority and the responsibility to provide for the safety, health, and welfare of its members and over its territory within the exterior boundaries of the Lac Courte Oreilles Reservation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board passed Resolution 71-2021 Banning Electronic Smoking Devices at all tribal buildings and businesses located within the Reservation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board now adopts <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.4.4.015">GNC.4.4.015</cite> which codifies the Banning of Electronic Devices into the Lac Courte Oreilles Code of Law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the codified Banning of Electronic Devices allows all Tribal law enforcement to issue citations for individuals who violate <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.4.4.015">GNC.4.4.015</cite>.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby codifies the Banning of Electronic Devices on all tribal buildings and businesses located within in the Reservation into <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.4.4.015">GNC.4.4.015</cite> as follows:</text>
+      <text>
+        <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§GNC.4.4.015">GNC.4.4.015</cite>
+      </text>
+      <text>Banning of Electric Devices</text>
+      <text>Whoever uses, sells, or possesses electronic smoking devices at any tribal building, or any business located within the Reservation, shall receive a citation in the amount of one hundred dollars ($100).</text>
+    </recital>
+  </recitals>
+  <codify:insert path="GNC.4.4" after="GNC.4.4.010" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.4.4.015">
+    <section>
+      <num>GNC.4.4.015</num>
+      <heading>Banning of Electric Devices</heading>
+      <text>Whoever uses, sells, or possesses electronic smoking devices at any tribal building, or any business located within the Reservation, shall receive a citation in the amount of one hundred dollars ($100).</text>
+    </section>
+  </codify:insert>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom 6 being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this  10th day of May 2023, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of 5 members, 0 against, 0 abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

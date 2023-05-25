@@ -987,11 +987,12 @@
       </section>
       <section>
         <num>MCC.1.6.160</num>
-        <heading>Sharing of Personal Time off Prohibited</heading>
-        <text>Elected Officials are not permitted to share PTO under any circumstances.</text>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Elected Officials are permitted to share PTO.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-87"/>
           <annotation type="Prior Codifications">§MCC.1.6.160 was formerly codified as III LCOTCL §1.616</annotation>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-46" eff="2023-05-10" path="§7" type="History"/>
         </annotations>
       </section>
       <section>

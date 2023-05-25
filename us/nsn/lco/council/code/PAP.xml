@@ -1536,8 +1536,8 @@
       </section>
       <section>
         <num>PAP.1.7.060</num>
-        <heading>Sharing of Personal Time off Prohibited</heading>
-        <text>Employees are not permitted to share PTO under any circumstances. Paid Time Off has no "cash value" and cannot be paid out prior to providing a requisite notice of resignation.</text>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Employees are permitted to share PTO within the same Employer Tax ID. Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off. Employees may cash-out PTO with Tribal Governing Board approval.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-82"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-106"/>
@@ -1548,6 +1548,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-27"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-73"/>
           <annotation type="Prior Codifications">§PAP.1.7.060 was formerly codified as XIV LCOTCL §1.706</annotation>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-46" eff="2023-05-10" path="§2" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8502,13 +8503,14 @@
       </section>
       <section>
         <num>PAP.4.7.060</num>
-        <heading>Sharing of Personal Time off</heading>
-        <text>Employees are permitted to share PTO only under extreme circumstances, as determined by the LCOHA Executive Director. Any employee who seeks to share PTO must submit such request in writing to his or her department head or director, who shall forward the request to the LCOHA Executive Director. Prior to sharing PTO the recipient must have used all of their PTO first.  Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off.</text>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Employees are permitted to share PTO within the same Employer Tax ID.  Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off. Employees may cash-out PTO with Director's approval.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-12"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-14"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-75"/>
           <annotation type="Prior Codifications">§PAP.4.7.060 was formerly codified as XIV LCOTCL §4.706</annotation>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-46" eff="2023-05-10" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -11912,14 +11914,15 @@
       </section>
       <section>
         <num>PAP.5.7.060</num>
-        <heading>Sharing of Personal Time off Prohibited</heading>
-        <text>Employees are not permitted to share PTO under any circumstances.</text>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Employees are permitted to share PTO within the same Employer Tax ID. Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off.  Employees may cash-out PTO with Tribal Governing Board approval.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-104"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-13"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-28"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-76"/>
           <annotation type="Prior Codifications">§PAP.5.7.060 was formerly codified as XIV LCOTCL §5.706</annotation>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-46" eff="2023-05-10" path="§3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15630,14 +15633,15 @@
       </section>
       <section>
         <num>PAP.7.7.060</num>
-        <heading>Sharing of Personal Time off Prohibited</heading>
-        <text>Employees are not permitted to share PTO under any circumstances.</text>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Employees are permitted to share PTO within the same Employer ID. Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off. Employees may cash-out PTO with School Director's approval.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-81"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-89"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-11"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-29"/>
           <annotation type="Prior Codifications">§PAP.7.7.060 was formerly codified as XIV LCOTCL §7.706</annotation>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-46" eff="2023-05-10" path="§4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -22068,7 +22072,7 @@
         </para>
         <para>
           <num>(i)</num>
-          <text><u>Sharing of Personal Time Off Prohibited</u>. Team members are permitted to share PTO with approval of the Director/Manager and the Human Resource Director.</text>
+          <text><u>Sharing of Personal Time Off</u>. Team members are permitted to share PTO with other Casino staff with approval of the Director/Manager and the Human Resource Director. Employees may cash-out PTO with the Manager and Human Resource Director's approval.</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-107"/>
@@ -22089,6 +22093,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-14"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-30"/>
           <annotation type="Prior Codifications">§PAP.9.7.070 was formerly codified as XIV LCOTCL §9.707</annotation>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-46" eff="2023-05-10" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -30684,10 +30689,11 @@
       </section>
       <section>
         <num>PAP.14.7.060</num>
-        <heading>Sharing of Personal Time off Prohibited</heading>
-        <text>Employees are not permitted to share PTO under any circumstances. Paid Time Off has no "cash value" and cannot be paid out prior to providing a requisite notice of resignation.</text>
+        <heading>Sharing of Personal Time Off</heading>
+        <text>Employees are permitted to share PTO with other LCO Development staff with the approval of the Director/Manager and the Human Resource Director. Under no circumstances are probationary employees entitled to participate in the sharing of Personal Time Off. Employees may cash-out PTO with Director's approval.</text>
         <annotations>
           <annotation type="Prior Codifications">§PAP.14.7.060 was formerly codified as XIV LCOTCL §14.706</annotation>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-46" eff="2023-05-10" path="§5" type="History"/>
         </annotations>
       </section>
       <section>

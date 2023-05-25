@@ -1,0 +1,1002 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42">
+  <num>2023-42</num>
+  <heading>Adoption of Lac Courte Oreilles Band of Lake Superior Chippewa Indians Information Technology Policy Codified as ITP.1</heading>
+  <meta>
+    <effective>2023-05-10</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-42.pdf">Res. No. 2023-42</citation>
+    </citations>
+    <history>
+      <adopted>2023-05-10</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, §1(n) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> the Tribal Governing Board is empowered to "to regulate by enactment of ordinances, the conduct of business within the territory of the band" and pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, §1(s)</cite> "to promulgate and enforce ordinances governing the conduct of members…and providing for the maintenance of law and order" and;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board acknowledges that an attack on the Tribe's data and technology could cause significant damage to the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board wants to combat any security threats through the use of a Information Technology Policy for all Tribal employees, departments, and entities; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is the goal of the Tribal Governing Board to protect all tribal data and technology for the safety and well-being of the Tribe.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby adopts the attached Information Technology Policy, <cite doc="Lac Courte Oreilles Tribal Code of Law">IT.1</cite>, as attached to this Resolution. The Tribal Governing Board further resolves that the attached Information Technology Policy be codified and published on the Lac Courte Oreilles Tribal Code of Law Library page maintained by Open Law.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom 6 being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this 10th day of May 2023, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of 5 members, 0 against, 0 abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+  <codify:insert doc="Lac Courte Oreilles Tribal Code of Law" after="LLC" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|ITP.1.1.010">
+    <container containing-doc="Lac Courte Oreilles Tribal Code of Law">
+      <prefix>Title</prefix>
+      <num>ITP</num>
+      <heading>Information Technology Policy</heading>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>ITP.1</num>
+        <heading>Information and Technology Use and Security Policy</heading>
+        <text class="center">
+          <strong>Preamble</strong>
+        </text>
+        <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to provide for the decent, safe, and sanitary dwellings for the members of the Tribe which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group, including a Tribal Governing Board, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation." (<cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, § 1(l)</cite>). Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby enacts this ordinance.</text>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>ITP.1.1</num>
+          <heading>Introduction</heading>
+          <section>
+            <num>ITP.1.1.010</num>
+            <heading>Title</heading>
+            <text>This policy and procedure manual shall be known as the Lac Courte Oreilles Information and Technology Policy.</text>
+          </section>
+          <section>
+            <num>ITP.1.1.020</num>
+            <heading>Authority</heading>
+            <text>This policy and procedure manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q),</cite> <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite>, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">(t)</cite>, and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">(u)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowered the Tribal Governing Board to establish a Children's Court Division of the Lac Courte Oreilles Tribal Court..."</text>
+          </section>
+          <section>
+            <num>ITP.1.1.030</num>
+            <heading>Purpose</heading>
+            <text>The Tribe depends heavily on its information resources today and will become even more dependent on them in the future. Information is one of the Tribe's most important assets. Protection of information assets is necessary to establish and maintain trust between Tribal members, Tribal Departments and Entities,  Tribal leadership, and third-party  vendors . The security of the Tribe's systems and information is essential to its safety and to the privacy of Tribal financial information. The purpose of this policy is to establish general guidelines for maintaining a computing environment within the Tribe that is controlled, consistent and secure. The policy's primary objective is to enhance the productivity of users by optimizing network performance, reducing wasted use of resources and the risk of legal liability caused by illegal or inappropriate use of the Network, and to provide for Network security and safety. The Tribe is establishing standards relating to administrative, technical, and physical safeguards for Tribal records and information. These safeguards are to ensure the security and confidentiality of Tribal records and information, protect against any anticipated threats or hazards to the security or integrity of these records, and protect against unauthorized access to or use of these records or information that would result in substantial harm or inconvenience to the Tribe or a Tribal member. Attacks frequently compromise personal and business data; it is critical for the Tribe to respond quickly and effectively when security breaches occur by implementing an Incident Response Program that responds to incidents in a consistent manner so that the appropriate actions are taken. These incident response measures help personnel to minimize loss or theft of information and disruption of services, including the ability to use information gained during the incident to better prepare for handling future incidents and to provide stronger protection for systems and data.</text>
+          </section>
+          <section>
+            <num>ITP.1.1.040</num>
+            <heading>Effective Date</heading>
+            <text>Except as otherwise provided in specific sections, the provisions of this policy and procedural manual shall be effective on the date adopted by the Tribal Governing Board.</text>
+          </section>
+          <section>
+            <num>ITP.1.1.050</num>
+            <heading>Interpretation</heading>
+            <text>The provisions of this ordinance:</text>
+            <para>
+              <num>(a)</num>
+              <text>Shall be interpreted and applied as minimum requirements applicable to the Information Technology activities subject to this ordinance;</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Shall be liberally construed in favor of the Tribe;</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of this ordinance, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court may use tribal law, federal law, or the State law for guidance.</text>
+            </para>
+          </section>
+          <section>
+            <num>ITP.1.1.070</num>
+            <heading>Relation to Other Laws</heading>
+            <para>
+              <num>(a)</num>
+              <heading>Applicable Law.</heading>
+              <text>Unless affected or displaced by this ordinance, principles of law and equity common law of the Tribe and tribal customs and traditions are applicable, and the general principles of law of any other Tribe or any other state may be used as a guide to supplement and interpret this ordinance.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <heading>Conflicts with Other Laws.</heading>
+              <para>
+                <num>(1)</num>
+                <heading>Tribal Law.</heading>
+                <text>To the extent that this ordinance may conflict with tribal laws or ordinances which have been enacted to comply with statutes or regulations of any agency of the United States, such tribal laws or ordinances shall govern over the provisions of this Code if it has specific applicability, and it is clearly in conflict with the provisions of this Code.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <heading>State Law.</heading>
+                <text>To the extent that the laws of any state may be applicable to the subject matter of this ordinance, such laws shall be read to be advisory and not directly binding and shall not govern the relations of the parties.</text>
+              </para>
+            </para>
+          </section>
+          <section>
+            <num>ITP.1.1.080</num>
+            <heading>Severability and Non-Liability</heading>
+            <text>If any section, provision, or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
+          </section>
+          <section>
+            <num>ITP.1.1.090</num>
+            <heading>Repeal of Inconsistent Tribal Ordinances</heading>
+            <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>ITP.1.2</num>
+          <heading>Definitions</heading>
+          <section>
+            <num>ITP.1.2.010</num>
+            <heading>General Definitions</heading>
+            <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§ITP.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+            <para>
+              <num>(a)</num>
+              <text><strong>"Agent"</strong> shall mean a person who is authorized to act on behalf of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians with respect to a specific transaction or transactions. For the purposes of this ordinance, agent shall include all individuals elected or appointed to serve on a board, committee, or commission of the Tribe.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text><strong>"Employee"</strong> shall mean any individual who is employed by the Tribe and is subject to the direction and control of the Tribe with respect to the material details of the work performed, or who has the status of an employee under the usual common law rules applicable to determining the employer-employee relationship. For the purposes of this ordinance, employee shall include individuals employed by a tribal entity or Tribally Chartered corporation.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text><strong>"Network or Information Technology (IT)"</strong> shall encompass desktop computers, laptops, network resources, internet, intranet, email, world wide web, telephone systems, social media, etc.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text><strong>"Officer" </strong>shall mean a person elected or appointed to serve on a board, committee, or commission of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text><strong>"Personal electronic devices" </strong>shall include, but shall not be limited to, employee-owned desktop, laptop, tablet, handheld or worn computing devices, whether wired or wireless, USB drives, cameras and smartphones/cellular telephones.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text><strong>"Reservation or Reservation Lands"</strong> shall mean those lands located within the exterior boundaries of the Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text><strong>"Tribal Entity"</strong> shall mean a corporation or other organization which is wholly owned by the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and is operated for governmental or commercial purposes.</text>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text><strong>"Tribe"</strong> shall mean the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, and includes all departments, divisions, business units, and other subdivisions of the Tribe.</text>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text><strong>"Tribal Court"</strong> shall mean the court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+            </para>
+            <para>
+              <num>(j)</num>
+              <text><strong>"Tribal Governing Board"</strong> shall mean the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+            </para>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>ITP.1.3</num>
+          <heading>Information Security</heading>
+          <section>
+            <num>ITP.1.3.010</num>
+            <heading>Responsibilities</heading>
+            <para>
+              <num>(a)</num>
+              <text>The Tribal Governing Board hall oversee the Tribe's efforts to develop, implement, and maintain an effective Information Security Program. The Tribal Governing Board Counsel shall be responsible for approving this policy and the written report on the effectiveness of the Tribe's Information Security Program on an annual basis.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The Tribe's IT Department shall assist with the enforcement and adherence to the standards and guidelines established within this policy.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The Tribe's IT Department shall provide direction and control for information security at the Tribe.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>The Tribe shall exercise due diligence in selecting its service providers and require its service providers by contract to implement security measures that safeguard Tribal information.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Employees shall know and understand their duties with respect to the Information Security Policy and comply with the terms of this policy.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <heading>Security Objectives.</heading>
+              <text>The Tribe shall meet its business objectives by implementing business systems with due consideration of information technology (IT) related risks to the Tribe, business and trading partners, technology service providers, and customers. The Tribe shall meet this goal by striving to accomplish the following objectives:</text>
+              <para>
+                <num>(1)</num>
+                <text>Availability, integrity and confidentiality of data or systems</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Accountability and assurance of processes and controls</text>
+              </para>
+            </para>
+            <para>
+              <num>(g)</num>
+              <heading>Security Process.</heading>
+              <text>The Tribe shall implement an ongoing security process and shall assign clear and appropriate roles and responsibilities to the Tribal Governing Board, management, and employees. The process shall be designed to identify, measure, manage and control the risks to system and data availability, integrity, and confidentiality, and ensure accountability for system actions.</text>
+            </para>
+          </section>
+          <section>
+            <num>ITP.1.3.020</num>
+            <heading>Risk Assessment</heading>
+            <text>Information security risk assessment is the process to identify and understand risks to the confidentiality, integrity, and availability of information and information systems. The Tribe shall maintain an ongoing information security risk assessment program that effectively involves three phases:</text>
+            <para>
+              <num>(a)</num>
+              <heading>Information gathering.</heading>
+              <text>Gather data regarding the information and technology assets of the Tribe, threats to those assets, vulnerabilities, existing security controls and processes, and the current security standards and requirements;</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <heading>Analysis.</heading>
+              <text>Analyze the probability and impact associated with the known threats and vulnerabilities to its assets; and</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <heading>Prioritize responses.</heading>
+              <text>Rank the risks present due to threats and vulnerabilities to determine the appropriate level of training, controls, and testing necessary for effective mitigation.</text>
+            </para>
+          </section>
+          <section>
+            <num>ITP.1.3.030</num>
+            <heading>Strategy</heading>
+            <text>The Tribe strives to mitigate risks while complying with legal, statutory, contractual, and internally developed requirements. In building this strategy, the Tribe shall define its control objectives and establish an implementation plan. The security strategy shall include:</text>
+            <para>
+              <num>(a)</num>
+              <text>Cost comparisons of different strategic approaches appropriate to the Tribe's environment and complexity;</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Layered controls that establish multiple control points between threats and Tribe assets; and</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Educating officers and employees in implementing the information security program.</text>
+            </para>
+          </section>
+          <section>
+            <num>ITP.1.3.040</num>
+            <heading>Controls Implementation</heading>
+            <text>The following security controls shall be implemented as available:</text>
+            <para>
+              <num>(a)</num>
+              <heading>Access rights admin.</heading>
+              <text>The Tribe shall have an effective process to administer access to system resources. The Tribe shall strive to identify and restrict access to any system resource to the minimum required for work to be performed. The process shall include the following controls:</text>
+              <para>
+                <num>(1)</num>
+                <text>Assign end-users and system resources only the access required to perform their required functions;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Update access rights based on personnel or system changes;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Periodically review users' access rights based on the risk to the application or system; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Design appropriate acceptable-use and end-user policies.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <heading>Authentication.</heading>
+              <text>The Tribe shall use effective authentication methods appropriate to the level of risk by:</text>
+              <para>
+                <num>(1)</num>
+                <text>Selecting authentication mechanisms based on the risk associated with a particular application or service;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Considering whether multiple forms of authentication are appropriate for each application, considering that multi-forms authentication is increasingly necessary for many forms of electronic communication and electronic payment activities; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Encrypting the transmission and storage of authenticators (e.g., passwords, PINs).</text>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <heading>Network access.</heading>
+              <text>The Tribe shall secure access to their computer networks through multiple layers of access controls to protect against unauthorized access. Access control measures shall include:</text>
+              <para>
+                <num>(1)</num>
+                <text>Group network servers, applications, data, and users into security domains;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Require use of unique user IDs and strong passwords;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Establishing appropriate access requirements within and between each security domain; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Implementing appropriate controls to meet those access requirements consistently</text>
+              </para>
+            </para>
+            <para>
+              <num>(d)</num>
+              <heading>Operating System access.</heading>
+              <text>The Tribe shall secure access to the operating systems of all system components by:</text>
+              <para>
+                <num>(1)</num>
+                <text>Securing access to system utilities;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Restricting and monitoring privileged access;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Logging and monitoring user or program access to sensitive resources;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Updating the operating systems with security patches; and</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Securing the devices that can access the operating system through physical and logical means</text>
+              </para>
+            </para>
+            <para>
+              <num>(e)</num>
+              <heading>Application access.</heading>
+              <text>The Tribe shall control access to applications by:</text>
+              <para>
+                <num>(1)</num>
+                <text>Using authentication and authorization controls appropriate for the risk of the application;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Monitoring access rights to ensure they are the minimum required for the user's current business needs;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Using time of day limitations on access as appropriate; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Logging access and security events</text>
+              </para>
+            </para>
+            <para>
+              <num>(f)</num>
+              <heading>Remote access.</heading>
+              <text>The Tribe shall secure remote access to and from their systems by:</text>
+              <para>
+                <num>(1)</num>
+                <text>Controlling access through management approvals;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Implementing controls over configuration to disallow potential malicious use;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Monitoring remote access;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Securing remote access devices; and</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Using strong authentication and encryption to secure communications.</text>
+              </para>
+            </para>
+            <para>
+              <num>(g)</num>
+              <heading>Physical Security.</heading>
+              <text>The Tribe shall implement appropriate preventative and detective controls to protect against the risk to physical security.</text>
+            </para>
+            <para>
+              <num>(h)</num>
+              <heading>Encryption.</heading>
+              <text>The Tribe shall employ encryption to mitigate the risk of disclosure or alteration of sensitive information and storage transit. Encryption implementations shall include:</text>
+              <para>
+                <num>(1)</num>
+                <text>Encryption strength sufficient to protect the information while in transit between unsecure systems;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Effective encryption key management practices; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Appropriate protection of the encrypted communication's endpoints.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>USB storage devices shall not be authorized for general use. If a USB storage device is needed to store sensitive or confidential information, then something like "bit locker" with encryption that requires a username and password shall be used.</text>
+              </para>
+            </para>
+            <para>
+              <num>(i)</num>
+              <heading>Malicious code.</heading>
+              <text>The Tribe shall protect against the risk of malicious code by:</text>
+              <para>
+                <num>(1)</num>
+                <text>Using anti-virus products on clients and servers;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Using an appropriate blocking strategy on the network perimeter;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Filtering input to applications; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Educating staff in appropriate computing policies and procedures</text>
+              </para>
+            </para>
+            <para>
+              <num>(j)</num>
+              <heading>Systems development, acquisition, and maintenance.</heading>
+              <text>The Tribe shall ensure that systems are developed, acquired, and maintained with appropriate security controls. These steps shall include:</text>
+              <para>
+                <num>(1)</num>
+                <text>Defining security requirements before developing or acquiring new systems;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Incorporating recognized standards in developing security requirements;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Incorporating appropriate security controls, audit trails, and logs for data entry and data processing;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Implementing an effective change control process;</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Hardening systems before deployment;</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Establishing an effective patch process for new security vulnerabilities; and</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Overseeing vendors to protect the integrity and confidentiality of application source code.</text>
+              </para>
+            </para>
+            <para>
+              <num>(k)</num>
+              <heading>Personnel security.</heading>
+              <text>The Employee Handbook and Human Resources policies shall discuss risk mitigation posed by internal users</text>
+            </para>
+            <para>
+              <num>(l)</num>
+              <heading>Virtualization.</heading>
+              <text>The Virtual environment and the Virtualization of servers shall be the responsibility of the  IT Department.</text>
+            </para>
+            <para>
+              <num>(m)</num>
+              <heading>Electronic and paper-based media handling.</heading>
+              <text>The Tribe shall control and protect access to paper, film, and computer-based media to avoid loss or damage. The Tribe shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>Establish and ensure compliance with policies for handling and storing information;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Ensure safe and secure disposal of sensitive media and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Secure media in transit or transmission to third parties.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Employees are instructed to save data to "shared drives" or other network drives for security and backup purposes.</text>
+              </para>
+            </para>
+            <para>
+              <num>(n)</num>
+              <heading>Logging and data collection.</heading>
+              <text>The Tribe shall take reasonable steps to ensure that sufficient data is collected from secure log files to identify and respond to security incidents and to monitor and enforce policy compliance. The Tribe shall have appropriate logging controls to ensure that security personnel can review and analyze log data to identify unauthorized access attempts and security violations, provide support for personnel actions, and aid in reconstructing comprised systems.</text>
+            </para>
+            <para>
+              <num>(o)</num>
+              <heading>Service provider oversight.</heading>
+              <text>The Tribe shall review security responsibilities for outsourced operations through</text>
+              <para>
+                <num>(1)</num>
+                <text>Appropriate due diligence in service provider research and selection;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Contractual assurances regarding security responsibilities, controls, and reporting;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Nondisclosure agreements regarding the Tribe's systems and data; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Third-party review of the service provider's security through appropriate audits and tests.</text>
+              </para>
+            </para>
+            <para>
+              <num>(p)</num>
+              <heading>Intrusion detection and response.</heading>
+              <text>The Tribe shall strive to detect and respond to an information system intrusion commensurate with risk. Risk mitigation practices shall include:</text>
+              <para>
+                <num>(1)</num>
+                <heading>Preparation.</heading>
+                <text>Analysis of data flows, decisions on the nature and scope of monitoring, consideration of legal factors, appropriate procedures governing detection and response; and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <heading>Response to an intrusion.</heading>
+                <text>Containment and restoration of systems and appropriate reporting.</text>
+              </para>
+            </para>
+            <para>
+              <num>(q)</num>
+              <heading>Business continuity considerations.</heading>
+              <text>The Tribe shall develop a plan that includes:</text>
+              <para>
+                <num>(1)</num>
+                <text>Identification and training of personnel with key security roles during continuity plan implementation; and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Security needs for back-up sites and alternate communications.</text>
+              </para>
+            </para>
+            <para>
+              <num>(r)</num>
+              <heading>Insurance.</heading>
+              <text>The Tribe shall evaluate the extent and availability of coverage in relation to the specific risks they are seeking to mitigate.</text>
+            </para>
+            <para>
+              <num>(s)</num>
+              <heading>Equipment disposal/destruction.</heading>
+              <text>When equipment is retired from use, the hard drive shall be removed and stored or deleted and cleaned with software of a Department of Defense grade. Other equipment such as copiers, printers, and multi-function machines Shall have memory or other data storage devices deleted or destroyed. Equipment shall then be recycled, disposed of, or donated with no software or data.</text>
+            </para>
+          </section>
+          <section>
+            <num>ITP.1.3.050</num>
+            <heading>Security testing</heading>
+            <text>The Tribe shall gain assurance of the adequacy of their risk mitigation strategy and implementation by:</text>
+            <para>
+              <num>(a)</num>
+              <text>Basing their testing plan, test selection, and test frequency on the risk posed by potentially non-functioning controls;</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Establishing controls to mitigate the risks posed to systems from testing; and</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Using test results to evaluate whether security objectives are met.</text>
+            </para>
+          </section>
+          <section>
+            <num>ITP.1.3.060</num>
+            <heading>Monitoring and updating</heading>
+            <para>
+              <num>(a)</num>
+              <text>The Tribe shall continuously gather and analyze information regarding new threats and vulnerabilities, actual and potential attacks on the Tribe or others, and the effectiveness of the existing security controls.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The information in par. (a) shall be used to update the risk assessment, strategy, and implemented controls.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>To complete the goals of (a) and (b) the Tribe shall utilize malware, antivirus, and other security programs.</text>
+            </para>
+          </section>
+          <section>
+            <num>ITP.1.3.070</num>
+            <heading>Reporting</heading>
+            <text>Employees that become aware of any system misuse; potential threat, intrusion, or unexplained occurrence; or violations of this IT policy, shall inform a member of the IT Department immediately.</text>
+          </section>
+          <section>
+            <num>ITP.1.3.080</num>
+            <heading>Incident response program</heading>
+            <para>
+              <num>(a)</num>
+              <heading>Incident Response Team.</heading>
+              <text>The Tribe shall establish an Incident Response Team that is available for anyone who discovers or suspects that an incident has occurred. One or more team members are responsible for handling the incident, analyzing the incident data, determining the impact of the incident, and acting appropriately to limit the damage and restore normal services.</text>
+              <para>
+                <num>(1)</num>
+                <text>The primary Incident Response Team shall consist of:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>IT Director</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>IT Department personnel</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>More severe or extensive incidents can include:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>Office of Attorney General</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>Tribal Law Enforcement</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>Compliance/Audit Officer</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>All Tribal employees shall be aware of the possibility of system or security incidents.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Physical building incidents shall be directed to the Tribe's security officer.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Computer security related incidents shall be directed to the IT or Operations Departments.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Individuals shall work with the response team and executive management to execute an incident response.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <heading>Phases of Incident Response</heading>
+              <para>
+                <num>(1)</num>
+                <heading>Preparation.</heading>
+                <text>This initial phase involves establishing and training a response team and acquiring the necessary tools and resources. During preparation, the Tribe shall attempt to limit the number of incidents that will occur by selecting and implementing a set of controls based on the results of risk assessments. Other preparation items include:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>Risk Assessment</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Host Security</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Network Security</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Malware Prevention</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>User Awareness and Training</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>System Hardening Guidelines</text>
+                </para>
+                <para>
+                  <num>(D)</num>
+                  <text>System Access Guidelines</text>
+                </para>
+                <para>
+                  <num>(E)</num>
+                  <text>Facilities Security Guidelines</text>
+                </para>
+                <para>
+                  <num>(F)</num>
+                  <text>Insurance Policies</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <heading>Detection and analysis.</heading>
+                <text>The process of monitoring and awareness. Training creates an awareness of what constitutes an incident and who to contact when it occurs. Log monitoring, with knowledge of baseline system activities, will create trigger points. Once detected, the Tribe may mitigate the impact of the incident by containing it and ultimately recovering from it.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <heading>Containment, eradication, and recovery.</heading>
+                <text>The response to the Incident.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <heading>Post incident activity.</heading>
+                <text>Once the incident is over, an overall assessment report of the incident shall be developed detailing the cause of the incident, steps to prevent future incidents, and steps to mitigate consequences of future incidents.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>
+                  <strong>Unauthorized access to tribal information procedures</strong>
+                </text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <heading>Audit.</heading>
+                <text>The Tribe shall utilize both internal and external audit procedures to provide independent assessments that evaluate the Tribe's:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>Quality of internal controls associated with the acquisition, development, implementation, and operational use of information technology.</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>Exposure to risks throughout the Tribe and its service provider(s) in the areas of user and data center operations, client/server architecture, local and wide area networks, telecommunications, information security, electronic data interchange, systems development, and contingency planning, including risk management and mitigation techniques implemented by the Tribe; and</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>Compliance with this and other related policies, procedures and processes concerning information technology related risks.</text>
+                </para>
+              </para>
+            </para>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>ITP.1.4</num>
+          <heading>Acceptable Use</heading>
+          <text>Network access is deemed to be a business tool providing a source of information with the potential for benefiting all areas of the tribe and enhancing customer service, customer retention, and growth. The Information Technology department shall approve Network access as deemed appropriate and shall determine what components of the Network shall be available (email, internet, World Wide Web, etc.). All employees accessing the Network on tribal equipment, on tribal premises, or on a tribal Internet access account shall become proficient in its capabilities, practice proper network etiquette, and agree to the conditions and requirements of this agreement.</text>
+          <section>
+            <num>ITP.1.4.010</num>
+            <heading>General principles</heading>
+            <para>
+              <num>(a)</num>
+              <text>Network, internet, and email privileges provided by the Tribe, shall be considered tribal resources, and shall be used for tribal business purposes. Network and Internet usage shall not be private. Usage shall be monitored for unusual or unacceptable activity and can be monitored at any time for any reason.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Internet use includes, but is not limited to:</text>
+              <para>
+                <num>(1)</num>
+                <text>email received and sent,</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>websites visited,</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>social media posts,</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>uploads, and</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>downloads</text>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The Tribe shall own the Network, messaging systems, and the information transmitted and stored within it.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Employees shall have no expectation of privacy or confidentiality in any of their emails or network files. Employee email, web history and phone usage may be monitored for policy, security, network and/or tribal management reasons from time to time and is subject to inspection at any time.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Correspondence, internal or external, via email, or instant messaging (IM) shall not be private. Email shall not be guaranteed protection from other employees or from others outside the tribe.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>The distribution of any information through the Network, computer-based services, or email shall be subject to the scrutiny of tribal management and its auditors. The Tribe reserves the right to determine the suitability of this information.</text>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text>Employees shall be restricted in their usage of employee-owned personal electronic devices and media storage devices on the Tribal Network.</text>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text>Employees utilizing web sites and social media sites at work for personal use shall do so during break and lunch times in a professional manner as to not interfere with their job duties and responsibilities. Excessive use, as deemed by their supervisor and/or management, shall result in loss of privilege for the user and possibly other disciplinary action as outlined in this agreement.</text>
+            </para>
+          </section>
+          <section>
+            <num>ITP.1.4.020</num>
+            <heading>Conditions of use</heading>
+            <para>
+              <num>(a)</num>
+              <text>Users shall</text>
+              <para>
+                <num>(1)</num>
+                <text>Comply with all current tribal policies</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Lock or log off computers when leaving them unattended for any length of time</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Use unique user IDs and strong passwords as indicated by tribal policy and maintain password credentials in a confidential manner</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Contact the IT and Department manager immediately upon discovering suspicious activity on the Network, Including a Tribal workstation, network resource, or email</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Immediately notify IT and management if a business-related mobile device is lost, stolen, exchanged, unusable, or no longer used</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>The user shall be required to maintain and safeguard the equipment issued and return it to the Tribe if they leave the employment position from which it was issued. This includes when an employee transfers to a new department. If the employee is leaving the employment of the Tribe, they shall return all equipment before they receive their last paycheck.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Users shall not</text>
+              <para>
+                <num>(1)</num>
+                <text>Knowingly visit Internet sites that contain illegal, obscene, hateful, or other objectionable materials</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Knowingly access ads or other solicitations commonly seen in the margins of reputable website pages or that popup while on a site</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Knowingly open an attachment or access a link provided in an unsolicited, unfamiliar email. The IT Department shall review any suspicious email</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Send non-encrypted emails containing sensitive customer information.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Send or receive any material, whether by IM, email, memoranda, or oral conversation, which is obscene, defamatory, harassing, intimidating, offensive, illegal, discriminatory, or which is intended to annoy, harass, or intimidate another person.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Solicit non-tribal business for personal gain or profit</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Download any software or electronic files to a tribal workstation or the Network unless authorized by the IT department</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>Represent personal opinions as those of the tribe or purport to represent the tribe when not authorized to do so.</text>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>Upload, download, or otherwise transmit software or any copyrighted materials in violation of its copyright or license whether it belongs to parties outside of the tribal, or the tribe itself</text>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>Reveal or publicize confidential or proprietary information which includes, but is not limited to: financial information, customer information, marketing strategies and plans, databases and any information contained therein, customer lists, computer software source codes, computer/network access codes, passwords/login information and business relationships.</text>
+              </para>
+              <para>
+                <num>(11)</num>
+                <text>Intentionally interfere with the normal operation of the Network, including the propagation of computer viruses and sustained high volume network traffic, which substantially hinders others in their use of the network.</text>
+              </para>
+              <para>
+                <num>(12)</num>
+                <text>Examine, change, or use another person's username, password, files, and output, for which they do not have explicit authorization.</text>
+              </para>
+              <para>
+                <num>(13)</num>
+                <text>Perform any other uses identified by the tribe as inappropriate.</text>
+              </para>
+              <para>
+                <num>(14)</num>
+                <text>Use tribal equipment or other resources for any purpose other than that authorized by tribal management and IT department.</text>
+              </para>
+              <para>
+                <num>(15)</num>
+                <text>Use tribal email accounts (xxxxx@lco-nsn.gov) to open or maintain personal Internet accounts, such as social media, websites, blogs, etc.</text>
+              </para>
+              <para>
+                <num>(16)</num>
+                <text>Use film cameras, digital cameras, digital camcorders, and personal devices with camera and/or video capabilities (i.e., a cellular phone including a camera capable of capturing and transmitting still or full motion images) in any way that violates Tribal policies, including illicit and illegal use. Photos showing tribal security measures, secure areas such as vaults, information on computer screens or any Network resources are strictly prohibited.</text>
+              </para>
+              <para>
+                <num>(17)</num>
+                <text>And are prohibited from connecting personal electronic devices or media, including but not limited to smartphones, tablets, CD/DVD burners, special keyboards, mice, external hard drives, and USB "jump" drives, to Tribal workstations or Network resources; even for the purpose of charging the device unless authorized by the department manager and the IT department.</text>
+              </para>
+              <para>
+                <num>(18)</num>
+                <text>And are prohibited from using portable media storage devices, including but not limited to USB drives and other external drives, to duplicate and/or distribute Tribal information, including confidential information copyrighted materials, music, video, movies, and software unless authorized by the department manager and the IT Department.</text>
+              </para>
+              <para>
+                <num>(19)</num>
+                <text>Load a bootable, alternate operating system on any Tribal owned computer from any employee-owned source or media, including CD/DVD discs or USB devices ("jump" drives), without prior permission of the department manager and IT Department.</text>
+              </para>
+              <para>
+                <num>(20)</num>
+                <text>Connect any employee-owned electronic device whether desktop, laptop, tablet, handheld, wearable or media storage device, through a wired connection to Tribal provided network or Internet access without the prior permission of the department manager and IT Department. Wireless internet access is provided at the main lobby and Peter Larson room for guest and employees to use with personal devices.</text>
+              </para>
+            </para>
+          </section>
+          <section>
+            <num>ITP.1.4.030</num>
+            <heading>Personal posts</heading>
+            <text>The Tribe recognizes that employees may post personal information on the Internet through personal websites, social media, blogs and/or uploading content to websites and the like. The Tribe respects our employee's interest in participating in these forms of personal expression on their own time. Employees should be aware; however, that problems can arise when personal postings identify or appear to be associated with the Tribe, or when a personal posting is used in ways that violate the Tribe's rights or the rights of other employees.</text>
+            <text>Each employee is legally responsible for content they post on the Internet, whether on a social network, website or otherwise. You can be held personally liable for defaming others, revealing trade secrets, confidential information or proprietary information, etc. Tribal policies apply to what you post on the Internet. For example, you may not use personal postings to harass or threaten other employees or reveal confidential tribal information. Embarrassing or unkind comments about tribal employees or members, customers, or competitors are also inappropriate. Posting anonymously or under a pseudonym, does not protect your real identity; it can be discovered relatively easily.</text>
+          </section>
+          <section>
+            <num>ITP.1.4.040</num>
+            <heading>Violations</heading>
+            <text>Users who violate any of the guidelines set in this agreement may be subject to disciplinary action including written warnings, revocation of access privileges, and termination. Unacceptable use of personal electronic devices will result in the immediate confiscation of the involved device(s) or media as appropriate. Depending upon the nature and severity of the violation, the confiscated device(s) or media may be held as evidence indefinitely. The Tribe also retains the right to perform personal property searches in relation to any guideline violation and report any illegal violations to the appropriate authorities.</text>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>ITP.1.5</num>
+          <heading>Backup and Recovery</heading>
+          <section>
+            <num>ITP.1.5.010</num>
+            <heading>Backup and Recovery</heading>
+            <para>
+              <num>(a)</num>
+              <text>All tribal critical data that is stored locally on the domains file server shall be backed up daily and kept off site in the cloud.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Backups shall be done on all critical information that is stored on the shared network.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The backup shall be set up to run automatically after normal working hours and a log of the success shall be kept.</text>
+              <para>
+                <num>(1)</num>
+                <text>These backups shall be based on an incremental or differential backup methodology</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Backup shall be performed in such a way that information can be restored from a time frame requested up to ninety (90) days incrementally from the past.</text>
+              </para>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Information shall be restored monthly at the discretion of the IT department to ensure backups are functioning properly and that the information shall be available if needed.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Department Directors shall request IT to restore information from a backup by email or memo.</text>
+              <para>
+                <num>(1)</num>
+                <text>Generally, the requested information shall be available to the department within twenty-four (24) hours of the request.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>If the data recovery is needed do to a minor or major system failure it may take longer to restore depending on the level of failure.</text>
+              </para>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>The servers or equipment that are performing the backups shall be in a locked and restricted location. These servers or equipment shall also be on Uninterruptible Power Supply (UPS) to help mitigate problems resulting from power fluctuations or short power outages.</text>
+            </para>
+          </section>
+        </container>
+      </container>
+    </container>
+  </codify:insert>
+</document>
