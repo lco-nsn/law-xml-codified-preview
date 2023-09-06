@@ -44,12 +44,265 @@
     <text>William Trepanier, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1">
-    <container>
-      <prefix>Chapter</prefix>
-      <num>MCC.1</num>
-      <heading>Tribal Government Code of Conduct of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians [Suspended]</heading>
-      <text>Suspended</text>
-    </container>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1">
+    <heading>Tribal Government Code of Conduct of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.1|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1">
+    <heading>Introduction [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.1.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.010">
+    <heading>Title [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.1.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.020">
+    <heading>Authority [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.1.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.030">
+    <heading>Purpose [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.1.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.040">
+    <heading>Effective Date [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.1.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.050">
+    <heading>Interpretation [Suspended</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.1.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.060">
+    <heading>Limited Waiver of Individual Immunity [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.1.070|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.070">
+    <heading>Severability and Non-Liability [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.1.080|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.080">
+    <heading>Repeal of Inconsistent Tribal Ordinances [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.2|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.2">
+    <heading>General Definitions [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.2.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.2.010">
+    <heading>General Definitions [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.3|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3">
+    <heading>Principles [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.3.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.010">
+    <heading>Conduct in Conformity with Applicable Rules and Laws [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.3.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.020">
+    <heading>Equal Representation [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.3.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.030">
+    <heading>Integrity [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.3.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.040">
+    <heading>Confidentiality [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.3.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.050">
+    <heading>Responsibility [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.3.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.060">
+    <heading>Competence [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.3.070|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.070">
+    <heading>Accountability [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.4|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.4">
+    <heading>Conflict of Interest [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.4.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.4.010">
+    <heading>Conflict of Interest [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.4.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.4.020">
+    <heading>Anti-Nepotism [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.4.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.4.030">
+    <heading>Conflict of Interest Statements and Official Action [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.5|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5">
+    <heading>Fiduciary Duty [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.5.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.010">
+    <heading>Economic Interests [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.5.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.020">
+    <heading>Tribal Government Contracts: Restrictions and Bid Requirements [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.5.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.030">
+    <heading>Gifts, Awards, Loans, Reimbursements and Campaign Contributions [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.5.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.040">
+    <heading>Tribal Entity Monetary Benefits [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.5.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.050">
+    <heading>Purchase Policy [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.5.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.060">
+    <heading>Travel Policy [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6">
+    <heading>Employment, Compensation and Benefits [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.010">
+    <heading>Compensation [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.020">
+    <heading>Work Site Accommodations [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.030">
+    <heading>Personnel Files [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.040">
+    <heading>Medical Documentation [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.050">
+    <heading>Hours of Work [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.060">
+    <heading>Pay Period [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.070|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.070">
+    <heading>Attendance [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.080|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.080">
+    <heading>Compensatory Time [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.090|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.090">
+    <heading>Payroll Deductions [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.100|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.100">
+    <heading>Bank Deposits or Payroll Deductions [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.110|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.110">
+    <heading>Workers' Compensation [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.120|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.120">
+    <heading>Available Benefits [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.130|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.130">
+    <heading>Group Health Insurance / Cobra [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.140|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.140">
+    <heading>Holiday Leave [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.150|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.150">
+    <heading>Personal Time Off [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.160|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.160">
+    <heading>Sharing Personal Time Off [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.170|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.170">
+    <heading>Additional Paid Leave [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.180|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.180">
+    <heading>Unpaid Leave [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.190|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.190">
+    <heading>Family and Medical Leave [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.200|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.200">
+    <heading>Life Insurance, Disability Insurance and Retirement Plan [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.210|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.210">
+    <heading>Employee Assistance Program [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.220|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.220">
+    <heading>Christmas Bonus [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.230|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.230">
+    <heading>Alcohol and Drugs [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.240|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.240">
+    <heading>Drug Free Workplace Act Compliance [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.250|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.250">
+    <heading>Drug and Alcohol Testing Procedures [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.260|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.260">
+    <heading>Inspection and Search [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.270|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.270">
+    <heading>Workplace Violence [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.6.280|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.280">
+    <heading>Off-Duty Misconduct [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.7|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7">
+    <heading>Confidentiality [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.7.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7.010">
+    <heading>Confidentiality [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.7.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7.020">
+    <heading>Media Inquiries [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.7.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7.030">
+    <heading>Security Measures / Limited Access Control Areas [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.7.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7.040">
+    <heading>Internet and Telephones [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.7.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7.050">
+    <heading>Policy Regarding Use of Social Media by Elected Officials [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.9|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9">
+    <heading>Vehicle Driver Certification [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.9.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.010">
+    <heading>Purpose [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.9.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.020">
+    <heading>Scope [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.9.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.030">
+    <heading>Policy [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.9.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.040">
+    <heading>Procedures [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.9.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.050">
+    <heading>Minimum Certification Requirements [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.9.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.060">
+    <heading>Recordkeeping [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.10|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.10">
+    <heading>Miscellaneous [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.10.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.10.010">
+    <heading>Amendments to the Governmental Code of Conduct [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.11|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11">
+    <heading>Implementation and Compliance [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.11.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.010">
+    <heading>Filing of Complaints [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.11.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.020">
+    <heading>Notice [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.11.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.030">
+    <heading>Determination to Proceed [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.11.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.040">
+    <heading>Response to Notice [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.11.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.050">
+    <heading>Fair Hearings [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.11.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.060">
+    <heading>Administrative Decision [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.11.070|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.070">
+    <heading>Appeals [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.11.080|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.080">
+    <heading>Statute of Limitations [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.11.090|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.090">
+    <heading>Retaliation Prohibited [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.12|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.12">
+    <heading>Sanctions and Penalties [Suspended]</heading>
+  </codify:replace>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1.12.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.12.010">
+    <heading>Administrative Sanctions [Suspended]</heading>
   </codify:replace>
 </document>

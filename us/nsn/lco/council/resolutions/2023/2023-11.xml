@@ -94,7 +94,7 @@
     <text>Amend: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.1.6.170|(f)">Subsection MCC.1.6.170(f)</cite> of the Lac Courte Oreilles Tribal Code of Law is amended as follows:</text>
     <include>
       <para>
-        <codify:replace path="MCC.1.6.170|(f)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1"/>
+        <codify:replace path="MCC.1.6.170|(f)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.170|(f)"/>
         <num>(f)</num>
         <text>The Tribe grants Elected Officials up to two (2) weeks, maximum of eighty (80) hours, paid leave for adoption, customary adoption, guardianship, protective placement, or an emergency safety plan of a pre-school (0-5 years of age) child. Leave may be granted prior to the legal proceedings having been completed. An Elected Official must promptly notify the Tribal Governing Board of the utilization of such leave. The paid leave under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.1.6.170">this section</cite> is included in the maximum leave provided for in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.1.6.190">Section MCC.1.6.190</cite> of this manual.</text>
       </para>
