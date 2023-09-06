@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-108">
+  <num>2023-108</num>
+  <heading>Temporary Suspension of MCC.1 Tribal Government Code of Conduct for Revision</heading>
+  <meta>
+    <effective>2023-08-21</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-108.pdf">Res. No. 2023-108</citation>
+    </citations>
+    <history>
+      <adopted>2023-08-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|6">Article III, § 6 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board is empowered to "determine its own procedures;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V||(1)|(n)">Article V, § (1)(n) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to "regulate, by enactment of ordinances, the conduct of business within the territory of the band;" and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board, weighing the competing interests of accountability and the efficient conduct of tribal business, believes that it is in the best interests of the Tribe to suspend the <cite doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1">MCC.1</cite> for further review, edits, and additions.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby suspends <cite doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1">MCC.1</cite> for 180 days for revision, additions, and updates;</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>6</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on the <strong><u>21<sup>st</sup> day of August, 2023</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>1</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>MCC.1</num>
+      <heading>Tribal Government Code of Conduct of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians [Suspended]</heading>
+      <text>Suspended</text>
+    </container>
+  </codify:replace>
+</document>
