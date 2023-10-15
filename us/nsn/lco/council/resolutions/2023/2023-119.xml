@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-119" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2023-119</num>
+  <heading>Amendments to the Lac Courte Oreilles Tribal Code of Law Policies and Procedures to Allow for Increased Member Involvment in Tribal Boards and Committees</heading>
+  <meta>
+    <effective>2023-09-25</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-119.pdf">Res. No. 2023-119</citation>
+    </citations>
+    <history>
+      <adopted>2023-09-25</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is empowered to "to delegate to subordinate boards, officers, committees, or cooperative associations which are open to all members of the Band any of the foregoing powers," <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V§1(m)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board encourages all tribal members to participate in these boards and committees to allow for active participation in the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe will benefit if boards and committee members are from different age groups, different work experiences, different education, and different backgrounds; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe will benefit if employed tribal members are allowed to participate in board and committee during normal working hours without negatively affecting their Paid Time Off (PTO); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe supports compensating all board and committee members with a stipend for their hard work and dedication to the Tribe's success.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby amends the following Lac Courte Oreilles Tribal Code of Law Polices and Procedures to allow for eligible employees to receive stipend and their hourly wage compensation for participating in boards and committees during normal working hours without negatively affecting their PTO.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>as follows:</text>
+    </recital>
+  </recitals>
+  <text>
+    <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.1.7.070|(d)">PAP.1.7.070(d)</cite>
+  </text>
+  <para>
+    <num>(d)</num>
+    <text><u>Committee or Board Leave</u>. The Tribe grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee must receive prior approval from his or her department head or director prior to accepting an appointment or volunteering to sit on any committee or board. An employee may receive a stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service. Attendance at any meetings related to such appointment must be preapproved by the employees immediate Supervisor and such appointment/meetings shall not interfere with an employees work performance and duties.</text>
+  </para>
+  <codify:replace path="PAP.1.7.070|(d)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.1.7.070|(d)">
+    <para>
+      <num>(d)</num>
+      <text><u>Committee or Board Leave</u>. The Tribe grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee must receive prior approval from his or her department head or director prior to accepting an appointment or volunteering to sit on any committee or board. An employee may receive a stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service. Attendance at any meetings related to such appointment must be preapproved by the employees immediate Supervisor and such appointment/meetings shall not interfere with an employees work performance and duties.</text>
+    </para>
+  </codify:replace>
+  <text>
+    <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.4.7.070|(d)">PAP.4.7.070(d)</cite>
+  </text>
+  <para>
+    <num>(d)</num>
+    <text><u>Committee or Board Leave</u>. The LCOHA grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee must receive prior approval from his or her department head or director prior to accepting an appointment or volunteering to sit on any committee or board. An employee may receive a stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service. Attendance at any meetings related to such appointment must be preapproved by the employee's immediate Supervisor and such appointment/meetings shall not interfere with an employee's work performance and duties.</text>
+  </para>
+  <codify:replace path="PAP.4.7.070|(d)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.4.7.070|(d)">
+    <para>
+      <num>(d)</num>
+      <text><u>Committee or Board Leave</u>. The LCOHA grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee must receive prior approval from his or her department head or director prior to accepting an appointment or volunteering to sit on any committee or board. An employee may receive a stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service. Attendance at any meetings related to such appointment must be preapproved by the employee's immediate Supervisor and such appointment/meetings shall not interfere with an employee's work performance and duties.</text>
+    </para>
+  </codify:replace>
+  <text>
+    <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5.7.070|(d)">PAP.5.7.070(d)</cite>
+  </text>
+  <para>
+    <num>(d)</num>
+    <text><u>Committee or Board Leave</u>. The LCO-CHC grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee must receive prior approval from his or her department head or director prior to accepting an appointment or volunteering to sit on any committee or board. An employee may receive any stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service. Attendance at any meetings related to such appointment must be preapproved by the employees immediate Supervisor and such appointment/meetings shall not interfere with an employee's work performance and duties.</text>
+  </para>
+  <codify:replace path="PAP.5.7.070|(d)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.5.7.070|(d)">
+    <para>
+      <num>(d)</num>
+      <text><u>Committee or Board Leave</u>. The LCO-CHC grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee must receive prior approval from his or her department head or director prior to accepting an appointment or volunteering to sit on any committee or board. An employee may receive any stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service. Attendance at any meetings related to such appointment must be preapproved by the employees immediate Supervisor and such appointment/meetings shall not interfere with an employee's work performance and duties.</text>
+    </para>
+  </codify:replace>
+  <text>
+    <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.7.7.070|(d)">PAP.7.7.070(d)</cite>
+  </text>
+  <para>
+    <num>(d)</num>
+    <text><u>Committee or Board Leave</u>. The School grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee must receive prior approval from his or her department head or director prior to accepting an appointment or volunteering to sit on any committee or board. An employee may receive a stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service. Attendance at any meetings related to such appointment must be preapproved by the employee's immediate Supervisor and such appointment/meetings shall not interfere with an employee's work performance and duties.</text>
+  </para>
+  <codify:replace path="PAP.7.7.070|(d)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.7.7.070|(d)">
+    <para>
+      <num>(d)</num>
+      <text><u>Committee or Board Leave</u>. The School grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee must receive prior approval from his or her department head or director prior to accepting an appointment or volunteering to sit on any committee or board. An employee may receive a stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service. Attendance at any meetings related to such appointment must be preapproved by the employee's immediate Supervisor and such appointment/meetings shall not interfere with an employee's work performance and duties.</text>
+    </para>
+  </codify:replace>
+  <text>
+    <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.9.7.080|(d)">PAP.9.7.080(d)</cite>
+  </text>
+  <para>
+    <num>(d)</num>
+    <text><u>Committee or Board Leave</u>. The Gaming Enterprises grant eligible team members paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. A team member must receive prior approval from his or her Director/Manager prior to accepting an appointment or volunteering to sit on any committee or board. A team member  may receive a stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service.. Attendance at any meetings related to such appointment must be preapproved by the team member Director/Manager and such appointment/meetings shall not interfere with a team members work performance and duties.</text>
+  </para>
+  <codify:replace path="PAP.9.7.080|(d)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.9.7.080|(d)">
+    <para>
+      <num>(d)</num>
+      <text><u>Committee or Board Leave</u>. The Gaming Enterprises grant eligible team members paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. A team member must receive prior approval from his or her Director/Manager prior to accepting an appointment or volunteering to sit on any committee or board. A team member  may receive a stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service.. Attendance at any meetings related to such appointment must be preapproved by the team member Director/Manager and such appointment/meetings shall not interfere with a team members work performance and duties.</text>
+    </para>
+  </codify:replace>
+  <text>
+    <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.22.6.070|(d)">PAP.22.6.070(d)</cite>
+  </text>
+  <para>
+    <num>(d)</num>
+    <text><u>Committee or Board Leave</u>. The LCO Day Care grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee shall receive prior approval from his or her supervisor prior to accepting an appointment or volunteering to sit on any committee or board. An employee may receive a stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service. Attendance at any meetings related to such appointment shall be preapproved by the employee's immediate supervisor and such appointment/meetings shall not interfere with an employee's work performance and duties. </text>
+  </para>
+  <codify:replace path="PAP.22.6.070|(d)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.22.6.070|(d)">
+    <para>
+      <num>(d)</num>
+      <text><u>Committee or Board Leave</u>. The LCO Day Care grants eligible full-time employees paid leave to serve on committees or boards of the Tribal Governing Board and may approve leave to participate in other outside boards or committees. An employee shall receive prior approval from his or her supervisor prior to accepting an appointment or volunteering to sit on any committee or board. An employee may receive a stipend for such committee or board service, he or she shall not need to use PTO during any work absence for such service. Attendance at any meetings related to such appointment shall be preapproved by the employee's immediate supervisor and such appointment/meetings shall not interfere with an employee's work performance and duties. </text>
+    </para>
+  </codify:replace>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>25<sup>th</sup> day of September, 2023</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

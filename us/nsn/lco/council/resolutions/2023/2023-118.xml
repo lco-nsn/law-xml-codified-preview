@@ -1,0 +1,970 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2023-118</num>
+  <heading>Resolution to Enact LCO Foster Care Licensing Policies and Procedures, LCOTCL Chapter DMR.7</heading>
+  <meta>
+    <effective>2023-09-25</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-118.pdf">Res. No. 2023-118</citation>
+    </citations>
+    <history>
+      <adopted>2023-09-25</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is empowered under <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">Article V, § 1(t) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> "[t]o provide for the regulation of child custody and domestic relations matters by ordinances or resolution."</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe's policy is to strengthen family structures, to prevent family breakups, and to foster conditions favorable to the growth, spirit, culture, and individuality of each child and qualified vetted foster parents serve this policy</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby enacts LCOTCL <cite doc="Lac Courte Oreilles Tribal Code of Law" path="DMR.7">DMR.7</cite>, Foster Care Licensing Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and directs that such code be published on Open Law as drafted.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>6</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>25<sup>th</sup> day of September, 2023</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>5</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+  <codify:insert path="DMR" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|DMR.7.1.010">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>DMR.7</num>
+      <heading>Foster Care Licensing Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+      <text class="center">
+        <strong>Preamble</strong>
+      </text>
+      <text>Indian Child Welfare Foster Parents are the main providers for children placed in their home. They are expected to have the necessary knowledge and skills required to deliver safe nurturing care in their homes, as well as an understanding of Lac Courte Oreilles values, cultural teachings, and events.  They shall have patience, flexibility, confidence, self-awareness, and intelligence to develop and carry out any treatment plan for each child.  They shall also have "common sense."  Foster Parents need to be open to ongoing learning and growth and must be willing to work cooperatively with other members of the Indian Child Welfare Department as well as the children's medical and mental health providers, schools, or any others that are vested with the health, safety, and welfare, of Lac Courte Oreilles children.</text>
+      <text>Those who join Indian Child Welfare to become licensed foster families shall operate in accordance with Tribal law and ordinances, as well as follow guidelines under the Indian Child Welfare Act ("ICWA").  To qualify, applicants shall have some experience working with children, and may be required to complete training that is directed towards working with children with complex emotional needs. LCO Indian Child Welfare foster parents shall also pass a background check to be compliant with the Native American Children's Safety Act.</text>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.1</num>
+        <heading>Introduction</heading>
+        <section>
+          <num>DMR.7.1.010</num>
+          <heading>Title.</heading>
+          <text>This ordinance shall be known as the Foster Care Licensing Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians (hereinafter "Tribe").</text>
+        </section>
+        <section>
+          <num>DMR.7.1.020</num>
+          <heading>Authority.</heading>
+          <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.  In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">Article V, §1 (t) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board "[t]o provide for the regulation of child custody and domestic relations matters by ordinances or resolution."</text>
+        </section>
+        <section>
+          <num>DMR.7.1.030</num>
+          <heading>Policy.</heading>
+          <text>Indian Child Welfare Foster Parents are the main providers for children placed in their home. They are expected to have the necessary knowledge and skills required to deliver safe nurturing care in their homes, as well as an understanding of Lac Courte Oreilles values, cultural teachings, and events.  They shall have patience, flexibility, confidence, self-awareness, and intelligence to develop and carry out any treatment plan for each child.  They shall also have "common sense."  Foster Parents need to be open to ongoing learning and growth and must be willing to work cooperatively with other members of the Indian Child Welfare Department as well as the children's medical and mental health providers, schools, or any others that are vested with the health, safety, and welfare, of Lac Courte Oreilles children.</text>
+          <text>Those who join Indian Child Welfare to become licensed foster families shall operate in accordance with Tribal law and ordinances, as well as follow guidelines under the Indian Child Welfare Act ("ICWA").LCO Indian Child Welfare foster parents shall also pass a background check to be compliant with the Native American Children's Safety Act.</text>
+        </section>
+        <section>
+          <num>DMR.7.1.050</num>
+          <heading>Purpose.</heading>
+          <text>Statement of Intent:</text>
+          <text>Exception to rules:</text>
+        </section>
+        <section>
+          <num>DMR.7.1.060</num>
+          <heading>Effective Date.</heading>
+          <text>The provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
+        </section>
+        <section>
+          <num>DMR.7.1.070</num>
+          <heading>Interpretation.</heading>
+          <text>The provisions of this ordinance:</text>
+          <para>
+            <num>(a)</num>
+            <text>Shall be liberally construed in favor of the Tribe; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Shall not be deemed a limitation or repeal of any tribal power or authority.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.1.080</num>
+          <heading>Severability and Non-Liability.</heading>
+          <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby.  The Tribe further asserts immunity on its part and that of its agencies, employees, and agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
+        </section>
+        <section>
+          <num>DMR.7.1.090</num>
+          <heading>Repeal of Inconsistent Tribal Ordinances.</heading>
+          <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed.  To the extent that this ordinance imposes greater restrictions than those contained in any other tribal ordinance, the provisions of this ordinance shall govern.</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.2</num>
+        <heading>Definitions</heading>
+        <section>
+          <num>DMR.7.2.010</num>
+          <heading>General Definitions.</heading>
+          <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|DMR.7.2.010">this Section</cite> shall be given its ordinary meaning.  The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise.</text>
+          <para>
+            <num>(a)</num>
+            <text>"<strong>Applicant</strong>" means the individual or individuals who have submitted a signed and dated application form for a foster care license to the Indian Child Welfare.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"<strong>Agency</strong>" means the Lac Courte Oreilles Indian Child Welfare Department.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"<strong>Band Members or Member</strong>" means a person enrolled or eligible for enrollment with the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"<strong>Child"</strong> means a person under the age of eighteen (18).</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"<strong>Extended Family Member</strong>"  means "Relative" as defined in this ordinance.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>"Foster Child"</strong> means a child who lives in a home required to be licensed under this ordinance and the Indian Child Welfare Act.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>"<strong>Foster Home</strong>"  means any facility operated by a person required to be licensed under this ordinance or the Indian Child Welfare Act.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>"<strong>Foster Home Types" </strong>means one of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>"<strong>Respite Home"</strong> means a home designated primarily for time-limited emergency placements, usually lasting no longer than thirty (30) days for any child.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>"<strong>Group Family Foster Home"</strong> means a home providing care for no more than ten (10) children, including the family's own children.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>"<strong>Restricted Home</strong>" means a home licensed for a specific child(ren).  A restricted home may not accept children other than the specified named child(ren).</text>
+            </para>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>"<strong>Foster Parent</strong>" means a person or persons who operate a facility required to be licensed under this ordinance and the Indian Child Welfare Act.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>"<strong>Guardian</strong>" means a person having the right to make major decisions affecting the child including the right to consent to marriage, to enlistment in the armed forces, to invasive surgery and to adoption, or to make recommendations as to adoption.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>"<strong>Indian/Native American</strong>" means any person who is a member of a Native American Tribe, or who is eligible for membership with an Indian Tribe.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>"<strong>Indian Custodian</strong>" means any Native American person who has legal custody of a Native American Child under Tribal Law or custom or under state law or to whom temporary physical care, custody and control has been transferred by the parent of such child</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>"<strong>Legal Custodian</strong>" means the person having the legal right to the care, custody, and control of a child and the duty to provide food, clothing, shelter, routine medical care, education, and discipline for a child, under State Law or Tribal Court Order.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>"<strong>License</strong>" means a document issued by the Tribal Governing Board which authorizes the applicant/s to provide foster care.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>"<strong>Licensed Capacity"</strong> means the maximum number of foster children who can live in the foster home at any given time.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text>"<strong>Mandated Reporter</strong>" is a person who, because of his or her profession, is legally required to report any suspicion of child abuse or neglect to the relevant authorities. These laws are in place to prevent children from being abused and to end any possible abuse or neglect at the earliest possible stage.</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <text>"<strong>Parent</strong>" means any biological parent or parents of a Native American Child or any Native American Person who has lawfully adopted an Indian Child, including adoptions under Tribal Law or custom. It does not include the unwed father where paternity has not been acknowledged or established.</text>
+          </para>
+          <para>
+            <num>(r)</num>
+            <text>"<strong>Relative</strong>" means a parent, grandparent, brother, sister, uncle, aunt, cousin, nephew, niece, stepparent, stepsister, Great Grandparent, Great Aunt, Great Uncle, Step-Aunt, or Step-Uncle.</text>
+          </para>
+          <para>
+            <num>(s)</num>
+            <text>"<strong>Reasonable and prudent parent</strong>" means a parent who is characterized by careful and sensible parental decisions that maintain the health, safety, and best interests of a child while at the same time encouraging the emotional and developmental growth of the child.</text>
+          </para>
+          <para>
+            <num>(t)</num>
+            <text>"<strong>Respite Caregiver</strong>" means a responsible adult providing temporary care for the foster children in the absence of the foster parent(s).</text>
+          </para>
+          <para>
+            <num>(u)</num>
+            <text>"<strong>Rule</strong>" means a regulation, standard, statement or policy or general order (including amendment or repeal of any of the foregoing) of general application and having effect of law.</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>"<strong>Tribal Council or Council</strong>" means the Lac Courte Oreilles Tribal Governing Board.</text>
+          </para>
+          <para>
+            <num>(w)</num>
+            <text>"<strong>Tribal Court</strong>" means the Lac Courte Oreilles Tribal Court unless otherwise specified.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.3</num>
+        <heading>Homes Not Required to be Licensed</heading>
+        <section>
+          <num>DMR.7.3.010</num>
+          <heading>Homes Not Required to be Licensed.</heading>
+          <para>
+            <num>(a)</num>
+            <text>A home providing care and supervision only to children related to the family.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Child care placements made by the Tribal Court into a home that shall provide care and supervision for a total of thirty (30) days or less in any twelve (12) month period and/or the parent or legal guardian has placed the child voluntarily on a temporary basis.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A home providing care and supervision only for one unrelated child of sixteen (16) or seventeen (17) years of age who has been independently placed by themselves or their relative for purposes of education or work.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.4</num>
+        <heading>Application for License</heading>
+        <section>
+          <num>DMR.7.4.010</num>
+          <heading>Forms.</heading>
+          <text>The person or persons seeking a license shall submit forms approved by the Tribal Governing Board or Indian Child Welfare.  The Indian Child Welfare Department shall determine eligibility once such the completed forms are received by the department.</text>
+        </section>
+        <section>
+          <num>DMR.7.4.020</num>
+          <heading>Qualifications.</heading>
+          <para>
+            <num>(a)</num>
+            <text><u>Personal Characteristics</u>. Any person licensed to operate a foster home shall be a responsible, mature adult who is fit and qualified, exercises sound judgement and displays the capacity to successfully nurture foster children, does not abuse alcohol, or drugs, and does not have a pending criminal charge or a finding by a government body of civil or criminal violation of statutes, regulations, or ordinances that is substantially related to caring for children or the operation of a foster home. The applicant or licensee shall give truthful and sufficient information to enable Indian Child Welfare to verify whether, or not they meet the requirements needed to operate a Foster Home. Giving false information or withholding relevant information shall constitute grounds for denial or revocation of the license.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Experience</u>.  Applicants shall have some experience working with children and may be required to complete training that is directed towards working with children with complex emotional needs.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Age</u>.   No applicant may receive a license for the first time when one or both are under twenty-one (21) years of age.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><u>Health</u>.  All members of the family household shall be in good physical and mental health that shall not adversely affect the health of the children, or the quality of or care given to children placed in foster care.  If at any time the physical or mental health of any caregiver or family member comes into question, and if it could possibly endanger foster children placed in the home, Indian Child Welfare or Tribal Council may request a written statement from a qualified medical professional, certifying the condition of the person to safely continue having foster children in the home.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><u>Marital Status</u>.  Applicants may be single or married. All couples shall both fill out the application to foster.  Any change in household composition, shall be reported with fourteen (14) days of the change. If a new caregiver moves in, they shall fill out an application and be subject to be medically cleared with a Physical, T.B. Test, Fingerprints, and Background Check.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><u>Residence</u>.  Applicants shall reside in Sawyer County.  One of the applicants in the home shall be an enrolled tribal member, or the applicants live within Reservation Boundaries, which is important for the cultural aspect for children to maintain their connections to the Lac Courte Oreilles Tribal Community.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.4.030</num>
+          <heading>Foster care of children requires license.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Initial Foster License</text>
+            <para>
+              <num>(1)</num>
+              <text>The laws of Wisconsin require that every foster family be licensed to show that they have met the standards in the state laws regulating foster care, as well as follow the ICWA guidelines, (Chapters 48 and 938 Stats).   Most of these requirements are in the "administrative rule," DCF 56 (appendix G).  In addition, each new Foster Parent shall complete six (6) hours of training before becoming licensed.   (See the education and training requirements section).   Shall complete thirty-six (36) to forty (40) hours of training within the first year of licensure. It is the duty of the foster parent to follow DCF 56 as well as ICWA regulations and we recommend reviewing these documents often.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Indian Child Welfare licenses families for two (2) years, although there are also some licensing requirements that need to be fulfilled every year (training plan, training logs, disaster plan, and evaluations, animal vaccinations up to date, proof of house/car insurance).    The foster family license specifies the number, ages, and gender of the children who may be placed for care.  When changes occur in the family's living situation, licensing modifications may be necessary as indicated in DCF 56.04.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Documents required before initial licensing are:</text>
+            <para>
+              <num>(1)</num>
+              <text>Application form completed and signed by all who shall be fostering in the home.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Verification of Homeowners or Rental Insurance.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Verification of Auto Insurance, (minimal liability), which shall remain in force during the time of licensure.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Physical Examination of all Licensed Caregivers, with T.B. Test Results.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Drawing of Foster Home layout with escape plan in case of emergency.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Verification of all animal vaccinations.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Valid Driver's license.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Background Check.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Fingerprints.</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>Private well water test shall be performed for Bacteria, (required only for private wells).</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text>Documentation of Fire Safety Inspection of the home.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Documents required for Relicensing without a lapse in licensing (lapsed/expired license, need to file initial paperwork again):</text>
+            <para>
+              <num>(1)</num>
+              <text>Relicensing Application form, signed by all who shall be fostering in the home.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Verification of Homeowners or Renter's Insurance.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Verification of Auto Insurance, (minimal liability), which shall remain in force during the term of licensure.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Physical Exam for all Licensed caregivers.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Drawing of Foster home Layout with escape plan in case of emergency.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Verification of animal vaccinations.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Valid Driver's License.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Completed training hours for the year.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Private well water test for bacteria, (required for Private Wells only).</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.4.040</num>
+          <heading>Authority of Tribal Governing Board; Exceptions.</heading>
+          <text>The Tribal Governing Board may make, or may delegate the authority to make, exceptions to any of the rules for licensing foster homes when the Tribal Governing Board is assured that granting such exceptions is not detrimental to the health, safety or welfare of children.  However, no exceptions shall violate P.L. 114-165, "The Native American Children's Safety Act."</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.5</num>
+        <heading>Investigation of Applicants</heading>
+        <section>
+          <num>DMR.7.5.010</num>
+          <heading>Investigation of Applicants.</heading>
+          <para>
+            <num>(a)</num>
+            <text><u>Receipt of Application</u>.  Once a completed application is received, Indian Child Welfare shall investigate to determine if the applicant(s) meet all the requirements for a license.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><u>Medical Examination.</u>  For initial licensing the applicant is required to provide a physical and a tuberculosis test (forms provided) for examination by the Indian Child Welfare Department.  The tuberculosis test is only required for the initial license.  If a license lapses, then a new tuberculosis test is required.  In the event of a positive tuberculosis test, a chest x-ray shall be required with clearance, to be considered.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><u>Home inspection.</u>  Once the applicants meet the requirements of the background check and investigation, the Indian Child Welfare Department shall visit the home within thirty (30) days to make sure it is safe for foster children.  A SAFE home study shall be done.   The ICW worker shall do a walkthrough of the home. A working smoke detector is required in each bedroom, at the top and bottom of a stairway, and on each floor of the home.   Fire Extinguishers with a UL rating for A, B, and C burning materials shall be available in or near the kitchen and on each floor of the home, preferably by the sleeping areas. Additionally, a functioning CO2 Detector shall be on each level of the home.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Current proof of animal vaccinations if there are pets in the home.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Homeowners or rental insurance on residence is required.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Car insurance for any vehicle that shall be used to transport foster children.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Valid Driver's License.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Criminal Background Check, including fingerprint-based checks of national crime information databases.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Background check of foster care applicant and each "covered individual" who resides in the household or is employed at the institution in which foster care placement shall be made.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Background check against any abuse registries maintained by the Tribe.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>Background check for child abuse and neglect registries maintained by the State in which the foster parent applicant resided in the past five (5) years to enable the Indian Child Welfare Department to check any child abuse and neglect registry maintained by that State for such information.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>Check any other additional requirement that the Tribe determines is necessary and permissible within the existing authority of the Indian tribe, such as the creation of voluntary agreements with State entities in order to facilitate the sharing of information related to the performance of criminal records checks.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>If the home is recommended for licensing, a SAFE home study and submitted to Tribal Governing Board along with the signed completed application form, Physician's Statement, and any supporting documentation.  The Applicant shall then be evaluated by the Tribal Governing Board based upon the standards herein.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>Drug testing.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>To ensure the safety of the home for foster children, there shall be periodic intervals at which the home or institution shall be subject to recertification.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.6</num>
+        <heading>Granting of License</heading>
+        <section>
+          <num>DMR.7.6.010</num>
+          <heading>Granting of License.</heading>
+          <text>Upon satisfactory completion of the investigation and all documentation being turned in, the license shall be granted to the applicant(s) by the Tribal Governing Board with the following specifications:</text>
+          <para>
+            <num>(a)</num>
+            <text>Level of Foster Care.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Expiration Date.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Maximum number of children to be provided care at one time.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Ages of children to be in care.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Gender of children to be in the home.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.6.020</num>
+          <heading>Duration of License; Renewal.</heading>
+          <para>
+            <num>(a)</num>
+            <text>All licenses shall be issued for two (2) years.  Within sixty (60) days of the license expiring, a reapplication form shall be completed, signed by all caregivers in the home, and submitted to the Agency.   At that time, a home review shall be done.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Prior to the expiration of a license, background checks and character information shall be updated and reviewed, if a renewal of license is being sought.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.7</num>
+        <heading>Denial of License</heading>
+        <section>
+          <num>DMR.7.7.010</num>
+          <heading>Denial of License.</heading>
+          <text>Reasons for denial or nonrenewal of a license may be, but are not limited to, one or more of the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Conviction for, or admission of, or substantial evidence of an act of assault, child battering, child abuse, child molestation, or child neglect.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Chemical dependency, unless the individual has been to and completed treatment at least one year prior to the application of a foster care license and remains free from said dependency.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Excessive chemical abuse, where it impairs the functioning of the family.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>If anyone in the home has been, within the preceding twelve (12) months, in a correctional facility or a residential treatment facility for mental or emotional health which impairs the functioning of the family unit.  Evaluation shall be at the judgment of Indian Child Welfare and proof of rehabilitation shall be required.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Any other reason that would have an adverse effect on the emotional or physical well-being of foster children.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.7.020</num>
+          <heading>Right to Appeal.</heading>
+          <text>Any applicant whose application is denied or not renewed may appeal to the Tribal Court pursuant to the procedures set forth in this code.  Indian Child Welfare shall notify the applicant of denial by letter, which shall state the grounds for the action and inform the applicant of their right to appeal the action.</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.8</num>
+        <heading>Standards</heading>
+        <section>
+          <num>DMR.7.8.010</num>
+          <heading>General Requirements.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The home shall be in good repair and maintained adequately for the health and safety of all occupants.  It shall have enough space and furnishings to accommodate the family, plus any foster children placed in the home.  The Tribal Governing Board may require inspections of the home by fire, health, sanitation, or safety officials when, in its judgement, such opinion is needed to assist the Tribal Governing Board in making a decision regarding the safety of the home for the care of foster children.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All potentially dangerous items such as, but not limited to, household poisons, medications, plastic bags, matches, lighters, knives, and firearms and all other dangerous items shall be locked or stored out-of-reach from children, depending on ages and mental capacities of children in the home.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>All firearms shall be kept unloaded and securely locked at all times.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>All potentially harmful medications shall be locked at all times.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>All household shall have up to date vaccinations with proof from a veterinarian.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>No smoking of any kind is permitted in the home or a vehicle when foster children are present.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The  home shall have a working telephone that is accessible to children at all times.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Alcoholic beverages shall be kept inaccessible to children at all times.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>A foster home shall have a heating system that is capable of maintaining a comfortable temperature of not less than 68° F., or 20° C. in living areas.  Unvented gas, oil or kerosene space heaters may not be used in a foster home.  Each floor of the home shall have working fire extinguishers and Carbon Monoxide Detectors.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.8.020</num>
+          <heading>Sleeping Arrangements.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Each foster child shall be provided with a separate bed, except that two (2) boys (related) or two (2) girls (related) may share a double bed or bigger (age one (1), if developmentally on track, to twelve (12)).  Each bed shall be in good condition and of a size to ensure the child's comfort. Bed sharing shall be approved by the Indian Child Welfare Department.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No foster child 6 years of age or older shall share a bedroom with a child of the opposite sex.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Foster children are not permitted to sleep in any building, apartment, or any other structure that is separate from the family home.  This does not include recreational camping, or any spiritual practices that the children are participating in as approved by the  biological parent(s).</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Foster children are not permitted to sleep in an unfinished attic or unfinished basement, or any other room normally used for purposes other than sleeping.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>A responsible adult shall sleep within call of the child during the night.  An exception may be granted only if the child is at least sixteen (16) years of age and the Indian Child Welfare Department grants approval.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Infant child (birth to twelve (12) months) shall sleep in a crib, bassinette, or playpen.  No co-sleeping shall be allowed for infants under one (1) year of age.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Sleep environment shall follow current American Academy of Pediatrics guidelines for "Safe Sleep."</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Foster parents are required to complete a training regarding Shaken Baby Syndrome.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Foster parents are required to complete training regarding "Safe Sleep" .</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.8.030</num>
+          <heading>Storage facilities.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Foster parents shall provide sufficient drawer and closet space to accommodate each child's clothing, toys, and other belongings.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The home shall have space for indoor play and access to outdoor play space.  The foster parent shall provide for the safety of children in recreation and play areas.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.8.040</num>
+          <heading>Care of Children.</heading>
+          <text>Every foster child shall be treated as a member of the foster family.  The foster child shall share in the privileges and responsibilities of the home as appropriate to the child's age and abilities.  Activities shall foster the optimum physical, emotional, social, and mental development of the children.  Activities that enhance and support the child's appreciation of their cultural heritage shall be supported and encouraged.</text>
+        </section>
+        <section>
+          <num>DMR.7.8.050</num>
+          <heading>Supervision of Children.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Children under the age of ten (10) shall not be left in the home without supervision by a responsible care provider.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Children ten (10) years of age or older shall receive responsible supervision appropriate to their age, maturity level, and abilities as might be provided by a reasonable and prudent parent to their own children.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>No foster children shall be left unsupervised overnight.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.8.060</num>
+          <heading>Discipline.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Disciplinary action by a foster parent, or any other person serving as a caretaker in the absence of the foster parent, shall be aimed at encouraging the foster child on appropriate social behavior.  Disciplinary action shall be handled by the foster parent with kindness and understanding.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The type of discipline imposed shall be appropriate to the child's age and understanding.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Physical punishment of foster children is prohibited.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>No child shall be subjected to verbal abuse, profanity, derogatory remarks about the child or their family, or threats to expel the child from the home.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>No child shall be allowed to discipline any other child in care.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>No foster child may be punished by  being deprived of meals, mail, or family interaction.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>No foster child shall be ridiculed for bed-wetting or other lapses in toilet training.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>No foster child may be physically restrained or locked in a room or any other enclosure.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Foster parents shall notify the assigned Indian Child Welfare staff member of the reason and method of discipline used for the child by the end of the next business day.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.8.070</num>
+          <heading>Work performed by children.</heading>
+          <text>Foster children shall have opportunities to assume responsibility in household chores appropriate to the child's age, maturity, mental capability, health, and physical ability.  These duties shall not interfere with a child's school attendance, family visits, night-time sleep schedule, studies, recreation, or religious/cultural practices.</text>
+        </section>
+        <section>
+          <num>DMR.7.8.080</num>
+          <heading>Education.</heading>
+          <text>It is the foster parent's responsibility to make every effort to make sure the children in their care attend school regularly, unless otherwise excused by school officials.  Any issues with attendance or performance at school shall be brought to the Indian Child Welfare Department immediately.</text>
+        </section>
+        <section>
+          <num>DMR.7.8.090</num>
+          <heading>Moral, Religious, and Cultural Training.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Foster parents shall assist in the provision of the moral training of children in their care.  Foster parents shall make opportunities available to each child regarding religious, cultural, or teachings, as well as ensure attendance at services/functions, and ceremonies that are compatible with the child's beliefs or cultural heritage.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Foster parents shall not prevent a child's participation in religious or cultural practices.  If the foster parent needs more information on cultural needs of a child, they should approach the Indian Child Welfare Department or worker.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Foster parents are prohibited from forcing a foster child to attend religious services/functions, or ceremonies that the child and the child's biological family does not approve of.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.8.100</num>
+          <heading>Nutrition.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The foster parent shall insure that each foster child receives at least three (3) meals a day.  Meals that a child receives as part of a meal program at school may be counted in such total.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The foster parent shall ensure that each foster child is provided a quantity and variety of foods sufficient to meet the child's nutritional needs and to maintain their health and development.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>No foster child may be forced to eat against their wishes except by order and supervision of a physician.</text>
+          </para>
+          <text>When applicable, foster parents shall ensure that each foster child's nutritional needs are met with respect to the foster child's religious or cultural beliefs.</text>
+        </section>
+        <section>
+          <num>DMR.7.8.110</num>
+          <heading>Clothing.</heading>
+          <text>Foster parents shall ensure that funds allocated for the purchase of clothing for foster children are used in such a manner that foster children in their care are comfortably dressed within the limits of the funds.  Children's clothing shall be maintained in a state of good repair and cleanliness.</text>
+        </section>
+        <section>
+          <num>DMR.7.8.120</num>
+          <heading>Medical Care.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Within thirty (30) days of placement in the foster home, the foster parents shall arrange for and ensure attendance of medical, dental, and optical examinations for each child, and provide documentation to Indian Child Welfare on provided forms.  All routine follow-ups shall be done in accordance with a medical professional's recommendations.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No foster child shall be given medication not specifically prescribed for the child. Any medicine prescribed for a foster child shall be given exactly as prescribed and only given by an adult.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The foster parent shall report immediately to the Indian Child Welfare Department the occurrence of an unusual accident such as the death or serious injury or serious illness of any foster child.  A serious injury or illness shall be defined as one requiring a medical professional.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.8.130</num>
+          <heading>Substitute Care.</heading>
+          <text>In the event a foster parent has to leave their home temporarily, for reasons such as prolonged illness or temporary absence, the foster children shall be cared for by a responsible adult agreed upon by Indian child Welfare Department or worker.</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.9</num>
+        <heading>Responsibility of Foster Parents to the Agency or Legal Custodian</heading>
+        <section>
+          <num>DMR.7.9.010</num>
+          <heading>Responsibility of foster parents to the agency or legal custodian.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Foster Parents shall be responsible for only accepting children that conform with the conditions stated on their license, such as number of children, ages, or other limitations specified on the license.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Foster children may be accepted into or removed from a foster home only under authorization of the Indian Child Welfare or Tribal Court, where child resides.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Foster Parents shall not accept a child into their home from a source other than the Indian Child Welfare Department unless approved by the Department.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Foster Parents shall keep the Indian Child Welfare Department and legal guardian informed of the child's progress while in their care.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Foster Parent's shall cooperate with the agency or legal guardian in seeing that an appropriate relationship is maintained between the child and their relatives.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Foster Parents shall provide the agency or legal guardian a minimum of thirty (30) days in which to make suitable plans for the child when the foster parents have requested the child's removal from their home.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Foster Parent's shall maintain in confidence any and all sensitive information regarding the children in their care, such as prior medical or family history, prior court proceedings, or any other information that is revealed to the foster parents in confidence.   An exception may be made when a child is of age to become party to the case, which is twelve (12) years old.   In such case, caution and sensitivity shall still be used.  Additionally, foster parents shall not share any information or details with other children.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Foster parents are mandated reporters as defined in this ordinance.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Confidentiality shall be maintained at all times in regard to foster children and their families.  Confidential information can only be shared if authorized by the Indian Child Welfare Department.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Use caution with posting children on social media in photos.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.9.020</num>
+          <heading>Records to be maintained by the foster parents.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Foster parents shall maintain records while foster children are in their care. At the request of the Indian Child Welfare Department or the legal guardian, foster parent(s) shall make such records available for inspection while children are in their care.  Such records shall contain the following information:</text>
+            <para>
+              <num>(1)</num>
+              <text>Child's name and any aliases by which they are known.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Child's birthdate.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Name of person or agency to be notified in case of an emergency.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Name of physician to be notified in case of an emergency.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Date child received care.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Medical information about the child while in care such as medical examinations, immunizations illnesses, accidents, and allergies (medical and food), including dates of each.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Name of dentists and when child was seen.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Name of optician and dates child was seen.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Name of counselors and dates child was seen.</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>Name of school attended and grades received.</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text>Dates and locations when a child spent the night away from the foster home (overnight with friends, respite care).</text>
+            </para>
+          </para>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.10</num>
+        <heading>Responsibility of the Agency to the Foster Parents or Legal Custodian</heading>
+        <section>
+          <num>DMR.7.10.010</num>
+          <heading>Responsibility of the agency to the foster parents or legal guardian.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The foster home shall have a means of contacting the agency, or its designated representative, twenty-four (24) hours a day, seven (7) days a week, 365 days per year.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The agency shall assist the foster parents with any problems with the child placement.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The foster parents shall be paid according to the Wisconsin Uniform Foster Care Rate</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The agency shall provide the foster parents with policies, foster parent handbook, and procedures of the Indian Child Welfare Department regarding placement of children into their homes.  The foster parent(s) may request and receive information from the agency at the time of licensure and at any time the home has been without placements for twelve (12) months.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The Appeals and Fair Hearing Process shall be used if any disagreements or differences arise between the foster parent(s) and the Agency, or the foster parents and legal guardian, that cannot be resolved between the parties.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.11</num>
+        <heading>Complaints</heading>
+        <section>
+          <num>DMR.7.11.010</num>
+          <heading>Reporting of Complaints.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Complaints of any abuse or neglect made by Foster Parents shall be reported to LCO ICW or Sawyer County Health and Human Services.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Complaints made against Foster Parents shall be reported to the Indian Child Welfare Department or to Sawyer County Health and Human Services.   Investigations alleging abuse or neglect of  foster children by their foster parents shall be conducted independent of the tribe and residing county to prevent bias and to preserve the relationship between the agencies and foster homes.</text>
+          </para>
+        </section>
+        <section>
+          <num>DMR.7.11.020</num>
+          <heading>Investigation.</heading>
+          <text>Investigations shall be done by the Indian Child Welfare Department as soon as possible after receiving a complaint.  The agency shall determine whether the complaint is valid, and if a Fair Hearing is necessary in accordance with this Code.  For the purpose of investigating complaints concerning the health and safety of the foster children, the investigating agency(ies) shall have access to the home at any time during the twenty-four (24) -hour day.</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.12</num>
+        <heading>Denial or Revocation of License</heading>
+        <section>
+          <num>DMR.7.12.010</num>
+          <heading>Denial or revocation of foster care license.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribal Court shall have grounds to revoke a Foster Care License due to a substantial violation by the licensee of any provision of this ordinance or rules thereof.  A licensee may also be denied, revoked, or not renewed if the licensee fails to meet minimum requirements to obtain and keep a license.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The agency shall give the licensee written notice of any revocation and the grounds for revocation.  The written notice shall be given at least thirty (30) days prior to any revocation.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>DMR.7.13</num>
+        <heading>Appeal and Fair Hearing Process</heading>
+        <section>
+          <num proof="needed">DMR.7.13.010</num>
+          <heading>Foster parent right to appeal.</heading>
+          <text>Foster Parents or applicants shall have the right to appeal by petition to the Tribal Court for any denial, revocation, nonrenewal of licenses, or any unresolved grievances between a foster home and the agency.</text>
+        </section>
+        <section>
+          <num proof="needed">DMR.7.13.020</num>
+          <heading>Request for hearing.</heading>
+          <text>The request for hearing shall be made in writing to the Tribal Court.  Such requests shall be made within thirty (30) days from the date of the notification of denial, nonrenewal or revocation.</text>
+        </section>
+        <section>
+          <num proof="needed">DMR.7.13.030</num>
+          <heading>Fair hearing.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Hearings by the Tribal Court shall be held within thirty (30) days of the receipt of request by a claimant.  Adequate preliminary notice of the hearing shall be given to the claimant as to time and place of the requested hearing.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The claimant shall have the opportunity to examine all documents and records to be used at the hearing, to present their case, and to have the opportunity to examine and call witnesses.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A record of the proceedings shall be kept which shall include testimony, exhibits, papers, other evidence presented as part of the hearing process, and the decision rendered.</text>
+          </para>
+        </section>
+        <section>
+          <num proof="needed">DMR.7.13.040</num>
+          <heading>Decisions.</heading>
+          <text>The decision on the hearing shall be rendered by the Tribal Court with or without the presence of the claimant.  If the decision is rendered without their presence, a copy of the decision shall be mailed to them.  A copy of the decision shall be forwarded to the Agency.</text>
+        </section>
+      </container>
+    </container>
+  </codify:insert>
+</document>
