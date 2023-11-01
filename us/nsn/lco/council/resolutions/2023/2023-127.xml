@@ -95,14 +95,8 @@
         <prefix>Subchapter</prefix>
         <num>PAP.11.2</num>
         <heading>Grants</heading>
-        <para>
-          <num>(a)</num>
-          <text>The Chairman of the Tribal Governing Board has been delegated authority to negotiate, execute, sign, and modify grant documents that implement programs, activities, and functions that have been approved by the Tribal Governing Board. This delegation includes signature authority for all agreements that are necessary for the successful implementation of the program, e.g., sub-contracts, etc.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Execution of grant awards is vested with the Tribal Chairman. Employees may not sign awards on behalf of the Tribe unless acting formally on behalf of the Chairman under written delegated authority.</text>
-        </para>
+        <text>(a) The Chairman of the Tribal Governing Board has been delegated authority to negotiate, execute, sign, and modify grant documents that implement programs, activities, and functions that have been approved by the Tribal Governing Board. This delegation includes signature authority for all agreements that are necessary for the successful implementation of the program, e.g., sub-contracts, etc.</text>
+        <text>(b) Execution of grant awards is vested with the Tribal Chairman. Employees may not sign awards on behalf of the Tribe unless acting formally on behalf of the Chairman under written delegated authority.</text>
         <section>
           <num>PAP.11.2.010</num>
           <heading>Grant Selection</heading>
@@ -1220,15 +1214,15 @@
             <para>
               <num>(2)</num>
               <text>Withholding advance payments otherwise due to the Tribe.</text>
-              <para>
-                <num>(3)</num>
-                <text>Or other action permitted by Federal statute.</text>
-              </para>
             </para>
             <para>
-              <num>(c)</num>
-              <text>Except where otherwise provided by statutes or regulations, the Federal awarding agency will charge interest on an overdue debt in accordance with the Federal Claims Collection Standards (31 CFR parts 900 through 999). The date from which interest is computed is not extended by litigation or the filing of any form of appeal.</text>
+              <num>(3)</num>
+              <text>Or other action permitted by Federal statute.</text>
             </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Except where otherwise provided by statutes or regulations, the Federal awarding agency will charge interest on an overdue debt in accordance with the Federal Claims Collection Standards (31 CFR parts 900 through 999). The date from which interest is computed is not extended by litigation or the filing of any form of appeal.</text>
           </para>
         </section>
       </container>
