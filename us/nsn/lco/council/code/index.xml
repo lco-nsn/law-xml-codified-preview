@@ -8,8 +8,8 @@
         <volume start="GNC"/>
       </volumes>
     </print>
-    <recency through="2023-10-16">
-      <doc id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-127" type="resolution"/>
+    <recency through="2023-10-23">
+      <doc id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" type="resolution"/>
     </recency>
   </meta>
   <heading>Lac Courte Oreilles Tribal Code of Law</heading>
@@ -535,6 +535,134 @@
       </container>
     </container>
     <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>GWE.2</num>
+      <heading>General Welfare Services Immediate Assistance Funds</heading>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>GWE.2.1</num>
+        <heading>General Welfare Services Immediate Assistance Funds</heading>
+        <section>
+          <num>GWE.2.1.010</num>
+          <heading>Policy Declaration</heading>
+          <para>
+            <num>(a)</num>
+            <text>Tribal Governing Board members have a duty to provide for the general welfare of the tribal membership under the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>This Policy is intended to provide guidance for Tribal Governing Board Members to promote the general welfare of the tribe when requested for immediate financial assistance.</text>
+          </para>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.2.1.020</num>
+          <heading>Tribal Governing Board Responsibilities</heading>
+          <para>
+            <num>(a)</num>
+            <text>Each Tribal Governing Board member shall have a budget line-item dedicated for the distribution of General Welfare Services funds under the direction of each individual Tribal Governing Board.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>These funds are for Tribal Governing Board members to provide immediate or near immediate financial assistance to tribal members who need immediate and emergency-based financial assistance.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A Tribal Governing Board member may approve transactions from this budget line for specific services for the benefit of the tribe that fall under the guidelines of the General Welfare Exclusion <cite path="GWE.1">GWE.1</cite>.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Benefits shall not be authorized for any sitting Tribal Governing Board members or immediate family of any Tribal Governing Board member.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Immediate family shall be defined as the child, grand-child, spouse, partner, sibling, parent, or other person living with or under the legal custody of a Tribal Governing Board member.</text>
+            <text>.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Benefits will be capped at $5000 per fiscal quarter.  Any amounts over this limit shall require formal budget modification by the TGB.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>There shall be an annual audit of each Tribal Governing Board member's spending for such near or immediate financial assistance that the Tribal Governing Board provides to tribal members.  If the amount given exceeds the cap in <cite path="GWE.2.1.020|(e)">GWE.2.1.020 (e)</cite>, any such excess spending shall be deducted from the paycheck of the Tribal Governing Board member until such overage is recouped by the Tribe.  The Tribal Governing Board hereby authorizes such deductions and agrees to be personally liable for such overage that causes the deduction.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>The Accounting Department shall provide quarterly updates and an accounting to the Chairman on each TGB members compliance with the benefits cap.</text>
+          </para>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.2.1.030</num>
+          <heading>Budget Allocations</heading>
+          <para>
+            <num>(a)</num>
+            <text>The General Welfare Services budget line-item for Tribal Governing Board Members shall be allocated under the normal tribal budget formulation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Funds for this General Welfare Services line-items shall be funded from the Tribe's general fund.</text>
+          </para>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.2.1.040</num>
+          <heading>Procedure</heading>
+          <para>
+            <num>(a)</num>
+            <text>A transaction for the purposes of this ordinance shall be a request for immediate financial assistance communicated  to the individual Tribal Governing Board member.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribal Governing Board member shall have the authority to approve or deny the request based upon the member's immediate needs.  A denied request is not subject to an appeal.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>General Welfare Services transactions requested by an individual Tribal Governing Board member must be authorized by the governing board member under their general welfare services line-item.  Any transactions authorized on a weekday, holiday or any day where the government offices are not open for business shall be processed on the following business day.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Any request under <cite path="GWE.2.1.040">this section</cite> must be established under the exigent standards, the Tribal Governing Board member will advise the requestee of existing tribal government services to ensure that tribal resources are considered.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>A Tribal Governing Board member may authorize a General Welfare Services transaction through designated employee and/or the Accounting Department.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>An approved request will be processed consistent with the fiscal policies of the tribe and under the authority of this ordinance.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The Tribal sf employee processing the authorization shall complete the necessary forms for the transaction, including the accounts payable voucher, and the required general welfare documentation.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>All documents shall be retained for audit and tax reporting purposes.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Transactions that exceed the general welfare services line item shall not be processed and considered to be denied.</text>
+          </para>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" type="History"/>
+          </annotations>
+        </section>
+      </container>
+      <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" type="History"/>
+    </container>
   </container>
   <xi:include href="./ELE.xml"/>
   <xi:include href="./CSV.xml"/>
