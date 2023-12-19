@@ -45,22 +45,10 @@
     <num>1.</num>
     <text>Bold the term "Board" in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.2.010|(g)">PRP.7.2.010(g)</cite>.</text>
   </para>
-  <codify:replace path="|PRP.7.2.010|(g)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.2.010|(g)">
-    <para>
-      <num>(g)</num>
-      <text><strong>"Board"</strong> means the Lac Courte Oreilles Housing Authority Board of Commissioners.</text>
-    </para>
-  </codify:replace>
   <para>
     <num>2.</num>
     <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.2.010|(w)">PRP.7.2.010(w)</cite> <strong>"Essential Family"</strong> means any individual or family, with regard to eligibility for tribal housing, where the individual or family's need for housing cannot be met without such assistance and the Housing Authority determines that the family's presence is essential to the well-being of Indian families living on the reservation.</text>
   </para>
-  <codify:insert path="PRP.7.2.010" after="(v)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.2.010|(w-1)">
-    <para>
-      <num>(w-1)</num>
-      <text><strong>"Essential Family"</strong> means any individual or family, with regard to eligibility for tribal housing, where the individual or family's need for housing cannot be met without such assistance and the Housing Authority determines that the family's presence is essential to the well-being of Indian families living on the reservation.</text>
-    </para>
-  </codify:insert>
   <para>
     <num>3.</num>
     <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(f)">PRP.7.3.015(f)</cite> as follows: Regular meetings of the Board shall be held monthly on the third Wednesday of the month or at a time agreed upon by the Board and the Executive Director. Special meetings may be held at the discretion of the Chair or by request of two Commissioners or the Executive Director. Regular and Special meeting notices must be posted. Special meetings shall be limited to only the stated agenda and no regular business may be conducted.</text>
@@ -245,4 +233,834 @@
     <text>William Trepanier, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
+  <codify:replace path="|PRP.7.2.010" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.2.010">
+    <section>
+      <num>PRP.7.2.010</num>
+      <heading>General Definitions</heading>
+      <text>Any term not defined in <cite path="|PRP.7.2.010" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+      <para>
+        <num>(a)</num>
+        <text><strong>"Abandonment"</strong> means the absence from the premises for three consecutive weeks without notification in writing to the Housing Authority.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><strong>"Action, Suit or Lawsuit, Claim, Complaint or Defense"</strong> shall include any dispute between persons or entities which relates to the sale, rental, use, lease or occupancy of any housing, dwelling, premises or accommodation for human occupancy, including claims for the payment of monies for such housing, dwellings, premises or accommodations, damages to such units, condition of such units or the relationships between owners and occupants of such units, including the right to occupy them.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><strong>"Adjusted Income" </strong>means the annual income that remains after the following deductions. In no case shall the deductions exceed household income:</text>
+        <para>
+          <num>(1)</num>
+          <text><u>Youth and Students</u>. $480 for each member of the family residing in the household (other than the head of household or the spouse of the head of the household):</text>
+          <para>
+            <num>(A)</num>
+            <text>Who is under 18 years of age; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Who is 18 years of age or older and a full-time high school (or GED) student.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text><u>Elderly or Disabled Families</u>. $400 for an elderly or disabled head or co-head of household.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text><u>Medical and Attendant Expenses</u>. The amount by which 3 percent of the annual income of the family is exceeded by the aggregate of:</text>
+          <para>
+            <num>(A)</num>
+            <text>Medical expenses, in the case of an elderly or disabled family; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Reasonable attendant care and auxiliary apparatus expenses for each family member who is a person with disabilities, to the extent necessary to enable any member of the family (including a member who is a person with disabilities) to be employed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text><u>Child Care Expenses</u>. Verified out-of-pocket childcare expenses, to the extent necessary, to enable another member of the family to be employed or to further his or her education.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text><u>Earned Income of Minors</u>. The amount of any earned income of any member of the family who is less than 18 years of age.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text><u>Excess Travel Expenses</u>. Excessive travel expenses (travel more than 25 miles) for the Head or Co-Head of Household, shall receive a maximum deduction of $25 per family per week, for employment and/or education related travel.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text><u>Child Support</u>. Financial obligations paid to another household for the support of minor children.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><strong>"Adult Person" </strong>means any person 18 years of age or older.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text><strong>"Affected Persons"</strong> means the Tenant who is subject to the provisions of this ordinance, and the Tribe by the Housing Authority.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><strong>"Annual Income" or "Income"</strong> as defined in in <cite path="cfr 5.609" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">24 CFR § 5.609 </cite>means the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Annual income means all amounts, monetary or not, which:</text>
+          <para>
+            <num>(A)</num>
+            <text>Go to, or on behalf of, the family head or spouse (even if temporarily absent) or to any other family member;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Are anticipated to be received from a source outside the family during the 12-month period following admission or annual reexamination effective date; and which are not specifically excluded in <cite path="|PRP.7.2.010|(f)|(3)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.2.010(f)(3)</cite> below; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Annual income derived (during the 12-month period) from assets to which any member of the family has access.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Annual income includes, but is not limited to:</text>
+          <para>
+            <num>(A)</num>
+            <text>The full amount, before any payroll deductions, of wages and salaries, overtime pay, commissions, fees, tips and bonuses, and other compensation for personal services;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The net income from the operation of a business or profession.  Expenditures for business expansion or amortization of capital indebtedness shall not be used as deductions in determining net income. An allowance for depreciation of assets used in a business or profession may be deducted, based on straight line depreciation, as provided in Internal Revenue Service regulations.  Any withdrawal of cash or assets from the operation of a business or profession will be included in income, except to the extent the withdrawal is reimbursement of cash or assets invested in the operation by the family;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Interest, dividends, and other net income of any kind from real or personal property.  Expenditures for amortization of capital indebtedness shall not be used as deductions in determining net income.  An allowance for depreciation is permitted only as authorized in <cite path="|PRP.7.2.010|(f)|(2)|(B)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.2.010(f)(2)(B)</cite> above.  Any withdrawal of cash or assets from an investment will be included in income, except to the extent the withdrawal is reimbursement of cash or assets invested by the family. Where the family has net family assets in excess of $5,000, annual income shall include the greater of the actual income derived from all net family assets or a percentage of the value of such assets based on the current passbook savings rate, as determined by HUD;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The full amount of periodic amounts received from Social Security, annuities, insurance policies, retirement funds, pensions, disability or death benefits, and other similar types of periodic receipts, including a lump-sum amount or prospective monthly amounts for the delayed start of a periodic amount (except as provided in <cite path="|PRP.7.2.010|(f)|(3)|(N)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.2.010(f)(3)(N)</cite>, below);</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Payments in lieu of earnings, such as unemployment and disability compensation, worker's compensation and severance pay (except as provided in <cite path="|PRP.7.2.010|(f)|(3)|(C)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.2.010(f)(3)(C)</cite>, below);</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Welfare assistance payments.</text>
+            <para>
+              <num>(i)</num>
+              <text>Welfare assistance payments made under the Temporary Assistance for Needy Families (TANF) program are included in annual income only to the extent such payments:</text>
+              <para>
+                <num>(I)</num>
+                <text>Qualify as assistance under the TANF program definition at <cite path="cfr 260.31" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">45 CFR § 260.31</cite>; and</text>
+              </para>
+              <para>
+                <num>(II)</num>
+                <text>Are not otherwise excluded under <cite path="|PRP.7.2.010|(f)|(3)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.2.010(f)(3)</cite>, below.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>If the welfare assistance payment includes an amount specifically designated for shelter and utilities that is subject to adjustment by the welfare assistance agency in accordance with the actual cost of shelter and utilities, the amount of welfare assistance income to be included as income shall consist of:</text>
+              <para>
+                <num>(I)</num>
+                <text>The amount of the allowance or grant exclusive of the amount specifically designated for shelter or utilities; plus</text>
+              </para>
+              <para>
+                <num>(II)</num>
+                <text>The maximum amount that the welfare assistance agency could in fact allow the family for shelter and utilities. If the family's welfare assistance is ratably reduced from the standard of need by applying a percentage, the amount calculated under this paragraph shall be the amount resulting from one application of the percentage.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>Periodic and determinable allowances, such as alimony, child support payments, permanent kinship care payments, and regular contributions of gifts received from organizations or from persons not residing in the dwelling;</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>All regular pay, special pay and allowances of a member of the Armed Forces (except as provided in <cite path="|PRP.7.2.010|(f)|(3)|(G)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.2.010(f)(3)(G)</cite>, below).</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Annual income does not include the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>Income from the employment of children (including foster children) under the age of 18 years;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Payments received for the care of foster children or foster adults (usually persons with disabilities, unrelated to the tenant family, who are unable to live alone);</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Lump sum additions to family assets, such as inheritances, insurance payments (including payments under health and accident insurance and worker's compensation), capital gains and settlement for personal or property losses (except as provided in <cite path="|PRP.7.2.010|(f)|(2)|(E)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.2.010(f)(2)(E)</cite>, above);</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Amounts received by the family that are specifically for, or in reimbursement of, the cost of medical expenses for any family member;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Income of a live-in aide, as defined in <cite path="|PRP.7.2.010|(xx)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.2.010(xx)</cite>, below;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>The full amount of student financial assistance paid directly to the student or to the educational institution;</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>The special pay to a family member serving in the Armed Forces who is exposed to hostile fire;</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <para>
+              <num>(i)</num>
+              <text>Amounts received under training programs funded by HUD;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Amounts received by a person with a disability that are disregarded for a limited time for purposes of Supplemental Security Income eligibility and benefits because they are set aside for use under a Plan to Attain Self-Sufficiency (PASS);</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>Amounts received by a participant in other publicly assisted programs which are specifically for or in reimbursement of out-of-pocket expenses incurred (special equipment, clothing, transportation, child care, etc.) and which are made solely to allow participation in a specific program;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>Amounts received under a resident service stipend. A resident service stipend is a modest amount (not to exceed $200 per month) received by a resident for performing a service for the Housing Authority, on a part-time basis, that enhances the quality of life in the development. Such services may include, but are not limited to, fire patrol, hall monitoring, lawn maintenance, resident initiatives coordination, and serving as a member of the Board of Commissioners. No resident may receive more than one such stipend during the same period of time;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>Incremental earnings and benefits resulting to any family member from participation in qualifying State or local employment training programs (including training programs not affiliated with a local government) and training of a family member as resident management staff.  Amounts excluded by this provision must be received under employment training programs with clearly defined goals and objectives, and are excluded only for the period during which the family member participates in the employment training program;</text>
+            </para>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>Temporary, nonrecurring or sporadic income (including gifts);</text>
+          </para>
+          <para>
+            <num>(J)</num>
+            <text>Reparation payments paid by a foreign government pursuant to claims filed under the laws of that government by persons who were persecuted during the Nazi era;</text>
+          </para>
+          <para>
+            <num>(K)</num>
+            <text>Earnings in excess of $480 for each full-time student 18 years old or older (excluding the head of household and spouse);</text>
+          </para>
+          <para>
+            <num>(L)</num>
+            <text>Adoption assistance payments in excess of $480 per adopted child;</text>
+          </para>
+          <para>
+            <num>(M)</num>
+            <text>Temporary kinship care payments;</text>
+          </para>
+          <para>
+            <num>(N)</num>
+            <text>Deferred periodic amounts from supplemental security income and Social Security benefits that are received in a lump sum amount or in prospective monthly amounts, or any deferred Department of Veterans Affairs disability benefits that are received in a lump sum amount or in prospective monthly amounts;</text>
+          </para>
+          <para>
+            <num>(O)</num>
+            <text>Amounts received by the family in the form of refunds or rebates under State or local law for property taxes paid on the dwelling unit;</text>
+          </para>
+          <para>
+            <num>(P)</num>
+            <text>Amounts paid by a State agency to a family with a member who has a developmental disability and is living at home to offset the cost of services and equipment needed to keep the developmentally disabled family member at home; or</text>
+          </para>
+          <para>
+            <num>(Q)</num>
+            <text>Amounts specifically excluded by any other Federal statute from consideration as income for purposes of determining eligibility or benefits under a category of assistance programs that includes assistance under any program to which the exclusions set forth in <cite path="cfr 5.609" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">24 CFR § 5.609 </cite>(c) apply. A notice will be published in the Federal Register and distributed to the Housing Authority identifying the benefits that qualify for this exclusion. Updates will be published and distributed when necessary.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text><u>Annualization of income</u>. If it is not feasible to anticipate a level of income over a 12-month period (e.g., seasonal or cyclic income), or the Housing Authority believes that past income is the best available indicator of expected future income, the Housing Authority may annualize the income anticipated for a shorter period, subject to a redetermination at the end of the shorter period.</text>
+          <para>
+            <num>(A)</num>
+            <text>"Area of Operation" means all areas within the jurisdiction of the Lac Courte Oreilles Band of Lake Superior Chippewa.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text><strong>"Board"</strong> means the Lac Courte Oreilles Housing Authority Board of Commissioners.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text><strong>"Building"</strong> is a structure, and any appurtenances or additions thereto, designed for habitation, shelter, storage and the like.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"<strong>Common Property" </strong>means the non-dwelling structures and equipment, common areas, community facilities, and in some cases, certain component parts of dwelling structures.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text><strong>"Complaint"</strong> means a grievance of any resident or applicant which is presented according to this ordinance.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text><strong>"Demise" </strong>means death, mental incapacity, physical incapacity, or incarceration.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text><strong>"Dependent" </strong>means a member of the family/household (excluding foster children) other than the family head or spouse, who is under 18 years of age or is a disabled person or handicapped person, or is a full-time student.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"<strong>Disabled/Handicapped Person"</strong> pursuant to <cite path="cfr 5.403" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">24 CFR § 5.403</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>Means a person who:</text>
+          <para>
+            <num>(A)</num>
+            <text>has a disability as defined in 42 USC § 423;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>is determined, pursuant to HUD regulations, to have a physical, mental, or emotional impairment that:</text>
+            <para>
+              <num>(i)</num>
+              <text>Is expected to be of long-continued and indefinite duration;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Substantially impedes his or her ability to live independently or in a close and unsupervised proximity to others; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>Is of such a nature that the ability to live independently could be improved by more suitable housing conditions; or</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Has a developmental disability as defined in 42 USC § 6001.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Does not exclude persons who have the disease of acquired immunodeficiency syndrome or any conditions arising from the etiologic agent for acquired immunodeficiency syndrome.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For the purposes of qualifying for low-income housing, does not include a person whose disability is based solely on any drug or alcohol dependence; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Means "individual with handicaps," for purposes of reasonable accommodation and program accessibility for persons with disabilities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text><strong>"Disabled Family"</strong> pursuant to <cite path="cfr 5.403" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">24 CFR § 5.403 </cite>means a family whose head (including co-head), spouse, or sole member is a person with a disability. It may include two or more persons with disabilities living together, or one or more persons with disabilities living with one or more live-in aides.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text><strong>"Displaced Family"</strong> pursuant to <cite path="cfr 5.403" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">24 CFR § 5.403 </cite>means a family in which each member, or whose sole member, is a person displaced by governmental action, or a person whose dwelling has been extensively damaged or destroyed as a result of a disaster declared or otherwise formally recognized pursuant to Federal disaster relief laws.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text><strong>"Displaced Person"</strong> means any lower income family or individual that moves from the real property or moves his or her personal property from the real property permanently and involuntarily, as a direct result of Acquisition, Rehabilitation, or Demolition.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text><strong>"Drug Free Public Housing Zone"</strong> means any public housing development administered by the Housing Authority plus the area within 300 feet of the property's boundary, or one city block whichever distance is greater which shall be free of selling, possessing, or possessing with intent to sell any illegal controlled substance. Maximum sentencing penalties will be imposed by the courts for unlawful controlled substance crimes committed within this defined zone. Housing Authority has a "zero tolerance" for drug activity; the lease of any Tenant who possesses any amount of a controlled substance in Housing Authority property will be terminated. All Tenants are responsible for the conduct of the members of their household and/or guests. The lease of a Tenant will also be terminated if a guest or household member is found to possess any amount of a controlled substance on Housing Authority property.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text><strong>"Drug-Related Criminal Activity" </strong>means the intent to manufacture, sell, distribute, consume, use, possess a controlled substance (as such term is defined in Section 102 of the Controlled Substance Act) including the possession of drug paraphernalia, as evidenced by documentation from police reports, criminal background information, conviction, or indictment.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text><strong>"Dwelling Unit" </strong>means a house or building or portion thereof which is rented or leased as a home or residence by any person. With respect to tenancies involving the rental of space for a residential structure, but not the rental of the residential structure itself, "dwelling unit" does not include the residential structure.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text><strong>"Earned Income" </strong>means income derived from employment of household members.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>"<strong>Elderly and Near Elderly Family"</strong> means a family whose head (including co-head), spouse or sole member is an elderly or a near-elderly person, as defined in <cite path="|PRP.7.2.010" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">this section</cite>. It may include two or more elderly or near-elderly persons living together, or one or more elderly or near-elderly persons living with one or more live-in aides, or one or more such persons determined under the Indian housing plan for the agency to be essential to their care or well-being.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text><strong>"Elderly Person"</strong> pursuant to 24 CFR § 5.403 means a person who is at least 62 years of age.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text><strong>"Essential Family"</strong> means any individual or family, with regard to eligibility for tribal housing, where the individual or family's need for housing cannot be met without such assistance and the Housing Authority determines that the family's presence is essential to the well-being of Indian families living on the reservation.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>"<strong>Essential to the Well-being of an Indian Family"</strong> means any individual, with regard to eligibility for tribal housing, who is essential to the health and wellbeing of the Tribe.</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text>"<strong>Excluded Income"</strong> means income not included as annual income as defined in <cite path="|PRP.7.2.010|(f)|(3)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.2.010(f)(3)</cite>, above.</text>
+      </para>
+      <para>
+        <num>(z)</num>
+        <text><strong>"Executive Director or Director"</strong> means the individual employed by the Tribal Governing Board to manage the affairs of the Housing Authority as provided for in this ordinance and other relevant documents.</text>
+      </para>
+      <para>
+        <num>(aa)</num>
+        <text>"<strong>Family"</strong> pursuant to <cite path="cfr 5.403" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">24 CFR § 5.403 </cite>means, but is not limited to, the following, regardless of actual or perceived sexual orientation, gender identity, or marital status:</text>
+        <para>
+          <num>(1)</num>
+          <text>A single person, who may be an elderly person, displaced person, disabled person, near-elderly person, or any other single person; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A group of persons residing together, and such group includes, but is not limited to:</text>
+          <para>
+            <num>(A)</num>
+            <text>A family with or without children (a child who is temporarily away from the home because of placement in foster care is considered a member of the family);</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>An elderly family;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>A near-elderly family;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>A disabled family;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>A displaced family; and</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>The remaining member of a tenant family.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(bb)</num>
+        <text>"<strong>Full-time Student"</strong> means a person who is carrying a subject load that is considered full-time for day students under the standards and practices of the educational institution attended. An educational institution includes a vocational school with a diploma or certificate program, as well as an institution offering a college degree.</text>
+      </para>
+      <para>
+        <num>(cc)</num>
+        <text><strong>"Federal government"</strong> shall be the United States of America; the Department of Housing and Urban Development or any other agency or instrumentality, corporate or otherwise of the United States of America.</text>
+      </para>
+      <para>
+        <num>(dd)</num>
+        <text>"<strong>Gang"</strong> means any ongoing organization, association, or group of three or more persons, whether formal or informal, which meets all of the following criteria:</text>
+        <para>
+          <num>(1)</num>
+          <text>Has as one of its primary activities, the commission of criminal conduct as defined by applicable law; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Has a common name or common identifying sign(s) or symbol(s); and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Includes members who individually or collectively engage in or have engaged in a pattern of criminal activity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(ee)</num>
+        <text><strong>"Gang Recruitment"</strong> means to recruit, solicit, entice or intimidate any person to join a gang.</text>
+      </para>
+      <para>
+        <num>(ff)</num>
+        <text>"<strong>Gang Reprisal"</strong> means to expressly or impliedly threaten to do bodily harm to any person or that person's family or use any other criminally unlawful means to deter or punish any person from leaving a gang, or disassociating himself or herself from gang-related activity, or to deter or punish any reporting to the Housing Authority or any law enforcement agency of any gang-related activity.</text>
+      </para>
+      <para>
+        <num>(gg)</num>
+        <text>"<strong>Gang-related Activity"</strong> means the commission of any of the following activities for the benefit of, at the direction of, or motivated by involvement with a gang, with the intent to promote, further, or assist in criminal conduct by gang members:</text>
+        <para>
+          <num>(1)</num>
+          <text>Distribution of controlled substances;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Using any means, including but not limited to cyber-technology and social media, sometimes known as "cyber-bullying", to threaten anyone with bodily harm, property destruction, libel, invasion of privacy or exposure of personal information or photographs,</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any crime of violence that has an element involving the use or attempted use of physical force against the person on another; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any felony offense that by its nature involves a substantial risk that physical force against the person of another may be used in the course of committing the offense, including:</text>
+          <para>
+            <num>(A)</num>
+            <text>Assault;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Battery;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Intimidation;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Compelling organizational membership;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Homicide or manslaughter;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Shooting at an occupied dwelling or motor vehicle;</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>Kidnapping;</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>Carjacking;</text>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>Robbery;</text>
+          </para>
+          <para>
+            <num>(J)</num>
+            <text>Burglary;</text>
+          </para>
+          <para>
+            <num>(K)</num>
+            <text>Drive-by shooting;</text>
+          </para>
+          <para>
+            <num>(L)</num>
+            <text>Unlawful use or possession of weapons;</text>
+          </para>
+          <para>
+            <num>(M)</num>
+            <text>Bribery;</text>
+          </para>
+          <para>
+            <num>(N)</num>
+            <text>Tampering with or retaliating against a witness, victim, informant, or juror;</text>
+          </para>
+          <para>
+            <num>(O)</num>
+            <text>Rape;</text>
+          </para>
+          <para>
+            <num>(P)</num>
+            <text>Torture;</text>
+          </para>
+          <para>
+            <num>(Q)</num>
+            <text>Arson;</text>
+          </para>
+          <para>
+            <num>(R)</num>
+            <text>Money laundering;</text>
+          </para>
+          <para>
+            <num>(S)</num>
+            <text>Felony vandalism;</text>
+          </para>
+          <para>
+            <num>(T)</num>
+            <text>Unlawful sale of a firearm; or</text>
+          </para>
+          <para>
+            <num>(U)</num>
+            <text>Obstruction of justice.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(hh)</num>
+        <text>"<strong>Graffiti"</strong> means the intentional marking, drawing, writing with paint, ink or any other substance on, or intentionally etching into Housing Authority property.</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text><strong>"Grievance"</strong> means any dispute to which a resident or applicant may have with respect to Housing Authority action or failure to act which adversely affects their rights, duties, welfare or status.</text>
+      </para>
+      <para>
+        <num>(jj)</num>
+        <text><strong>"Guest"</strong> means any person, other than the tenant, in or around a dwelling unit or on the premises with the permission and consent of the tenant.</text>
+      </para>
+      <para>
+        <num>(kk)</num>
+        <text>"<strong>Head of Household"</strong> means the adult member of the family who is the head of the household for purposes of determining income eligibility and rent.  In order to be considered as the Head of Household, the person must have the mental capacity to understand the provisions of this ordinance, the lease, and other related documents / forms of the Housing Authority.</text>
+      </para>
+      <para>
+        <num>(ll)</num>
+        <text><strong>"Homebuyer"</strong> means a person(s) who has executed a lease-purchase or purchase agreement with the Authority, and who has not yet achieved homeownership.</text>
+      </para>
+      <para>
+        <num>(mm)</num>
+        <text>"<strong>Household"</strong> means all the people who occupy a housing unit. A household includes the related family members and all the unrelated people, if any, such as lodgers, foster children, wards, or employees who share the housing unit. A person living alone in a housing unit, or a group of unrelated people sharing a housing unit such as partners or roomers, is also counted as a household.</text>
+      </para>
+      <para>
+        <num>(nn)</num>
+        <text><strong>"Housing Authority" or "Authority"</strong> means the Lac Courte Oreilles Housing Authority which is the entity that has been delegated the responsibility for carrying out the intent of this ordinance, under the direction of the Executive Director.</text>
+      </para>
+      <para>
+        <num>(oo)</num>
+        <text><strong>"Housing Plan" or "Plan"</strong> means the Indian Housing Plan, or IHP, including housing goals, objectives, and strategies, developed by the Housing Authority together with the Board.</text>
+      </para>
+      <para>
+        <num>(pp)</num>
+        <text><strong>"Housing Project"</strong> or <strong>"Project"</strong> means any work or undertaking to provide or assist in providing (by any suitable method, including but not limited to: rental, sale of individual units in single or multifamily structures under conventional condominium, or cooperative sales contracts or lease-purchase agreements, loans or subsidizing of rentals or charges) decent, safe and sanitary dwellings, apartments, or other living accommodations for project eligible persons. Such work or undertaking may include buildings, land, leaseholds, equipment facilities, and other real or personal property for necessary, convenient, or desirable appurtenances, for streets, sewers, water service, utilities, parks, site preparation or landscaping, and for administrative, community, health, recreational, welfare or other purposes. The term "housing project" or "project" also may be applied to the planning of the buildings and improvements, the acquisition of property or any interest therein, the demolition of existing structures, the construction reconstruction, rehabilitation, alteration or repair of the improvements or other property and all other work in connection therewith, and the term shall include all other real and personal property and all tangible or intangible assets held or used in conjunction with the housing project.</text>
+      </para>
+      <para>
+        <num>(qq)</num>
+        <text><strong>"HUD"</strong> means the Department of Housing and Urban Development of the United States Federal Government.</text>
+      </para>
+      <para>
+        <num>(rr)</num>
+        <text>"<strong>Indian" </strong>means any person recognized as being an Indian or Alaskan Native by an Indian Tribe, the Federal Government or any State.</text>
+      </para>
+      <para>
+        <num>(ss)</num>
+        <text><strong>"Indian Family"</strong> means a family or family member who is recognized as being an Indian or Alaskan Native by an Indian Tribe, the Federal Government or any State.</text>
+      </para>
+      <para>
+        <num>(tt)</num>
+        <text>"<strong>Kinship Care Payments"</strong> means family support payments for the temporary or long-term care of a relative child.</text>
+      </para>
+      <para>
+        <num>(uu)</num>
+        <text><strong>"Landlord"</strong> includes the Housing Authority which is the owner or lessor of a dwelling unit, or premises, intended for the use of tenants.</text>
+      </para>
+      <para>
+        <num>(vv)</num>
+        <text><strong>"Lease" or "Rental Agreement"</strong> means a written agreement, including any written rules and regulations adopted by the Housing Authority containing the terms and conditions of the use and occupancy of real property, dwelling units, buildings or premises, including a lease-to-purchase agreement.</text>
+      </para>
+      <para>
+        <num>(ww)</num>
+        <text><strong>"Lessee"</strong> means a tenant of a dwelling unit or premises, user and/or occupier of real property.</text>
+      </para>
+      <para>
+        <num>(xx)</num>
+        <text><strong>"Lessor"</strong> means the legal, beneficial or equitable owner of property under a lease.</text>
+      </para>
+      <para>
+        <num>(yy)</num>
+        <text>"<strong>Live-in Aide"</strong> pursuant to <cite path="cfr 5.403" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">24 CFR § 5.403 </cite>means a person who resides with one or more elderly persons, or near-elderly persons, or persons with disabilities, and who:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is determined to be essential to the care and well-being of the person(s);</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Is not obligated for support of the person(s); and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Would not be living in the unit except to provide necessary supportive services and has no right to reside in the unit if not providing said services.</text>
+        </para>
+      </para>
+      <para>
+        <num>(zz)</num>
+        <text><strong>"Low Income Family"</strong> means a family whose annual income does not exceed eighty percent (80%) of the median income for the area, as determined by the Secretary of HUD with adjustments for smaller and larger families.</text>
+      </para>
+      <para>
+        <num>(aaa)</num>
+        <text><strong>"Median Income"</strong> means, with respect to an area that is an Indian area, the greater of:</text>
+        <para>
+          <num>(1)</num>
+          <text>The median income for the Indian area, which the Secretary of HUD shall determine; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The median income for the United States as published.</text>
+        </para>
+      </para>
+      <para>
+        <num>(bbb)</num>
+        <text><strong>"Members of the Household" </strong>means those persons listed in the lease or subsequent lease addendum.</text>
+      </para>
+      <para>
+        <num>(ccc)</num>
+        <text>"<strong>Monthly Adjusted Income" </strong>means one-twelfth of adjusted income.</text>
+      </para>
+      <para>
+        <num>(ddd)</num>
+        <text>"<strong>Monthly Income" </strong>means one-twelfth of annual income.</text>
+      </para>
+      <para>
+        <num>(eee)</num>
+        <text><strong>"Monthly Rent"</strong> means the rent amount the family pays monthly as determined by the Housing Authority. Monthly Rent may include Flat Rent, Income Based Rent, Minimum Rent and Retroactive Rent. If the Housing Authority supplies all utilities (except telephone or cable TV) and other essential housing services are supplied by the Housing Authority, Monthly Rent equals the Total Tenant Payment. If Housing Authority does not supply utilities and other essential housing service, and these costs are not included in the Monthly Rent amount, Monthly Rent equals Total Tenant Payment less the applicable Utility Allowance.</text>
+      </para>
+      <para>
+        <num>(fff)</num>
+        <text>"<strong>Near Elderly Family" </strong>means a family whose head or spouse (or sole member) is at least 55 years of age but below the age of 62 years.</text>
+      </para>
+      <para>
+        <num>(ggg)</num>
+        <text>"<strong>Near Reservation"</strong> means occupancy within the townships and cities adjacent to the reservation including but not limited to the townships of Hayward, Bass Lake, Couderay, Exeland, Hunter, Radisson, Round Lake, Sand Lake and Winter.</text>
+      </para>
+      <para>
+        <num>(hhh)</num>
+        <text><strong>"Notice to Quit"</strong> means a notice from the Authority to a tenant terminating a lease or rental agreement and demanding that the tenant and those with him/her leave the premises.</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text><strong>"Nuisance"</strong> means the maintenance or allowance on real property of a condition which unreasonably threatens the health or safety of the public, or deprives neighboring property users of the reasonable use, enjoyment and occupancy of their property.</text>
+      </para>
+      <para>
+        <num>(jjj)</num>
+        <text><strong>"Obligations"</strong> means any notes, bonds, interim certificates, debentures, or other forms of obligation issued by the Authority pursuant to this ordinance.</text>
+      </para>
+      <para>
+        <num>(kkk)</num>
+        <text><strong>"Obligee"</strong> includes any holder of an obligation, agent or trustee for any holder of an obligation or lessor demising to the Authority property used in connection with a project, or any assignee or assignees of such lessor's interest or any part thereof, and the Federal government when it is a party to any contract with the Authority in respect to a housing project.</text>
+      </para>
+      <para>
+        <num>(lll)</num>
+        <text><strong>"Occupancy Standard" </strong>means the standards established pursuant to <cite path="|PRP.7.5.190" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.5.190</cite> of this ordinance to ensure that the rental units are maintained by the tenants in a safe and sanitary condition and that tenant actions will not impede the peaceful enjoyment of Housing Authority residents and communities.</text>
+      </para>
+      <para>
+        <num>(mmm)</num>
+        <text>"<strong>Pattern of Gang-related Activity"</strong> means the commission, attempt to commit, conspiring to commit, or solicitation of two or more predicate gang crimes, provided the criminal acts were committed on separate dates or by two or more persons who are members of, or belong to, the same gang within a one-year period.</text>
+      </para>
+      <para>
+        <num>(nnn)</num>
+        <text><strong>"Person"</strong> means the Housing Authority where the meaning of a portion of this ordinance requires, a public agency, corporation, partnership or other entity.</text>
+      </para>
+      <para>
+        <num>(ooo)</num>
+        <text><strong>"Persons not Considered a 'Dislocated Person'"</strong> means a person who is not required to relocate permanently as a direct result of a rehabilitation project and who will return to the original project within a reasonable period of time (Temporary Relocation).</text>
+      </para>
+      <para>
+        <num>(ppp)</num>
+        <text><strong>"Person not Eligible for Relocation Assistance"</strong> means a person that is not eligible for relocation assistance if any of the following situations occur:</text>
+        <para>
+          <num>(1)</num>
+          <text>The tenant has been evicted for a serious or repeated violation of the terms and conditions of the lease or occupancy agreement;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Violation of Tribal, Federal, State, or local law or other good cause; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The person has no legal right to occupy the property under tribal law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(qqq)</num>
+        <text><strong>"Person with Disabilities" </strong>means Disabled/Handicapped as defined in <cite path="|PRP.7.2.010|(m)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157">Section PRP.7.2.010(m)</cite>, above.</text>
+      </para>
+      <para>
+        <num>(rrr)</num>
+        <text><strong>"Premises"</strong> means a dwelling unit and the structure of which it is a part and all facilities and areas connected with it, including grounds, common areas and facilities intended for the use of tenants or the use of which is promised for tenants.</text>
+      </para>
+      <para>
+        <num>(sss)</num>
+        <text>"<strong>Presumptive Gang Member"</strong> means any person for whom there is any record by any law enforcement agency or court system identifying the individual as meeting any three of the following criteria:</text>
+        <para>
+          <num>(1)</num>
+          <text>The person has admitted to being a gang member;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The person is observed to associate with known gang members;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The person has gang tattoos to show allegiance;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The person wears gang symbols or colors which are associated with a gang;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The person is photographed with known gang members or shows other overt signs of gang involvement;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The person is recorded and written on gang documents and graffiti;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The person is identified by a reliable source (e.g. a teacher, social worker, law enforcement officer) as being a gang member;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The person is arrested with gang members;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The person corresponds with gang members by telephone, mail, email, etc.; and/or</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>The person writes gang symbols and other gang affiliation on notebooks, schoolwork, etc.</text>
+        </para>
+      </para>
+      <para>
+        <num>(ttt)</num>
+        <text>"<strong>Publication" </strong>means the placement of an advertisement or notice in the newspaper of record for the Housing Authority area. (Newspaper in which legal advertisements are published).</text>
+      </para>
+      <para>
+        <num>(uuu)</num>
+        <text><strong>"Rent"</strong> means the monthly calculated payments to be made to the Authority or lessor from a tenant under a lease or rental agreement.</text>
+      </para>
+      <para>
+        <num>(vvv)</num>
+        <text>"<strong>Rental Unit"</strong> means a leased unit for an initial term, followed by a month-to-month tenancy.</text>
+      </para>
+      <para>
+        <num>(www)</num>
+        <text>"<strong>Residency"</strong> means the established proof of continuous occupancy of a residence on or near the reservation for a period of three months. Residency must be established prior to being awarded a unit. The burden is on the applicant to prove residency by employers, utility suppliers, school administrators or present landlord.</text>
+      </para>
+      <para>
+        <num>(xxx)</num>
+        <text>"<strong>Single Person"</strong> means a person who lives alone and who does not qualify as an elderly family, a displaced person, or the remaining member of a Tenant family.</text>
+      </para>
+      <para>
+        <num>(yyy)</num>
+        <text><strong>"Surcharge"</strong> means the amount charged by the Housing Authority to a Tenant, in addition to rent, for consumption of utilities in excess of the allowance for Housing Authority furnished utilities or for estimated consumption attributable to Tenant owned major appliances or to optional functions of Housing Authority furnished equipment.</text>
+      </para>
+      <para>
+        <num>(zzz)</num>
+        <text><strong>"Reservation" or "Reservation Lands"</strong> means those lands located within the exterior boundaries of the Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
+      </para>
+      <para>
+        <num>(aaaa)</num>
+        <text>"<strong>Temporary Absence" </strong>means an absence from the home for a period of longer than two (2) weeks with notification to the Housing Authority.</text>
+      </para>
+      <para>
+        <num>(bbbb)</num>
+        <text><strong>"Temporary Relocation Dwelling"</strong> means a dwelling that is suitable, decent, safe and sanitary to be used by the resident during the rehabilitation period. The relocation dwelling may not necessarily be comparable to the original dwelling as long as the decent, safe and sanitary requirements are met.</text>
+      </para>
+      <para>
+        <num>(cccc)</num>
+        <text><strong>"Tenant"</strong> means the lessee(s), or person(s) entitled under a lease or rental agreement to occupy a dwelling unit or premises to the exclusion of others.</text>
+      </para>
+      <para>
+        <num>(dddd)</num>
+        <text><strong>"Tenant Rent"</strong> means the amount payable monthly by the family as rent to the Housing Authority. Tenant rent does not include utilities</text>
+      </para>
+      <para>
+        <num>(eeee)</num>
+        <text><strong>"Tribal Court"</strong> means the court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(ffff)</num>
+        <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(gggg)</num>
+        <text>"<strong>Utilities'</strong> include electricity, gas, heating fuel (including wood), water, sewage service, septic tank pumping, drain field maintenance and sanitation services.</text>
+      </para>
+      <para>
+        <num>(hhhh)</num>
+        <text><strong>"Utility Costs"</strong> means expenses for heat, cooking, lighting, water, and sewer incurred in the reasonable residential use and occupancy of a dwelling.</text>
+      </para>
+      <para>
+        <num>(iiii)</num>
+        <text>"<strong>Very Low Income Family"</strong> means a lower income family whose annual income does not exceed fifty percent (50%) of the median income for the area, as determined by HUD, with adjustments for smaller and larger families.</text>
+      </para>
+    </section>
+  </codify:replace>
 </document>
