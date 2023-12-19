@@ -16,9 +16,9 @@
     <history-start>2021-12-19</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="lco-nsn/law-xml" commit="ad216b5adccbb6f6156441216e01d3f52ccab5cc"/>
+        <repository name="lco-nsn/law-xml" commit="67cf30217a147ee4ce200638e0c49022fc6cfee7"/>
       </repositories>
-      <platform version="2.12.7" reproducible="false"/>
+      <platform version="2.13.0" reproducible="false"/>
       <build-date>2023-12-19</build-date>
       <codified-date>2023-12-11</codified-date>
     </build>
