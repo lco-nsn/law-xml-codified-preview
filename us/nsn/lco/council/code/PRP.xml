@@ -462,7 +462,7 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>"Board" means the Lac Courte Oreilles Housing Authority Board of Commissioners.</text>
+          <text><strong>"Board"</strong> means the Lac Courte Oreilles Housing Authority Board of Commissioners.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -563,6 +563,10 @@
         <para>
           <num>(v)</num>
           <text><strong>"Elderly Person"</strong> pursuant to <cite path="cfr 5.403">24 CFR § 5.403 </cite>means a person who is at least 62 years of age.</text>
+        </para>
+        <para>
+          <num>(w-1)</num>
+          <text><strong>"Essential Family"</strong> means any individual or family, with regard to eligibility for tribal housing, where the individual or family's need for housing cannot be met without such assistance and the Housing Authority determines that the family's presence is essential to the well-being of Indian families living on the reservation.</text>
         </para>
         <para>
           <num>(w)</num>
@@ -1041,6 +1045,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-46"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 18-71"/>
           <annotation type="Prior Codifications">§PRP.7.2.010 was formerly codified as XI LCOTCL §7.201</annotation>
+          <annotation app="2023-12-11" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157" eff="2023-12-11" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1212,7 +1217,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Regular meetings of the Board shall be held monthly on the third Wednesday of the month or at a time agreed upon by the Board and the Executive Director. Special meetings may be held at the discretion of the Chair or by request of two Commissioners. Regular and Special meetings notices must be posted. Special meetings shall be limited to only the stated agenda and no regular business may be conducted.</text>
+          <text>Regular meetings of the Board shall be held monthly on the third Wednesday of the month or at a time agreed upon by the Board and the Executive Director. Special meetings may be held at the discretion of the Chair or by request of two Commissioners or the Executive Director. Regular and Special meeting notices must be posted. Special meetings shall be limited to only the stated agenda and no regular business may be conducted.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -1287,6 +1292,7 @@
           <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-48" eff="2023-05-10" path="§12" type="History"/>
           <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-48" eff="2023-05-10" path="§13" type="History"/>
           <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-48" eff="2023-05-10" path="§14" type="History"/>
+          <annotation app="2023-12-11" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157" eff="2023-12-11" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1742,15 +1748,46 @@
       </section>
       <section>
         <num>PRP.7.5.050</num>
-        <heading>Eligibility for Admission</heading>
         <text>Applicants of the Housing Authority for rental housing must meet the following requirements:</text>
         <para>
           <num>(a)</num>
-          <text>The family must be a Low-income Family or a Non-Low-income Family as further defined in <cite path="|PRP.7.2.010|(yy)">Section PRP.7.2.010(yy)</cite> of this ordinance;</text>
+          <text>The family must be a Low-income Family or a Non-Low-income Family as further defined in <cite path="|PRP.7.2.010|(yy)">Section PRP.7.2.010(yy)</cite> of this ordinance; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The family must be an Indian family, or essential to the well-being of the Tribe and the need for housing for the family cannot reasonably be met without such assistance; and</text>
+          <text>The family is:</text>
+          <para>
+            <num>(1)</num>
+            <text>An Indian family; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An essential family where:</text>
+            <para>
+              <num>(A)</num>
+              <text>The family's need for housing cannot be met without such assistance; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The Housing Authority determines that the family's presence is essential to the well-being of Indian families living on the Reservation; or</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A law enforcement family where:</text>
+            <para>
+              <num>(A)</num>
+              <text>The family includes a law enforcement officer who is employed on a full-time basis by the Tribe, federal government, state, county, or other unit of local government;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>In implementing such full-time employment, is sworn to uphold, and make arrests for, violations of federal, state, county, or tribal law; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The Housing Authority determines that the presence of the law enforcement officer on the Indian reservation may deter crime; and</text>
+            </para>
+          </para>
         </para>
         <para>
           <num>(c)</num>
@@ -1761,6 +1798,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-46"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 18-71"/>
           <annotation type="Prior Codifications">§PRP.7.5.050 was formerly codified as XI LCOTCL §7.505</annotation>
+          <annotation app="2023-12-11" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157" eff="2023-12-11" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1931,36 +1969,40 @@
       </section>
       <section>
         <num>PRP.7.5.110</num>
-        <heading>Waiting List Ranking</heading>
         <text>Applications are ranked first by preference points and then by date of application and time of application pursuant to the following criteria:</text>
         <para>
           <num>(a)</num>
-          <text>Lac Courte Oreilles Citizen (Member)                    25 points</text>
-          <text>(Applicant or child is a Lac Courte Oreilles Citizen (Member)):</text>
+          <text>Lac Courte Oreilles Citizen (Member): 25 points</text>
+          <text class="text-indent-2">(Applicant or child is a Lac Courte Oreilles Citizen (Member))</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Other Indian Applicant:                         15 points</text>
-          <text>(Citizen (Member) of another federally recognized tribe)</text>
+          <text>Other Indian Applicant: 15 points</text>
+          <text class="text-indent-2">(Citizen (Member) of another federally recognized tribe)</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Non-Indian Applicant Essential to the Well-being of LCO Families:   5 points</text>
+          <text>Essential family to the well-being of LCO Families: 5 points</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Honorably Discharged Veterans:                      5 points</text>
-          <text>(Must provide a current DD214)</text>
+          <text>Law Enforcement Family: 5 points</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>Existing Tenant Transfer Preference                 5 points</text>
+          <text>Honorably Discharged Veterans: 5 points</text>
+          <text class="text-indent-2">(Must provide a current DD214)</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Existing Tenant Transfer Preference: 5 points</text>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-95"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-46"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 18-71"/>
           <annotation type="Prior Codifications">§PRP.7.5.110 was formerly codified as XI LCOTCL §7.511</annotation>
+          <annotation app="2023-12-11" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-157" eff="2023-12-11" path="" type="History"/>
         </annotations>
       </section>
       <section>
