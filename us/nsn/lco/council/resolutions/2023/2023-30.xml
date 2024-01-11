@@ -40,7 +40,7 @@
     <text>Tweed Shuman, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:insert path="MCC" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.2.1.010">
+  <codify:insert path="MCC" after="MCC.1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.2.1.010">
     <container>
       <prefix>Chapter</prefix>
       <num>MCC.2</num>
