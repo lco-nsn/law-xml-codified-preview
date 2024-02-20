@@ -1701,12 +1701,24 @@
       <section>
         <num>TCT.2.13.020</num>
         <heading>Filing and Status of Foreign Judgments</heading>
-        <text>A certified copy of any foreign judgment may be filed with the clerk of court. The clerk of court shall treat the foreign judgment in the same manner as the judgment of the tribal court. A judgment so filed has the same effect and is subject to the same procedures and status as a judgment of tribal court, and may be enforced or satisfied in like manner, except that the Tribal Court shall, after notice and hearing upon its own motion or motion of a party, have the right to review and modify any foreign order for the enforcement of a judgment, including but not limited to garnishment orders.</text>
+        <para>
+          <num>(a)</num>
+          <text>A certified copy of any foreign judgment may be filed with the clerk of court. A filing fee for the foreign judgment must be received by the clerk of court for the judgment to take effect.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The clerk of court shall treat the foreign judgment in the same manner as the judgment of the tribal court. A judgment so filed has the same effect and is subject to the same procedures and status as a judgment of tribal court, and may be enforced or satisfied in like manner.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Tribal Court may, after notice and hearing upon its own motion or motion of a party, have the right to review and modify any foreign order for the enforcement of a judgment, including but not limited to garnishment orders.</text>
+        </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-36"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-37"/>
           <annotation type="Prior Codifications">§TCT.2.13.020 was formerly codified as II LCOTCL §1.1302</annotation>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-26" eff="2024-02-12" path="" type="History"/>
         </annotations>
       </section>
       <section>

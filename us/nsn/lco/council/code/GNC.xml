@@ -990,10 +990,11 @@
           <annotation type="Prior Codifications">§GNC.4.4.050 was formerly codified as LCOTCC §4.31</annotation>
         </annotations>
       </section>
-      <section>
+      <section placeholder="Repealed">
+        <reason>Repealed</reason>
         <num>GNC.4.4.060</num>
         <heading>Adoption of State Laws</heading>
-        <text>The provisions of <cite doc="Wis. Stat." path="§961.41">Wisconsin Statutes Section 961.41</cite>(3g)(e) relating to possession of marijuana, Subchapter VI of the Uniform Controlled Substances Act relating to drug paraphernalia, and <cite path="VIII|4|subch|215.07|(4)">Section 215.07(4)</cite> relating to underage drinking for which the penalties for violations thereof are forfeiture, are adopted as part of <cite path="|GNC.4.4.040">Section GNC.4.4.040</cite>. A violation of <cite path="|GNC.4.4.040">Section GNC.4.4.040</cite> shall subject the person to forfeiture not to exceed the maximum provided for in the corresponding Wisconsin Statute in addition to the other civil penalties prescribed thereby.</text>
+        <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 06-53"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 05-07"/>
@@ -1001,6 +1002,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.4.060 was formerly codified as LCOTCC §4.32</annotation>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-22" eff="2024-02-12" path="" type="History"/>
         </annotations>
       </section>
     </container>

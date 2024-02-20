@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-22" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2024-22</num>
+  <heading>Repeal of Lac Courte Oreilles Tribal Code of Law General Conduct Chapter Relating to Cannabis, Marijuana, and Drug Paraphernalia</heading>
+  <meta>
+    <effective>2024-02-12</effective>
+    <citations>
+      <citation type="res" url="./adopted/2024-22.pdf">Res. No. 2024-22</citation>
+    </citations>
+    <history>
+      <adopted>2024-02-12</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is empowered to "promulgate and enforce ordinances governing the conduct of members of Lac Courte Oreilles Band of Lake Superior Chippewa Indians" pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, §1(s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is concerned of the criminalization of marijuana possession and marijuana use of Tribal members on the Reservation and that these laws are disproportionately enforced on the Reservation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board discourages Tribal members from continuing to receive civil penalties in the Tribal Court for marijuana possession, marijuana use, and possession of drug paraphernalia; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is concerned that the surrounding law enforcement bodies are focusing on marijuana crimes versus more violent crimes and serious drug offenses on the Reservation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is concerned that these criminal and civil convictions can interfere with Tribal members securing employment, obtaining housing, receiving professional licenses, receiving food assistance, and other collateral damages of such convictions.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby is repealing Lac Courte Oreilles Tribal Code of Law <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.4.4.060">GNC.4.4.060</cite> as it relates to the criminalization and receipt of civil penalties of marijuana possession, marijuana use, and possession of drug paraphernalia, as it is in the best interest of the Tribe and Tribal members on the Reservation.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>as follows:</text>
+      <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.4.4.060">SECTION GNC.4.4.060</cite> shall be repealed in its entirety as it relates to the civil penalties for possession of marijuana and drug paraphernalia.</text>
+    </recital>
+    <codify:repeal path="|GNC.4.4.060" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.4.4.060"/>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>12<sup>th</sup> day of February, 2024</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>0</u></strong> members, <strong><u>0</u></strong> against, <strong><u>4</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

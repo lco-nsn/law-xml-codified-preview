@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-25" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2024-25</num>
+  <heading>Amendment to the Lac Courte Oreilles Tribal Code of Law Children's Code</heading>
+  <meta>
+    <effective>2024-02-12</effective>
+    <citations>
+      <citation type="res" url="./adopted/2024-25.pdf">Res. No. 2024-25</citation>
+    </citations>
+    <history>
+      <adopted>2024-02-12</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is empowered to "establish a tribal court for the purpose of enforcing tribal ordinance" pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(g)">Article V, Section 1(g)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is empowered to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and provide for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers" pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1(s)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is empowered to "provide for the regulation of child custody and domestic relations matters by ordinances;" pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">Article V, Section 1(t)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the language in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|DMR.1.3.080">DMR.1.3.080</cite> "Parties" includes antiquated language regarding the compensation of Tribal Court appointed guardian ad litems; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is in the best interest of the Tribe for the antiquated language to be removed from the Code to mitigate any unnecessary confusion.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby removes the following language from <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|DMR.1.3.080|(b)">DMR.1.3.080(b)</cite> as the language is outdated and no longer applicable.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the following shall be removed from <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|DMR.1.3.080|(b)">DMR.1.3.080(b)</cite> as follows:</text>
+    </recital>
+  </recitals>
+  <text>"The guardian ad litem, if an attorney, shall be compensated at the Wisconsin Judicare attorney compensation rate, and if anyone other than an attorney, at the Wisconsin Judicare lay advocate rate."</text>
+  <codify:replace path="|DMR.1.3.080|(b)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|DMR.1.3.080|(b)">
+    <para>
+      <num>(b)</num>
+      <text>The Children's Court may, in any proceeding under this ordinance, appoint a guardian ad litem to represent the interests of the child for purposes of the proceeding. Appointment may be made upon request of any party or upon the Children's Court own motion. The Children's Court may appoint only an attorney, lay advocate, or other adult whom the Children's Court is satisfied is familiar with this ordinance and with the procedures of the Children's Court and will sincerely and competently represent the child's best interests. The fees and costs of the guardian ad litem shall be subject to the approval of the Children's Court. The Children's Court may order an appropriate party to pay the guardian ad litem fees and costs, or to reimburse the Tribe for such fees and costs.</text>
+    </para>
+  </codify:replace>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>12<sup>th</sup> day of February, 2024</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
