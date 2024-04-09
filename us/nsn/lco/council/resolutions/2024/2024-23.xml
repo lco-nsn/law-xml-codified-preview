@@ -1,0 +1,1626 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2024-23</num>
+  <heading>Resolution Adopting National Indian Gaming Commission Approved Gaming Code for the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+  <meta>
+    <effective>2024-02-12</effective>
+    <citations>
+      <citation type="res" url="./adopted/2024-23.pdf">Res. No. 2024-23</citation>
+    </citations>
+    <history>
+      <adopted>2024-02-12</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is empowered pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, §1(m)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">(n)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers" and "regulate, by enactment of ordinances, the conduct of business within the territory of the Band, including the power to impose taxes or license fees upon members and non-members doing business within the [R]eservation;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board enacted Resolution 95-63 and Resolution 2011-34 thereby approving the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Amended Gaming Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the National Indian Gaming Commission ("NIGC") approved the Gaming Ordinance in accordance with the provisions of the Indian Gaming Regulatory Act; 25 U.S.C. §2701, et. seq. on September 19, 1995; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the NIGC approved the amendment of the Gaming Ordinance in accordance with the provisions of the Indian Gaming Regulatory Act: 25 U.S.C. §2701, et. seq. on August 11, 2011; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to the NIGC, the current and approved Gaming Ordinances are published on their website; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe hereby readopts and amends its current Gaming Code to reflect the NIGC's approved Gaming Code for the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe has recodified the Lac Courte Oreilles Tribal Gaming Code as <cite doc="Lac Courte Oreilles Tribal Code of Law" path="CMP.1">CMP.1</cite> pursuant to Resolution 2022-68; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe shall readopt and amend the current Gaming Code to align with the NIGC and reformat the Gaming Code into the current Open Law format.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby adopts and amends its current Gaming Code <cite doc="Lac Courte Oreilles Tribal Code of Law" path="CMP.1">CMP.1</cite> to be amended to the 1995 and 2011 approved versions by the NIGC in the Open Law format. The Tribal Governing Board, the Casino, and the Legal Department of the Tribe shall timely submit any amendments and edits of the Gaming Code to the  NIGC for review and approval.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>12<sup>th</sup> day of February, 2024</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+  <codify:replace path="CMP.1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CMP.1.1.010">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>CMP.1</num>
+      <heading>Gaming Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>CMP.1.1</num>
+        <heading>Introduction</heading>
+        <section>
+          <num>CMP.1.1.010</num>
+          <heading>Title</heading>
+          <text>This Code shall be known as the "Lac Courte Oreilles Gaming Code".</text>
+        </section>
+        <section>
+          <num>CMP.1.1.020</num>
+          <heading>Repeal of Prior Authority</heading>
+          <text>This Code hereby repeals all other previously enacted gaming codes to the extent that the previous gaming codes are inconsistent with this Code.</text>
+        </section>
+        <section>
+          <num>CMP.1.1.030</num>
+          <heading>Authority</heading>
+          <text>This Code is enacted pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|I|(n)">Article V, Section I (n)</cite> of the <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|I|(n)">Constitution and By-Laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, as amended.</text>
+        </section>
+        <section>
+          <num>CMP.1.1.040</num>
+          <heading>Declaration of Policy</heading>
+          <text>The Tribal Governing Board declares that:</text>
+          <para>
+            <num>(a)</num>
+            <text>All phases of the conduct of games of chance should be closely controlled by appropriate laws and rules which should be strictly and uniformly enforced throughout the Lac Courte Oreilles Reservation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The conduct of games of chance and all attendant activities, should be so regulated as to discourage private commercialization and to ensure the maximum use of gaming exclusively for lawful purposes specified in this Code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>It is a matter of tribal concern to foster and support such lawful purposes and to prevent commercialized gambling, participation by criminal and other undesirable elements and diversion of funds from the lawful purposes herein authorized.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Lawful purposes contemplated within this Code are: support of tribal government operations, of tribal members, contributions to tribal philanthropic activities, and support of social welfare and education of tribal members.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Preference shall be granted in the recruiting, training, and employment to qualified members of the Tribe, their spouses, and children. Tribal preference shall apply in all job categories falling under the gaming code and provisions.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>To the extent that qualified members of the Tribe, their spouses, or children are not available to fill a position, preference shall be given first to qualified members of other Tribes of Chippewa Indians and then to qualified members of any other Indian Tribe.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.1.050</num>
+          <heading>Interpretation</heading>
+          <text>The provisions of this Code:</text>
+          <para>
+            <num>(a)</num>
+            <text>Shall be interpreted and applied as minimum requirements applicable to gaming activities on the Lac Courte Oreilles Reservation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Shall be liberally construed in favor of the Tribe.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Shall be construed consistent with the provisions of the National Indian Gaming Regulatory Act, 25 U.S.C. Section 2701, <strong><u>et seq</u></strong>., and the 1991 Tribal-State Gaming Compact (governing Class III games) between the Tribe and the State of Wisconsin and such Gaming Management Contracts as the Tribe may enter into.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.1.060</num>
+          <heading>Ownership of Gaming</heading>
+          <text>The Lac Courte Oreilles Tribe shall have the sole proprietary interest in and responsibility for the conduct of any gaming operation authorized by this ordinance.</text>
+        </section>
+        <section>
+          <num>CMP.1.1.070</num>
+          <heading>Use of Gaming Revenue</heading>
+          <text>Net revenues from class II gaming shall be used only for the following purposes:</text>
+          <para>
+            <num>(1)</num>
+            <text>to fund tribal government operations and programs, provide for the general welfare of the Tribe and its members, promote tribal economic development, and donate to charitable organizations.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the Tribe elects to make per capita payments to tribal members, it shall authorize such payments only upon approval of a plan submitted to the Secretary of the Interior under 25 U.S.C. Section 2710 (b).</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.1.080</num>
+          <heading>Audit</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribe shall cause to be conducted annually an independent audit of gaming operations and shall submit the resulting audit reports that include financial statements and management letters to the National Indian Gaming Commission.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All gaming-related contracts that result in the purchase of supplies, services, or concessions in excess of $25,000.00 annually, except contracts for professional legal and accounting services, shall be specifically included within the scope of the audit that is described in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="CMP.1.1.080|(a)">subsection (a)</cite> above.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.1.090</num>
+          <heading>Protection of the Environment and Public Health and Safety</heading>
+          <text>Lac Courte Oreilles Class II gaming facilities shall be constructed, maintained, and operated in a manner that adequately protects the environment and the public health and safety.</text>
+        </section>
+        <section>
+          <num>CMP.1.1.100</num>
+          <heading>Notices to Agent</heading>
+          <text>The Secretary of the Lac Courte Oreilles Tribe shall be designated as agent for service of any official determination, order, or notice of violation pursuant to 25 CFR Section 522.2(g).</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>CMP.1.2</num>
+        <heading>Definitions</heading>
+        <section>
+          <num>CMP.1.2.010</num>
+          <heading>General Definitions</heading>
+          <text>The following definitions shall be applicable.</text>
+          <para>
+            <num>(a)</num>
+            <text><strong>"Act"</strong> shall mean the Indian Gaming Regulatory Act. P.L. 100 - 497, 25 U.S.C. Section 2701 et seq.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>"Class I Gaming"</strong> means:</text>
+            <para>
+              <num>(1)</num>
+              <text>Social games played solely for prizes of minimal value or traditional forms of Indian gaming engaged in as part of tribal ceremonies or celebrations.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>"Class II Gaming"</strong> means:</text>
+            <para>
+              <num>(1)</num>
+              <text><strong>BINGO -</strong> The game of chance, which is played for prizes, including monetary prizes, with cards bearing numbers or other designations, in which the holder of the card oversees such numbers or designations when objects, similarly numbered or designated, are drawn or electronically determined in which the game is won by the first person.</text>
+            </para>
+            <aftertext>Electronic, computer, or technological aids such as computer-generated number sequences-can be used in connection with Class II bingo, so long as all players are playing against each other to achieve the same sequences. Computerized or "video" bingo, in which players play against the machine rather than against each other, are Class III games, subject to Chapter V of this Title.</aftertext>
+            <aftertext>Class II gaming shall not include bingo included as Class I gaming in Section CMP.1.2.010</aftertext>
+            <para>
+              <num>(2)</num>
+              <text><strong>OTHER GAMES OF CHANCE -</strong> Games similar to bingo, including, if played at the same location as bingo, pull-tabs, lotto, punch boards, tip jars, and "instant bingo", in which prizes are awarded on the basis of a designated winning number or numbers, color or colors, symbol or symbols determined by chance.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>"Class III Gaming"</strong> means all forms of gaming that are not Class I or Class II gaming, including:</text>
+            <para>
+              <num>(1)</num>
+              <text>Electronic or electromechanical facsimiles of any game of chance or slot machines of any kind, including "video bingo".</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All banking card games: that is, card games played against the house. including baccarat, chemin de fer, and blackjack.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>"Department of Justice"</strong> means the Department of Justice of the State of Wisconsin, its authorized officials, agents, and representatives.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>"Enterprise"</strong> is a commercial enterprise of the Tribe authorized to engage in (a) gaming of every variety defined as Class II Gaming by the IGRA; (b) gaming defined as Class III Gaming pursuant to the Lac Courte Oreilles Band of Lake Superior Chippewa Indians/State of Wisconsin Gaming Compact for 1991 (the "Compact"); and (c) any other lawful commercial activity related to Gaming and permitted by the Tribe.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><strong>"Facility"</strong> shall mean the building, including related or connected modular, tent-like or other structures, and associated and adjacent real estate property, within which the Enterprise will be housed, and the parking areas serving the Facility, all as located on the Property.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><strong>"Gaming"</strong> shall mean activities defined as Class I Gaming, Class II Gaming, and Class III Gaming under the IGRA and the Compact.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><strong>"General Contractor"</strong> shall mean the person or entity selected by the Governing Board, on behalf of the Tribe, who is a licensed general contractor experienced in the Construction of commercial buildings and appurtenant structures and service facilities.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text><strong>"General Manager"</strong> shall mean the person selected by the Tribal Governing Board, who is experienced in the operation, maintenance, and accounting of a Gaming facility. Such General Manager shall be employed by the Tribe and shall be the person responsible for and with the necessary authority for general operations, in connection with the operation of the Facility.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text><strong>"LCO"</strong> shall mean the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text><strong>"Lottery Board"</strong> means the Wisconsin Lottery Board, its authorized officials, and agents and representatives.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text><strong>"Management Contract"</strong> means agreements covering the overall management and operation of a Tribal game or gaming facility by an entity other than the Tribe or its employees, including all collateral agreements to such agreement that relate to gaming activity. The term does not include agreements for the procurement of particular services, materials, or supplies related to the Tribe's operation of Class III gaming under the Compact and Class II gaming activities, such as the supply of gaming aids, communication and other equipment, computers and software and scratch tickets.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text><strong>"Person"</strong> includes all partnerships (general and limited), associations and corporations.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text><strong>"State"</strong> means the State of Wisconsin, its authorized officials, agents, and representatives.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text><strong>"Tribal Gaming Commission"</strong> Tribal members who are appointed by the Tribal Governing Board who shall be responsible for carrying out the duties of this Gaming Code as specified in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.3.070">CMP.1.3.070</cite>.</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <text><strong>"Tribal Governing Board"</strong>, <strong>"Governing Board"</strong> or <strong>"Board"</strong> shall mean the Governing Board established under the Constitution and By-Laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin Tribe with jurisdiction to oversee and regulate all gaming activities on behalf of the Tribe</text>
+          </para>
+          <para>
+            <num>(r)</num>
+            <text><strong>"Tribal lands"</strong> for purposes of this code has the following meaning:</text>
+            <para>
+              <num>(1)</num>
+              <text>All lands within the territorial limits of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Reservation:</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All lands within the State of Wisconsin held in trust by the United States for the benefit of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians as of October 17, 1988; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>All lands within the State of Wisconsin which may be acquired in trust by the United States for the benefit of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians after October 17, 1988, over which the Tribe exercises governmental power, and which meet the requirements of sec. 20 of the Act, 25 U.S.C. Section 2719.</text>
+            </para>
+          </para>
+          <para>
+            <num>(s)</num>
+            <text><strong>"Tribe"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, its authorized officials, agents, and representatives.</text>
+          </para>
+          <para>
+            <num>(t)</num>
+            <text><strong>"Tribal Gaming Attorney"</strong> means the Chief Legal Counsel employed by the Tribe, in charge of and responsible for legal issues relating to gaming operations of the Tribe and associated enterprises.</text>
+          </para>
+          <para>
+            <num>(u)</num>
+            <text><strong>"Tribal Gaming Enforcement Officer"</strong> means the Enforcement Officer, appointed by the Tribe to work with the Tribal Gaming Commission, who is responsible for initiating background investigations and monitoring all aspects of gaming operations within the Lac Courte Oreilles jurisdiction.</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text><strong>"Tribal Gaming Liaison"</strong> means the tribal official designated to interact between the gaming operations, the Tribal Governing Board, and the Tribal Gaming Commission.</text>
+          </para>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>CMP.1.3</num>
+        <heading>Administration</heading>
+        <section>
+          <num>CMP.1.3.010</num>
+          <heading>Duties of the Tribal Governing Board</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribal Governing Board shall oversee, supervise and govern all aspects of tribal gaming.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribal Governing Board shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>Effectuate policy associated with tribal gaming;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Delegate authority as appropriate to tribal gaming commission members, tribal officers, and other instrumentalities of tribal government;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Promulgate rules relating to the issuance, renewal, amendment, suspension, and revocation of gaming licenses and the conduct of such activity upon Lac Courte Oreilles Lands;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Receive recommendations from the Tribal Gaming Commission to approve, license, and suspend or deny tribal licensees as to gaming activities;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Establish terms and conditions as to the distribution of lottery tickets associated with the tribal lottery;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Appoint key personnel, including Tribal Games Manager, and Gaming Enforcement Officer;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Determine appeals from actions of tribal officers associated with gaming; and</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Determine the powers and duties of the Board in addition to those set forth under this Code.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Designate areas on the reservation on which the selling of gaming supplies and equipment may be purchased and sold by approved suppliers to licensees.</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>Delegate oversight to the Tribal Gaming Commission in the fitness of all contractors providing supplies and equipment through contracts exceeding $10,000.00 in value.</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text>No member of the Board, nor tribal official, shall participate in the approval, denial, revocation, or suspension of any application or license of an organization of which he or she is an officer, director, shareholder, member, or if any member of his or her immediate family, or in any matter affecting the scope of business or financial resources of such an organization or person. This shall not serve to limit the authority and/or responsibility of individual members of the Board as to activities of the Tribe or tribal organizations.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.3.020</num>
+          <heading>Gaming Commission</heading>
+          <para>
+            <num>(a)</num>
+            <text>In order to carry out the purpose of this Code and to assure the proper operation of gaming within the Lac Courte Oreilles jurisdiction, the Tribal Governing Board shall establish a Lac Courte Oreilles Tribal Gaming Commission with delegated powers to oversee and preserve the integrity of gaming activities.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribal Governing Board, with a majority constituting a quorum, convened at a duly called meeting, shall appoint five members to the Lac Courte Oreilles Tribal Gaming Commission. Such persons appointed must meet the qualifications set forth in this Code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Tribal Governing Board shall recruit and post vacancies to be filled from the tribal membership. Applications for appointment shall be developed by the Tribal Governing Board.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Applicants shall submit to a background investigation for a determination of suitability by the Tribal Governing Board. Applicants shall be required to cooperate with the fingerprint process and provide all relevant information to facilitate the investigation.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.3.030</num>
+          <heading>Qualifications of Commissioners</heading>
+          <text>Applicants for appointment to the Tribal Gaming Commission must satisfy the following requirements:</text>
+          <para>
+            <num>(a)</num>
+            <text>Be an enrolled Lac Courte Oreilles tribal member.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Be at least 21 years of age.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Have obtained a High School Diploma or GED equivalent or a degree of Higher Education.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Have no prior record of, or entry of a plea of no contest to, any of the following in any tribal, county, state or federal court, unless pardoned:</text>
+            <para>
+              <num>(1)</num>
+              <text>a felony.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>any gaming-related offense.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>fraud or misrepresentation in any connection.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>a violation of any provision of this Code or any law of Lac Courte Oreilles, including the Compact, regulating or prohibiting gaming.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Shall not be an immediate family member or cohabiting partner of any member of the Tribal Governing Board or Key Employee of a gaming facility.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Shall not be employed by any Gaming Operation and not be a Primary Management Official in any gaming facility.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Shall have no financial interest in any management or vendor contract.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Shall not be primarily employed in a tribal Director or Management position that will impede the availability as a Commissioner.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Shall not be an elected tribal official.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Shall have some gaming experience through education, experience, and/or interest.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.3.040</num>
+          <heading>Term</heading>
+          <text>The Tribal Governing Board may appoint applicants who meet the above criteria as Gaming Commissioners as follows:</text>
+          <para>
+            <num>(a)</num>
+            <text>The original Commission shall be:</text>
+            <para>
+              <num>(1)</num>
+              <text>Three commissioners shall be appointed for a two-year term, and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Two commissioners shall be appointed for a one-year term.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Subsequent terms on the Commission shall be maintained to assure that consistency of the Commission functions are maintained. The Tribal Governing Board shall appoint Commissioners for all vacancies.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Appointments shall occur on the anniversary date of the original Commission appointment unless otherwise scheduled due to reasons of death, resignation, or removal.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The Tribal Governing Board may remove appointed Gaming Commission members when required by conflict of interest, non-participation, misfeasance, malfeasance, death, or resignation.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.3.050</num>
+          <heading>Officers</heading>
+          <text>Gaming Commission Officers shall be Chairman, Vice-Chairman, and Secretary/ Treasurer. The Chairman shall serve for two-year periods. The Vice-Chairman and Secretary/Treasurer shall serve one-year periods. The Tribal Gaming Commission shall elect its own Officers.</text>
+        </section>
+        <section>
+          <num>CMP.1.3.060</num>
+          <heading>Powers of Commission</heading>
+          <text>The Commission shall be delegated the following powers:</text>
+          <para>
+            <num>(a)</num>
+            <text>The Tribal Gaming Commission is hereby vested with the delegated authority and powers to perform its duties and responsibilities pursuant to this Code and any regulations or policies adopted by the Lac Courte Oreilles Tribe in connection with this Code.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>To promulgate rules of procedure as are reasonably necessary to carry out the responsibilities of this Code and all relevant gaming regulations and policies so as to ensure the integrity of gaming activities of the Lac Courte Oreilles Tribe.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>To review, determine, and recommend the suitability of license applications and felony waiver petitions to the Tribal Governing Board who makes the final determination as to approval or denial of license or felony waiver applications.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>To conduct background investigations of employment license applicants, petitioners seeking felony waivers for employment, and vendor license applicants seeking to do business with the Tribe in its gaming activities.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>To resolve disputes between players or patrons of gaming facilities located on trust lands of the Lac Courte Oreilles Reservation within an expedient manner on behalf of the Tribe.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>To enforce this Code upon all gaming operations and licensed gaming activities located within the territorial boundaries of the Lac Courte Oreilles Tribe, except as otherwise exempted by tribal law, ordinance, or code.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.3.070</num>
+          <heading>Duties of Commission</heading>
+          <text>The Tribal Gaming Commission shall carry out the following official duties:</text>
+          <para>
+            <num>(a)</num>
+            <text>Convene duly called meetings not less than monthly called meetings or more frequent as determined by the Commission.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Implement and enforce all provisions of the Code within the scope of powers pertaining to background investigations, licensing, and player disputes.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Establish an efficient process for license applications and promptly communicate suitability determinations to tribal and federal authorities and license applicants.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Establish a fee schedule for license applicants and vendors doing business with Tribally licensed gaming facilities.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.3.080</num>
+          <heading>Meetings of Gaming Commission</heading>
+          <para>
+            <num>(a)</num>
+            <text>Quorum</text>
+            <para>
+              <num>(1)</num>
+              <text>Three of the Commissioners present at a duly called meeting of the Lac Courte Oreilles Tribal Gaming Commission shall constitute a quorum necessary to conduct Gaming Commission business.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Voting</text>
+            <para>
+              <num>(1)</num>
+              <text>All Gaming Commission members are entitled to vote on all issues. At the Call of any one member on a particular issue, voting shall take place thereon. Voting by proxy representation shall be prohibited.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Regularity of Meetings</text>
+            <para>
+              <num>(1)</num>
+              <text>The Gaming Commission shall meet at least monthly, with additional meetings as required at the Call of the Chairman or from four (4) Commission members. Notices for meetings shall be provided at least 24 hours before the meeting.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Proceedings</text>
+            <para>
+              <num>(1)</num>
+              <text>All deliberations of the Gaming Commission, except in Executive session, shall be recorded. Minutes of all meetings shall be taken and copies distributed to Gaming Commission members prior to the next meeting. Minutes shall be provided to the Tribal Governing Board upon adoption by the Commission.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Executive Sessions</text>
+            <para>
+              <num>(1)</num>
+              <text>The Gaming Commission may consider the following matter in executive (closed) sessions, but no action shall be taken in executive session, but rather thereafter in open session:</text>
+              <para>
+                <num>(A)</num>
+                <text>Conferring with legal counsel who is rendering oral or written legal advice concerning strategy to be adopted by the Gaming Commission with respect to litigation in which it is or likely to become involved.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Administrative status of background investigations for management license applicants, vendor license applications, and felony waiver petitions.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.3.090</num>
+          <heading>Reporting of Commission</heading>
+          <text>The Gaming Commission shall submit regular monthly reports of every Gaming Commission meeting to the Tribal Governing Board consisting of at least minutes of meetings, summary data of investigative activity, dispute resolution actions, and Gaming Commission activities.</text>
+        </section>
+        <section>
+          <num>CMP.1.3.100</num>
+          <heading>Compensation of Commissioners</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribal Gaming Commission shall establish an annual operation budget for funding approval by the Tribal Governing Board. Such budget shall be submitted on the anniversary date of the first annual Commission budget adoption.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Commissioners shall be paid an amount determined by the Tribal Governing Board which reasonably reflects time required for services to carry out the powers and duties specified in this Code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Training for commission members to effectively and diligently carry out the powers and duties of this Code shall be provided by the Tribe, including travel, training/conference registration fees, and lodging costs.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Commissioners shall be prohibited from charging or receiving actual or inkind compensation, fees, or $fts from license applicants, vendors, and Tribally licensed gaming facility</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.3.110</num>
+          <heading>Restrictions on Gaming Commission</heading>
+          <para>
+            <num>(a)</num>
+            <text>No Gaming Commission member shall be in a position involving a conflict of interest.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No Lac Courte Oreilles Casino Employee shall be a member of the Gaming Commission.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>No immediate family members of a Casino employee shall serve on the Gaming Commission. Immediate family members are defined as: Father/Mother, Husband/Wife, Sister/Brother, Cohabiting partners, and/or children.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>No elected official of the Tribal Governing Board shall be a Gaming Commissioner.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Nothing in this Code authorizes the Tribal Gaming Commission to interfere with gaming management, operations, and employment relations or to overturn any decision of employee grievance boards.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.3.120</num>
+          <heading>Personal Liability and Immunity</heading>
+          <para>
+            <num>(a)</num>
+            <text>Gaming Commission members shall not have any personal liability for Gaming Commission activities and obligations, except as may be imposed by law.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Gaming Commission, as a delegated body of the Tribal Governing Board pursuant to the Lac Courte Oreilles Constitution, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|I|(m)">Article V, Section I (m),</cite> is immune, as is the Tribe, from suit and legal process, including but not limited to, levy, seizure, execution, and sale. Notwithstanding any provision of this Code, the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin does not waive any aspect of its sovereign immunity.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.3.130</num>
+          <heading>Review</heading>
+          <text>Notwithstanding any other provisions of this Code, all activities, actions, powers exercised, requirements, restrictions, and the like of this Gaming Commission, are subject to the review by the Tribal Governing Board, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, Section I(m),</cite> of the Lac Courte Oreilles Tribal Constitution. In the event any corrective action appears necessary by reason of, for example, debilitating litigation or conduct that compromises the integrity of the tribe, which threaten the existence or stability of the Gaming Commission and/or the Lac Courte Oreilles Casino or gaming activities and/or the Tribe, this right may be exercised by the Tribal Governing Board, and, as such is hereby reserved. This right will not be arbitrarily, discriminatorily, politically, vindictively, or capriciously exercised, but will be exercised with restraint so that the Gaming Commission may duly fulfill its purpose. Each member of the Gaming Commission shall be given notice of the Tribal Governing Board's intent to exercise this right.</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>CMP.1.4</num>
+        <heading>Tribal Games</heading>
+        <section>
+          <num>CMP.1.4.010</num>
+          <heading>General</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Board may, in its discretion, organize and supervise tribal operations of gaming activities, including:</text>
+            <para>
+              <num>(1)</num>
+              <text>Bingo, including traditional bingo and video bingo.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Pulltabs.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Raffles, including special raffles, lotto, punch boards, tip jars, and instant bingo.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Electronic games of chance with video facsimile displays.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Electronic games of chance with mechanical displays.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Blackjack.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>All Class I games.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>All Class II games.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Any other Class III games as provided in the 1991 Tribal-State Gaming Compact.</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>Any additional Class III games, in addition to those specified above, that the Tribe in the opinion of the Tribal Governing Board, advised by legal counsel, is of the opinion that it may legally offer to the public.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any persons employed to offer, operate, supervise, or manage any tribal games shall be investigated in a manner consistent with the LCO/State of Wisconsin Compact and federal National Indian Gaming Commission regulations. Such investigations shall be confidential.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>No person shall be licensed to offer, operate, supervise, or manage tribal games whose prior activities, criminal record, reputation, habits and associations pose a threat to the public interest or to the effective regulation of gaming, or who creates or enhances the dangers of unsuitable, unfair or illegal practices and methods and activities in the conduct of gaming.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.4.020</num>
+          <heading>Tribal Bingo</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Board periodically shall offer such advice, guidance, and review as it deems appropriate as to all bingo events. The Tribe shall schedule and conduct such bingo events as he or she finds appropriate and in the interest of the Tribe, provided that no person under the age of 18 shall be allowed to play bingo or be allowed on the premises where bingo is played during business hours.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Profits from tribal bingo operations shall be utilized for tribal purposes as determined by the Board. Specific bingo events may be held for the benefit or a particular tribal organization, a public cause of interest to the Tribe or needy tribal members.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.4.030</num>
+          <heading>Tribal Class III Games - General Regulations</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribe may not hire, employ or enter into a contract for services relating to Class Ill gaming with any person or entity which employs a person who:</text>
+            <para>
+              <num>(1)</num>
+              <text>Is under the age of 18, except that the Tribal Games Manager may not enter into a retailer or management contract with any person who is under the age of 18.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Has, within the immediately preceding ten (10) years, been convicted of, or entered a plea of guilty or no contest to a felony, any gambling-related offense, fraud or misrepresentation or any violation of Wisconsin Statues, Chapters 562 or 565, unless the person has been pardoned or the Board has made a determination consistent with Wis. Stats. , Chapters 562.5(5)(b)4, or Chapter 565.10 (3)(c)4.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribe upon request shall make available the odds and prize structure of each Class  III game.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Tribe shall permanently maintain the following records. All accounting records shall be kept on a double-entry system of accounting, maintaining detailed, supporting, subsidiary records.</text>
+            <para>
+              <num>(1)</num>
+              <text>Revenues, expenses, assets, liabilities, and equity for each location at which any component of Class III gaming, including ticket sales is conducted.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Daily cash transactions for each game at each location at which Class Ill gaming is conducted, including but not limited to transactions relating to each gaming table bank, game drop box and gaming room bank</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>All returned checks, hold checks or other similar credit instruments.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Individual and statistical game records to reflect statistical drop and statistical win, and the percentage of statistical win to statistical drop by table for each table game, and individual and statistical game records reflecting similar information for all other games.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>For video, slot or other electronic or electromechanical machine games, analytic reports which, by each machine, compare actual hold percentages to theoretical hold percentages.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Contracts, correspondence and other transaction documents relating to all vendors and contractors.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>All audits prepared by or on behalf of the Tribe.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Personnel information on all Class III gaming employees or agents, including rotation sheets, hours worked, employees' profiles and background checks.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>No person under the age of 18 may purchase a ticket, make a wager, or otherwise participate in any Class III game; provided that <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.030">this section</cite> shall not prohibit a person 18 years old or older from giving a ticket or share to a person under the age of 18 as a gift.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>No person under 18 years of age may be employed in the conduct of gaming.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>No person under the age of 18 shall be permitted on the premises where any component of Class III gaming is conducted, during business hours, unless accompanied by a member of the minor's immediate family; provided that his subsection shall not apply to locations at which sale of tickets is the only component of Class III gaming.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>No person who is employed in connection with tribal gaming, including vendors or contractors, shall be permitted to participate in any tribal gaming, either directly or indirectly by offering consideration to another person to play a game on their behalf</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>The Tribe shall not conduct pari-mutuel betting except in accordance with 1991 Tribal-State Gaming Compact.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>No person who is visibly intoxicated shall be permitted to play any game.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>All gaming shall be conducted on a cash basis. Except as herein provided, no person shall be extended credit for gaming by any tribal gaming facility, or shall the Tribe permit any other person to offer such credit for a fee. <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.030">This section</cite> shall not restrict the right of the Tribe to install or accept bank card or credit card transactions in the same manner as would normally be permitted at any retail business within the State.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>Alcohol beverages may be served at locations where games are conducted only during the hours prescribed in sec. 125.315(3), Wis. Stats. Alcohol beverages may not be sold for the purpose of off-premises consumption at locations where games are conducted.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.4.040</num>
+          <heading>Dispute Resolution</heading>
+          <para>
+            <num>(a)</num>
+            <text>In the event of a player dispute concerning the conduct of a game, the General Manager of the facility or his appointed representative shall confer with the player in an effort to resolve the dispute.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Disputes not resolved between the gaming facility and player shall be documented for mediation with the Tribal Gaming Commission. A quorum of the Commission shall resolve and settle the patron dispute within thirty (30) days of the notice of filing.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>These procedures will be made available to players and customers.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.4.050</num>
+          <heading>Felony Waivers</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Lac Courte Oreilles Tribe retains the discretion to approve or deny a felony waiver for employment in gaming upon a due diligent investigation of rehabilitation and present fitness, accompanied by a recommendation from the Tribal Gaming Commission.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Information required for "Background Investigations" is specified in this Code and the Lac Courte Oreilles Tribal Felony Waiver Policy and Procedure adopted and incorporated as an Exhibit to this Code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any person requesting a Tribal Waiver must also complete a "Felony Waiver Petition" which is attached and incorporated as an exhibit to this Code.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>No person who meets the criteria in 25 U.S.C. 2711(a). A shall be granted a Felony Waiver.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Any person filing a Felony Waiver Petition must also complete an Employee License Application Form.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The Tribal Gaming Enforcement Official conducting the Background Investigation will complete a "Background Investigation Form" as described in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.060|(c)">CMP.1.4.060(c)</cite>.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The Tribal Gaming Enforcement Official will also contact a sufficient number of the persons listed on the Felony Waiver Petition and others including, but not limited to: current and past Probation/Parole Officers, counselors, psychotherapists, neighbors and others.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.4.060</num>
+          <heading>Licenses for Key Employees and Primary Management Officials</heading>
+          <text>The Tribe shall ensure that the policies and procedures set out in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.060">this section</cite> are implemented with respect to key employees and primary management officials employed at any class II gaming enterprise operated on Indian lands:</text>
+          <para>
+            <num>(a)</num>
+            <text>Definitions</text>
+            <text>For the purposes of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.060">this section</cite>, the following definitions apply:</text>
+            <para>
+              <num>(1)</num>
+              <text>Key Employee Means</text>
+              <para>
+                <num>(A)</num>
+                <text>A person who performs one or more of the following functions:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>Bingo caller;</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>Counting room supervisor</text>
+                </para>
+                <para>
+                  <num>(iii)</num>
+                  <text>Chief of security;</text>
+                </para>
+                <para>
+                  <num>(iv)</num>
+                  <text>Custodian of gaming supplies or cash;</text>
+                </para>
+                <para>
+                  <num>(v)</num>
+                  <text>Floor manager;</text>
+                </para>
+                <para>
+                  <num>(vi)</num>
+                  <text>Pit boss;</text>
+                </para>
+                <para>
+                  <num>(vii)</num>
+                  <text>Dealer,</text>
+                </para>
+                <para>
+                  <num>(viii)</num>
+                  <text>Croupier;</text>
+                </para>
+                <para>
+                  <num>(ix)</num>
+                  <text>Approver of credit; or</text>
+                </para>
+                <para>
+                  <num>(x)</num>
+                  <text>Custodian of gambling devices including persons with access to cash and accounting records within such devices;</text>
+                </para>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>If not otherwise included, any other person whose total cash compensation is in excess of $50,000.00 per year; or</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>If not otherwise included, the four most highly compensated persons in the gaming operation.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Primary Management Official Means</text>
+              <para>
+                <num>(A)</num>
+                <text>A person having responsibility for a management contract</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Any person who has authority:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>To hire and fire employees; or</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>To set up working policy for the gaming operation; or</text>
+                </para>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The chief financial officer or other person who has financial management responsibility.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Application Forms</text>
+            <para>
+              <num>(1)</num>
+              <text>The following notice shall be placed on the application form for a key employee or a primary management official before that form is filled out by an applicant:</text>
+              <text>"In compliance with the Privacy Act of 1974, the following information is provided: Solicitation of the information on this form is authorized by 25 U.S.C. 2701 et seq. The purpose of the requested information is to determine the eligibility of individuals to be employed in a gaming operation. The information will be used by National Indian Gaming Commission members and staff who have need for the information in the performance of their official duties. The information may be disclosed to appropriate Federal, Tribal, State, Local, or foreign law enforcement and regulatory agencies when relevant to civil, criminal or regulatory investigations or prosecutions or when pursuant to a requirement by a tribe or the National Indian Gaming Commission in connection with the hiring or firing of an employee, the issuance or revocation of a gaming license, or investigations of activities while associated with a tribe or a gaming operation. Failure to consent to the disclosures indicated in this notice will result in a tribe's being unable to hire you in a primary management official or key employee position.</text>
+              <text>The disclosure of your Social Security Number (SSN) is voluntary. However, failure to supply a SSN may result in errors in processing your application."</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Existing key employees and primary management officials shall be notified in writing that they shall either:</text>
+              <para>
+                <num>(A)</num>
+                <text>Complete a new application form that contains a Privacy Act notice; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Sign a statement that contains the Privacy Act notice and consent to the routine uses described in that notice.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The following notice shall be placed on the application form for a key employee or primary official before that form is filled out by an applicant.</text>
+              <text>"A false statement on any part of your application may be grounds for not hiring you, or for firing you after you begin work. Also, you may be punished by fine or imprisonment (U.S. Code, title 18, section 1001.)"</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The Tribe shall notify in writing existing key employees and primary management officials that they shall either:</text>
+              <para>
+                <num>(A)</num>
+                <text>Complete a new application form that contains a notice regarding false statements; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Sign a statement that contains the notice regarding false statements.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Background Investigations</text>
+            <text>The Tribe will conduct Background Investigations of "Key Employees and Primary Management Officials" as well as Felony Waiver Petitioners.</text>
+            <para>
+              <num>(1)</num>
+              <text>The Tribe shall request from each primary management official, key employee and petitioner for felony waiver (see 704.05) all of the following information:</text>
+              <para>
+                <num>(A)</num>
+                <text>Full name, other names used (oral or written), social security number(s), birth date, place of birth, citizenship, gender, all languages (spoken or written);</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Currently and for the previous 5 years: Business and employment positions held, ownership interests in those businesses, business and residence addresses, and drivers license numbers;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The names and current addresses of at least three personal references, including one personal reference who was acquainted with the applicant during each period of residence listed under paragraph (1) (B) of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.060">this section</cite>;</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Current business and residence telephone numbers;</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>A description of any existing and previous business relationships with Indian Tribes, including ownership interests in those businesses;</text>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>A description of any existing and previous business relationships with the gaming industry generally, including ownership interests in those businesses;</text>
+              </para>
+              <para>
+                <num>(G)</num>
+                <text>The name and address of any licensing or regulatory agency with which the person has filed an application for a license or permit related to gaming, whether or not such license or permit was granted;</text>
+              </para>
+              <para>
+                <num>(H)</num>
+                <text>For each felony for which there is an ongoing prosecution or a conviction, the charge, the name and address of the court involved, and the date and disposition if any;</text>
+              </para>
+              <para>
+                <num>(I)</num>
+                <text>For each misdemeanor conviction or ongoing misdemeanor prosecution (excluding minor traffic violations), within 10 years of the date of the application, the name and address of the court involved and the date and disposition;</text>
+              </para>
+              <para>
+                <num>(J)</num>
+                <text>For each criminal charge (excluding minor traffic charges), whether or not there is conviction, if such criminal charge is within 10 years of the date of application and is not otherwise listed pursuant to paragraph (1) (H) or (1) (I) of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.060">this section</cite>, the criminal charge, the name and address of the court involved and the date and disposition.</text>
+              </para>
+              <para>
+                <num>(K)</num>
+                <text>The name and address of any licensing or regulatory agency with which the person has filed an application for an occupational license or permit, whether or not such license or permit was granted;</text>
+              </para>
+              <para>
+                <num>(L)</num>
+                <text>A current photograph;</text>
+              </para>
+              <para>
+                <num>(M)</num>
+                <text>Any other information the Tribe deems relevant; and</text>
+              </para>
+              <para>
+                <num>(N)</num>
+                <text>Fingerprints consistent with procedures adopted by the Tribe according to 25 C.F.R. Section 522.2(h).</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Tribe shall conduct an investigation sufficient to make a determination under subsection (d) below. In conducting a background investigation, the Tribe or its agent shall promise to keep confidential the identity of each person interviewed in the course of the investigation.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The Tribe will follow the procedures outlined in the Background Investigations Policy and Procedures as attached to and incorporated in this Code in conducting investigations.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Eligibility Determination</text>
+            <text>The Tribe shall review a person's prior activities, criminal record, if any, and reputation, habits and associations to make a finding concerning the eligibility of a key employee or primary management official for employment in a gaming operation. If the Tribe determines that employment of the person poses a threat to the public interest or to the effective regulation of gaming, or creates or enhances dangers of unsuitable, unfair, or illegal practices and methods and activities in the conduct of gaming, a tribal gaming operation shall not employ that person in a key employee or primary management official position.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Procedures for Forwarding Applications and Reports for Key Employees and Primary Management Officials to the National Indian Gaming Commission</text>
+            <para>
+              <num>(1)</num>
+              <text>When a key employee or primary management official begins work at a gaming operation authorized by this ordinance, the Tribe shall forward to the National Indian Gaming Commission a completed application for employment and conduct the background investigation and make the determination referred to in subsection (d) of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.060">this section</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Tribe shall forward the report referred to in subsection (f) of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.060">this section</cite> to the National Indian Gaming Commission within 60 days after an employee begins work or within 60 days of the approval of this ordinance by the Chairman of the National Indian Gaming Commission.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The gaming operation shall not employ as a key employee or primary management official a person who does not have a license after 90 days.</text>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Report to the National Indian Gaming Commission</text>
+            <para>
+              <num>(1)</num>
+              <text>Pursuant to the procedures set out in subsection E of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.060">this section</cite>, the Tribe shall prepare and forward to the National Indian Gaming Commission an investigative report on each background investigation. An investigative report shall include all of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>Steps taken in conducting a background investigation;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Results obtained,</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Conclusions reached; and</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>The basis for those conclusions.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Tribe shall submit, with the report, a copy of the eligibility determination made under subsection D of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.060">this section</cite>.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If a license is not issued to an applicant, the Tribe;</text>
+              <para>
+                <num>(A)</num>
+                <text>Shall notify the National Indian Gaming Commission; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>May forward copies of its eligibility determination and investigative report (if any) to the National Indian Gaming Commission for inclusion in the Indian Gaming Individuals Records System.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>With respect to key employees and primary management officials, the Tribe shall retain applications for employment and reports (if any) of background investigations for inspection by the Chairman of the National Indian Gaming Commission or his or her designee for no less than three (3) years from the date of termination of employment.</text>
+            </para>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Granting a Gaming License</text>
+            <para>
+              <num>(1)</num>
+              <text>If, within a thirty (30) day period after the National Indian Gaming Commission receives a report, the National Indian Gaming Commission notifies the tribe that it has no objection to the issuance of a license pursuant to a license application filed by a key employee or a primary management official for whom the tribe has provided an application and investigative report to the National Indian Gaming Commission, the Tribe may issue a license to such applicant.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Tribe shall respond to a request for additional information from the Chairman of the National Indian Gaming Commission concerning a key employee or a primary management official who is the subject of a report. Such a request shall suspend the 30-day period under paragraph (g)(1) or <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CMP.1.4.060">this section</cite> until the Chairman of the National Indian Gaming Commission receives the additional information.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If, within the thirty (30) day period described above, the National Indian Gaming Commission provides the Tribe with a statement itemizing objections to the issuance of a license to a key employee or to a primary management official for whom the Tribe has provided an application and investigative report to the National Indian Gaming Commission, the Tribe shall reconsider the application, taking into account the objections itemized by the National Indian Gaming Commission. The Tribe shall make the final decision whether to issue a license to such applicant.</text>
+            </para>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>License Suspension</text>
+            <para>
+              <num>(1)</num>
+              <text>If, after the issuance of a gaming license, the Tribe receives from the National Indian Gaming Commission reliable information indicating that a key employee or a primary management official is not eligible for employment under subsection D. above, the Tribe shall suspend such license and shall notify in writing the licensee of the suspension and the proposed revocation.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Tribe shall notify the licensee of a time and a place for a hearing on the proposed revocation of a license.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>After a revocation hearing, the Tribe shall decide to revoke or to reinstate a gaming license. The Tribe shall notify the National Indian Gaming Commission of its decision.</text>
+            </para>
+          </para>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>CMP.1.5</num>
+        <heading>Licensing for Non-tribal Games</heading>
+        <section>
+          <num>CMP.1.5.010</num>
+          <heading>Prohibition Against Non-Tribal Games</heading>
+          <text>The conduct of any non-licensed gaming shall be prohibited within the exterior boundaries of the Lac Courte Oreilles Reservation except:</text>
+          <para>
+            <num>(a)</num>
+            <text>Games presented by the Tribe itself and/or any instrument of tribal government including tribally controlled non-profit corporations.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Single events involving no more than eight (8) persons wherein there is no sponsor or odds favoring only one particular player and individual winnings do not exceed fifty dollars ($50.00.).</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.5.020</num>
+          <heading>Tribally Licensed Games – Generally</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribal Governing Board may, in its discretion, license on a nonexclusive basis and supervise the conduct of specified gaming operations within boundaries of the Lac Courte Oreilles Reservation.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A separate license shall be required for each place, facility, or location on Lac Courte Oreilles Lands at which any Class II games are conducted.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Activities which the Tribal governing Board may license include:</text>
+            <para>
+              <num>(1)</num>
+              <text>Bingo, if three hundred (300) seats or less and a maximum prize pay-out of Three Thousand Dollars ($3,000.00) per session; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Pull tabs as permitted by law.</text>
+            </para>
+          </para>
+          <para>
+            <num>(a)</num>
+            <text>The Gaming Commission shall establish appropriate license fees, for approval by the Tribal Governing Board, and facilitate assessments as provided herein which those granted licenses shall be responsible for paying.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Board shall appoint and supervise the Tribal Gaming Commission to oversee such gaming operations as may be licensed under the authority of the Tribe and to authorize the licensing procedures and the collection of all license fees and assessments.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.5.030</num>
+          <heading>License Applications</heading>
+          <para>
+            <num>(a)</num>
+            <text>An organization eligible for a gaming license must:</text>
+            <para>
+              <num>(1)</num>
+              <text>Be a nonprofit corporation upon or engaged in activities within the Lac Courte Oreilles Reservation as a group (including partnerships and corporations) to operate the license in which at least 81% of the individuals in the group are members of the Tribe and at least 51% of the financial interest of the group is held by members of the Tribe.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Have at least seven (7) members in good standing.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Operate without profit to its members, and no part of the net earnings of such organization shall inure to the benefit of any private shareholder or individual.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Have been in existence for one (l) year immediately preceding its application for a license,  and shall have had during that one (l) year period a bona fide membership actively engaged in furthering a lawful purpose.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Have received and used and shall continue to receive and use, for lawful purposes, funds derived from sources other than from the conduct of Class II games.</text>
+            </para>
+          </para>
+          <para>
+            <num>(a)</num>
+            <text>Each applicant for a gaming license shall file with the Tribal Gaming Commission an application on a form prescribed by the Tribe. The application shall include:</text>
+            <para>
+              <num>(1)</num>
+              <text>The names and address of the applicant.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Sufficient facts relating to the incorporation or organization of the applicant to prove the applicant is eligible for a license under this Code.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The name and address of each officer of the applicant, if an organization.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The place and date of each gaming occasion proposed to be conducted during the effective period of the license.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The name and address of the owner of the premises in which gaming will be conducted and the approximate capacity of the premises.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The name, date of birth, and address of each supervising member for each gaming occasion who shall be of good moral character and one or more of whom shall be present and in immediate charge of and responsible for the conduct of games at each occasion.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>The name of any licensed organization or individual co-sponsoring any gaming occasion.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>The specific purposes to which the profits from the conduct of games are to be devoted.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Other information which the Tribal Governing Board deems necessary to administer this Code.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.5.040</num>
+          <heading>Additional Application Documents</heading>
+          <text>An application for a license to conduct gaming shall be accompanied by:</text>
+          <para>
+            <num>(a)</num>
+            <text>A sworn statement of each designated supervising member that he or she will be responsible for compliance with this Code and rules promulgated under it for each gaming occasion which he or she supervises.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A specification of the period of time for which a license is sought or the specific events for which a license is requested.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A license fee as may be required by the Tribal Governing Board which shall be returned should the license not be granted.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Such bond as may be required by the Tribal Governing Board.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.5.050</num>
+          <heading>Investigation</heading>
+          <text>Upon receipt of an application for a license to conduct gaming activities, the Gaming Commission shall cause to conduct a background investigation on the primary management officials and key employees of the applicant and determine whether the interests of the Tribe will be met through the issuance of such license and shall make recommendations to the Tribal Governing Board, which shall take final action. The Gaming Enforcement Officer shall notify the Commission of the results of any background investigation.</text>
+        </section>
+        <section>
+          <num>CMP.1.5.060</num>
+          <heading>Selection of Licensees</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribal Governing Board shall not issue a gaming license unless:</text>
+            <para>
+              <num>(1)</num>
+              <text>It is satisfied with the moral character, financial responsibility and quality of operations of the proposed licensee.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The proposed gaming operation will complement rather than adversely affect games offered by the Tribe.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The issuance of the license shall be in the best interest of the Tribe.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The applicant is not deficient in the payment of post gaming assessments.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The construction and maintenance of the gaming facility, and the operation of that gaming is conducted in a manner which adequately protects the environment and the public health and safety.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>There is no manager or employee of the applicant whose prior activities, criminal record, reputation, habits and associations pose a threat to the public interest or to the effective regulation of gaming, or who creates or enhances the dangers of unsuitable, unfair or illegal practices and methods and activities in the conduct of gaming.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.5.070</num>
+          <heading>Requirements of Licensees</heading>
+          <text>In applying for and accepting a gaming license, the applicant/licensee agrees:</text>
+          <para>
+            <num>(a)</num>
+            <text>To abide by the rules and regulations of the Tribe and with all other applicable legal authority as to all aspects associated with the conduct of licensed games, including any rules, regulations or assessments under the Act.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>To pay all applicable license fees and assessments.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>To make all books and records of gaming operations upon the Lac Courte Oreilles Reservation available for inspection by the Tribal Governing Board or its appointed agents during all hours of operation and all normal business hours.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>To provide preferential hiring to qualified members of the Tribe as to all positions open for employment.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>To promptly pay to all winners such prizes as they might respectively be entitled to.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>To provide annual outside audits of the gaming and al] contracts for supplies, services of concessions in excess of $25,000.00 per year, to the Commission.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>To conspicuously post any gaming license granted.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>To accept the Lac Courte Oreilles Tribe as the sole dispute resolution forum disputes associated with games operations.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>To hold the Tribe, the Tribal Governing Board and tribal officers harmless as to all claims associated with the conduct of the licensed gaming operations and to indemnify each as to all expenses including legal fees utilized to defend against such claims.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.5.080</num>
+          <heading>Reports and Finances of Licensees</heading>
+          <text>Within three (3) days after the conclusion of each gaming occasion, each licensee shall execute and file a report of operations on a form prescribed by the Tribal Governing Board. The licensee shall retain a copy of the report for its permanent record. The report shall include:</text>
+          <para>
+            <num>(a)</num>
+            <text>The name and address of each supervising member and each member responsible for the proper utilization of gross receipts.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The date, hour and address of the gaming occasion.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The number of games played.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>An itemized statement of the gross receipts from the gaming occasion, including gross receipts from sales of regular bingo cards, extra regular cards, special game cards and sale of supplies.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>An itemized statement of expenditures, including amounts paid for prizes, supplies and equipment, license fees and other expenses.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The name of the depository and the title and number of the account.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The report shall be signed by an individual responsible for the proper utilization of gross receipts for the gaming occasion.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.5.090</num>
+          <heading>Records Improperly Filed</heading>
+          <para>
+            <num>(a)</num>
+            <text>If a licensee fails to file a financial statement of gaming operations within five (5) days after notification by the Gaming Commission of the delinquency, the Gaming Commission may suspend the license pending the filing of the financial statement.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If the financial statement filed by a licensee is not fully, accurately, and truthfully completed, the Commission may suspend a license until such time as a statement in proper form has been filed.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.5.100</num>
+          <heading>Gaming Account</heading>
+          <text>Each licensee shall maintain one (l) account which shall be designated as the "Gaming Account. " All gross receipts derived from the conduct of gaming operations shall be deposited into the gaming account. No other receipts shall be deposited into the gaming account.</text>
+        </section>
+        <section>
+          <num>CMP.1.5.110</num>
+          <heading>Bookkeeping and Accounting</heading>
+          <para>
+            <num>(a)</num>
+            <text>Each licensee shall maintain a double-entry bookkeeping system for the purpose of recording all receipts and expenditures in connection with the conduct of gaming operations and the disbursement of profits derived therefrom. Such bookkeeping system shall consist of a columnar book maintained on a calendar of fiscal year basis.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The columnar book, deposit books, savings account pass books, canceled checks, checkbooks, deposit slips, and bank statements of gaming operations and all other books and accounts shall be available at reasonable times for examination by the Tribe or its authorized representative. All documents supporting the entries made in the books of accounts shall be kept by the licensee for a period of not less than four (4) years. Such documents shall include, but are not limited to, bank statements, canceled checks, deposit slips and invoices for all expenditures.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.5.120</num>
+          <heading>Suspension and Revocation of Licenses</heading>
+          <para>
+            <num>(a)</num>
+            <text>A violation of any applicable ordinance, law or code of the Tribe or rules promulgated thereunder shall constitute grounds for suspension or revocation of a gaming license.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Procedures for suspending or revoking a gaming license shall be as follows:</text>
+            <para>
+              <num>(1)</num>
+              <text>Proceeding to suspend a license to conduct games shall be initiated by the Tribal Gaming Commission of the Board. The notice shall state the alleged violations which constitute the grounds for the proceedings. The Tribal Gaming Commission for the Board may temporarily suspend such license for a period of 40 days while any such proceedings are pending and shall notify the licensee of the date of the temporary suspension.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Tribal Gaming Commission shall hold a hearing on a proposed suspension or proposed revocation as soon as practicable should such be requested by the licensee. The Tribal Gaming Commission shall issue, in writing, its findings and decision on suspension or revocation within 20 days aner the hearing. A copy of the findings and decision shall be sent immediately to the licensee. If the Tribal Gaming Commission suspends or revokes the license, the licensee shall be informed of the effective date of such suspension or revocation. Within twenty (20) days of the Tribal Gaming Commission's written decision, an appeal may be filed with the Tribal Governing Board and such decision shall be final.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>When a license suspension or revocation is upheld by the Tribal Governing Board, the licensee shall immediately surrender the license to the Board. A licensee whose license has been revoked may reapply for a license one (l) year after the effective date of the revocation. If a license has been suspended, the Tribal Gaming Commission shall reinstate the licensee at the end of the period of suspension.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.5.130</num>
+          <heading>Monitoring</heading>
+          <text>The Tribal Gaming Commission and the Tribal Gaming Enforcement Officer are hereby designated and empowered to monitor the gaming activities of any licensee, to investigate the backgrounds of management officials and key employees, to investigate the backgrounds of vendor license applicants and felony waiver petitioners, to enforce the provisions of this Code, and to report criminal violations of state, federal or tribal laws to the Tribal Gaming Commission.</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>CMP.1.6</num>
+        <heading>Gaming Assessment</heading>
+        <section>
+          <num>CMP.1.6.010</num>
+          <heading>Gaming Activities Assessed</heading>
+          <para>
+            <num>(a)</num>
+            <text>There shall be an assessment upon all gaming activities within the exterior boundaries of the Lac Courte Oreilles Reservation except as hereafter specified. Said assessment shall equal ten percent (10%) of the total moneys included within a prize as to all prizes in excess of twenty dollars ($20.00) and ten percent (10%) of the total value of all non-cash prizes when such value exceeds twenty dollars ($20.00). The gaming assessment shall be paid by the party presenting any form of regulated gaming.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Assessments shall be payable within 72 hours of a gaming occasion. Assessments shall be paid to the Gaming Commission or to such other agent as shall be identified by the Tribal Governing Board.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Assessments that are not timely paid shall, after 72 hours, be increased to incorporate a penalty of five percent (5%) and thereafter be increased an additional five percent (5%) per week to a maximum of twenty-five percent (25%).</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The following are exempt from assessment:</text>
+            <para>
+              <num>(1)</num>
+              <text>Games presented by the Tribe itself and/or any instrument of tribal government, including Tribally controlled non-profit corporations.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Single events wherein proceeds are directed to a previously announced charitable purpose and wherein a waiver of assessments is applied for in advance of the event and is granted by the Board</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Single events involving no more than eight (8) persons wherein there is no sponsor nor odds favoring only one particular player and individual winnings do not exceed fifty dollars ($50.00).</text>
+            </para>
+          </para>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>CMP.1.7</num>
+        <heading>Bingo</heading>
+        <section>
+          <num>CMP.1.7.010</num>
+          <heading>Sale of Bingo Cards</heading>
+          <para>
+            <num>(a)</num>
+            <text>Bingo cards shall be sold or rented without disclosing the face of the card to either the purchaser or seller. Bingo cards shall be printed only on one side.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>An accurate, separate count of the number of regular bingo cards, extra regular bingo cards, special bingo cards and video bingo games, which are sold, rented or used. Such information shall be available for inspection at the close of the bingo occasion.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Regular bingo cards, extra regular cards and special bingo cards and video bingo cards shall each be assigned a specific price, and the price shall remain the same during a bingo occasion. At any time during a bingo occasion, a card may be changed between games at no additional cost. Cards shall be sold or rented only on the premises at which bingo is being conducted. A price list shall be posted where the regular bingo cards are distributed, setting for the price of each type of card. Only the posted price may be charged. The regular bingo cards and the extra regular cards shall be readily distinguishable from each other.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.7.020</num>
+          <heading>Method of Play</heading>
+          <para>
+            <num>(a)</num>
+            <text>The method of play in any bingo game and the utilization of bingo equipment and supplies shall be such that each player is afforded an equal opportunity to win.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The object to be drawn shall be essentially the same in all characteristics, so that at all times during the conduct of bingo, each object possesses the capacity for equal agitation with any other object within the receptacle.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The announcement of all numbers drawn shall be clearly audible to the players present.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>When more than one room is used for any one bingo game, the receptacle and the caller and any assistant shall be in the room where the greater number of players are present; and all numbers shall be announced in a manner clearly audible to the players in each room.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Once removed, no object shall be returned to the receptacle until after the conclusion of the game.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The particular arrangement of numbers required to be covered in order to win and the amount of the prize for each game shall be clearly described and audibly announced to the players immediately before each game. The amount of the prize for each bingo game also shall be posted where the regular bingo cards are distributed.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.7.030</num>
+          <heading>Verification of Winners</heading>
+          <para>
+            <num>(a)</num>
+            <text>The numbers on the winning card at the time a winner is determined shall be verified in the immediate presence of at least one disinterested player.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>At the time a winner is determined, any player may call for verification of all numbers and of the objects remaining in the receptacle and not yet drawn, This verification shall be made in the immediate presence of the supervising members and at least one disinterested player.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.7.040</num>
+          <heading>AWARD OF PRIZES</heading>
+          <para>
+            <num>(a)</num>
+            <text>Each Bingo winner shall be determined and every prize awarded after each game.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>When more than one winner is found to be a winner on the call of the same number in the same bingo game, a cash prize shall be divided equally, to the nearest nickel, among the winners, except that any licensed organization may elect to set a minimum prize of not exceeding $5.00 for each winner. When equal division of a merchandise prize is not possible, identical substitute prizes whose aggregate retail value is approximately equal to that of the designated prize may be awarded or a cash prize equal to the retail value may be divided to the nearest nickel.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.7.050</num>
+          <heading>Personnel</heading>
+          <para>
+            <num>(a)</num>
+            <text>No person who is conducting or assisting in the conduct of bingo on a bingo occasion shall participate as a player in any game within said bingo occasion but shall be permitted to play on other occasions at normal rates.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All persons conducting or assisting in the conduct of bingo shall conform to such policies and procedures as may be adopted by the Tribal Governing Board.</text>
+          </para>
+        </section>
+        <section>
+          <num>CMP.1.7.060</num>
+          <heading>Operation as Part of Network</heading>
+          <text>Bingo may be conducted as part of a network consisting of other sites and operators and common prizes only upon approval of the Tribal Governing Board.</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>CMP.1.8</num>
+        <heading>Severability and Non-Liability</heading>
+        <section>
+          <num>CMP.1.8.010</num>
+          <heading>Severability</heading>
+          <text>If any section, provision or portion of this Code is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Code shall not be affected thereby.</text>
+        </section>
+        <section>
+          <num>CMP.1.8.020</num>
+          <heading>Non-Liability</heading>
+          <text>The Lac Courte Oreilles Band of Lake Superior Chippewa Indians asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this Code</text>
+          <text>
+            <img alt="Embedded Image" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAEAAMDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDE/wCGGfDP/Q+/ED/wcRf/ABiiiigD/9k="/>
+          </text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>CMP.1.9</num>
+        <heading>Amendments</heading>
+        <section>
+          <num>CMP.1.9.010</num>
+          <text>This Code may be amended solely by the Tribal Governing Board by a majority vote of the entire existing Tribal Governing Board at any special or regular meeting of the Tribal Governing Board provided, however, that consideration of the proposed amendment(s) shall be provided to the Tribal Gaming Commission at least seventy-two (72) hours prior to said meeting of the Tribal Governing Board.</text>
+        </section>
+      </container>
+    </container>
+  </codify:replace>
+</document>
