@@ -64,7 +64,8 @@
     <text>William Trepanier, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:replace path="CMP.1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CMP.1.1.010">
+  <codify:remove path="CMP.1" warning="false" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CMP.1.1.010"/>
+  <codify:insert path="CMP" before="CMP.2" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CMP.1.1.010">
     <container>
       <prefix>Chapter</prefix>
       <num>CMP.1</num>
@@ -1622,5 +1623,5 @@
         </section>
       </container>
     </container>
-  </codify:replace>
+  </codify:insert>
 </document>

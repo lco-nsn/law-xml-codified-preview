@@ -56,4 +56,421 @@
     <text>William Trepanier, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
+  <codify:insert path="PRP" before="PRP.7" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.5.1.010">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>PRP.5</num>
+      <heading>Eminent Domain Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+      <text class="center">
+        <strong>Preamble</strong>
+      </text>
+      <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to reduce the fractionation of Tribal lands and to resolve longstanding issues of trespass. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, (1)(l)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">(1)(m)</cite> of the <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution">Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to: "organize, charter and regulate any association or group for the purpose of providing social or economic benefits to the members of the Band or the residents of the reservation" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V 1(l)</cite>; and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers". Pursuant to this inherent sovereign authority, the Tribal Governing Board hereby establishes a public body known as the Lac Courte Oreilles Tribal Condemnation Commission and enacts this ordinance which shall establish the purposes, powers, and duties of the Tribal Condemnation Commission. In any suit, action, or proceeding involving the validity or enforcement relating to any of its actions, the Tribal Condemnation Commission shall be conclusively deemed to have become established and authorized to transact business and exercise its powers upon proof of the adoption of this ordinance. A copy of this ordinance duly certified by the Secretary/Treasurer of the Tribal Governing Board shall be admissible in evidence in any suit, action, or proceedings.</text>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>PRP.5.1</num>
+        <heading>General Provisions</heading>
+        <section>
+          <num>PRP.5.1.010</num>
+          <heading>Title</heading>
+          <text>This ordinance shall be known as the Eminent Domain Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        </section>
+        <section>
+          <num>PRP.5.1.020</num>
+          <heading>Authority</heading>
+          <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(f)">Article V (1)(f)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(g)">(1)(g)</cite> of the <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution">Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to: "manage, lease, permit or otherwise deal with tribal lands, interests in lands or assets, or to purchase lands or to otherwise acquire lands, or interests in lands within or without the reservation.. <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(f)">Article V 1(f)</cite>; and "[t]o adopt ordinances by which tribal lands may be assigned or leased for beneficial use and occupancy of members of the Band." <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(g)">Article V 1(g)</cite>.</text>
+        </section>
+        <section>
+          <num>PRP.5.1.030</num>
+          <heading>Territorial Applicability</heading>
+          <text>This ordinance shall govern the activities of the Tribal Governing Board and the Tribal</text>
+          <text>Condemnation Commission pursuant to the provisions of this ordinance within Lac Courte Oreilles Reservation lands as well as off-reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        </section>
+        <section>
+          <num>PRP.5.1.040</num>
+          <heading>Effective Date</heading>
+          <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
+        </section>
+        <section>
+          <num>PRP.5.1.050</num>
+          <heading>General Definitions</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>"Condemnation"</strong> means a legal proceeding where the Tribal Governing Board is exercising eminent domain to procure private property for some public use or benefit.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>"Conflict of Interest"</strong> means a situation that has the potential to undermine the impartiality of a person because of the possibility of a conflict between the private interests of an individual and the official responsibilities of that person in the course of his or her duties, including those pertaining to employment or appointment on a board or commission.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>"Eminent Domain"</strong> means the power of the Tribal Governing Board to take private property and convert it into public purpose use.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>"Fair Market Value"</strong> means the price at which property would change hands between a willing buyer and willing seller, neither being under any compulsion to buy or sell and both having reasonable knowledge of the relevant facts.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>"Good Faith"</strong> means that there is an objective basis for initiating a condemnation proceeding.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>"Just Compensation"</strong> means the payment the Lac Courte Oreilles Band of Lake</text>
+            <text>Superior Chippewa Indians is required to tender for property it has taken through eminent domain for some public purpose.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><strong>"Lac Courte Oreilles"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><strong>"Private Property"</strong> means the real or personal property owned by one or more private parties.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><strong>"Public Purpose"</strong> means for the purpose of providing facilities or services for the benefit of the public connection with, but not limited to, public health, safety or welfare, as determined by the Tribal Governing Board.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text><strong>"Reservation" or "Reservation Lands" </strong>means those lands located within the exterior boundaries of the Lac Courte Oreilles Reservation lands as well as off-Reservation lands under the jurisdiction and purview of the Lac Courte Oreilles Tribe.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text><strong>"Respondent" </strong>means any person with an interest in or lien on Private Property that is subject to a Condemnation proceeding pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.5">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text><strong>"Tribal Condemnation Commission" or "Commission" </strong>means the condemnation commission of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians established by the Tribal Governing Board in this ordinance.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text><strong>"Tribal Court"</strong> means the court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text><strong>"Tribe" or "Band"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.1.060</num>
+          <heading>Severability</heading>
+          <text>If any clause, sentence, paragraph, section, or part of this code shall, for any reason be adjudicated by any Court of competent jurisdiction, to be invalid or unconstitutional, such judgment shall not affect, impair, or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, section, or part thereof directly involved in the controversy in which the judgment shall have been rendered.</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>PRP.5.2</num>
+        <heading>Tribal Condemnation Committee Responsibilities</heading>
+        <section>
+          <num>PRP.5.2.010</num>
+          <heading>Commission Established</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribal Condemnation Commission is hereby created to act in an advisory capacity to the Tribal Governing Board for the purpose of carrying out the provisions of this ordinance and shall have those powers as stated in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.5.2.010">this section</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>In the absence of a fully appointed Commission shall not abridge or divest the Tribe of its Condemnation Authority.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.2.020</num>
+          <heading>Official Powers and Duties</heading>
+          <text>The Commission shall carry out the following official powers and duties:</text>
+          <para>
+            <num>(a)</num>
+            <text>Promulgate and implemental standard operating procedures necessary to govern its proceedings and satisfy its functions;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Review and process Tribal Governing Board condemnation resolutions in an orderly and expeditious manner;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Conduct and preside over hearings with any and all persons claiming an interest in the property to be taken and condemned to ascertain the fair market value of the property subject to condemnation;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Provide formal, written recommendations to the Tribal Governing Board to approve or deny the compensation ascertained for the property subject to condemnation; and</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Develop rules, procedures, and by laws, not inconsistent with the provisions of this Ordinance, to promote orderly execution and implementation of the Commission's duties and powers hereunder.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Take other actions reasonably related to the purpose of the Committee or otherwise directed by the Tribal Governing Board.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.2.030</num>
+          <heading>Organization</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Tribal Condemnation Commission shall be composed of five (5) persons, three of whom must be Members of the Tribe. Applications for appointment must meet the qualifications set forth in this ordinance. In no case shall a sitting Tribal Governing Board member be appointed as a Commission member. No individual Commission member, regardless of position, acting alone and without Commission approval is empowered or authorized to take any action or make any public statement regarding the Commission's positions on any matter. There shall be no limit on the number of terms any Commission member can serve, subject to any provision in the Tribal Constitution and Bylaws to the contrary.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribal Governing Board shall recruit and post vacancies of the Commission to be filled from Tribal Membership. Applications shall be developed by the Tribal Governing Board.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.2.040</num>
+          <heading>Minimum Qualifications</heading>
+          <text>Applicants for appointment to the Commission must satisfy the following requirements:</text>
+          <para>
+            <num>(a)</num>
+            <text>Be at least 21 years of age.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Have obtained a High School Diploma or GED equivalent or a degree of Higher Education.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Have no prior record of, or entry of a plea of no contest to, any of the following in any tribal, county, state or federal court, unless pardoned:</text>
+            <para>
+              <num>(1)</num>
+              <text>A felony</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Any offense involving fraud or misrepresentation</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Shall not be an elected Tribal official.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.2.050</num>
+          <heading>Merit Based Appointment</heading>
+          <text>Commissioners shall be appointed on the basis of merit in consideration of factors including, but not limited to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Ability to exercise sound judgment and knowledge and understanding of management, business administration, public administration, regulated industries and similar or related areas of importance to the operations of the Commission;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Expertise, experience or knowledge of property appraisal;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Qualities of integrity, judgment, and sensitivity unique to Indian cultural, economic and social conditions and the goals of the Tribe and the Commission;</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.2.060</num>
+          <heading>Term and Removal</heading>
+          <text>Commissioners shall serve three (3) year terms and shall hold office until their successors have been appointed and have qualified: Provided however, the first LCO Utility Commission appointed shall serve a term of three (3) years. One (l) Commissioner appointed to the first LCO Utility Commission shall serve a term of two (2) years. The remaining Commissioner appointed to the first LCO Utility Commission shall serve a term of one (l) year. If any Commissioner shall die, resign, be removed or, for any reason, be unable to serve as a Commissioner, the Governing Board shall declare his/her position vacant and shall appoint another person to fill the position. Terms of office of all persons appointed to replace the initial Commissioners shall be for the balance of any unexpired term for each such position. Any Commissioner may resign by delivering a written resignation to the Governing Board. Such resignation shall be effective upon receipt, unless otherwise provided by the terms thereof. A Commissioner's resignation or removal under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.5.2.060">this Section</cite> shall also terminate that Commissioner's status, if applicable, as a presiding officer of the Commission. A Commissioner may be removed by formal action of the Tribal Governing Board for neglect of duty, Conflict of Interest, malfeasance in office, unexcused absences of more than three (3) consecutive regular meetings, or other due cause in the Tribal Governing Board's sole discretion. The decision of the Tribal Governing Board regarding any such removal shall be final and not subject to appeal. The Tribal Governing Board shall appoint a Commissioner for all vacancies to the Commission as soon as reasonably possible.</text>
+        </section>
+        <section>
+          <num>PRP.5.2.070</num>
+          <heading>Officers</heading>
+          <text>Officers of the Commission shall be Chairman, Vice-Chairman, and Secretary. The Tribal</text>
+          <text>Governing Board shall name one of the Commission members as the Chairman of the Commission. The Commission shall elect from among its members a Vice-Chairman and a Secretary. All officers shall serve one-year periods. In the absence of the Chairman, the Vice-Chairman shall preside.</text>
+        </section>
+        <section>
+          <num>PRP.5.2.080</num>
+          <heading>Compensation of Commission Members.</heading>
+          <text>Appointed members of the Commission shall receive a stipend of one hundred dollars ($100.00) per meeting and/or hearing for service as a Commission member. The amount of stipend is subject to change by the Tribal Governing Board via resolution. Training for Commission members to effectively and diligently carry out the powers and duties of this ordinance shall be provided by the Tribal Governing Board including travel, training/conference registration fees, and lodging costs. Such travel and training costs shall be determined and approved by the Tribal Governing Board.</text>
+        </section>
+        <section>
+          <num>PRP.5.2.090</num>
+          <heading>Restrictions</heading>
+          <para>
+            <num>(a)</num>
+            <text>No Commission member shall deliberate on a pending condemnation proceeding involving a Conflict of Interest as defined in this Ordinance.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Nothing in this ordinance authorizes the Commission to interfere with management, operations, and employment relations or decisions of the Tribe or Tribal entities.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.2.100</num>
+          <heading>Care, Loyalty, and Conflict</heading>
+          <para>
+            <num>(a)</num>
+            <text>Commission members shall discharge their duties in good faith and in a manner that the member reasonably believes is in the best interest of the Commission and with due diligence that an ordinarily prudent person in a like position would exercise under similar circumstances. It is expected that all Commission members will work in a competent and professional manner that reflects favorably on the Tribal Governing Board and the Tribe.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Commission members shall, at all times, subordinate their personal interests to those of the Tribe and the Commission shall avoid conflicts of interest, including without limitation, that no Commission members shall exploit information related to Tribe, the Commission, or to person(s) claiming an interest in land subject to pending condemnation proceedings for their own personal gain or profit.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>No Commissioner shall commit any act with respect to the Tribe, the Commission, or an applicant that is illegal, fraudulent, or willfully unfair to either the Tribe, the Commission, an applicant, or a witness.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.2.110</num>
+          <heading>Personal Liability and Immunity</heading>
+          <para>
+            <num>(a)</num>
+            <text>To the fullest extent permitted by law, the Tribe shall indemnify members of the Commission and its officers against costs, expenses, and liabilities incurred by them in carrying out their official duties as members of the Commission and its officers.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Commission, as a delegated body of the Tribal Governing Board pursuant to the Lac Courte Oreilles Constitution, Article V, I (m), is immune, as is the Tribe, from suit and legal process in any state, federal or tribal court as the Lac Courte Oreilles Band of Lake Superior Chippewa Indians has not waived any aspect of its sovereign immunity in enacting this ordinance.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.2.120</num>
+          <heading>Commission Action</heading>
+          <para>
+            <num>(a)</num>
+            <text>A majority of the full Commission shall constitute a quorum necessary to conduct Commission business, but no action shall be taken by a vote of less than a majority of such full Commission.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All Commission members are entitled to vote on all issues. At the call of the question, by any one member on a particular issue, voting shall take place thereon. Voting by proxy representation shall be prohibited.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.2.130</num>
+          <heading>Minutes</heading>
+          <text>All meetings of the Commission shall be memorialized via meeting minutes. The Secretary shall keep complete and accurate minutes of all meetings of the Commission. Minutes of all meetings shall be distributed to Commission members prior to the next meeting. Minutes shall be provided to the Tribal Governing Board upon adoption by the Commission.</text>
+        </section>
+      </container>
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>PRP.5.3</num>
+        <heading>General Provisions and Procedures in Exercising Tribal Condemnation Authority</heading>
+        <section>
+          <num>PRP.5.3.010</num>
+          <heading>Condemnation of Land for Public Purpose</heading>
+          <text>The Tribe shall have the power to condemn trust land, restricted land, and all other lands under the civil regulatory and adjudicatory jurisdiction of the Tribe whenever such land is deemed by the Tribal Governing Board to be necessary for a public purpose. The exercise of eminent domain shall be initiated by the Tribal Governing Board passing a resolution identifying the land to be taken for a public purpose, the possessory holder and leasehold tenants and the purpose for which the land will be used.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.020</num>
+          <heading>Uniform Valuation Guidelines</heading>
+          <text>The Commission shall develop and publish, upon the Tribal Governing Board's final approval, Uniform Property Valuation Guidelines for determining the fair market value of property subject to a duly authorized condemnation proceeding. The Commission may utilize any number of factors commonly associated with ascertaining and supporting the valuation of property, including but not limited to: the cost or selling price of the property; sales of comparable properties; replacement costs; and opinions of licensed expert appraisers. Once the Uniform Property Valuation Guidelines have been approved by the Tribal Governing Board, the Commission shall be bound to follow the Uniform Property Valuation Guidelines to fullest extent practicable in determining the Fair Mark Value of Private Property. The Uniform Property Valuation Guidelines may only be amended upon approval by the Governing Board.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.030</num>
+          <heading>Petition for Ascertainment of Compensation by Tribal Condemnation Commission</heading>
+          <text>In all cases where the Tribal Governing Board shall determine by official action of the Governing Board to take title or otherwise use or convert Private Property as an exercise of its Condemnation Authority, it shall file a Petition to the Tribal Condemnation Commission requesting that the just compensation to be made for such property be ascertained by the Commission.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.040</num>
+          <heading>Contents of Petition for Ascertainment of Compensation</heading>
+          <text>A petition filed pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.5.3.030">Section PRP.5.3.030</cite> shall name the Lac Courte Oreilles Band of Lake Superior Chippewa Indians as Petitioner. The Petition shall contain the following information:</text>
+          <para>
+            <num>(a)</num>
+            <text>The identity and, if known, mailing address of any person known to the Governing Board to have an interest in or liens upon the Private Property affected by the proposed Condemnation;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A description of the Private Property, including a legal description of any Real Property and any other information necessary to completely and accurately identify the Private Property;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A statement of the proposed public use for the Property;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A copy of a resolution of the Tribal Governing Board authorizing the taking of the trust or restricted land described in the petition; and</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Any other information required by the Commission pursuant to its lawfully adopted rules and regulations.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.3.050</num>
+          <heading>Amendment of Petition</heading>
+          <text>If any person is a proper party Respondent to a proceeding under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.5">this Chapter</cite>, or any property affected thereby, shall have been omitted from said petition or notice, the Petitioner may file amendments to the same, which amendments from the filing thereof shall have the same effect as though contained in said petition and notice.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.060</num>
+          <heading>Additional Pleading Not Required</heading>
+          <text>No pleading other than the Petition shall be required in a proceeding under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.5">this Chapter</cite>, unless ordered by the Commission.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.070</num>
+          <heading>United States Not an Indispensable Party</heading>
+          <text>The United States shall not be an indispensable party in any proceeding before the Commission under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.5">this Chapter</cite>.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.080</num>
+          <heading>Hearing on Right to Take - Time for Demand</heading>
+          <text>Within the earlier of (i) thirty (30) days from the date the publication of the Petition or (ii) 30 days after receipt of the Petition by mail or personal delivery, a Respondent or other interested person may demand a hearing in Tribal Court on the exclusive threshold issue of the Tribe's jurisdiction to exercise its power of Eminent Domain over the private property subject to the proposed Condemnation. Failure to make such a demand or to consent in writing to the taking, within the thirty (30) day period, shall constitute a waiver of the right to question the necessity of the taking. The finding of necessity by the Petitioner, unless based upon fraud, bad faith and/or abuse of discretion, shall be binding on all persons.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.090</num>
+          <heading>Negotiated Compensation — Evidence of Offer Not Admissible</heading>
+          <text>The Petitioner and any Respondent may mutually agree upon fair market value of the Private Property. Any said agreement must be written and signed by both parties in order to be binding. A binding settlement agreement shall not be subject to Commission review.</text>
+          <text>The Petitioner may at the time of service of the summons on any Respondent serve an offer in writing to the effect that the Petitioner will deposit with the Tribal Treasury a sum of money specified to be paid to Respondent or other parties entitled thereto as compensation for all of the Private Property taken or damaged.</text>
+          <text>Settlement negotiations or evidence of deposits hereunder shall not be admissible as evidence in a hearing before the Commission.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.100</num>
+          <heading>Jurisdictional Determination</heading>
+          <text>Within ten (10) business days after receipt of a Petition, the Commission shall make a preliminary determination on whether it possesses jurisdiction to preside over the dispute in question pursuant to this Code. If the Commission determines that it does not possess jurisdiction over the dispute in question, the Commission shall issue a notice of denial to the Petitioner, in a form prescribed by the Commission, explaining the basis for this determination. The dismissal notice shall constitute a final Commission order that may be appealed to the Tribal Court as set forth in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.5">this Chapter</cite>. A Commission's preliminary determination that it possesses jurisdiction shall not preclude any Respondent from challenging the jurisdiction of the Commission during the course of the proceedings.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.110</num>
+          <heading>Hearing on Petition; Service and Publication</heading>
+          <para>
+            <num>(a)</num>
+            <text>If the Commission determines that it possesses jurisdiction over the dispute in question, the Commission shall set a hearing date on the Petition. The Commission shall serve a Notice of Hearing, by personal delivery or U.S. Mail all Respondents identified by the Petitioner in its Petition or any other Respondents known to the Commission to have a legal interest in the Private Property. The Hearing Notice shall include the date and location of the hearing, a copy of the Petition, and copies of any rules and procedures applicable to the hearing.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Commission shall also publish the Notice of Hearing through one or both of the following means:</text>
+            <para>
+              <num>(l)</num>
+              <text>Posting the Notice on the official government website of the Tribe;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Publishing the Notice in a newspaper of general circulation on the Reservation.</text>
+            </para>
+            <aftertext>The publication shall include the identification of the Private Property and the time, date, and location of the hearing. The publication shall also include Commission contact information to obtain a copy of the Petition and any applicable rules and procedures.</aftertext>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Hearings shall be conducted in accordance with rules and procedures adopted by the Commission. All Respondents shall be given an opportunity to be heard and submit documentation probative of the fair market value of the Private Property subject to the proposed Condemnation. Hearing participants may be represented by legal counsel.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.3.120</num>
+          <heading>Commission Findings</heading>
+          <text>Within twenty-one (21) days after the Hearing, the Commission shall issue a written set of findings determining the fair market value of the Private Property and the basis for such determination.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.130</num>
+          <heading>Administrative Review</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any person aggrieved by a final determination of fair market value made by the Commission, within twenty-one (21) days after the fair market value of a property has been ascertained through a written set of findings by the Commission, file a petition for reconsideration with the Commission. The petition for reconsideration shall contain a statement of the grounds for the requested relief and any supporting documentation. The Commission may order a hearing or enter an order on the petitioner for reconsideration without a hearing and shall dispose of the matter within sixty (60) days after the petition has been filed.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Commission's review on a petition for reconsideration shall be confined to the record, except that in instances where there is the allegation of the discovery of new evidence as to the fair market value of the condemned property, testimony may be taken regarding the new evidence.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Unless the Commission finds a ground for setting aside, modifying, remanding or ordering a certain action, it shall affirm the finding of fair market value.</text>
+          </para>
+        </section>
+        <section>
+          <num>PRP.5.3.140</num>
+          <heading>Judicial Review - Tribal Court</heading>
+          <text>Appeals from Tribal Condemnation Commission administrative review decisions shall be allowed in the Tribal Court. The Tribal Court shall review the final administrative decision of the Commission using an abuse of discretion standard.</text>
+        </section>
+        <section>
+          <num>PRP.5.3.150</num>
+          <heading>Effect of Judgement</heading>
+          <text>A final judgement in favor of the Band is conclusive as to the title of the Band, in and to the interest in the trust or restricted land described in said judgement, against any and all parties in said action, including unknown Respondents, and against any and all persons claiming from, through or under such a party by title accruing after the filing of the judgement by the clerk of the Court.</text>
+        </section>
+      </container>
+    </container>
+  </codify:insert>
 </document>

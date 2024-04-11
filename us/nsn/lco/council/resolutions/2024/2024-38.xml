@@ -56,4 +56,1439 @@
     <text>William Trepanier, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
+  <codify:insert doc="" after="ITP" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TUC.1.1.010">
+    <container>
+      <prefix>Title</prefix>
+      <num>TUC</num>
+      <heading>Utility Code</heading>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>TUC.1</num>
+        <heading>Regulation of Utilities on the Lac Courte Oreilles Indian Reservation</heading>
+        <text class="center">
+          <strong>Preamble</strong>
+        </text>
+        <text>This Code shall be known as the Utility Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.  This Code is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to regulate activities on its Reservation and protect the well-being of its membership.</text>
+        <text>The purpose of this Code is to (1) establish the Lac Courte Oreilles Band of Lake Superior Chippewa Utility Commission and to set forth the terms governing the activities of the LCO Utility Commission, (2) recognize and assert the authority of the Tribe to provide a regulatory framework for all Utilities located, operating, or providing services within the Reservation, (3) to provide all retail consumers of Utilities with adequate and reliable services at reasonable rates that are consistent with the financial and economic requirements of such Utilities, (4) and to promote self-determination, encourage economic development and self-sufficiency, and facilitate and control the use of the Tribe's resources on the Tribe's Reservation.</text>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>TUC.1.1</num>
+          <heading>Introduction</heading>
+          <section>
+            <num>TUC.1.1.010</num>
+            <heading>Effective Date</heading>
+            <text>The provisions of this Code shall be effective on the date adopted by the Governing Board.</text>
+          </section>
+          <section>
+            <num>TUC.1.1.020</num>
+            <heading>Interpretation</heading>
+            <text>The provisions of this Code:</text>
+            <para>
+              <num>(a)</num>
+              <text>Shall be liberally construed in favor of the Tribe;</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.1.1.030</num>
+            <heading>Severability and Non-Liability</heading>
+            <text>If any section, provision or portion of this Code is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Code shall not be affected thereby.  The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this Code.</text>
+          </section>
+          <section>
+            <num>TUC.1.1.040</num>
+            <heading>Repeal of Inconsistent Tribal Codes</heading>
+            <text>All Codes and resolutions inconsistent with this Code are hereby repealed.  To the extent that this Code imposes greater restrictions than those contained in any other tribal law, Code or regulation, the provisions of this Code shall govern.</text>
+          </section>
+          <section>
+            <num>TUC.1.1.050</num>
+            <heading>General Definitions</heading>
+            <para>
+              <num>(a)</num>
+              <text><strong>"Certificate of Public Convenience and Necessity"</strong> means the Certificate required under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2.6">Subchapter 2.6</cite> of this title.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text><strong>"Commission" </strong>means the Lac Courte Oreilles Band of Lake Superior Indians ("LCO") Utility Commission established pursuant to this Code.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text><strong>"Commissioner" </strong>means one of the duly appointed persons comprising the LCO Utility Commission.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text><strong>"Cooperative Association" </strong>means an organization that qualifies as a Utility under this Code but only authorized by its governing documents and/or by applicable law to provide Utility Service to its members.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text><strong>"Director"</strong> means the Director of the Lac Courte Oreille Band Utility Authority.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text><strong>"Electric Energy Conversion Facility"</strong> means a plant, addition, or combination of plant and addition, designed for or capable of: (1) Generation by wind energy conversion exceeding one-half megawatt of electricity; or (2) Generation by any means other than wind energy conversion exceeding fifty megawatts of electricity.</text>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text><strong>"Electric Transmission Facility"</strong> means an electric transmission line and associated facilities with a design in excess of one hundred fifteen kilovolts.  "Electric Transmission Facility" does not include:</text>
+              <para>
+                <num>(1)</num>
+                <text>A temporary electric transmission line loop that is: (i) connected and adjacent to an existing Electric Transmission Facility that was sited under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.1.1">this Subchapter</cite>; (ii) within the Corridor of the sited Facility and does not cross known exclusion areas; and (iii) In place for less than one year; or</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>An electric transmission line that is less than one mile [1.61 kilometers] long.</text>
+              </para>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text><strong>"Electric Facility" </strong>means an Electric Energy Conversion Facility, Electric Transmission Facility, or the combination of facilities under the ownership or control of a single Person or its affiliates which, in the cumulative, is capable of generating or transmitting electricity above the minimum thresholds to qualify as an Electric Energy Conversation Facility or Electric Transmission Facility under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite>.</text>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text><strong>"Electric Utility Service"</strong> means the delivery of electric energy or power generated on the Reservation to an agreed-upon point of delivery.  This includes all activities incident to the delivery of electric energy, including, but not limited to, development of infrastructure, asset acquisition, construction, and/or the operation of electricity service infrastructure (e.g., generation, transmission, distribution and control area services) as may be required to effectuate delivery of electricity generated to the end user.</text>
+            </para>
+            <para>
+              <num>(j)</num>
+              <text><strong>"Energy Utility Service"</strong> means the transmission, delivery, or furnishing of natural gas, heat, light, or power.</text>
+            </para>
+            <para>
+              <num>(k)</num>
+              <text><strong>"Governing Board"</strong> means the Lac Court Oreilles Band of Lake Superior Chippewa Indians authorized under the Constitution of the Lac Court Oreilles Band of Lake Superior Chippewa Indians to approve and implement this Code.</text>
+            </para>
+            <para>
+              <num>(l)</num>
+              <text><strong>"Person"</strong> means any individual, group of individuals, corporation, partnership, association, state, municipality, commission, political subdivision of a state, interstate body, the federal government or any federal agency or any other entity.</text>
+            </para>
+            <para>
+              <num>(m)</num>
+              <text><strong>"Power Emergency"</strong> means an electric transmission line and associated facilities that have been damaged or destroyed by natural or manmade causes resulting in a loss of power supply to consumers of the power.</text>
+            </para>
+            <para>
+              <num>(n)</num>
+              <text><strong>"Public Utility"</strong> means any Person that owns, operates, manages or controls any part of a plant or equipment, within the Reservation, for the production, transmission, delivery or furnishing of heat, light, water or power either directly or indirectly to or for the public.  "Public Utility" does not include Cooperative Associations as defined in this Code.</text>
+            </para>
+            <para>
+              <num>(o)</num>
+              <text><strong>"Rates"</strong> means the charges established in rate schedule(s) for Utility Services provided to a customer.</text>
+            </para>
+            <para>
+              <num>(p)</num>
+              <text><strong>"Reservation"</strong> means all those lands on and within the exterior boundaries of the Lac Courte Oreilles Reservation.</text>
+            </para>
+            <para>
+              <num>(q)</num>
+              <text><strong>"Site"</strong> means the location of an Electric Energy Conversion Facility.</text>
+            </para>
+            <para>
+              <num>(r)</num>
+              <text><strong>"Telecommunications Service"</strong> means the offering for sale of the conveyance of voice communication, including the sale of service for collection, storage, forwarding, switching, and delivery incidental to such communication, regardless of the technology or mode used to make such offering.  "Telecommunications service" includes Switched Access Service but does not include cable service or broadcast service.</text>
+            </para>
+            <para>
+              <num>(s)</num>
+              <text><strong>"Tribe"</strong> means the Lac Court Oreilles Band of Lake Superior Chippewa Indians.</text>
+            </para>
+            <para>
+              <num>(t)</num>
+              <text><strong>"Utility"</strong> means any Person owning Utility Personal Property or providing any Utility Service to retail or wholesale customers on the Reservation.</text>
+            </para>
+            <para>
+              <num>(u)</num>
+              <text><strong>"Utility Personal Property"</strong> - means (i) any of the following that are used to provide a Utility Service and which are permanently or temporarily affixed to land on the Reservation: infrastructure, equipment, poles, wires, transformers, circuit breakers, switches, electrical busses, concrete pads, pipelines, compression stations, pumps, conduits, communication towers, or other facilities and (ii) any gas, water, power communication data or similar commodities or products passing through or being delivered within the Reservation.</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text><strong>"Utility Service"</strong> means the production, transmission, delivery or furnishing of heat, light, water or power to one or more customers.</text>
+            </para>
+          </section>
+        </container>
+      </container>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>TUC.2</num>
+        <heading>Regulation of Utilities</heading>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>TUC.2.1</num>
+          <heading>Tribal Utility Commission</heading>
+          <section>
+            <num>TUC.2.1.010</num>
+            <heading>Establishment of Tribal Utility Commission</heading>
+            <text>The Lac Courte Oreille Band of Lake Superior Chippewa Indians Utility Commission ("Commission") is hereby established.  The Governing Board shall appoint the Commission Members and the Commission shall be operated and governed in accordance with the provisions of this Code, the Tribe's Constitution as well as any subsequent amendments to this Code.</text>
+          </section>
+          <section>
+            <num>TUC.2.1.020</num>
+            <heading>Mission of the Commission</heading>
+            <text>The Commission's mission is to regulate Utilities located, operating, or providing services within the Reservation for the benefit of the Tribe and its members, and in furtherance of promoting the general welfare of the Tribe and its members.</text>
+          </section>
+          <section>
+            <num>TUC.2.1.030</num>
+            <heading>Commission Organization</heading>
+            <para>
+              <num>(a)</num>
+              <text>The Commission shall comprise five (5) voting members appointed by the Governing Board.  At Least three (3) Commissioners shall be members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Commissioners shall be appointed on the basis of merit in consideration of factors including, but not limited to:</text>
+              <para>
+                <num>(1)</num>
+                <text>Ability to exercise sound judgment and knowledge and understanding of management, business administration, public administration, regulated industries and similar or related areas of importance to the operations of the Commission;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Expertise, experience or knowledge of public utility systems of the types under the regulatory authority of the Commission; Qualities of integrity, judgment, and sensitivity unique to Indian cultural, economic and social conditions and the goals of the Tribe and the Commission;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Knowledge of the organization and entities, governmental and private, that may be involved and provide assistance to the Commission.</text>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The Commission shall elect from among its members a Chairperson, Vice-Chairperson, and a Secretary- Treasurer.  The Chairperson, or in the Chairman's absence, the Vice-Chairperson, shall preside over all Commission meetings and hearings.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.1.040</num>
+            <heading>Terms of Office, Vacancies, Resignation, Removal</heading>
+            <para>
+              <num>(a)</num>
+              <text>Commissioners shall serve three (3) year terms and shall hold office until their successors have been appointed and have qualified: Provided however, the first LCO Utility Commission appointed shall serve a term of three (3) years.  One (1) Commissioner appointed to the first LCO Utility Commission shall serve a term of two (2) years.  The remaining Commissioner appointed to the first LCO Utility Commission shall serve a term of one (1) year.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>If any Commissioner shall die, resign, be removed or, for any reason, be unable to serve as a Commissioner, the Governing Board shall declare his/her position vacant and shall appoint another person to fill the position.  Terms of office of all persons appointed to replace the initial Commissioners shall be for the balance of any unexpired term for each such position.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Any Commissioner may resign by delivering a written resignation to the Governing Board.  Such resignation shall be effective upon receipt, unless otherwise provided by the terms thereof.  A Commissioner's resignation or removal under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.1.040">this Section</cite> shall also terminate that Commissioner's status, if applicable, as a presiding officer of the Commission.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>A Commissioner may be removed by the Governing Board for serious inefficiency or neglect of duty, or for malfeasance, misfeasance, or nonfeasance or for misconduct in office, as determined solely by Governing Board.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.1.050</num>
+            <heading>Compensation</heading>
+            <text>Compensation of Commissioners, if any, shall be determined by the Governing Board and shall be paid from the Tribe's General Fund.  All fees received or charged by the Commission for any act or service rendered by the Commission in its official capacity, shall be accounted for and paid monthly to the Tribe and shall be credited to the Tribe's General Fund.</text>
+          </section>
+          <section>
+            <num>TUC.2.1.060</num>
+            <heading>Commission Meetings</heading>
+            <para>
+              <num>(a)</num>
+              <text>The regularly scheduled meetings of the Commission shall be established for each fiscal year in advance.  The Commission shall meet at least once during each quarter of the fiscal year on such dates, times and places as the Members shall determine.  In addition to the quarterly meetings, additional regularly scheduled meetings shall be held at such times as shall from time to time be fixed by the Chairperson.  Special meetings of the Commission for any purpose or purposes may be called at any time by the Commission, the Chairperson, or by a majority of Members then in office.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Commissioners may participate in a meeting through the use of a conference telephone, electronic video screen communication, or other communications equipment, so long as all Commission Members participating in such meeting can hear one another and arrangements are made for public participation at regularly scheduled meetings and, where time permits, any special meetings.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Participation in a meeting pursuant to this paragraph constitutes presence in person at that meeting if all of the following apply:</text>
+              <para>
+                <num>(1)</num>
+                <text>Each Commission Member participating in the meeting can communicate with all of the other Commission Members.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Each Commission Member is provided with the means of participating in all matters before the Commission, including the capacity to propose, or to interpose an objection to, a specific action to be taken by the Commission.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The Commission adopts and implements some means of verifying both of the following: (i) A person representing himself or herself to be a Commission Member communicating by telephone, electronic video screen, or other communications equipment is a Commission Member entitled to participate in such meeting; and (ii) All votes were made by such Commission Member and not by another person.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Notice of regularly scheduled and special meetings shall be given to the Commission Members not less than six (6) days prior to the meeting if delivered by first-class mail or not less than four (4) days prior to the meeting if the notice is delivered personally, by telephone, by facsimile or by electronic mail; provided, however, that notice of special meetings shall not be sent solely by electronic mail.  If mailed, such notice shall be deemed given when deposited in the United States mail, with first-class postage thereon prepaid, addressed to the Commission Member.  The notice requirements contained in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.1.060">this Section</cite> may be waived in writing by any Commission Member with respect to that Commission Member, either before or after the meeting.  The attendance of any Commission meeting without, as soon as reasonably practicable, protesting the lack of notice of such meeting shall constitute a waiver of notice by him or her.  All waivers shall be made part of the minutes of the meetings.  Waivers of notice for meetings shall be governed by the provisions described herein.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>A quorum for any Commission Meeting shall be three (3) of the Commission Members then in office.  A meeting at which a quorum is initially present may continue to transact business notwithstanding the withdrawal of a Commission Member, provided that any action taken is approved by the required number of Commission Members, as specified in this Governing Code.  A majority of the Commission Members then present, whether or not constituting a quorum, may adjourn any meeting to another time and place.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>In the case of an emergency situation involving matters upon which prompt action is necessary and in which it is not practicable to convene a regular or special meeting of the Commission, the Chairperson, or a majority of Commission Members then in office may call an emergency meeting or special executive session of the Commission.  During a meeting prior to the emergency meeting, or at the beginning of the emergency meeting, the Commission shall determine if an emergency exists under those standards.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Notice of an emergency meeting or special executive session shall be given to the Commission Members as soon as practicable and before the meeting is to be held.  Such notice shall be delivered personally or by telephone, including a voice messaging system or other system or technology designed to record and communicate messages, by facsimile, by electronic mail or by other electronic means and shall be deemed given at the time.  The notice requirements of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.1.060">this Section</cite> may be waived in writing by any Commission Member with respect to that Commission Member, either before or after the meeting.  The attendance of any Commission Member at an emergency meeting without, as soon as reasonably practicable, protesting the lack of notice of such emergency meeting shall constitute a waiver of notice by him or her.  All waivers shall be made part of the minutes of the emergency meeting.</text>
+              </para>
+            </para>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>TUC.2.2</num>
+          <heading>Powers and Duties of the Commission</heading>
+          <section>
+            <num>TUC.2.2.010</num>
+            <heading>Jurisdiction and Powers of the LCO Utility Commission.</heading>
+            <para>
+              <num>(a)</num>
+              <text>Subject to applicable laws, regulations, and the Tribe's Constitution and solely in furtherance of the mission set forth in this Code, the Commission's jurisdiction and powers include the following:</text>
+              <para>
+                <num>(1)</num>
+                <text>Investigate methods and practices of Utilities subject to the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite>.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Initiate and preside over hearings involving the conduct of Utilities and as otherwise set forth in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2">this Chapter</cite>.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Issue orders of mandamus to enforce duly issued orders of the Commission.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Promulgate rules, regulations, and by-laws not inconsistent with this Code to carry out its duties and responsibilities.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Maintain copies of reports, rates, classifications, schedules and timetables in effect and used by such Utilities and all other information desired by the Commission relating to such investigations and requirements to be filed with the Commission.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Adopt a schedule of fees and charges for services rendered relating to transcripts and the furnishing or certifying of copies of proceedings, files, and records.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Exercise all other authority delegated to it by the Governing Board that is not inconsistent with this Code.</text>
+              </para>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.2.020</num>
+            <heading>Supervision of Utility Rates and Tariffs</heading>
+            <text>The Commission shall supervise all rates, tariffs, and charges of all Utilities located or operating within the Reservation.  It shall have the power, after notice and hearing as set forth herein, to establish, modify, adjust, promulgate, and enforce all rates (including rates associated with depreciation), tariffs, and charges of all Utilities.  Whenever the Commission, after hearing, shall find any existing Rates, tariffs, charges, or schedule unjust, unreasonable, insufficient, unjustly discriminatory, or otherwise in violation of any of the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite>, the Commission by order shall fix reasonable Rates, joint Rates, wheeling Rates, charges, or schedules to be followed in the future in lieu of those found to be unjust, unreasonable, insufficient, unjustly discriminatory, or otherwise in violation of any provision of law.</text>
+          </section>
+          <section>
+            <num>TUC.2.2.030</num>
+            <heading>Power of Commission to Regulate Services</heading>
+            <text>Whenever the Commission shall find, after hearing that the rules and regulations, practices, facilities or services of any Utility or the methods of manufacture, distribution, transmission, storage, or supply employed by it are unjust, unreasonable, unsafe, improper, inadequate, or insufficient, the Commission shall determine the just, reasonable, safe, proper, adequate, or sufficient rules or regulations, services or methods to be observed, enforced or employed and, after hearing, shall fix the same by its orders, rule or regulation.  On demand, such utility shall furnish such commodity and render such service within the time and upon the conditions provided in such rules and regulations.</text>
+          </section>
+          <section>
+            <num>TUC.2.2.040</num>
+            <heading>Accounting Systems</heading>
+            <text>The Commission shall establish a system of accounts to be kept by Utilities subject to its jurisdiction.  A Utility which maintains its accounts in accordance with the system of accounts prescribed by a federal agency or authority shall be deemed to be in compliance with the system of accounts prescribed by the Commission.  Where optional accounting is prescribed by a federal agency or authority, the Commission may prescribe which option is to be followed.  Every Utility engaged directly or indirectly in any other business than that of the production, transmission or furnishing of natural gas or electrical service shall, if required by the Commission, keep and render separately to the Commission in like manner and form the accounts of all the other business, in which case all provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite> shall apply to the books, accounts, papers, and records of the other business.  Every Utility is required to keep and render its books, accounts, papers, and records accurately and faithfully in the manner and form prescribed by the Commission and to comply with all directions of the Commission relating to these books, accounts, papers, and records.</text>
+          </section>
+          <section>
+            <num>TUC.2.2.050</num>
+            <heading>Annual Reports</heading>
+            <text>The Commission may require any Utility to file annual reports in such form and content as the Commission may require, and special reports concerning any matter about which the Commission is authorized to inquire or to keep itself informed.  The Commission may require the reports to be verified.  The basic financial statements in the annual report of a Utility may, at the direction of the Commission, be examined by an independent certified public accountant and the opinion thereof included in the annual report filed with the Commission.  The Commission may require the examination and audit of all accounts, and all items shall be allocated to the accounts in the manner prescribed by the Commission.</text>
+          </section>
+          <section>
+            <num>TUC.2.2.060</num>
+            <heading>Right of Entrance and Inspection</heading>
+            <text>The Commissioners and duly authorized agents, officers, and employees of the Commission, during regular business hours, may enter upon any premises of a Utility for the purpose of making examinations and tests and to inspect the accounts, books, papers, and documents, of any Utility for the purpose of exercising any power or duty provided for in this Code, and may set up and use on the premises any apparatus necessary therefore.</text>
+          </section>
+          <section>
+            <num>TUC.2.2.070</num>
+            <heading>Production of Records</heading>
+            <text>The Commission may require, by Order, any Utility to produce at a reasonable time and place as the Commission designates, the records, accounts, books or papers of the Utility relating to its business or affairs within the Reservation, pertinent to any lawful inquiry regardless of whether the records are kept within or outside of the Reservation.</text>
+          </section>
+          <section>
+            <num>TUC.2.2.080</num>
+            <heading>Investigation</heading>
+            <text>The Commission, upon complaint or its own initiative and whenever it may deem necessary in the performance of its duties or exercise of its authority, may investigate and examine the condition and operation of any Utility.  In conducting the investigation, the Commission may proceed with or without a hearing, but it shall make no order without affording the affected parties notice and an opportunity for a hearing.</text>
+          </section>
+          <section>
+            <num>TUC.2.2.090</num>
+            <heading>Standards; Classifications</heading>
+            <text>The Commission may ascertain and fix just and reasonable standards, classifications, rules or practices to be observed and followed by any or all public Utilities with respect to the service to be furnished; ascertain and fix adequate and reasonable standards for the measurement of the quantity, quality pressure, initial voltage, or other condition pertaining to the supply of the service; prescribe reasonable rules for the examination and testing of the service and for the measurement thereof; establish or approve reasonable rules, specifications, and standards to secure the accuracy of all meters, instruments and equipment used for the measurement of any service of any Utility.  Any standards, classifications, rules, or practices now or hereafter observed or followed by any Utility may be followed by it with the Commission, and the same shall continue in force until amended by the Utility or until changed by the Commission as herein provided.</text>
+          </section>
+          <section>
+            <num>TUC.2.2.100</num>
+            <heading>Records of the Tribal Utility Commission</heading>
+            <para>
+              <num>(a)</num>
+              <text>The books, records and property of the Commission, including current financial and operating statements, shall be kept on file in the main office of the Commission and shall be available for inspection at all reasonable times by authorized representatives of the Commission, the Governing Board, and such others authorized by the Commission or the Governing Board.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Information regarding the Commission and its operations must be kept confidential, including information received by the Commission that is subject to a confidentiality obligation.  Information considered by the Commission as non-confidential shall be publicly available at requesting recipient's expense.  With the exception of records relating to the business of a named particular Utility, any records of the Commission are public records of the Tribe.  For reasonable business purposes only, such records shall be available for public inspection and copying during the Commission's regular business hours.  Copies may be obtained by payment of such copying costs as may be established by rule of the Commission.  However, the names and other identification of any Utility appearing in such records shall be redacted prior to release of such copies unless <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite> otherwise allows release of such information.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Financial Statements &amp; Annual Reports shall be prepared as soon as reasonably practicable after the close of the fiscal year.  Such financial statements shall be accompanied by any report thereon of independent accountants, or, if there is no such report, the certificate of an authorized officer of the Commission that such statements were prepared without audit, under generally accepted accounting principles, from the books and records of the Commission.  Financial Statements, books, records, and property of the Commission shall be available for inspection at all reasonable times by authorized representatives of the Commission and the Governing Board.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>The Commission shall keep or cause to be kept a minute book that shall be available for public inspection during the Commission's normal business hours and shall contain the record of all meetings of the Commission, including:</text>
+              <para>
+                <num>(1)</num>
+                <text>The date, place, those attending the proceedings thereof (other than members of the public).</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A copy of the notice of the meeting and when and how given.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Waivers of notice of meeting.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Written consents to hold meeting.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Written approvals of minutes of meeting.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>All meeting Minutes, including Minutes of committee meetings of the Commission.</text>
+              </para>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Every Commissioner shall have the right at any reasonable time to inspect and copy all books, records, and documents, and to inspect the physical properties of the Commission.  No Commission Member shall use or disseminate any non-public information obtained as a result of any such inspection, or otherwise in his or her capacity as a Commission Member, for his or her own personal gain, to the detriment of the Commission or to the detriment of any competitors of any entity with which the Commission Member is affiliated except in connection with the enforcement of a tariff, contract or applicable law and consistent with the Commission policy regarding confidential information.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.2.110</num>
+            <heading>Oversight and Directives of the Governing Board</heading>
+            <text>The Commission shall serve under the Governing Board and shall comply with all directives of the Governing Board not inconsistent with this Code.</text>
+          </section>
+          <section>
+            <num>TUC.2.2.120</num>
+            <heading>Standard of Care.</heading>
+            <para>
+              <num>(a)</num>
+              <text>Commissioners shall perform the duties of the Board of Commissioners, including duties as a Commissioner of any committee of the Board of Commissioners on which the Commissioner may serve, in good faith, in a manner that such Commissioner believes to be in the best interest of the Tribe and its members and with such care, including reasonable inquiry, as an ordinarily prudent person in a like situation would use under similar circumstances.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>A person who performs the duties of a Commissioner shall have no liability to the Tribe, any other Commissioner or any other person based upon any failure or alleged failure to discharge that person's obligations as a Commissioner, including, without limiting the generality of the foregoing, any actions or omissions that exceed or defeat a public or charitable purpose to which the Authority, or assets held by it, are dedicated. Nothing herein shall be construed to limit the liability of any Commissioner acting outside the scope of his or her duties and responsibilities as a Commissioner.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Commissioners must avoid conflicts of interest and shall exercise reasonable prudence and diligence in identifying actual or possible conflicts of interest.  A Commissioner shall recuse his or herself in any matter or decision in which one or more of the Commissioners or their employers has a material financial interest, a familial interest, or any other interest that creating a reasonably foreseeable conflict preventing the Commissioner from exercising sound and objective judgment over the matter in question.</text>
+            </para>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>TUC.2.3</num>
+          <heading>Commission Procedures</heading>
+          <section>
+            <num>TUC.2.3.010</num>
+            <heading>Complaints</heading>
+            <para>
+              <num>(a)</num>
+              <text>An action to enforce the provisions of this Code may be initiated by the Commission <em>sua </em>sponte or by any Person with a concrete and immediate interest that will be adversely impacted by an alleged violation of this Code.  A Utility shall not have standing to initiate an action for declaratory judgment or other forms of relief arising from or in relation to this Code.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>An action under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.3.010">this Section</cite> shall be initiated by the filing of a Complaint in a form prescribed by the Commission.  The Complaint shall name the defendant, cite the alleged violation of this Code, all pertinent facts supporting the allegation(s), and the nature of the relief requested, and sufficient facts showing the Commission has jurisdiction over the matter in dispute.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Within ten (10) business days after receipt of a Complaint, the Commission shall make a preliminary determination on whether it possesses jurisdiction to preside over the dispute in question pursuant to this Code.  If the Commission determines that it does not possess jurisdiction over the dispute in question, the Commission shall issue a dismissal notice to the Complainant, in a form prescribed by the Commission, explaining the basis for this determination.  The dismissal notice shall constitute a final Commission order that may be appealed to the Tribal Court as set forth in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2">this Chapter</cite>.  A Commission's preliminary determination that it possesses jurisdiction shall not preclude the defendant from challenging the jurisdiction of the Commission during the course of the proceedings against it.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>If the Commission determines that it possesses jurisdiction over the dispute in question, the Commission shall set a hearing date on the Complaint.  The Commission shall serve upon all parties, by personal delivery or U.S. Mail at the last known address, the Complaint, a Notice of Hearing, and copies of any Commission rules or procedures applicable to the hearing.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>The Commission shall give the Utility and the Complainant at least fourteen (14) days' notice of time and place when and where the hearing will be held and such matters to be considered and determined.  Both the Utility and complainant shall be entitled to be heard and to be represented by legal counsel.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.3.020</num>
+            <heading>Witnesses and Subpoenas</heading>
+            <text>The Commission may issue subpoenas and all necessary process in proceedings pending before the Commission; and each process shall extend to all parts of the Reservation and may be served by any person authorized to serve a summons and complaint pursuant to the Lac Courte Oreille Band Rules of Civil Procedure.  The Commission may adopt procedural rules not inconsistent with the provisions of this Code governing the requests for and service of subpoenas for the production of documents or testimony at a hearing or deposition setting.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.030</num>
+            <heading>Enforcement</heading>
+            <text>In case of failure on the part of any Person to comply with any subpoena, or in the case of the refusal of any witness to testify concerning any matter on which a witness may be interrogated lawfully, the Tribal Court, on application of the Commission, may compel obedience by proceedings for contempt as in the case of disobedience to the requirements of a subpoena issued from the Tribal Court or a refusal to testify therein.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.040</num>
+            <heading>Oaths</heading>
+            <text>The Commission or Commissioners may administer oaths and examine witnesses in proceedings pending before the Commission.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.050</num>
+            <heading>Orders and Findings in Writing</heading>
+            <text>Every order, finding, authorization, or certificate issued or approved by the Commission under any provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite> shall be in writing and filed with the Commission.  A Certificate under seal of the Commission that any order, finding, authorization or certificate has not been modified, stayed, suspended or revoked, shall be received as evidence in any proceeding as to the facts therein stated.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.060</num>
+            <heading>Orders on Lawful Rates; Adequate Service</heading>
+            <para>
+              <num>(a)</num>
+              <text>Whenever, upon an investigation made under the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite>, the Commission shall find Rates, tolls, charges, schedules or joint Rates to be unjust, unreasonable, insufficient, preferential or unjustly discriminatory or otherwise unreasonable or unlawful, the Commission shall determine and by order fix reasonable Rates, tolls, charges, schedules or joint Rates to be imposed and observed in the future in lieu of those found to be unreasonable or unlawful.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Whenever the Commission shall find any regulations, measurements, practices, acts or service to be unjust, unreasonable, insufficient, preferential, unjustly discriminatory or otherwise unreasonable or unlawful, or shall find any service which can be reasonably demanded cannot be obtained, the Commission shall determine and by order fix reasonable measurements, regulations, acts, practices or service to be furnished, imposed, observed and followed in the future in lieu of those found to be unreasonable, inadequate or otherwise unlawful, and shall make any other order respecting measurements, regulations, acts, practices or services as shall be just and reasonable.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.3.070</num>
+            <heading>Excessive or Discriminatory Charges; Reparation</heading>
+            <text>When a complaint has been made to the Commission concerning any Rate or charge for any product or commodity furnished or service performed by any Utility, and the Commission has found, after notice and a hearing has been given as required by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite>, that the Utility has charged an excessive or discriminatory amount for such product or service, in excess of the schedules, Rates and tariffs on file with the Commission, or that the Utility has discriminated under such schedules against the complainant, the Commission may order that Utility make due reparation to the complainant therefore, with interest from the date of collection, if no discrimination will result for such reparation.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.080</num>
+            <heading>Rescission or Amendment</heading>
+            <text>The Commission may, at any time, on its own motion or upon motion of an interested party, and upon notice to the Utility after opportunity to be heard, rescind, alter or amend any order or decision made by the Commission and may reopen any case following the issuance of an order or decision therein, or the taking of further evidence or for any other purpose.  Any order rescinding, altering, amending, or reopening a prior decision shall have the same effect as an original order or decision.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.090</num>
+            <heading>Effective Date of Orders and Decisions</heading>
+            <text>Every decision made by the Commission constituting an order or decision shall be effective and enforced fourteen (14) days after it has been filed and has been served by personal delivery or by mailing a copy thereof to all parties to the proceeding in which the decision was made or to their attorneys, unless the Commission specifies a different date upon which the order or decision shall be effective.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.100</num>
+            <heading>Rehearings Before Commission</heading>
+            <para>
+              <num>(a)</num>
+              <text>Within fourteen (14) days after service by the Commission of any decision constituting an order or decision, any party to the proceeding and any other Person aggrieved by the decision and directly affected thereby, may apply to the Commission for a rehearing in respect to any matters determined in the decision.  The Commission may grant a rehearing on any or all matters raised in the request for rehearing, if in its discretion sufficient reason exists.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Applications for rehearing shall be governed by general rules which the Commission may establish.  If, after rehearing, it shall appear that the original order or decision is in any respect unlawful or unreasonable, the Commission may reverse, change, modify or suspend the original action accordingly.  No order of the Commission shall become effective until the time for filing an application for rehearing expires or while a rehearing is pending and until ten (10) days after any such application for a rehearing is either denied, or the Commission has announced its final determination on rehearing, whichever first occurs.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The grant or denial of a rehearing shall be discretionary with the Commission.  A request for rehearing shall not be deemed a condition precedent to judicial review of a final administrative order or decision.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.3.110</num>
+            <heading>Public Records</heading>
+            <text>All decisions, transcripts, and orders of the Commission shall be public records.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.120</num>
+            <heading>Transcription to be Kept</heading>
+            <text>A full and complete record shall be kept of all proceedings at any formal hearing of the Commission and all testimony shall be taken down by a reporter appointed by the Commission.  A copy of the transcript shall be furnished on demand to any party to the proceedings upon payment of reasonable costs of reproduction.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.130</num>
+            <heading>Appeal</heading>
+            <text>Any party to any proceedings heard by the Commission who is aggrieved by the decision or by the entry of any final order or decision of the Commission therein may seek judicial review in the Tribal Court.  The rules of civil procedure and the civil provisions of this Code shall be fully applicable to any such judicial review.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.140</num>
+            <heading>Judicial Review</heading>
+            <para>
+              <num>(a)</num>
+              <text>Any party to any proceeding heard by the Commission who is aggrieved by the decision or by the entry of any final order or decision of the Commission is entitled to judicial review in the Tribal Court within thirty (30) days of the Commission's final order or decision.  A preliminary, procedural, or intermediate Commission action is not subject to review.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>An action in the Tribal Court seeking relief other than damages, attorneys' fees or costs against the Commission or an officer or employee thereof shall not be dismissed nor relief be denied on the grounds that it is against the Tribe or that the Tribe is an indispensable party and, for the limited purposes of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite>, the Tribe hereby waives the sovereign immunity of the Director, the Commission, and its members for the limited purpose of Tribal Court review of decisions of the Director and the Commission.  Such waiver of immunity is further limited to prospective, equitable relief, including declaratory and injunctive relief, and does not include money damages of any kind.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Nothing herein either affects other limitations on judicial review or the power or duty of the Tribal Court to dismiss any action or deny relief on any other appropriate legal or equitable grounds; or confers authority to grant relief if any other tribal law that grants consent to suit expressly or impliedly forbids the relief which is sought.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>When the Commission finds that justice so requires, it may postpone the effective date of action taken by it, pending judicial review.  On such conditions as may be required, and to the extent necessary to prevent irreparable injury, the Tribal Court may issue all necessary and appropriate process to postpone the effective date of a commission action or to preserve the status quo or rights pending conclusion of the review proceeding.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>To the extent necessary, the Tribal Court shall decide all relevant questions of law, interpret constitutional provisions and all other tribal law, and determine the meaning or applicability of the terms of the Commission's action.  The Tribal Court may change the final order of the Commission only upon a finding that:</text>
+              <para>
+                <num>(1)</num>
+                <text>The Commission action unlawfully withheld or unreasonably delayed the rights of the parties involved</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The findings and conclusions of the Commission are found to be, by clear and convincing evidence:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>Arbitrary and capricious or an abuse of discretion;</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>Contrary to any right, power, privilege, or immunity accorded by the Tribal Constitution or the Indian Civil Rights Act, 25 U.S.C. § 1301, et. seq., as amended;</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>In excess of jurisdiction, authority, or limitations granted by tribal law;</text>
+                </para>
+                <para>
+                  <num>(D)</num>
+                  <text>In making the foregoing determinations, the Tribal Court shall review the whole record before the Commission or those parts of it cited by a party.  In order to facilitate such review, the administrative record shall be kept in complete form by the Commission.</text>
+                </para>
+              </para>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.3.150</num>
+            <heading>Stay on Judicial Review; Bond</heading>
+            <text>In case the order or decision of the Commission is stayed or suspended by order of the Tribal Court, the order of the Tribal Court shall not become effective until a bond first shall have been executed and filed with and approved by the Tribal Court, payable to the Commission, and sufficient in amount and security to insure the prompt payment by the party appealing of all damages assessed by the Commission's decision, as well as all costs and expenses related to or caused by the delay in the enforcement of the order or decision of the Commission and of all monies which any Person may be compelled to pay pending appeal or review, for transportation, transmission, product, commodity, or service including attorney's fees and costs, as well as damages, in excess of the charges fixed by the order or decision of the Commission, in case such order or decision is sustained.  The Tribal Court, in case it stays or suspends the order or decision of the Commission in any matter affecting Rates, also by order shall direct the Utility affected to pay into the Court, from time to time, there to be impounded until the final decision of the case, under such conditions as the Tribal Court may prescribe, all sums of money which may collect from any Person in excess of the sum which such Person would have been compelled to pay if the order or decision of the Commission had not been stayed or suspended.  Upon a final determination of the Tribal Court, the Court shall make an appropriate order disposing of the impounded funds in accordance with such determination.  In the event the Utility fails to comply with the conditions of the stay bond, the Commission may sue thereon for the use and benefit of the patrons or others who have suffered damage by reason of the stay.</text>
+          </section>
+          <section>
+            <num>TUC.2.3.160</num>
+            <heading>Step-in Rights and Other Remedies Under Tribal Law</heading>
+            <text>Nothing in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite> shall be construed to limit or supersede any remedies available under any Tribal law or the jurisdiction of the Tribe over property and conduct on the Reservation.  In the event the Tribe assumes ownership or control over any Utility Personal Property in accordance with Tribal law, it shall be unlawful for any Person to interfere with the Tribe's or any agent of the Tribe's access to or operation of said Utility Personal Property.</text>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>TUC.2.4</num>
+          <heading>General Duties of Utilities</heading>
+          <section>
+            <num>TUC.2.4.010</num>
+            <heading>Adequate Service and Reasonable Rates</heading>
+            <text>All Public Utilities shall furnish reasonably adequate service and facilities. The charge made by any Public Utility for any heat, light, water, telecommunications service or power produced, transmitted, delivered or furnished or for any service rendered or to be rendered in connection therewith shall be reasonable and just, and every unjust or unreasonable charge for such service is prohibited and declared unlawful.  In the case of a public utility furnishing water, the commission shall include, in the determination of water rates, the cost of fluoridating the water in the area served by the public utility furnishing water if the governing body of the city, village or town which owns or is served by the public utility furnishing water authorizes the fluoridation of water by the public utility furnishing water.</text>
+          </section>
+          <section>
+            <num>TUC.2.4.020</num>
+            <heading>Maintenance of Utility Personal Property</heading>
+            <text>All Utilities shall maintain Utility Personal Property under its ownership or control in a manner that minimizes danger to the public and adverse environmental impacts while upholding all requirements under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2.4.010">Section TUC.2.4.010</cite> that may apply.</text>
+          </section>
+          <section>
+            <num>TUC.2.4.030</num>
+            <heading>Duty of Non-Discrimination</heading>
+            <text>It shall be unlawful for any Utility to deny service, set rates, or develop plans for the improvement, development, or expansion of infrastructure, or engage in any preferential treatment of customers or prospective customers on the basis of race, gender, age, sexual orientation, disability, political affiliation, political classification, or tribal membership. Notwithstanding anything to the contrary under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this title</cite>, the Tribal Court shall have original jurisdiction over any claim alleging violation of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.4.020">this Section</cite>.</text>
+          </section>
+          <section>
+            <num>TUC.2.4.040</num>
+            <heading>Access to Land</heading>
+            <text>Nothing in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite> shall be construed as a grant of a right of access to Tribal or restricted Indian land.  Access, use, and occupation of Tribal or restricted Indian land shall be governed by federal and tribal law governing easements, rights-of-way, and leases on said lands.</text>
+          </section>
+          <section>
+            <num>TUC.2.4.050</num>
+            <heading>Restrictions on Winter Shutoffs</heading>
+            <para>
+              <num>(a)</num>
+              <text>"Winter Period" under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.4.050">this Section</cite> shall mean November 1st through March 31<sup>st</sup> or any other point in time in which there is reasonably foreseeable likelihood that the average temperature on the Reservation could have life-threatening effects in the absence of a reliable energy source.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>A Utility that supplies Energy Utility Service on the Reservation is forbidden from disconnecting or ceasing Energy Utility Service to any household or facility where the Utility knows or has reason to know:</text>
+              <para>
+                <num>(1)</num>
+                <text>The household income is less than 185% of the federal poverty level;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>One or more residents is bedridden or is otherwise suffering the effects of a serious, life-threatening disease; or</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The disconnection of Energy Utility Service would have other serious life-threatening effects.</text>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Any customer who pays the Utility at least 10% of the customer's income or the full amount of the Utility bill, whichever is less, during a Winter Period cannot be disconnected during that month; provided that for the purpose of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.4.050">this Section</cite>, the term "customer income" means the actual monthly income of the customer except for a customer who is normally employed only on a seasonal basis and whose annual income is over 135% of the federal poverty level, in which case the customer's income shall be the average monthly income of the customer computed on an annual calendar year basis.  The 10% figure in cited in this Subparagraph (c) must be prorated between Energy Utilities proportionate to each provider's share of the customer's total energy costs whenever the customer receives service from more than one provider.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>If the Commission receives a Complaint alleging violation of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.4.050">this Section</cite>, the Commission shall issue an Interim Order within two (2) business days after receipt of the Complaint, in which the Commission shall determine whether the Utility must continue to provide Energy Service pending the outcome of the Complaint.  The Commission shall set a forthwith hearing on the Complaint for no more than fourteen (14) days after the Complaint is received by the Commission.</text>
+            </para>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>TUC.2.5</num>
+          <heading>Utility Tariffs</heading>
+          <section>
+            <num>TUC.2.5.010</num>
+            <heading>Filing Tariffs</heading>
+            <text>Every Utility operating or conducting business on the Reservation shall keep on file with the commission a tariff for each Utility Service provided on the Reservation, containing all the rules, rates and classifications used by it in the provision of its Utility Services.  Tariffs shall provide notice of any limitations on liability claimed by the Utility.</text>
+          </section>
+          <section>
+            <num>TUC.2.5.020</num>
+            <heading>Time to File Tariffs</heading>
+            <text>Tariffs shall be filed with the Commission within sixty (60) days after the appointment of the Commission pursuant to the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC">this Title</cite>.  Upon appointment, the Commission or its duly delegated agent or representative shall publish a notice of commencement of the 60-day period to submit tariffs.  Failure to file tariffs within the prescribed time period shall result in a late fee of $250 per day for fourteen (14) days, and $500 per day each day thereafter.</text>
+          </section>
+          <section>
+            <num>TUC.2.5.030</num>
+            <heading>Publication of Tariffs</heading>
+            <text>The Commission shall publish all Utility tariffs through one or more physical or digital media that is freely accessible to the public.</text>
+          </section>
+          <section>
+            <num>TUC.2.5.040</num>
+            <heading>Procedures to Amend Tariffs for Public Utilities</heading>
+            <text>Public Utilities may not establish or implement any Tariff Alteration unless and until all procedures set forth in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.5.040">this Section</cite> have been completed to the satisfaction of the Commission.  For the purposes of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.5.040">this Section</cite>, a "tariff alteration" shall mean (i) an amendment to existing tariffs or any portion or provision thereof, or (ii) a change in or establishment of any rate, toll, or classification associated with the Utility Service in a manner that deviates from the terms of procedures established under existing tariff.</text>
+            <para>
+              <num>(a)</num>
+              <text>Any Public Utility that wishes to establish a Tariff Alteration shall file a Petition for Tariff Alteration with the Commission.  The Petition shall be on a form prescribed by the Commission and shall contain, at a minimum:</text>
+              <para>
+                <num>(1)</num>
+                <text>The nature of the requested Tariff Alteration;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The basis for the requested Tariff Alteration with supporting documentation as necessary and appropriate;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Impacts to Customers under the proposed Tariff Alteration and under alternative actions to address the basis for the requested Tariff Alteration, including a no-action alternative.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>A certificate, on a form prescribed by the Commission, showing to the satisfaction of the Commission that the Utility has provided adequate notice of the Petition for Tariff Alteration to its customers receiving Utility Service on the Reservation.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Within fourteen (14) days after receipt of a Petition for Tariff Alteration, the Commission shall publish a Notice of Comment Period providing notice to the public of its right to submit public comments on the proposed Tariff Alteration.  The Commission shall set rules and procedures associated with the form and system for filing public comments.  The Commission may determine the length of the public comment period based on, inter alia, the complexity of the proposed Tariff Alteration or the nature of the impacts on Customers.  However, public comment periods shall be for no less than thirty (30) days and no more than one hundred twenty (120) days.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>At the conclusion of the public comment period, the Commission may, at its discretion or at the direction of the Governing Board, set a public hearing on the proposed Tariff Alteration.  The Commission may set procedural rules and rules of conduct governing public hearings on proposed Tariff Alterations.  Public hearings shall be open to all Persons residing or conducting business on the Reservation.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Within sixty (60) days after the conclusion of the public comment period, or within sixty (60) days after the public hearing if such public hearing takes place, the Commission shall issue an order approving or denying the proposed Tariff Alteration.  The proposed Tariff Alteration shall be deemed approved if the Commission fails to issue an order within the applicable time period, provided that the Commission may extend its timeline to issue a decision upon approval by the Governing Board and notice to the petitioning Utility.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>Notwithstanding anything in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.5.040">this Section</cite> to the contrary, the Commission may deny a requested Tariff Alteration without underdoing the public notice and comment procedures set forth in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.5.040">this Section</cite> upon finding that the requested Tariff Alteration would constitute a <em>prima facie </em>violation of this Code.</text>
+              </para>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.5.050</num>
+            <heading>Cooperative Associations</heading>
+            <text>Tariff Alterations by Cooperative Associations shall not be subject to the procedures under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.5.040">Section TUC.2.5.040</cite>; <em>provided </em>that Cooperative Association tariffs maintained on file with the Commission contain procedures to ensure a Cooperative Association's membership receives adequate notice and a reasonable opportunity to be heard in relation to a proposed Tariff Alteration.  If a Cooperative Association fails to include procedures that meet these minimum requirements in its publicly filed tariffs, the Cooperative Association shall be required to undergo the procedures set forth in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.5.040">Section TUC.2.5.040</cite> prior to establishing or implementing any Tariff Alteration.</text>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>TUC.2.6</num>
+          <heading>Certificate of Public Convenience and Necessity for Electric Facilities</heading>
+          <section>
+            <num>TUC.2.6.010</num>
+            <heading>Certificate of Public Convenience and Necessity Required</heading>
+            <text>A Utility may not begin construction of an Electric Facility within the Reservation, without first having obtained a Certificate of Public Convenience and Necessity from the Commission pursuant to this Subhapter.  The Electric Facility must be constructed, operated, and maintained in conformity with the Certificate and any terms, conditions, or modifications of the Certificate.  A Certificate may be transferred, subject to the prior approval of the Commission, to any person who agrees to comply with its terms, conditions, and modifications.  Certificates shall have a term prescribed by the Commission.  The Commission may renew a Certificate in accordance with the Commission's duly adopted rules and regulations.</text>
+          </section>
+          <section>
+            <num>TUC.2.6.020</num>
+            <heading>Application for a Certificate of Public Convenience and Necessity</heading>
+            <para>
+              <num>(a)</num>
+              <text>An application for a Certificate must contain the following information:</text>
+              <para>
+                <num>(1)</num>
+                <text>A description of:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>The type of Facility proposed;</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>The gross design capacity;</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>The net design capacity;</text>
+                </para>
+                <para>
+                  <num>(D)</num>
+                  <text>The estimated thermal efficiency of the energy conversion process and the assumptions upon which the estimate is based;</text>
+                </para>
+                <para>
+                  <num>(E)</num>
+                  <text>The number of acres that the proposed Facility will occupy; and</text>
+                </para>
+                <para>
+                  <num>(F)</num>
+                  <text>The anticipated timeline and schedule for:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Acquisition of all permits and/or land use rights necessary to complete the proposed construction.</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Starting construction;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Completing construction;</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Testing operations;</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>Commencing commercial production; and</text>
+                  </para>
+                  <para>
+                    <num>(vi)</num>
+                    <text>Beginning any planned expansions or additions.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Copies of any evaluative studies or assessments of the environmental impact of the proposed Facility submitted to any federal, regional, state, or local agency.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>An analysis of the need for the proposed Facility based on present and projected demand for the product or products to be produced by the proposed Facility, including the most recent system studies supporting the analysis of the need.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>A description of any feasible alternative methods of serving the need.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>A discussion of the Utility's policies and commitments to limit the environmental impact of its facilities, including copies of board resolutions and management directives.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>A map identifying the criteria that provides the basis for the specific location of the proposed Facility within the study area.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>A discussion of the criteria evaluated within the study area, including exclusion areas, selection criteria, policy criteria, design and construction limitations, and economic considerations.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>A discussion of the mitigative measures that the applicant will take to minimize adverse impacts which result from the location, construction, and operation of the proposed Facility.</text>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>The qualifications of each person involved in the Facility Site location study.</text>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>A map of the study area showing the location of the proposed Facility and the criteria evaluated.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>After determining that the application is complete, the Commission shall publish a Notice of Application for Certificate of Public Convenience of Necessity containing (1) an executive summary of the proposed Certificate, (2) instructions and timelines for filing public comments, and (3) Commission contact information to obtain a copy of the complete Application.  The following are hereby declared adequate means of publishing of the Notice of Application hereunder:</text>
+              <para>
+                <num>(1)</num>
+                <text>Posting the Notice on the official government website of the Tribe;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Publishing the Notice in a newspaper of general circulation on the Reservation.</text>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The public comment period for the Application shall be set by the Commission; provided that the public comment period shall not be for less than thirty (30) days and not be for greater than one hundred twenty (120) days.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>At the conclusion of the public comment period, the Commission may, at its discretion or at the direction of the Governing Board, set a public hearing on the proposed Certificate.  The Commission may set procedural rules and rules of conduct governing public hearings on Certificate Applications.  Public hearings shall be open to all Persons residing or conducting business on the Reservation.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Within ninety (90) days after the conclusion of the public comment period, or within ninety (90) days after the public hearing if such public hearing takes place, the Commission shall  issue an order approving or denying the proposed Certificate of Public Convenience and Necessity.  The proposed Certificate shall be deemed approved if the Commission fails to issue an order within the applicable time period, provided that the Commission may extend its timeline to issue a decision upon approval by the Governing Board and notice to the petitioning Utility.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>The Commission may, at its discretion, allow an applicant to amend its application at any time during the pendency of an application.</text>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text>When a Certificate is denied and the Commission specifies a modification that would make it acceptable, the applicant may reapply.  In a reapplication:</text>
+              <para>
+                <num>(1)</num>
+                <text>The Utility shall indicate its acceptance or rejection of the suggested modification.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>If a suggested modification is rejected by the applicant, it shall propose an alternative modification.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Reapplication must be made within six (6) months of the order denying an application.</text>
+              </para>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.6.030</num>
+            <heading>Factors to be Considered in Evaluating Applications</heading>
+            <text>The Commission shall grant a Certificate of Public Convenience and Necessity only when it determines that the construction and operation of the proposed facility is reasonably tailored to satisfying the public need for generation and/or delivery of electric power, that the public need satisfied will outweigh adverse impacts on the human environment, tribal natural resources, and public safety, and that there are no physically, economically, or legally feasible alternatives that would more effectively satisfy the public need.  The Commission shall be guided by, but is not limited to, the following considerations, where applicable, to aid in its evaluation of applications for a Certificate or Recertification:</text>
+            <para>
+              <num>(a)</num>
+              <text>Available research and investigations relating to the effects of the location, construction, and operation of the proposed Facility on public health and welfare, natural resources, and the environment.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The effects of new electric energy conversion and electric transmission technologies and systems designed to minimize adverse environmental effects.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The potential for beneficial uses of waste energy from a proposed Electric Energy Conversion Facility.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Adverse direct and indirect environmental effects and mitigation measures.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Alternatives to the proposed action.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>Irreversible and irretrievable commitments of natural resources.</text>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text>The direct and indirect economic impacts of the proposed Facility.</text>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text>Existing plans for other developments or conservation measures at or in the vicinity of the proposed action.</text>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text>The effect of the proposed action on existing scenic areas, historic and cultural sites and structures, and paleontological or archaeological sites.</text>
+            </para>
+            <para>
+              <num>(j)</num>
+              <text>The effect of the proposed action on areas unique because of biological wealth or because the areas are habitats for rare and endangered species.</text>
+            </para>
+            <para>
+              <num>(k)</num>
+              <text>The adequacy of the Utilities protocols and procedures in the event of a Power Emergency.</text>
+            </para>
+            <para>
+              <num>(l)</num>
+              <text>Any input from other Tribal agencies and departments.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.6.040</num>
+            <heading>Selection Criteria</heading>
+            <text>An Application may be approved in an area only when it is demonstrated to the Commission by the applicant that any significant adverse effects resulting from the location, construction, and operation of the Facility in that area as they relate to the following, will be at an acceptable minimum, or that those effects will be managed and maintained at an acceptable minimum. The effects to be considered include:</text>
+            <para>
+              <num>(a)</num>
+              <text>With respect to wind energy conversion facilities:</text>
+              <para>
+                <num>(1)</num>
+                <text>The impact of sound levels within one hundred feet of an inhabited residence or a community building exceeding fifty (50) dBA, unless waived in writing by the owner of the occupied residence or the community building.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The impact of shadow flicker at any inhabited residence or a community building exceeding thirty (30) hours per year, unless waived in writing by the owner of the occupied residence or the community building.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The impact upon agriculture:</text>
+              <para>
+                <num>(1)</num>
+                <text>Agricultural production.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Family farms and ranches.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Land which the owner demonstrates has soil, topography, drainage, and an available water supply that cause the land to be economically suitable for irrigation.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Surface drainage patterns and ground water flow patterns.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>The agricultural quality of the cropland.</text>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The impact upon the availability and adequacy of:</text>
+              <para>
+                <num>(1)</num>
+                <text>Law enforcement.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>School systems and education programs.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Governmental services and facilities.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>General and mental health care facilities.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Recreational programs and facilities.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Transportation facilities and networks.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Retail service facilities.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>Utility services.</text>
+              </para>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>The impact upon:</text>
+              <para>
+                <num>(1)</num>
+                <text>Local institutions.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Noise-sensitive land uses.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Light-sensitive land uses.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Rural residences and businesses.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Aquifers.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Human health and safety.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Animal health and safety.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>Plant life.</text>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>Areas critical to the life stages of threatened or endangered animal or plant species.</text>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>Temporary and permanent housing.</text>
+              </para>
+              <para>
+                <num>(11)</num>
+                <text>Temporary and permanent skilled and unskilled labor.</text>
+              </para>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>The cumulative effects of the location of the Facility in relation to existing and planned facilities and other industrial development.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>The impact upon military installations, assets, and operations.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.6.050</num>
+            <heading>Policy Criteria.</heading>
+            <text>The Commission may give preference to an applicant that will maximize benefits that result from the adoption of the following policies and practices, and in a proper case may require the adoption of such policies and practices. The Commission may also give preference to an applicant that will maximize interstate benefits. The benefits to be considered include:</text>
+            <para>
+              <num>(a)</num>
+              <text>Less intrusion into and impact on human, animal, and plant life and habitat.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Energy conservation through location, process, and design.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Training and utilization of available employees and contractors from the Reservation for the general and specialized skills required.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Use of a primary energy source or raw material located within the region.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Avoidance of adverse impacts to residents' homes or the need to relocate residents.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>The dedication of an area adjacent to the Facility to land uses such as recreation, agriculture, or wildlife management.</text>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text>Economies of construction and operation.</text>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text>Secondary uses of appropriate associated facilities for recreation and the enhancement of wildlife.</text>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text>The extent of outreach to and use of feedback from residents of the Reservation.</text>
+            </para>
+            <para>
+              <num>(j)</num>
+              <text>A commitment of a portion of the energy produced for use on the Reservation.</text>
+            </para>
+            <para>
+              <num>(k)</num>
+              <text>Strength of the Utility's labor relations track record.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.6.060</num>
+            <heading>Effect of Issuance of Certificate</heading>
+            <text>The issuance of a Certificate or a Permit shall be the sole approval required to be obtained from the Commission prior to commencing construction of an Electric Facility on the Reservation.  A Utility's receipt of a Certificate shall not establish an easement or other property right on or across Tribal trust lands or restricted Indian lands subject to Title 25, Part 169 of the United States Code of Federal Regulations.  Utilities that have acquired a valid Certificate under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2">this Chapter</cite> and any other required permits or land use rights, may proceed to construct or improve the site covered under the Certificate for the purposes set forth therein; provided, that if such construction and improvement commences more than four (4) years after a Certificate has been issued, then the Utility must certify to the Commission that such site and associated proposed Facilit(ies) continue to meet the conditions upon which the Certificate was issued.</text>
+          </section>
+          <section>
+            <num>TUC.2.6.070</num>
+            <heading>Rules and Regulations</heading>
+            <text>The Commission may adopt rules and regulations in conformity with the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2.6">this Subchapter</cite> and prescribe methods and procedures required therewith.</text>
+          </section>
+          <section>
+            <num>TUC.2.6.080</num>
+            <heading>Complaint and Hearing</heading>
+            <text>Any Person aggrieved by the proposed issuance of a Certificate of Public Necessity and Convenience, a proposed Certificate transfer, or a proposed Recertification of an existing Certificate pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2.6">this Subchapter</cite> may file a Complaint with the Commission within thirty (30) days after publication of the Application notice or Recertification notice.  A Person's right to challenge a proposed Certificate or Recertification shall be deemed waived; provided, that the Commission may accept a late filing at its discretion for good cause shown.  Unless otherwise provided in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.6.080">this Section</cite>, the Commission shall conduct a hearing on the Complaint pursuant to the procedures set forth herein and in the duly adopted rules and regulations of the Commission.  Applicable timelines associated with the Certificate, transfer, or Recertification application shall be held in abeyance pending the outcome of the hearing process as set forth in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TUC.2.6.080">this Section</cite>.</text>
+          </section>
+          <section>
+            <num>TUC.2.6.090</num>
+            <heading>Revocation or Suspension of Certificate</heading>
+            <text>A Certificate of Public Convenience and Necessity may be revoked or suspended for:</text>
+            <para>
+              <num>(a)</num>
+              <text>Discovery of any material false statement in the application or in accompanying statements or studies required of the applicant.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Failure to comply with the Certificate or any terms, conditions, or modifications contained therein.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Violation of the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2.6">this Subchapter</cite> or rules or regulations issued pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2.6">this Subchapter</cite> by the Commission.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>A determination by the Tribal Court.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.6.100</num>
+            <heading>Penalties</heading>
+            <para>
+              <num>(a)</num>
+              <text>Any person who willfully engages in any of the following conduct is subject to a civil penalty in an administrative action brought by the Commission not to exceed Ten Thousand Dollars ($10,000) for each such violation for each day the violations persist, plus any other remedy available under appliable Tribal law:</text>
+              <para>
+                <num>(1)</num>
+                <text>Begins construction of an Electric Energy Conversion Facility or an Electric Transmission Facility without having been issued a Certificate pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2.6">this Subchapter</cite>.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Constructs, operates, or maintains an Electric Energy Conversion Facility or an Electric Transmission Facility other than in compliance with the Certificate or Permit and any terms, conditions, or modifications contained therein.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Violates any provision of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2.6">this Subchapter</cite> or any rule adopted by the Commission pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2.6">this Subchapter</cite></text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Falsifies, tampers with, or renders inaccurate any monitoring device or method required to be maintained pursuant to a Certificate issued pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TUC.2.6">this Subchapter</cite>.</text>
+              </para>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.6.110</num>
+            <heading>Approval for Temporary Operation or Variance</heading>
+            <para>
+              <num>(a)</num>
+              <text>The commission may approve temporary operation of facilities or a temporary variance from approved construction, operation, or maintenance of facilities upon a showing of good cause and receipt of a utility certification that the activities will have no adverse impacts upon the welfare of the Tribe or the environment.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The Commission may issue a temporary approval or variance without the necessity of notice, publication, or hearing with any additional terms, conditions, or modifications deemed necessary to minimize impacts.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.2.6.120</num>
+            <heading>Use by One Utility of the Facilities of Another Utility</heading>
+            <text>Whenever upon hearing, after due notice, the Commission has found that the public convenience and necessity requires the use by one Electric Utility of the conduits, wires, poles, pipes or other equipment or any part thereof on, over or under any street highway and belonging to another Electric Utility, and that such use will not result in irreparable injury to the owner or other users of such equipment, nor any substantial detriment to the service, and that such Electric utilities have failed to agree upon such use or terms and conditions or compensation for the same, the Commission, by order, may direct that such use be permitted, and prescribe reasonable compensation and reasonable terms and conditions for such joint use.  If such use is directed, the Electric Utility to which the use is permitted shall be liable to the owner or other users of such equipment for such damages as may result therefrom to the property of such owner or other users thereof.</text>
+          </section>
+        </container>
+      </container>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>TUC.3</num>
+        <heading>Lac Courte Oreilles Tribal Utility Authority</heading>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>TUC.3.1</num>
+          <heading>Utility Authority Established</heading>
+          <section>
+            <num>TUC.3.1.010</num>
+            <heading>Establishment of the Lac Courte Oreilles Tribal Utility Authority</heading>
+            <text>The Lac Courte Oreille Tribal Utility Authority ("Authority") is hereby established.  The actions, responsibilities, and limitations of the Authority are established under the terms of this Code, as the same may be amended in the future.  The Authority is established as an incorporated enterprise of the Tribal Government.  It is the intent of the Tribe that the Authority shall at all times be an instrumentality of the Tribal Government and shall serve under the direction of the Governing Board.</text>
+          </section>
+          <section>
+            <num>TUC.3.1.020</num>
+            <heading>Constitutional Authority</heading>
+            <text>The Authority is established pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, Section 1(l) of the Constitution and By Laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</cite>, which authorizes the Tribe's Governing Board to "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Tribe or residents of the reservation."</text>
+          </section>
+          <section>
+            <num>TUC.3.1.030</num>
+            <heading>Sovereign Immunity</heading>
+            <text>As an instrumentality of the Tribe, the inherent sovereign immunity of the Tribe is extended to the Authority pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.1.3.020">Section TCT.1.3.020</cite> of the Sovereign Immunity Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and the laws of the United States ("Sovereign Immunity Code").  The Authority may waive its sovereign immunity from suit only in accordance with the processes set forth in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.1.2.030">Section TCT.1.2.030</cite> of the Sovereign Immunity Code.  Except as otherwise expressly authorized by the Governing Board, any waiver of the Authority's immunity of suit shall be limited to the Authority and shall not extend to any other department, agency, or instrumentality of the Tribe, and such waiver shall further be limited to judgments effecting the assets and/or revenue streams of the Authority.  Notwithstanding anything herein to the contrary, the sovereign immunity of the Authority shall not apply to actions commenced against the Authority under the provisions of this Code.</text>
+          </section>
+          <section>
+            <num>TUC.3.1.040</num>
+            <heading>Mission of the Authority</heading>
+            <text>The Authority's mission is to provide and manage Utility Services, as defined herein, to customers within and around the Reservation in furtherance of Tribal self-determination, the economic growth of the Tribe and its members, and promoting reliable access to Utility Services on the Reservation, and to furnish, provide, and maintain such service, instrumentalities, equipment, and facilities to promote the safety, health, comfort, and convenience of its customers, employees, and the public, and as shall be in all respects adequate, convenient, just, and reasonable, and without any unjust discrimination or preference.</text>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>TUC.3.2</num>
+          <heading>Utility Authority Personnel</heading>
+          <section>
+            <num>TUC.3.2.010</num>
+            <heading>Authority Director</heading>
+            <text>The Governing Board shall hire an employee to serve as Director of the Authority.  The Director shall be the operating official of the Authority and shall have direction of all parts of the actual operations.  The Director's responsibilities shall include:</text>
+            <para>
+              <num>(a)</num>
+              <text>Development, implementation, and monitoring of the Authority Implementation Plan;</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Management and oversight of all Authority activities;</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Delegation of management duties to Authority employees, if any, to the extent that are not specifically designated by this Code, the Governing Board, or the Authority Implementation Plan as duties to be performed exclusively by the Director.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Supervision of all employees of the Authority, excluding the Board of Commissioners, including supervision of the performance of staff in respect to all matters such as conformance to approved budgets, standards, program inspection, cost control, employee relations and in-service training.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Interfacing with employees, contractors, and customers of the Authority.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>Ensuring compliance with approved budgets and policies and procedures approved by the Board of Commissioners relating to standards, programs inspection, cost control, employee relations and service training.</text>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text>Rendering regular reports to the Governing Board in accordance with this Code, the Authority Implementation Plan, or as otherwise requested by the Governing Board.</text>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text>Performing all duties incident to the position of Director and such other duties as from time to time may be assigned by the Governing Board.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.3.2.020</num>
+            <heading>Other Authority Employees</heading>
+            <text>Nothing in this Code shall be construed to restrict the authority of the Governing Board to hire employees to a position not specifically identified herein to assist in carrying out the functions and mission of the Authority.</text>
+          </section>
+        </container>
+        <container>
+          <prefix>Subchapter</prefix>
+          <num>TUC.3.3</num>
+          <heading>Utility Authority Operations</heading>
+          <section>
+            <num>TUC.3.3.010</num>
+            <heading>Powers of the Authority</heading>
+            <para>
+              <num>(a)</num>
+              <text>Subject to applicable laws, regulations, the Constitution and By-Laws of the Tribe and any duly enacted and approved policies and procedures of the Authority; and solely in furtherance of the mission set forth in this Code, the Authority's powers include the following:</text>
+              <para>
+                <num>(1)</num>
+                <text>To operate and administer Utility Services;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>To establish Utility rates and tariffs, including procedures governing changes in rates and tariffs applicable to customers of the Authority;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>To enter into contracts with any governmental agency, federal, state or local, or any person, partnership, corporation or Indian tribe;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>To retain independent contractors as consultants or technical and/or maintenance personnel;</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>To own property and assets in its separate and distinct capacity as an enterprise of the Tribal Government, including Utility Personal Property as defined in this Code;</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>To sue and be sued in its separate and distinct capacity as an enterprise of the Tribal Government;</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>To borrow money, to issue temporary or long-term evidence of indebtedness, and to repay the same.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>To pledge the assets and receipts of the Authority as security for debts; and to acquire, sell, lease, exchange, transfer or assign personal property or interests therein.</text>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>To purchase land or interests in land or take the same by gift; to lease land or interests in land to the extent provided by law.</text>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>To purchase insurance in any stock or mutual company for any property or against any risks or hazards.</text>
+              </para>
+              <para>
+                <num>(11)</num>
+                <text>To adopt such policies, procedures, and bylaws necessary and appropriate, consistent with this Code.</text>
+              </para>
+            </para>
+          </section>
+          <section>
+            <num>TUC.3.3.020</num>
+            <heading>Records</heading>
+            <para>
+              <num>(a)</num>
+              <text>The books, records and property of the Authority, including current financial and operating statements, shall be kept on file in the main office of the Authority and shall be available for inspection at all reasonable times by the Director, then-serving members of the Governing Board.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Information regarding the Authority and its operations must be kept confidential, including information received by the Authority that is subject to a confidentiality obligation.  Information considered by the Authority as non-confidential shall be publicly available at requesting recipient's expense.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Financial Statements and Annual Reports shall be prepared as soon as reasonably practicable after the close of the fiscal year.  Such financial statements shall be accompanied by any report thereon of independent accountants, or, if there is no such report, the certificate of an authorized officer of the Authority that such statements were prepared without audit, under generally accepted accounting principles, from the books and records of the Authority.  Financial Statements, books, records, and property of the Authority shall be available for inspection at all reasonable times by the Governing Board and any other persons authorized by the Governing Board.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Every Commissioner shall have the right at any reasonable time to inspect and copy all books, records, and documents, and to inspect the physical properties of the Authority.  No Commissioner shall use or disseminate any non-public information obtained as a result of any such inspection, or otherwise in his or her capacity as a Commissioner, for his or her own personal gain, to the detriment of the Authority or to the detriment of any competitors of any entity with which the Commissioner is affiliated except in connection with the enforcement of a tariff, contract or applicable law and consistent with the Authority policy regarding confidential information.</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.3.3.030</num>
+            <heading>Reports to the Governing Board</heading>
+            <text>The Director shall prepare and submit a report to the Governing Board on a quarterly basis.  The report shall include, but not be limited to:</text>
+            <para>
+              <num>(a)</num>
+              <text>Authority financial conditions, including cashflow statements;</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Authority customer list;</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Any rate changes or planned rate changes;</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Any proposed amendments to the Authority Implementation Plan;</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Procurement, sale, or material change in any Utility Personal Property.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>Any other information requested by the Governing Board;</text>
+            </para>
+          </section>
+          <section>
+            <num>TUC.3.3.040</num>
+            <heading>Authority Implementation Plan</heading>
+            <para>
+              <num>(a)</num>
+              <text>Prior to engaging in Utility Services, the Director shall prepare and present to the Governing Board for its approval an Authority Implementation Plan for the provision of Electric Utility Services.  The Implementation Plan may be modified from time to time by the Authority upon final approval of the Governing Board.  The Director or his/her delegee shall maintain a current version on file available for inspection by the Governing Board and any other person authorized by the Governing Board.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The Authority Implementation Plan shall establish the overall operational framework governing the operations of the Authority and shall include, without limitation, the following components:</text>
+              <para>
+                <num>(1)</num>
+                <text>Authority Operations Plan, including:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>Plan for resources use and energy efficiency</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>Accounting system</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>Standards of Service designated to ensure sage, adequate, efficient and timely provision of Electric Utility Services</text>
+                </para>
+                <para>
+                  <num>(D)</num>
+                  <text>Customer outreach</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Start-Up Funding and Staffing Plan, including:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>Staffing needs and requirements</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>Capital requirements</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>Start-up activities and cost summary</text>
+                </para>
+                <para>
+                  <num>(D)</num>
+                  <text>Estimated infrastructure costs</text>
+                </para>
+                <para>
+                  <num>(E)</num>
+                  <text>Estimated third party contractor costs</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Policy on rate setting and customer rights and responsibilities, including:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>Initial rate schedule</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>Procedure for setting and changing rates and tariffs, including procedures for noticing the public of changes to rates and tariffs</text>
+                </para>
+              </para>
+            </para>
+          </section>
+          <section>
+            <num>TUC.3.3.050</num>
+            <heading>Revenue Allocation Plan</heading>
+            <text>All revenue generated from the activities of the Authority shall be allocated in accordance with an Allocation Plan approved by the Governing Board.</text>
+          </section>
+          <section>
+            <num>TUC.3.3.060</num>
+            <heading>Annual Budget</heading>
+            <para>
+              <num>(a)</num>
+              <text>The Authority shall establish an annual budget enumerating the necessary costs of the Authority including operation, maintenance, administration of capital improvements, debt service, personnel, liability and other insurance, replacement, a reserve for major repairs and replacements, and lease payments for use of Tribal community resources and facilities.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>A proposed Annual Budget shall be developed by the Director and shall be presented to the Governing Board for its approval prior to the commencement of the Tribe's fiscal year.</text>
+            </para>
+          </section>
+        </container>
+      </container>
+    </container>
+  </codify:insert>
 </document>
