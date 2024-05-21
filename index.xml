@@ -16,11 +16,11 @@
     <history-start>2021-12-19</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="lco-nsn/law-xml" commit="ba03cc069c7d344c326d5e0decb1233a20ed5f8d"/>
+        <repository name="lco-nsn/law-xml" commit="a2d8ab3a0d850c6cfd14c1376d6c72bbeff93c9c"/>
       </repositories>
       <platform version="2.13.6" reproducible="false"/>
-      <build-date>2024-04-11</build-date>
-      <codified-date>2024-03-18</codified-date>
+      <build-date>2024-05-21</build-date>
+      <codified-date>2024-04-15</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/lco/council/constitution/index.xml"/>
