@@ -16,10 +16,10 @@
     <history-start>2021-12-19</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="lco-nsn/law-xml" commit="960b2aa186c2158a0f0da7962315e63062750750"/>
+        <repository name="lco-nsn/law-xml" commit="0a6067ab71b6b149be57189d99efe524f3f77581"/>
       </repositories>
-      <platform version="2.13.6" reproducible="false"/>
-      <build-date>2024-05-21</build-date>
+      <platform version="2.13.8" reproducible="false"/>
+      <build-date>2024-07-22</build-date>
       <codified-date>2024-04-15</codified-date>
     </build>
   </meta>
