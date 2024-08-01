@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-78">
+  <num>2024-78</num>
+  <heading>Amendment to the Lac Courte Oreilles Tribal Code of Law Meeting Ordinance MCC.2</heading>
+  <meta>
+    <effective>2024-07-29</effective>
+    <citations>
+      <citation type="res" url="./adopted/2024-78.pdf">Res. No. 2024-78</citation>
+    </citations>
+    <history>
+      <adopted>2024-07-29</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> ("Amended Constitution and Bylaws"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|6">Article III, §6 of the Amended Constitution and Bylaws</cite> empowers the Tribal Governing Board to "by resolution, shall determine its own procedures;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>and is further empowered to "regulate, by enactment of ordinances, the conduct of business" pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, §1(n)</cite> and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board needs to amend its Meeting Ordinance to allow for regular meetings to be flexible based upon the needs of the Tribe.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby amends the Meeting Ordinance to allow for regular meetings to not be held every Monday as follows:</text>
+      <text>
+        <strong>MCC.2.3.010 Time of Regular Weekly Meetings shall be amended as follows:</strong>
+      </text>
+      <text>
+        <strong>The Board may conduct regular weekly meetings to conduct tribal business as determined by the Tribal Governing Board.</strong>
+      </text>
+    </recital>
+  </recitals>
+  <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.2.3.010" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.2.3.010">
+    <section>
+      <num>MCC.2.3.010</num>
+      <heading>Time of Regular Weekly Meetings.</heading>
+      <text>The Board may conduct regular weekly meetings to conduct tribal business as determined by the Tribal Governing Board.</text>
+    </section>
+  </codify:replace>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom __ being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this __ day of ______ 20 __, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of _____ members, _____ against, _____ abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
