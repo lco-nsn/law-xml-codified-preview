@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-64B">
+  <num>2024-64B</num>
+  <heading>Resolution Amending the Lac Courte Oreilles Tribal Code of Law VEH.4 All-Terrain Vehicles and Utilty Task Vehicles</heading>
+  <meta>
+    <effective>2024-07-01</effective>
+    <citations>
+      <citation type="res" url="./adopted/2024-64B.pdf">Res. No. 2024-64B</citation>
+    </citations>
+    <history>
+      <adopted>2024-07-01</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is empowered to "adopt ordinances," "regulate, by enactment of ordinances, the conduct of business within the territory," and to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order" pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V">Article V, §</cite>§(g),(l), &amp; (s) of the Amended Constitution and Bylaws; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board wants to support the safe and responsible use of All Terrain Vehicles/Utility Task Vehicles ("ATV/UTV") on the Lac Courte Oreilles Reservation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board wants to support both tribal members and the public's use of the designated trails and routes within the Reservation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board has determined that the edits and listed below further the Tribe's goals of supporting responsible ATV/UTV use and also further the Tribe's ability to regulate ATV/UTV use within the exterior boundaries of the Lac Courte Oreilles Reservation.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby amends the ATV/UTV <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4">VEH.4</cite> Code as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>Replace <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.2.010|(a)">VEH.4.2.010(a)</cite> which states "means an engine-driven device which has a net weight of 650 pounds or less, which has a width of forty-eight (48) inches or less, which is equipped with a seat designed to be straddled by the operator, and which is designed to travel on three (3) or more low-pressure tires. Every non-electric ATV/UTV is required to be equipped with a functioning muffler to prevent excessive or unusual noise." with "means a commercially designed and manufactured motor driven device which has a width of not more than 50 inches as measured laterally between the outermost wheel rim on each side of the vehicle, exclusive of tires, mirrors, and accessories that are not essential to the vehicle's basic operation, is equipped with a seat designed to be straddled by the operator, and travels on 3 or more tires."</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Remove "a weight, without fluids, of 3000 pounds or less;" from <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.2.010|(p)">VEH.4.2.010(p)</cite>.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Replace <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.010|(b)|(2)">VEH.4.3.010(b)(2)</cite> which states "On all state and county highways located within the boundaries of the Lac Courte Oreilles Reservation." with <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.010|(b)|(1)">VEH.4.3.010(b)(1)</cite> "On all marked roads and marked trails approved by the Tribal Governing Board within the boundaries of the Lac Courte Oreilles Reservation.  The Tribal Governing Board reserves the right to amend or revoke its approval for ATV/UTV use on any road or any trail at any time."</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Change <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.010|(b)|(3)">VEH.4.3.010(b)(3)</cite> to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.010|(b)|(2)">VEH.4.3.010(b)(2)</cite>.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.010|(b)|(3)">VEH.4.3.010(b)(3)</cite> "ATV/UTV's may only utilize approved marked roads and marked trails upon the opening of the season as declared by the Tribal Governing Board.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>In <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.010|(b)|(7)">VEH.4.3.010(b)(7)</cite> replace "infants are" with "Children under the age of five are".</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.010|(b)|(8)">VEH.4.3.010(b)(8)</cite> "Any ATV/UTV operators between the ages of 12 -15 years of age must have completed an ATV safety course and must carry the safety certification card while operating the ATV/UTV at all times."</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.010|(b)|(9)">VEH.4.3.010(b)(9)</cite> "Only enrolled Lac Courte Oreilles Tribal members may operate  ATV/UTVs on non-designated routes, for the limited purpose of accessing a designated route from the member's residence."</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Replace <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.030">VEH.4.3.030</cite> "(a) Highways. ATV/UTV all-terrain vehicle may operate on a state highway or county road marked for ATV/UTV use located within the exterior boundaries of the reservation. (b) Operation on roadway or pavement. all-terrain vehicles may operate on the roadway portion of any state or county highway or any road, street or trail that is marked as a AT/UTV trail. (c) Operation adjacent to roadway. all-terrain vehicles may operate adjacent to a roadway on an all-terrain vehicle route or trail if the person operates it in the following manner:</text>
+        <text class="text-indent-2">(1) At a distance of ten (10) or more feet from the shoulder of the roadway along state, county and tribal roadways. Travel on the median of a divided highway is prohibited except to cross,</text>
+        <text class="text-indent-2">(2) During hours of darkness in the same direction as motor vehicle traffic in the nearest lane, although during daylight hours travel may be in either direction regardless of the flow of motor vehicle traffic, and</text>
+        <text class="text-indent-2">(3) Not in excess of the speed limits of the adjacent roadway.” With <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.030|(a)">VEH.4.3.030 (a)</cite> ATV/UTV all-terrain vehicles may operate on a state highway or county roads that have been approved by the Tribal Governing Board as designated routes and are marked for ATV/UTV us located within the exterior boundaries of the reservation.” With</text>
+        <text class="text-indent-2">(1) Only the following County Roads are open for ATV/UTV traffic by non-tribal members:</text>
+        <text class="text-indent-4">(A)County Road  NN (Green Lake Road to Chief Lake Road);</text>
+        <text class="text-indent-4">(B) County Road E (CTH K to Williams Road is a whole route, CTH K to Tribal boundary N by Norwis);</text>
+        <text class="text-indent-4">(C) County Road K (County Road E to Indian Drive);</text>
+        <text class="text-indent-4">(D) County Road S (CTH B to Reservation Boundary); and</text>
+        <text class="text-indent-4">(E) County Road NN (Chief Lake Rd. to Gurno Lake Road).</text>
+        <text class="text-indent-2">(b) The Tribal Governing Board reserves the right to amend or revoke its approval of any designated ATV/UTV route at any time.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>In <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.060|(a)">VEH.4.3.060(a)</cite> replace "A map of the ATV/UTV trail system for the reservation will be maintained in the Land Management Division" with "(a) All ATV/UTV trails shall be designated for use by the LCO Conservation Department after previous approval granted by the Tribal Governing Board.  Each trail shall be conspicuously marked with a trail designation.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.080">VEH.4.3.080</cite> Adoption of State Laws</text>
+        <para>
+          <num>(a)</num>
+          <text>The Tribe has adopted the following statutes from the Wisconsin Statutes, however if there is an inconsistency between the adopted Wisconsin Statutes adopted herein, and the Tribal Law, Tribal Law shall supersede the Wisconsin Statute. The following are hereby adopted:</text>
+          <para>
+            <num>(1)</num>
+            <text>Wis. Stat. 23.33(4c) "Intoxicated Operation of an All-Terrain Vehicle or Utility Terrain Vehicle;"</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Wis. Stat. 23.33(7) "Accidents;" and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Wis. Stat. 23.33(8)(f) "Interference with signs and standards prohibited."</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>Replace <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.4.010">VEH.4.4.010</cite>  "A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, and the Lac Courte Oreilles Conservation Wardens, are authorized to enforce the provisions of this chapter and to cite individuals for violation thereof into Tribal Court." with "A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, and the Lac Courte Oreilles Conservation Wardens, are authorized to enforce the provisions of this chapter and to cite individuals for violation thereof into Tribal Court and or to an alternative venue as determined by the law enforcement"</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>Relace <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.4.030|(a)">VEH.4.4.030(a)</cite> "All ATV/UTV that operate on the Reservation shall be registered with the Lac Courte Oreilles Police Department." with "All Lac Courte Oreilles tribal members that operate ATV/UTV on the reservation shall be registered with the Lac Courte Oreilles Police Department."</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.4.030|(b)">VEH.4.4.030(b)</cite> "All non-enrolled Lac Courte Oreilles ATV/UTV operators must have their ATV/UTV registered with the Wisconsin Department of Natural Resources."</text>
+        <para>
+          <num>(1)</num>
+          <text>Failure to register one's ATV/UTV may result in immediate impoundment of the ATV/UTV, at the owner's expense.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Falsification of ATV/UTV use permit is subject to all penalties included in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.5.010">VEH.4.5.010</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The illegal transfer of ATV/UTV permit is subject to all penalties included in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.5.010">VEH.4.5.010</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.5.020">VEH.4.5.020</cite> Confiscated or Impoundment Procedure</text>
+        <para>
+          <num>(a)</num>
+          <text>Any ATV/UTV that is confiscated by Tribal Law Enforcement may be released at the reservation boundary or at the registered residence of the ATV/UTV owner, at the Owner's expense.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any ATV/UTV that is impounded by Tribal Law Enforcement may be released to the registered owner with an order of the Tribal Court and proof of payment for any fines or penalties under this code.</text>
+        </para>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>Replace <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.5.020">VEH.4.5.020</cite> Citations with <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.5.030">VEH.4.5.030</cite> Citations and replace "The following is a non-exhaustive list of citations that may be issued for a violation of this Code:" with "The following is a non-exhaustive list of common citations that may be issued for a violation of this Code:"</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text>Replace <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.5.030|(b)">VEH.4.5.030(b)</cite> "Operation of an ATV/UTV in excess of posted speed limits, pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.020">VEH.4.3.020</cite>," with Operation of an ATV/UTV in excess of posted speed limits, with a maximum ATV/UTV speed limit of 35 mph pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.3.020">VEH.4.3.020</cite>,</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text>Remove <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.5.030">VEH.4.5.030</cite> Citation Procedure (a) "All citations issued under this code shall be prosecuted under the Lac Courte Oreilles Tribal Code of Law §TCT.2 Rules of Civil Procedures Code of the Lac Courte Oreilles Band. Please see the Tribal Court Code for further details about the court procedure for citations issued under this Code."</text>
+      </para>
+      <para>
+        <num>26.</num>
+        <text>Remove <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.5.040">VEH.4.5.040</cite> Confiscated or Impoundment Procedure (a) paragraph and (b) paragraph.</text>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>1<sup>st</sup> day of July 2024</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
