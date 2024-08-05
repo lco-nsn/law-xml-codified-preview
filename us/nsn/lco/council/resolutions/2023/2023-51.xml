@@ -108,17 +108,17 @@
     <text>To add three sections to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.030">VEH.4.4.030</cite> as follows:</text>
     <include>
       <para>
-        <codify:insert path="|VEH.4.4.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030|(f)"/>
+        <codify:insert path="|VEH.4.4.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030"/>
         <num>(f)</num>
         <text>LCO Tribal members shall register their ATV/UTV, however, tribal members registration fee shall be waived if a valid LCO Tribal ID is provided at the time of registration.</text>
       </para>
       <para>
-        <codify:insert path="|VEH.4.4.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030|(g)"/>
+        <codify:insert path="|VEH.4.4.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030"/>
         <num>(g)</num>
         <text>Falsification of ATV/UTV use permit is subject to all penalties included in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.5.010">VEH.4.5.010</cite>.</text>
       </para>
       <para>
-        <codify:insert path="|VEH.4.4.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030|(h)"/>
+        <codify:insert path="|VEH.4.4.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030"/>
         <num>(h)</num>
         <text>The illegal transfer of ATV/UTV permit is subject to all penalties included in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.5.010">VEH.4.5.010</cite>.</text>
       </para>
