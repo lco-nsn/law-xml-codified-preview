@@ -22,7 +22,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Tribal Governing Board is empowered to "adopt ordinances," "regulate, by enactment of ordinances, the conduct of business within the territory," and to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order" pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V">Article V, §</cite>§(g),(l), &amp; (s) of the Amended Constitution and Bylaws; and</text>
+      <text>the Tribal Governing Board is empowered to "adopt ordinances," "regulate, by enactment of ordinances, the conduct of business within the territory," and to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order" pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(g)">Article V, §§(g)</cite>,<cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">(l)</cite>, &amp; <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite> of the Amended Constitution and Bylaws; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -312,7 +312,7 @@
       </codify:replace>
       <para>
         <num>15.</num>
-        <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.5.020">VEH.4.5.020</cite> Confiscated or Impoundment Procedure</text>
+        <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="VEH.4.5.015">VEH.4.5.015</cite> Confiscated or Impoundment Procedure</text>
         <para>
           <num>(a)</num>
           <text>Any ATV/UTV that is confiscated by Tribal Law Enforcement may be released at the reservation boundary or at the registered residence of the ATV/UTV owner, at the Owner's expense.</text>
