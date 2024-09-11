@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94">
+  <num>2024-94</num>
+  <heading>Repeal of the Recategorized "General Welfare Services Immediate Assistance Funds Ordinance GWE.2" from the Lac Courte Oreilles Tribal Code of Law</heading>
+  <meta>
+    <effective>2024-09-09</effective>
+    <citations>
+      <citation type="res" url="./adopted/2024-94.pdf">Res. No. 2024-94</citation>
+    </citations>
+    <history>
+      <adopted>2024-09-09</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is empowered to "administer any funds within the control of the Band" pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(j)">Article V, §1(j)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board is further empowered to "regulate, by enactment of ordinances, the conduct of business within the territory of the band" pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V § 1(n)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board recognizes that there are emergencies and situations where Tribal Members may need immediate financial assistance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board, in accordance with the Tribal General Welfare Exclusion Act of 2014 Section 139E, established the LCOTCL <cite doc="Lac Courte Oreilles Tribal Code of Law" path="GWE.1" proof="needed">GWE.1</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the <cite doc="Lac Courte Oreilles Tribal Code of Law" path="GWE.1" proof="needed">GWE.1</cite> allows for tribal funds be made available to Tribal Members through various safe harbor benefits programs in accordance with Department of Treasury and Internal Revenue Service Published Revenue Procedure 2014-35; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board enacted the General Welfare Services Immediate Assistance Funds Ordinance <cite doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-19">Resolution No. 2023-19</cite>, also known as the <cite doc="Lac Courte Oreilles Tribal Code of Law" path="GWE.2" proof="needed">GWE.2</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board on April 15, 2024, approved to remove Section 2 of the GWE Subchapter and recategorize; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the enactment of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="GWE.2" proof="needed">GWE.2</cite> as drafted and adopted is contrary to the General Exclusion Act of 2014 Section 139E, <cite doc="Lac Courte Oreilles Tribal Code of Law" path="GWE.1" proof="needed">GWE.1</cite> and Louis D. Taylor v. James Schlender Jr. 23-CV-287; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board does not support the continuance of Tribal Governing Board Members having a quarterly allowance to distribute at that Members discretion as such distributions are not considered safe harbor benefits under the General Welfare Act; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board does not want tribal members to be financially liable for funds received through Tribal Governing Board members that is not eligible for income tax exclusion; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board will establish an approved emergency funds and other immediate assistance for tribal members via an articulated program that is available for all eligible tribal members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board will further establish a Committee that will oversee the emergency assistance program to ensure that funds are properly distributed to tribal members and such distributions are not overseen by Tribal Governing Board members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board shall require a majority consensus of four for any expenditures from the Donations Account and any other Tribal Fund pursuant to the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(j)">Article V,§1(j)</cite> which mandates that "[n]o payment of expenditures shall be made unless such payment conforms with a duly approved Tribal budget."</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Tribal Governing Board hereby repeals the recently recategorized <cite doc="Lac Courte Oreilles Tribal Code of Law" path="GWE.2" proof="needed">GWE.2</cite> to allow for Tribal Governing Board compliance with the applicable governing laws.  Any and all expenditures shall require a majority consensus of four from the Tribal Governing Board.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>7</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>9<sup>th</sup> day of September, 2024</u></strong>9th day of September, 2024, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>3</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
