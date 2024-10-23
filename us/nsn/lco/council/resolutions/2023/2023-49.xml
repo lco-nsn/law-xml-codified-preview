@@ -43,7 +43,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.5.1.020|(b)">subsection (b)</cite> to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.5.1.020">TCT.5.1.020</cite> as follows:</text>
+    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.5.1.020|(b)">subsection (b)</cite> to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.5.1.020">TCT.5.1.020</cite> as follows:</text>
     <include>
       <para>
         <codify:replace path="|TCT.5.1.020|(b)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TCT.5.1.020|(b)"/>
@@ -54,7 +54,7 @@
   </section>
   <section>
     <num>2</num>
-    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§TCT.5.3.090|(e)|(1)">subsection TCT.5.3.090(e)(1)</cite> as follows:</text>
+    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.5.3.090|(e)|(1)">subsection TCT.5.3.090(e)(1)</cite> as follows:</text>
     <include>
       <para>
         <num>(e)</num>

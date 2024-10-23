@@ -43,7 +43,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.040|(a)">Section VEH.4.3.040(a)</cite> as follows:</text>
+    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.3.040|(a)">Section VEH.4.3.040(a)</cite> as follows:</text>
     <include>
       <para>
         <codify:replace path="|VEH.4.3.040|(a)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.3.040|(a)"/>
@@ -54,25 +54,25 @@
   </section>
   <section>
     <num>2</num>
-    <text>To remove the word "City" from the title in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.070">Section VEH.4.3.070</cite>.</text>
+    <text>To remove the word "City" from the title in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.3.070">Section VEH.4.3.070</cite>.</text>
     <codify:replace path="|VEH.4.3.070|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.3.070">
       <heading>Northwoods Beach Limits</heading>
     </codify:replace>
   </section>
   <section>
     <num>3</num>
-    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.070">Section VEH.4.3.070</cite> as follows:</text>
+    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.3.070">Section VEH.4.3.070</cite> as follows:</text>
     <include>
-      <text>The roads in the Northwoods Beach residential area may be used by Tribally registered ATV/UTV users pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.030">VEH.4.4.030</cite>.</text>
+      <text>The roads in the Northwoods Beach residential area may be used by Tribally registered ATV/UTV users pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.4.030">VEH.4.4.030</cite>.</text>
     </include>
     <codify:find-replace path="|VEH.4.3.070" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.3.070">
       <find>The roads in the Northwoods beach residential area may be used by residential owners for the limited purpose of the accessing marked ATV/UTV trails in close proximity to the residential homes.</find>
-      <replace>The roads in the Northwoods Beach residential area may be used by Tribally registered ATV/UTV users pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.030">VEH.4.4.030</cite>.</replace>
+      <replace>The roads in the Northwoods Beach residential area may be used by Tribally registered ATV/UTV users pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.4.030">VEH.4.4.030</cite>.</replace>
     </codify:find-replace>
   </section>
   <section>
     <num>4</num>
-    <text>To remove the following from <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.3.070">Section VEH.4.3.070</cite>:</text>
+    <text>To remove the following from <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.3.070">Section VEH.4.3.070</cite>:</text>
     <include>
       <text>Nothing in this section shall be construed as permission of the tribe for ATV/UTV and the tribe and all agents are not liable for the use of ATV/UTV operations under this section.</text>
     </include>
@@ -83,7 +83,7 @@
   </section>
   <section>
     <num>5</num>
-    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.010">Section VEH.4.4.010</cite> as follows:</text>
+    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.4.010">Section VEH.4.4.010</cite> as follows:</text>
     <include>
       <text>A duly appointed and designated Lac Courte Oreilles Tribal Police Officer, and the Lac Courte Oreilles Conservation Wardens, are authorized to enforce the provisions of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4">this chapter</cite> and to cite individuals for violation thereof into Tribal Court.</text>
     </include>
@@ -94,7 +94,7 @@
   </section>
   <section>
     <num>6</num>
-    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.020" proof="needed">Section VEH.4.4.020</cite> by including the word "have" as follows:</text>
+    <text>To amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.4.020" proof="needed">Section VEH.4.4.020</cite> by including the word "have" as follows:</text>
     <include>
       <text>The Tribal Court shall have personal and subject matter jurisdiction…..</text>
     </include>
@@ -105,7 +105,7 @@
   </section>
   <section>
     <num>7</num>
-    <text>To add three sections to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.4.030">VEH.4.4.030</cite> as follows:</text>
+    <text>To add three sections to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.4.030">VEH.4.4.030</cite> as follows:</text>
     <include>
       <para>
         <codify:insert path="|VEH.4.4.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030"/>
@@ -115,18 +115,18 @@
       <para>
         <codify:insert path="|VEH.4.4.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030"/>
         <num>(g)</num>
-        <text>Falsification of ATV/UTV use permit is subject to all penalties included in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.5.010">VEH.4.5.010</cite>.</text>
+        <text>Falsification of ATV/UTV use permit is subject to all penalties included in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.5.010">VEH.4.5.010</cite>.</text>
       </para>
       <para>
         <codify:insert path="|VEH.4.4.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.4.030"/>
         <num>(h)</num>
-        <text>The illegal transfer of ATV/UTV permit is subject to all penalties included in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.5.010">VEH.4.5.010</cite>.</text>
+        <text>The illegal transfer of ATV/UTV permit is subject to all penalties included in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.5.010">VEH.4.5.010</cite>.</text>
       </para>
     </include>
   </section>
   <section>
     <num>8</num>
-    <text>To add the words "outside of" to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§VEH.4.5.010|(b)">Section VEH.4.5.010(b)</cite> as follows:</text>
+    <text>To add the words "outside of" to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|VEH.4.5.010|(b)">Section VEH.4.5.010(b)</cite> as follows:</text>
     <include>
       <text>…and remove the vehicle outside of the Reservation boundary.</text>
     </include>

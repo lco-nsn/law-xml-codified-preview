@@ -8,8 +8,8 @@
         <volume start="GNC"/>
       </volumes>
     </print>
-    <recency through="2024-09-09">
-      <doc id="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" type="resolution"/>
+    <recency through="2024-10-17">
+      <doc id="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" type="resolution"/>
     </recency>
   </meta>
   <heading>Lac Courte Oreilles Tribal Code of Law</heading>
@@ -27,7 +27,7 @@
       <text class="center">
         <strong>Preamble</strong>
       </text>
-      <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to: "engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people" and pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(j)">Article V, §1(j)</cite> "to administer any funds within  the control of the Band; to make expenditures from available funds for public purposes…All expenditures by the Governing Board shall be in accord with a previously approved budget, and the amount so paid shall be a matter of public record at all times." As such the Tribal Governing Board adopts this Ordinance to memorialize and confirm existing procedures used in the administration of general welfare assistance programs and services and is not to be construed as the creation of new general welfare assistance rights that previously did not exist. Assistance provided prior to the enactment of this Ordinance is hereby ratified and confirmed as general welfare assistance pursuant to the authority of the Tribal Constitution. It is intended to establish a framework to improve the coordination of general welfare doctrine compliance. Programs and Services referred to herein must be authorized by independent action of the Tribe or its designees.</text>
+      <text>This Ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to: "engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people" and pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(j)">Article V, §1(j)</cite> "to administer any funds within  the control of the Band; to make expenditures from available funds for public purposes…All expenditures by the Governing Board shall be in accord with a previously approved budget, and the amount so paid shall be a matter of public record at all times." As such the Tribal Governing Board adopts this Ordinance to memorialize and confirm existing procedures used in the administration of general welfare assistance programs and services and is not to be construed as the creation of new general welfare assistance rights that previously did not exist. Assistance provided prior to the enactment of this Ordinance is hereby ratified and confirmed as general welfare assistance pursuant to the authority of the Tribal Constitution. It is intended to establish a framework to improve the coordination of general welfare doctrine compliance. Programs and Services referred to herein must be authorized by independent action of the Tribe or its designees.</text>
       <container>
         <prefix>Subchapter</prefix>
         <num>GWE.1.1</num>
@@ -35,47 +35,51 @@
         <section>
           <num>GWE.1.1.010</num>
           <heading>Title</heading>
-          <text>This ordinance shall be known as the General Welfare Exclusion Ordinance of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians (hereinafter "Tribe").</text>
+          <text>This Ordinance shall be known as the General Welfare Exclusion Ordinance of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians (hereinafter "Tribe").</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.1.020</num>
           <heading>Authority</heading>
-          <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h)</cite> and (j) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people" and pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(j)">Article V, §1(j)</cite> "to administer any funds within  the control of the Band; to make expenditures from available funds for public purposes…All expenditures by the Governing Board shall be in accord with a previously approved budget, and the amount so paid shall be a matter of public record at all times." On September 18, 2014, the Tribal General Welfare Exclusion Act of 2014 passed both houses of Congress, and was signed into law on September 29, 2014. The Tribal Governing Board now expressly embraces the forgoing principles as an integral part of this Ordinance and as guiding principles in construing the Tribe's compliance with Code Section 139E, the Safe Harbor Rules, and the General Test. The assistance payments and services authorized by this Ordinance are intended to qualify for favorable tax treatment under the general welfare doctrine to the fullest extent permitted by law and shall be construed accordingly.</text>
+          <text>This Ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(j)">(j)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people" and pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(j)">Article V, §1(j)</cite> "to administer any funds within  the control of the Band; to make expenditures from available funds for public purposes…All expenditures by the Governing Board shall be in accord with a previously approved budget, and the amount so paid shall be a matter of public record at all times." On September 18, 2014, the Tribal General Welfare Exclusion Act of 2014 passed both houses of Congress, and was signed into law on September 29, 2014. The Tribal Governing Board now expressly embraces the forgoing principles as an integral part of this Ordinance and as guiding principles in construing the Tribe's compliance with Code Section 139E, the Safe Harbor Rules, and the General Test. The assistance payments and services authorized by this Ordinance are intended to qualify for favorable tax treatment under the general welfare doctrine, generally, and Code Section 139E, specifically, to the fullest extent permitted by law and shall be construed accordingly.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.1.030</num>
           <heading>Purpose</heading>
-          <text>This ordinance:</text>
+          <text>This Ordinance:</text>
           <para>
             <num>(a)</num>
             <text>The purpose of this Ordinance is to further empower Tribal self-determination.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>The Tribal Governing Board have a long history of providing critical benefits to Tribal Members, and these programs are fundamental to the sovereignty and cultural integrity of the Tribe. The Tribe, and not the IRS, are in the best position to determine the needs of their members and provide for the general welfare of their tribal citizens and communities.</text>
+            <text>The Tribal Governing Board has a long history of providing critical benefits to Tribal Members, and these programs are fundamental to the sovereignty and cultural integrity of the Tribe. The Tribe is in the best position to determine the needs of its members and provide for the general welfare of its tribal citizens and communities.</text>
           </para>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.1.040</num>
           <heading>Effective Date</heading>
-          <text>Except as otherwise provided in specific sections, the provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
+          <text>Except as otherwise provided in specific sections, the provisions of this Ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.1.050</num>
           <heading>Interpretation</heading>
-          <text>The provisions of this ordinance:</text>
+          <text>The provisions of this Ordinance:</text>
           <para>
             <num>(a)</num>
             <text>Shall be liberally construed in favor of the Tribe as the Indian General Welfare Exclusion Act requires that "any ambiguities in new Code section 139E shall resolved by the IRS in favor of Indian Tribal governments and deference shall be given to Indian Tribal governments for programs administered and authorized by the Tribe to benefit the general welfare of the Tribal community."</text>
@@ -90,22 +94,52 @@
           </para>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.1.060</num>
           <heading>Severability and Non-Liability</heading>
-          <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a Court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
+          <text>If any section, provision or portion of this Ordinance is adjudged unconstitutional or invalid by a Court of competent jurisdiction, the remainder of this Ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this Ordinance.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.1.070</num>
           <heading>Repeal of Inconsistent Tribal Ordinances</heading>
-          <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
+          <text>All Ordinances and resolutions inconsistent with this Ordinance are hereby repealed. To the extent that this Ordinance imposes greater restrictions than those contained in any other tribal law, code, Ordinance or regulation, the provisions of this Ordinance shall govern.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.1.1.080</num>
+          <heading>Ratification of Prior Acts</heading>
+          <text>This Ordinance is intended to memorialize and confirm existing procedures used in the administration of general welfare assistance programs and services. Assistance provided prior to the enactment of this Ordinance is hereby ratified and confirmed as general welfare assistance and intended to satisfy the requirement needed for the General Welfare Exclusion to apply.</text>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.1.1.090</num>
+          <heading>Federal Trust Fund Obligations; Executive Orders</heading>
+          <text>The Tribe reserves the right to provide Assistance including circumstances where federal funding is insufficient to operate federal programs designed to benefit Tribal Members and when federal funding is insufficient to adequately and consistently fulfill federal trust obligations. The Tribe's adoption of Approved Programs is not intended to relieve or diminish the federal government of its funding and trust responsibilities. Nothing herein shall waive the Tribe's right to seek funding shortfalls or to enforce the trust rights of the Tribe and its Members. The Tribe shall be entitled to government-to-government consultation and coordination rights regarding this Ordinance.</text>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.1.1.100</num>
+          <heading>Governing Law</heading>
+          <text>All rights and liabilities associated with the enactment of this Ordinance, or the Assistance made hereunder shall be construed and enforced according to the laws of the Tribe.</text>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -116,7 +150,7 @@
         <section>
           <num>GWE.1.2.010</num>
           <heading>General Definitions</heading>
-          <text>Any term not defined in <cite path="|GWE.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+          <text>Any term not defined in <cite path="|GWE.1.2.010" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this Ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
           <para>
             <num>(a)</num>
             <text><strong>"Assistance" </strong>means any Program benefits or payments that qualify for tax free treatment under the General Welfare Exclusion.</text>
@@ -131,7 +165,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text><strong>"Compensation"</strong> for services should reflect that qualifying Programs are not disguised employment. However, this shall not prevent the Tribe  from structuring Programs with community service ties so long as such ties are consistent with the General Welfare Exclusion. For example, Programs similar to the Workforce Investment Act may include tax free Assistance.</text>
+            <text><strong>"Compensation"</strong> for services should reflect that qualifying Programs are not disguised employment. However, this shall not prevent the Tribe from structuring Programs with community service eligibility requirements so long as such eligibility requirements are consistent with the General Welfare Exclusion. For example, Programs similar to the Workforce Investment Act may include tax free Assistance.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -143,11 +177,15 @@
           </para>
           <para>
             <num>(g)</num>
-            <text><strong>"General Welfare Exclusion"</strong> means assistance shall be treated as non-taxable so long as it satisfies the requirements under Code Section 139E, it is provided under a Safe Harbor Program, or it meets the General Test.</text>
+            <text><strong>"Dependent"</strong> has the same meaning as the term is used in Code Section 139E.</text>
           </para>
           <para>
             <num>(h)</num>
-            <text><strong>"General Test" </strong>means assistance will be treated as meeting the General Test under the General Welfare Exclusion if the benefits are:</text>
+            <text><strong>"General Welfare Exclusion"</strong> means Assistance shall be treated as non-taxable so long as it satisfies the requirements under Code Section 139E.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><strong>"General Test" </strong>means Assistance will be treated as meeting the General Test under the General Welfare Exclusion if the benefits are:</text>
             <para>
               <num>(1)</num>
               <text>paid by or on behalf of a Tribe,</text>
@@ -162,55 +200,60 @@
             </para>
             <para>
               <num>(4)</num>
-              <text>are not Compensation for services or per capita payments.</text>
+              <text>are not compensation for services or per capita payments.</text>
             </para>
           </para>
           <para>
-            <num>(i)</num>
+            <num>(j)</num>
             <text><strong>"Lavish" or "Extravagant"</strong> Except as otherwise required for compliance with final guidance issued under Code Section 139E following consultation, lavish and extravagant shall be determined by the Tribal Governing Board in its sole discretion based on all facts and circumstances, taking into account needs unique to the Tribe as well as the social purpose being served by the particular Assistance at hand.</text>
           </para>
           <para>
-            <num>(j)</num>
-            <text><strong>"Ordinance"</strong> means the General Welfare Ordinance.</text>
-          </para>
-          <para>
             <num>(k)</num>
-            <text><strong>"Pay"</strong> or "<strong>Paid" </strong>or "<strong>Payment</strong>" means pay or reimbursement in whole or in part.</text>
+            <text><strong>"Member" or "Tribal Member"</strong> means an enrolled member of the Tribe and such other individuals who may be treated as members for Assistance as determined by the Tribal Governing Board in accordance with the laws, customs, and traditions of the Tribe.</text>
           </para>
           <para>
             <num>(l)</num>
-            <text><strong>"Program"</strong> or "<strong>Approved Program</strong>" means any program established by or under authority of the Tribal Governing Board, including any program authorized through the annual budget process, to provide Assistance hereunder. A program shall not fail to be treated as an Indian tribal government Program solely by reason of the Program being established by tribal custom or government practice.</text>
+            <text><strong>"Ordinance"</strong> means the General Welfare Ordinance.</text>
           </para>
           <para>
             <num>(m)</num>
-            <text><strong>"Promotion of the General Welfare"</strong> or "<strong>Social Benefit</strong>" should reflect a goal or goals established by the Tribal Governing Board for the promotion of the general welfare of the Tribe, for example, in furtherance of tribal self-determination, culture and tradition.</text>
+            <text><strong>"Pay"</strong> or "<strong>Paid" </strong>or "<strong>Payment</strong>" means pay or reimbursement in whole or in part.</text>
           </para>
           <para>
             <num>(n)</num>
-            <text><strong>"Qualified Nonmember"</strong> means a spouse, former spouse, legally recognized domestic partner or former domestic partner, ancestor, descendant, or Dependent of a member of the Tribe. Individual Tribal Programs may, but are not required to, cover Qualified nonmembers.</text>
+            <text><strong>"Program"</strong> or "<strong>Approved Program</strong>" means any program established by or under authority of the Tribal Governing Board, including any program authorized through the annual budget process, to provide Assistance hereunder. Programs may have community service eligibility requirements to become eligible for the Assistance. The community service eligibility requirements are not employment, and the Assistance is not compensation. A program shall not fail to be treated as an Indian tribal government Program solely by reason of the Program being established by tribal custom or government practice.</text>
           </para>
           <para>
             <num>(o)</num>
-            <text><strong>"Reservation"</strong> means the reservation of the Lac Courte Oreille Reservation boundaries or, if the context so permits, any other Indian reservation as defined in Internal Revenue Code Section 162(j).</text>
+            <text><strong>"Promotion of the General Welfare"</strong> or "<strong>Social Benefit</strong>" should reflect a goal or goals established by the Tribal Governing Board for the promotion of the general welfare of the Tribe, for example, in furtherance of tribal self-determination, culture and tradition.</text>
           </para>
           <para>
             <num>(p)</num>
-            <text><strong>"Safe Harbor Program"</strong> shall refer to a Program that meets the safe harbor requirements set forth herein and IRS Revenue Procedure 2014-35, as the same may hereafter be amended. Need shall be presumed for Assistance provided under a Safe Harbor Program.</text>
+            <text><strong>"Qualified Nonmember"</strong> means a spouse, former spouse, legally recognized domestic partner or former domestic partner, ancestor, descendant, or Dependent of a member of the Tribe.</text>
           </para>
           <para>
             <num>(q)</num>
-            <text><strong>"Service Area"</strong> has the same meaning as in 25 C.F.R. Section 20.100.</text>
+            <text><strong>"Reservation"</strong> means the reservation of the Lac Courte Oreille Reservation boundaries or, if the context so permits, any other Indian reservation as defined in Code Section 168(j)6.</text>
           </para>
           <para>
             <num>(r)</num>
-            <text><strong>"Spouse"</strong> shall be determined in accordance with Tribal laws, customs and traditions.</text>
+            <text><strong>"Safe Harbor Program"</strong> shall refer to a Program that meets the safe harbor requirements set forth herein and IRS Revenue Procedure 2014-35 (and Notice 2015-34, which allowed for continued reliance after Tribal General Welfare Exclusion Act enactment), as the same may hereafter be amended. Need shall be presumed for Assistance provided under a Safe Harbor Program.</text>
           </para>
           <para>
             <num>(s)</num>
+            <text><strong>"Service Area"</strong> has the same meaning as in 25 C.F.R. Section 20.100.</text>
+          </para>
+          <para>
+            <num>(t)</num>
+            <text><strong>"Spouse"</strong> shall be determined in accordance with Tribal laws, customs and traditions.</text>
+          </para>
+          <para>
+            <num>(u)</num>
             <text><strong>"Tribal Governing Board"</strong>  means Lac Courte Oreilles Tribal Governing Board</text>
           </para>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -220,24 +263,26 @@
         <heading>Indian General Welfare Benefits (Code Section 139E)</heading>
         <section>
           <num>GWE.1.3.010</num>
-          <heading>. Non-Binding Designation</heading>
-          <text>General welfare services and payments hereunder are paid from assets of Tribal Governing Board; all payments are based on budget availability, and the Tribal Governing Board  does not guarantee any payments hereunder. Benefits paid hereunder on the basis of need shall not be treated as a resource of the Member for any purpose. The Tribal Governing Board reserves the right to cancel, adjust, modify or revoke any benefits that are treated as a resource of the Tribal Member.</text>
+          <heading>Non-Binding Designation</heading>
+          <text>Assistance provided for hereunder are paid from assets of the Tribal Governing Board; all Assistance is based on budget availability, and the Tribal Governing Board does not guarantee any Assistance hereunder. Assistance paid hereunder on the basis of need shall not be treated as a resource of the Member for any purpose. The Tribal Governing Board reserves the right to cancel, adjust, modify, or revoke any Assistance that is treated as a resource of the Tribal Member.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.3.020</num>
           <heading>Indian General Welfare Benefits (Code Section 139E)</heading>
-          <text>Programs that meet the following criteria for exemption under Code Section 139E shall be treated as non-taxable Assistance under the General Welfare Exclusion without the applicant having to demonstrate individual need.</text>
+          <text>Programs providing Assistance meeting the criteria for exemption under Code Section 139E shall not require a demonstration of individual need.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.3.030</num>
           <heading>General Criteria for Qualification Under Code 139E</heading>
-          <text>Each payment must be made or service provided to or on behalf of a Member (or any Spouse or Dependent of the Member) pursuant to a Program under this Ordinance shall be treated as non-taxable Assistance under the General Welfare Exclusion so long as the following criteria are met:</text>
+          <text>The Assistance provided to or on behalf of a Member (or any Spouse or Dependent of the Member) pursuant to a Program under this Ordinance shall be treated as non-taxable Assistance under the General Welfare Exclusion so long as the following criteria are met:</text>
           <para>
             <num>(a)</num>
             <text>The Program is administered under specified guidelines and does not discriminate in favor of the members of the governing body of the Tribe;</text>
@@ -260,6 +305,7 @@
           </para>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -268,6 +314,7 @@
           <text>Any items of cultural significance, reimbursement of costs, or cash honorarium for participation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as Compensation for services.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -276,6 +323,7 @@
           <text>Code Section 139E is effective for Assistance in taxable years for which the period of limitations on a refund or credit under Code Section 6511 has not expired. If the period of limitation on a refund or credit resulting from the application of Code Section 139E (a) would otherwise expire before the one-year period beginning on the date of the enactment of Code Section 139E, a refund or credit (to the extent attributed thereto) may be made or allowed if a claim is filed before the close of such one-year period.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -284,6 +332,7 @@
           <text>Programs that meet the following general criteria for safe harbor treatment, and provide qualifying safe harbor benefits, shall be treated as non-taxable Assistance under the General Welfare Exclusion without the applicant having to demonstrate individual need.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -292,36 +341,37 @@
           <text>Each Safe Harbor Program shall satisfy the following general criteria:</text>
           <para>
             <num>(a)</num>
-            <text>The benefit is provided under a specific Approved Program of the Tribe</text>
+            <text>The Assistance is provided under a specific Approved Program of the Tribe</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>The Program has written guidelines specifying how individuals may qualify for the benefit;</text>
+            <text>The Program has written guidelines specifying how individuals may qualify for the Assistance;</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>The benefit is available to any tribal member, Qualified Nonmember, or identified group of Tribal Members or Qualified Nonmembers who satisfy the Program guidelines, subject to budgetary restraints;</text>
+            <text>The Assistance is available to any Tribal Member, Qualified Nonmember, or identified group of Tribal Members or Qualified Nonmembers who satisfy the Program guidelines, subject to budgetary restraints;</text>
           </para>
           <para>
             <num>(d)</num>
-            <text>The distribution of benefits from the Program does not discriminate in favor of the governing body of the Tribe;</text>
+            <text>The distribution of Assistance from the Program does not discriminate in favor of the governing body of the Tribe;</text>
           </para>
           <para>
             <num>(e)</num>
-            <text>The benefit is not Compensation for services; and</text>
+            <text>The Assistance is not Compensation for services; and</text>
           </para>
           <para>
             <num>(f)</num>
-            <text>The benefit is not Lavish or Extravagant under the facts and circumstances</text>
+            <text>The Assistance is not Lavish or Extravagant under the facts and circumstances</text>
           </para>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.3.080</num>
           <heading>Qualifying Safe Harbor Benefits</heading>
-          <text>The following benefits may be provided under a Safe Harbor Program. The benefits listed in the parenthetical language herein are illustrative only, rather than an exhaustive list. Thus, a benefit may qualify for exclusion from gross income as a Safe Harbor Program even though the benefit is not expressly described in the parenthetical language herein, provided that it meets all other requirements of Article VI and Revenue Procedure 2014-35 (as may be amended):</text>
+          <text>The following Assistance may be provided under a Safe Harbor Program. The Assistance listed herein is illustrative only, rather than an exhaustive list. Thus, an Assistance may qualify for exclusion from gross income as a Safe Harbor Program even though the Assistance is not expressly described in the parenthetical language herein, provided that it meets all other requirements of <cite path="GWE.1.5">GWE.1.5</cite> and Revenue Procedure 2014-35 (as may be amended):</text>
           <para>
             <num>(a)</num>
             <text>Housing programs. Programs relating to principal residences and ancillary structures that are not used in any trade or business, or for investment purposes that:</text>
@@ -427,7 +477,7 @@
             </para>
             <para>
               <num>(4)</num>
-              <text>Pay costs for temporary relocation and shelter for individuals displaced from their homes (including but not limited to situations in which a home is destroyed by a fire or natural disaster).</text>
+              <text>Pay costs for temporary relocation and shelter for individuals involuntarily displaced from their homes (including but not limited to situations in which a home is destroyed by a fire or natural disaster).</text>
             </para>
             <para>
               <num>(5)</num>
@@ -444,6 +494,16 @@
           </para>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.1.3.090</num>
+          <heading>Non-Safe Harbor Programs</heading>
+          <text>Nothing in this ordinance or the IRS guidance shall limit the Tribe's right to develop non-safe harbor Programs.</text>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -453,10 +513,11 @@
         <heading>Programs Meeting the General Test</heading>
         <section>
           <num>GWE.1.4.010</num>
-          <heading>Programs Meeting the General Test</heading>
-          <text>Programs that do not qualify for non-taxable treatment under Code Section 139E or under an IRS Safe Harbor, will nonetheless be treated as non-taxable if Program benefits meet the General Test for treatment under the General Welfare Exclusion. For purposes of the General Test only, needs must be shown in one manor described in <cite path="GWE.1.4.020">GWE.1.4.20</cite> or <cite path="GWE.1.4.030">GWE.1.4.030</cite>.</text>
+          <heading>Tax Treatment of Non-Safe Harbor Programs</heading>
+          <text>Any non-safe harbor program developed by the Tribe will be treated as non-taxable if they meet the requirements of Code Section 139E set forth in <cite path="GWE.1.3.030" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96">GWE.1.3.030</cite>.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -465,14 +526,16 @@
           <text>Individual Needs. Certain Programs may be based on individual need, rather than an overall need of the Tribe. For those Programs, the Tribal Governing Board may establish income guidelines unique to the Tribe or may use readily available income guidelines used by state or federal programs to demonstrate individual or family need. When individual or family need must be shown, the Program may take into account individual circumstances or extraordinary need to overcome presumptions based on income alone.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.4.030</num>
           <heading>Community Needs</heading>
-          <text>Certain Programs may be based on community needs, which are so important to the self-determination, culture and traditions of the Tribe that Assistance may be deemed necessary regardless of individual income or wealth. For example, states provide public education to all citizens regardless of individual income or wealth. Some Programs may address both individual and community-based needs. The Tribal Governing Board reserves the right to require any applicant applying for consideration based on non-financial or community-based needs to demonstrate how the Program benefits will benefit the tribal community as a whole, including preservation of culture, tradition and self-determination. Approval based on non-financial need criteria is made on a facts and circumstances basis and will be guided by traditional values and culture. A Program will be deemed to be based on community or non-financial needs if so designated by the Tribal Governing Board.</text>
+          <text>Certain Programs may be based on community needs, which are so important to the self-determination, culture and traditions of the Tribe that Assistance may be deemed necessary regardless of individual income or wealth. For example, states provide public education to all citizens regardless of individual income or wealth. Some Programs may address both individual and community-based needs. The Tribal Governing Board reserves the right to require any applicant applying for consideration based on non-financial or community-based needs to demonstrate how the Program benefits will benefit the tribal community as a whole, including preservation of culture, tradition and self-determination. Approval based on non-financial need criteria is made on a facts and circumstances basis and will be guided by traditional values and culture. A Program may be deemed to be based on community or non-financial needs if so designated by the Tribal Governing Board.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -481,58 +544,101 @@
           <text>All Assistance disbursed pursuant to this Ordinance shall be designed to promote the general welfare, self-determination, culture and tradition of the Tribe. The Tribal Governing Board shall establish objectives for the furtherance of the general welfare, self-determination, culture and tradition of the Tribe and assess progress on said objectives in connection with its budgeting and/or strategic planning process. Approved Programs shall be renewed, established, modified, or terminated based upon the needs of the Tribe as compared to the objectives set by the Tribal Governing Board from time to time hereunder. All Programs hereunder shall provide a social benefit for the promotion of the general welfare of the Band and be limited to purposes consistent with treatment under this Ordinance. Such purposes may include, for example, and not by way of limitation, assistance for medical care, food, shelter, health, education, subsistence, housing, elder and disabled care, assistance to meet cultural, traditional and religious needs of the Tribe and its membership, and assistance to promote self-sufficiency, self-determination, Tribal image, entrepreneurship, and the employment of Tribal Members. Designation by the Tribal Governing Board if a Program as falling under this Ordinance shall be conclusive evidence that the Tribal Governing Board, following a good faith review of Tribal needs and goals, has determined that said Program is established to achieve a social benefit and to promote the general welfare of the Tribe.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.4.050</num>
           <heading>Eligibility and Application Procedures</heading>
           <text>Each approved Program shall set forth the specific eligibility rules and limitations applied to that Program. Each designated department shall present program descriptions, which include eligibility rules and limitations, along with application forms and procedures, for approval by the Tribal Governing Board or its designee. Only those descriptions, application forms and procedures which are approved by the Tribal Governing Board or its designee shall be in force and effect. Program guidelines may limit benefits to an identified group of Members or Qualified Nonmembers, as applicable. All Programs may be limited by budget availability. In the absence of specific Program guidelines to the contrary, all Programs shall be deemed to incorporate eligibility criteria necessary for compliance with Code Section 139E.</text>
-          <text>All Assistance disbursed or provided pursuant to this Ordinance must be used for the purpose stated in the approved Program description, and any application for the applicable Assistance. The Tribe or its designee shall keep books or records deemed appropriate to demonstrate compliance with the Ordinance. Recipients of benefits hereunder are responsible for maintaining books or records as may be required for substantiation to the IRS for individual income tax purposes. In the event that Assistance payments and/or services are used or pledged for a purpose inconsistent with the purpose set forth in the applicable approved Program or the Member's application, the Tribal Governing Board or designee may require the repayment of the welfare assistance payment. The Tribal Governing Board or designee is authorized to offset any other payments owed to a Tribal member if such an offset is necessary to secure repayment of a welfare assistance payment in accordance with <cite path="GWE.1.4.030">this Section</cite>.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.4.060</num>
-          <heading>Limitations on Welfare Assistance Payments</heading>
-          <text>The Tribal Governing Board, within its annual budgets, by resolution or by motion, may adopt guidelines establishing the maximum Assistance payments to be made to Tribal members for certain specified purposes or programs or may delegate the establishment of such limitations to the program level. Such guidelines may also include, by way of example, factors to be considered in determining whether deviations from the general payment limitations should be permitted. Departments charged with administering particular programs may be delegated authority to adopt program guidelines to the extent not contrary to the overall guidelines and limitations established by the Tribal Governing Board. In no event shall Assistance be lavish or extravagant.</text>
+          <heading>Assistance Program Compliance</heading>
+          <text>All general assistance payments disbursed or provided pursuant to this Ordinance must be used for the purpose stated in the approved Program description, and any application for the applicable general assistance payments. The Tribe or its designee shall keep books or records deemed appropriate to demonstrate compliance with the Ordinance. Recipients of benefits hereunder are responsible for maintaining books or records as may be required for substantiation to the IRS for individual income tax purposes. In the event that general assistance payments and/or services are used or pledged for a purpose inconsistent with the purpose set forth in the applicable approved Program or the Member's application, the Tribal Governing Board or designee may require the repayment of the welfare assistance payment. The Tribal Governing Board or designee is authorized to offset any other payments owed to a Tribal member if such an offset is necessary to secure repayment of a welfare assistance payment in accordance with <cite path="GWE.1.4.060">this Section</cite>.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.4.070</num>
-          <heading>Annual Budgeting: Unfunded Program</heading>
-          <text>The Tribal Governing Board, through its annual budgeting process, by resolution or by motion, shall designate those funding sources that are available for the payment of Assistance benefits. Notwithstanding anything to the contrary, the Assistance payments authorized hereunder shall be “unfunded” for tax purposes and no Beneficiary shall have an interest in or right to any funds budgeted for or set aside for Assistance payments until actually paid. Assistance benefits shall remain assets of the Tribe until distributed, and the Approved Programs shall be administered to avoid premature taxation through the doctrines of constructive receipt and/or economic benefit.</text>
+          <heading>Limitations on Welfare Assistance Payments</heading>
+          <text>The Tribal Governing Board, within its annual budgets, by resolution, may adopt guidelines establishing the maximum Assistance payments to be made to Tribal members for certain specified purposes or programs or may delegate the establishment of such limitations to the program level. Such guidelines may also include, by way of example, factors to be considered in determining whether deviations from the general payment limitations should be permitted. Departments charged with administering particular programs may be delegated authority to adopt program guidelines to the extent not contrary to the overall guidelines and limitations established by the Tribal Governing Board. In no event shall Assistance be lavish or extravagant.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.4.080</num>
-          <heading>Forfeiture</heading>
-          <text> Notwithstanding anything herein to the contrary, Assistance benefits may be revoked or forfeited for any Beneficiary who is found to have misapplied program funds or to have made any misrepresentations during the application process. Assistance may also be forfeited should said benefits be treated as a resource to the detriment of the Tribe or a Beneficiary. The Tribe shall have a right of recovery with regard to any excess or improper payments hereunder.</text>
+          <heading>Annual Budgeting: Unfunded Program</heading>
+          <text>The Tribal Governing Board, through its annual budgeting process, by resolution or by motion, shall designate those funding sources that are available for the payment of Assistance benefits. Notwithstanding anything to the contrary, the Assistance payments authorized hereunder shall be “unfunded” for tax purposes and no Beneficiary shall have an interest in or right to any funds budgeted for or set aside for Assistance payments until actually paid. Assistance benefits shall remain assets of the Tribe until distributed, and the Approved Programs shall be administered to avoid premature taxation through the doctrines of constructive receipt and/or economic benefit.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.4.090</num>
-          <heading>Programs Not Limited to Means Testing</heading>
-          <text>Programs that qualify under Code Section 139E or the IRS Safe Harbor shall not require a showing of individual need or means testing in order to achieve non-taxable treatment under the General Welfare Exclusion. The Tribe also reserves the right to provide community-based Programs and Programs based on non-financial need under the General Test that are not individually means tested. The Tribe recognizes that means testing can distort certain tribal cultural and community values. The Tribe has participated in consultation with the United States Treasury Department and IRS and will evaluate Programs periodically as guidance is further developed through consultation with the Tribe.</text>
+          <heading>Forfeiture</heading>
+          <text> Notwithstanding anything herein to the contrary, Assistance benefits may be revoked or forfeited for any Beneficiary who is found to have misapplied program funds or to have made any misrepresentations during the application process. Assistance may also be forfeited should said benefits be treated as a resource to the detriment of the Tribe or a Beneficiary. The Tribe shall have a right of recovery with regard to any excess or improper payments hereunder.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
         <section>
           <num>GWE.1.4.100</num>
+          <heading>Programs Not Limited to Means Testing</heading>
+          <text>Programs that qualify under Code Section 139E shall not require a showing of individual need or means testing in order to achieve non-taxable treatment under the General Welfare Exclusion. The Tribe also reserves the right to provide community-based Programs and Programs based on non-financial need under the General Test that are not individually means tested. The Tribe recognizes that means testing can distort certain tribal cultural and community values. The Tribe has participated in consultation with the United States Treasury Department and IRS and will evaluate Programs periodically as guidance is further developed through consultation with the Tribe.</text>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.1.4.110</num>
           <heading>Other Tax Exemptions</heading>
           <text>Notwithstanding anything herein to the contrary, the Tribe reserves the right to waive income limits or needs basis criteria, to the extent otherwise applicable, for expenditures that otherwise qualify for tax exemptions including tax exemptions under Titles 25 or 26 of the United States Code so long as the conditions for exemption are met. Without limitation, this includes Member medical benefits exempt under Section 9021 of the Patient Protection and Affordable Care Act of 2010 (Code Section 139D) and per capita expenses exempt under 25 U.S.C. Sections 1407 and 1408.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.1.4.120</num>
+          <heading>Benefits Shall Not be Treated as an Entitlement</heading>
+          <text>The Programs authorized pursuant to this Ordinance are not entitlement programs. The Tribe has made or may make provisions to fund the Programs by establishing the funds for the Programs within the Tribal budget, but the Program may be changed or eliminated as determined to be necessary or appropriate.  No Tribal Member or his or her estate has any vested interest in potential or unused benefits available under the Programs. Receipt of benefits or Program resources does not create a vested right in the Members, the Member's household, their estate or their lawful heirs. Further, a Tribal Member's rights and eligibility to receive Assistance under this Ordinance are not subject to anticipation, alienation, sale, transfer, assignment, pledge, encumbrance, or attachment of the Tribal Member or his or her beneficiaries.</text>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.1.4.130</num>
+          <heading>Government-to-Government Relationship: Executive Order 13175</heading>
+          <text>Coordination with the IRS and the United States Department of the Treasury on general welfare matters shall be grounded on a government-to-government relationship that recognizes the unique relationship between the federal government and the tribal government. The federal government, as a result of its treaty obligations and trust responsibility, as committed to providing education, housing, clean water, and many other basic needs for the Tribe. Through a conscientious shift in policy in recent decades, the federal government has encouraged the Tribe itself to provide for such needs in partnership with the federal government and, increasingly in recent years, instead of the federal government. Essential to the government-to-government relationship is mutual respect and deference to the Tribal governance decisions. Future consultations on general welfare matters should reflect these concerns and the fact that the Tribal government, through its own policy setting process, is best situated to determine the needs of the Tribe and its Members and the appropriate policy solutions. All references to Executive Order 13175 shall include any future amendments thereto.</text>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <num>GWE.1.4.140</num>
+          <heading>Privacy; Information Sharing</heading>
+          <text>The Tribe will maintain records regarding sensitive Tribal and Tribal Member matters, including Tribal customs, religion, and traditions, confidential from third party disclosures to the fullest extent permitted by law. If information is requested by IRS or other governmental agencies or third parties during a compliance review or examination, disclosures shall be limited to the extent necessary and required by law pending an effort to address such requests through consultation and other rights under Executive Order 13175 on a government-to-government basis. Confidential Tribal information shall not be shared in a manner that would open up additional disclosure, for example, under the information sharing agreements the recipient may be subject to or under the Freedom of Information Act.</text>
+          <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
           </annotations>
         </section>
       </container>
+      <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
     </container>
     <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
     <container>
@@ -724,7 +830,7 @@
         <section>
           <num>ITP.1.2.010</num>
           <heading>General Definitions</heading>
-          <text>Any term not defined in <cite path="§ITP.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+          <text>Any term not defined in <cite path="|ITP.1.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
           <para>
             <num>(a)</num>
             <text><strong>"Agent"</strong> shall mean a person who is authorized to act on behalf of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians with respect to a specific transaction or transactions. For the purposes of this ordinance, agent shall include all individuals elected or appointed to serve on a board, committee, or commission of the Tribe.</text>

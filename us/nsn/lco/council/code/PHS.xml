@@ -2238,7 +2238,7 @@
       <section>
         <num>PHS.4.2.010</num>
         <heading>General Definitions.</heading>
-        <text>Any term not defined in <cite path="§PHS.4.2.010">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <text>Any term not defined in <cite path="|PHS.4.2.010">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
         <para>
           <num>(a)</num>
           <text><strong>"Administrative expenses" </strong>for the appropriation under means expenditures for the direct costs and indirect costs of administering.</text>
@@ -2305,7 +2305,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><cite path="PHS.4">This chapter</cite> applies to the inspection, testing, and maintenance of all fire safety features as specified in <cite path="PHS.4">this chapter</cite>, for all buildings within the LCO Reservation. In <cite path="§PHS.4.3.010">this section</cite>, "home occupation" means any business, profession, trade or employment conducted in a person's dwelling unit, that may involve the person's immediate family or household and a maximum of one other unrelated person, but does not involve any of the following:</text>
+          <text><cite path="PHS.4">This chapter</cite> applies to the inspection, testing, and maintenance of all fire safety features as specified in <cite path="PHS.4">this chapter</cite>, for all buildings within the LCO Reservation. In <cite path="|PHS.4.3.010">this section</cite>, "home occupation" means any business, profession, trade or employment conducted in a person's dwelling unit, that may involve the person's immediate family or household and a maximum of one other unrelated person, but does not involve any of the following:</text>
           <para>
             <num>(1)</num>
             <text>Explosives, fireworks or repair of motor vehicles.</text>

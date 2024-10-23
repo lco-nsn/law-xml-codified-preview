@@ -39,7 +39,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.010|(c)">Subsection (c)</cite> to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.010">PRP.7.3.010</cite> as follows:</text>
+    <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(c)">Subsection (c)</cite> to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010">PRP.7.3.010</cite> as follows:</text>
     <include>
       <para>
         <num>(c)</num>
@@ -65,7 +65,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The Tribal Governing Board may pursuant to <cite path="§TCT.1.3.020" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-48">Section TCT.1.3.020</cite> grant a limited waiver of sovereign immunity of the Housing Authority thereby allowing the Housing Authority to be sued in its corporate name, upon any contract, claim or obligation arising out of its activities under this ordinance and thereby authorizes the Housing Authority the option to agree to such a duly issued Tribal Governing Board Resolution to a limited waiver of immunity from suit which it may not otherwise have; but the Tribe expressly does not waive its immunity from suit and shall not be liable for the debts or obligations of the Housing Authority.</text>
+          <text>The Tribal Governing Board may pursuant to <cite path="|TCT.1.3.020" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-48">Section TCT.1.3.020</cite> grant a limited waiver of sovereign immunity of the Housing Authority thereby allowing the Housing Authority to be sued in its corporate name, upon any contract, claim or obligation arising out of its activities under this ordinance and thereby authorizes the Housing Authority the option to agree to such a duly issued Tribal Governing Board Resolution to a limited waiver of immunity from suit which it may not otherwise have; but the Tribe expressly does not waive its immunity from suit and shall not be liable for the debts or obligations of the Housing Authority.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -96,7 +96,7 @@
           </para>
           <para>
             <num>(6)</num>
-            <text>To borrow or lend money, to issue temporary or long-term evidence of indebtedness and to repay the same.  Obligations shall be issued and repaid in accordance with the provisions of <cite path="§PRP.7.3.030" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-48">Section PRP.7.3.030</cite> of this ordinance.</text>
+            <text>To borrow or lend money, to issue temporary or long-term evidence of indebtedness and to repay the same.  Obligations shall be issued and repaid in accordance with the provisions of <cite path="|PRP.7.3.030" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-48">Section PRP.7.3.030</cite> of this ordinance.</text>
           </para>
           <para>
             <num>(7)</num>
@@ -160,7 +160,7 @@
   </section>
   <section>
     <num>2</num>
-    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.010|(a)">PRP.7.3.010 (a)</cite> Housing Authority as follows:</text>
+    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(a)">PRP.7.3.010 (a)</cite> Housing Authority as follows:</text>
     <include>
       <para>
         <codify:replace path="|PRP.7.3.010|(a)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.010|(a)"/>
@@ -171,7 +171,7 @@
   </section>
   <section>
     <num>3</num>
-    <text>Add the word "tribal" to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.010|(f)|(2)">PRP.7.3.010(f)(2)</cite> as follows:</text>
+    <text>Add the word "tribal" to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(f)|(2)">PRP.7.3.010(f)(2)</cite> as follows:</text>
     <include>
       <para>
         <num>(2)</num>
@@ -187,7 +187,7 @@
   </section>
   <section>
     <num>4</num>
-    <text>Add "enrolled" and "of the tribe" to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(a)|(1)">Section PRP.7.3.015 (a)(1)</cite> Board of Commissioners as follows:</text>
+    <text>Add "enrolled" and "of the tribe" to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(a)|(1)">Section PRP.7.3.015 (a)(1)</cite> Board of Commissioners as follows:</text>
     <include>
       <para>
         <num>(1)</num>
@@ -203,7 +203,7 @@
   </section>
   <section>
     <num>5</num>
-    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(a)|(2)">Section PRP.7.3.015(a)(2)</cite> as follows:</text>
+    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(a)|(2)">Section PRP.7.3.015(a)(2)</cite> as follows:</text>
     <include>
       <para>
         <codify:replace path="|PRP.7.3.015|(a)|(2)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.015|(a)|(2)"/>
@@ -214,7 +214,7 @@
   </section>
   <section>
     <num>6</num>
-    <text>Replace the term "member" with "Commissioner" in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(a)|(3)">Section PRP.7.3.015(a)(3)</cite>,<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(a)|(4)">(4)</cite>, and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(a)|(5)">(5)</cite> as follows:</text>
+    <text>Replace the term "member" with "Commissioner" in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(a)|(3)">Section PRP.7.3.015(a)(3)</cite>,<cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(a)|(4)">(4)</cite>, and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(a)|(5)">(5)</cite> as follows:</text>
     <include>
       <para>
         <num>(3)</num>
@@ -250,7 +250,7 @@
   </section>
   <section>
     <num>7</num>
-    <text>Replace the term "member" with "Commissioner" in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(b)">Section PRP.7.3.015(b)</cite> as follows:</text>
+    <text>Replace the term "member" with "Commissioner" in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(b)">Section PRP.7.3.015(b)</cite> as follows:</text>
     <include>
       <para>
         <num>(b)</num>
@@ -266,7 +266,7 @@
   </section>
   <section>
     <num>8</num>
-    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(c)">Section PRP.7.3.015(c)</cite> as follows:</text>
+    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(c)">Section PRP.7.3.015(c)</cite> as follows:</text>
     <include>
       <para>
         <codify:replace path="|PRP.7.3.015|(c)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.015|(c)"/>
@@ -277,7 +277,7 @@
   </section>
   <section>
     <num>9</num>
-    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(d)">Section PRP.7.3.015(d)</cite> as follows:</text>
+    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(d)">Section PRP.7.3.015(d)</cite> as follows:</text>
     <include>
       <para>
         <codify:replace path="|PRP.7.3.015|(d)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.015|(d)"/>
@@ -288,7 +288,7 @@
   </section>
   <section>
     <num>10</num>
-    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(e)">Section PRP.7.3.015(e)</cite> as follows:</text>
+    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(e)">Section PRP.7.3.015(e)</cite> as follows:</text>
     <include>
       <para>
         <codify:replace path="|PRP.7.3.015|(e)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.015|(e)"/>
@@ -299,7 +299,7 @@
   </section>
   <section>
     <num>11</num>
-    <text>Replace the term "Chairperson"  with "Chair" in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(f)">Section PRP.7.3.015(f)</cite>.</text>
+    <text>Replace the term "Chairperson"  with "Chair" in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(f)">Section PRP.7.3.015(f)</cite>.</text>
     <codify:replace path="|PRP.7.3.015|(f)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.015|(f)">
       <para>
         <num>(f)</num>
@@ -309,7 +309,7 @@
   </section>
   <section>
     <num>12</num>
-    <text>Add and Redesignate <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(f)">Section PRP.7.3.015(f)</cite> as <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(g)">PRP.7.3.015(g)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(g)">PRP.7.3.015(g)</cite> shall read as follows:</text>
+    <text>Add and Redesignate <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(f)">Section PRP.7.3.015(f)</cite> as <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(g)">PRP.7.3.015(g)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(g)">PRP.7.3.015(g)</cite> shall read as follows:</text>
     <codify:remove path="|PRP.7.3.015|(g)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.015"/>
     <codify:remove path="|PRP.7.3.015|(h)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.015"/>
     <include>
@@ -378,7 +378,7 @@
   </section>
   <section>
     <num>13</num>
-    <text>Amend and redesignate <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(g)">Section PRP.7.3.015(g)</cite> to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(h)">PRP.7.3.015(h)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(h)">PRP.7.3.015(h)</cite> shall read as follows:</text>
+    <text>Amend and redesignate <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(g)">Section PRP.7.3.015(g)</cite> to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(h)">PRP.7.3.015(h)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(h)">PRP.7.3.015(h)</cite> shall read as follows:</text>
     <include>
       <para>
         <num>(h)</num>
@@ -392,7 +392,7 @@
   </section>
   <section>
     <num>14</num>
-    <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.015|(j)">Section PRP.7.3.015(j)</cite> to read as follows:</text>
+    <text>Add <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.015|(j)">Section PRP.7.3.015(j)</cite> to read as follows:</text>
     <include>
       <para>
         <codify:insert path="|PRP.7.3.015" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.015|(j)"/>
@@ -403,9 +403,9 @@
   </section>
   <section>
     <num>15</num>
-    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.030">Section PRP.7.3.030</cite> to read as follows:</text>
+    <text>Amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.030">Section PRP.7.3.030</cite> to read as follows:</text>
     <include>
-      <text>The Executive Director shall be hired by the Tribal Governing Board and shall have the day-to-day responsibilities and duties for the operation of the Housing Authority. The Executive Director shall work in conjunction with the Board of Commissioners and the Tribal Governing Board on all matters related to the daily operations and strategic operations of the Housing Authority. The Executive Director shall have those powers as stated in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.030">this section</cite>:</text>
+      <text>The Executive Director shall be hired by the Tribal Governing Board and shall have the day-to-day responsibilities and duties for the operation of the Housing Authority. The Executive Director shall work in conjunction with the Board of Commissioners and the Tribal Governing Board on all matters related to the daily operations and strategic operations of the Housing Authority. The Executive Director shall have those powers as stated in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.030">this section</cite>:</text>
     </include>
     <codify:find-replace path="|PRP.7.3.030" count="1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.030">
       <find>The Executive Director shall be hired by the Tribal Governing Board and act in an advisory capacity to the Tribal Governing Board and the Board of Commissioners and </find>
@@ -414,7 +414,7 @@
   </section>
   <section>
     <num>16</num>
-    <text>Amend, Add, and Redesignate <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.030|(a)|(1)">Section PRP.7.3.030(a)(1)</cite>-<cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.030|(a)|(8)">(8)</cite> as follows:</text>
+    <text>Amend, Add, and Redesignate <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.030|(a)|(1)">Section PRP.7.3.030(a)(1)</cite>-<cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.030|(a)|(8)">(8)</cite> as follows:</text>
     <include>
       <para>
         <codify:replace path="|PRP.7.3.030|(a)|(1)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.030|(a)|(1)"/>
@@ -449,7 +449,7 @@
       <para>
         <codify:insert path="|PRP.7.3.030|(a)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.030|(a)|(7)"/>
         <num>(7)</num>
-        <text>To provide advice as directed by the Tribal Governing Board or requested by the Board of Commissioners on matters relevant to the Housing Authority and the purposes defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§PRP.7.3.030|(a)|(8)">Section PRP.7.3.030(a)(8)</cite> of this ordinance.</text>
+        <text>To provide advice as directed by the Tribal Governing Board or requested by the Board of Commissioners on matters relevant to the Housing Authority and the purposes defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.030|(a)|(8)">Section PRP.7.3.030(a)(8)</cite> of this ordinance.</text>
       </para>
       <para>
         <codify:insert path="|PRP.7.3.030|(a)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.3.030|(a)|(8)"/>

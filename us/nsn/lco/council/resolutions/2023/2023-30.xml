@@ -130,7 +130,7 @@
         <section>
           <num>MCC.2.1.090</num>
           <heading>Open Meetings.</heading>
-          <text>All Board meetings shall be open to all Tribal Members as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.2.010|(m)">MCC.2.2.010(m)</cite> with the exception of Executive Sessions as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.2.010|(e)">MCC.2.2.010(e)</cite>.</text>
+          <text>All Board meetings shall be open to all Tribal Members as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.2.010|(m)">MCC.2.2.010(m)</cite> with the exception of Executive Sessions as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.2.010|(e)">MCC.2.2.010(e)</cite>.</text>
         </section>
       </container>
       <container>
@@ -140,7 +140,7 @@
         <section>
           <num>MCC.2.2.010</num>
           <heading>General Definitions.</heading>
-          <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.2.010">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+          <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.2.010">this Section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
           <para>
             <num>(a)</num>
             <text><strong>"Absolute Majority Vote"</strong> means a vote at a Regular or Special Meeting of either:</text>
@@ -179,11 +179,11 @@
           </para>
           <para>
             <num>(f)</num>
-            <text><strong>"General Membership Meeting" </strong>means a meeting of the Board held in the manner prescribed by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.2.4">Subchapter MCC.2.4</cite> of this ordinance where a quorum of the Board, as defined by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.2.010|(h)">MCC.2.2.010(h)</cite>, is present.</text>
+            <text><strong>"General Membership Meeting" </strong>means a meeting of the Board held in the manner prescribed by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="MCC.2.4">Subchapter MCC.2.4</cite> of this ordinance where a quorum of the Board, as defined by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.2.010|(h)">MCC.2.2.010(h)</cite>, is present.</text>
           </para>
           <para>
             <num>(g)</num>
-            <text><strong>"Other Business" </strong>means all matters not identified by the pre-meeting agenda in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.3.040">MCC.2.3.040</cite> or by waiver of the notice required by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.3.030">MCC.2.3.030</cite>.</text>
+            <text><strong>"Other Business" </strong>means all matters not identified by the pre-meeting agenda in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.3.040">MCC.2.3.040</cite> or by waiver of the notice required by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.3.030">MCC.2.3.030</cite>.</text>
           </para>
           <para>
             <num>(h)</num>
@@ -195,7 +195,7 @@
           </para>
           <para>
             <num>(j)</num>
-            <text><strong>"Regular Order of Business" </strong>means the order in which matters come before the Board are taken up as prescribed by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.3.040">MCC.2.3.040</cite>.</text>
+            <text><strong>"Regular Order of Business" </strong>means the order in which matters come before the Board are taken up as prescribed by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.3.040">MCC.2.3.040</cite>.</text>
           </para>
           <para>
             <num>(k)</num>
@@ -285,13 +285,13 @@
           <para>
             <num>(h)</num>
             <text>Adjournment</text>
-            <text>The Board may address all matters not identified in the pre-meeting agenda as other business or by waiver of the notice required by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.3.030">MCC.2.3.030</cite>.</text>
+            <text>The Board may address all matters not identified in the pre-meeting agenda as other business or by waiver of the notice required by <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.3.030">MCC.2.3.030</cite>.</text>
           </para>
         </section>
         <section>
           <num>MCC.2.3.050</num>
           <heading>Majority Vote Required.</heading>
-          <text>The Board shall conduct all business of the Tribe through the passage of motions and resolutions. The passage of motions and resolutions shall be by majority vote as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.2.010|(a)">MCC.2.2.010(a)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.2.010|(k)">(k)</cite>. An absolute majority vote is required for passage when the subject matter under consideration involves the tribal budget, land purchases, enrollment decisions, the Tribe's gaming compact, and agreements binding the Tribe for over five (5) years and/or in which the purchase price or value of goods exceeds $100,000.00. All other subject matters under consideration are allowed to pass by a simple majority vote. Meetings shall be conducted in accordance with the Constitution and Bylaws, and this ordinance.</text>
+          <text>The Board shall conduct all business of the Tribe through the passage of motions and resolutions. The passage of motions and resolutions shall be by majority vote as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.2.010|(a)">MCC.2.2.010(a)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.2.010|(k)">(k)</cite>. An absolute majority vote is required for passage when the subject matter under consideration involves the tribal budget, land purchases, enrollment decisions, the Tribe's gaming compact, and agreements binding the Tribe for over five (5) years and/or in which the purchase price or value of goods exceeds $100,000.00. All other subject matters under consideration are allowed to pass by a simple majority vote. Meetings shall be conducted in accordance with the Constitution and Bylaws, and this ordinance.</text>
         </section>
         <section>
           <num>MCC.2.5.060</num>
@@ -316,7 +316,7 @@
         <section>
           <num>MCC.2.4.010</num>
           <heading>General Membership Meetings.</heading>
-          <text>The Board shall conduct a general meeting at least one (1) time per year to report to the membership the state of the Tribe. The Board may, at its own discretion, have additional general meetings, but there shall be compliance with notice requirements pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.4.010">this section</cite>.</text>
+          <text>The Board shall conduct a general meeting at least one (1) time per year to report to the membership the state of the Tribe. The Board may, at its own discretion, have additional general meetings, but there shall be compliance with notice requirements pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.4.010">this section</cite>.</text>
         </section>
         <section>
           <num>MCC.2.4.020</num>
@@ -393,7 +393,7 @@
         <section>
           <num>MCC.2.5.030</num>
           <heading>Majority Vote Required.</heading>
-          <text>All decisions of the Board upon motions made at a special meeting shall be by majority vote as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.2.010|(l)">MCC.2.2.010(l)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.2.010|(k)">(k)</cite> except as otherwise provided by the Constitution and Bylaws.</text>
+          <text>All decisions of the Board upon motions made at a special meeting shall be by majority vote as defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.2.010|(l)">MCC.2.2.010(l)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.2.010|(k)">(k)</cite> except as otherwise provided by the Constitution and Bylaws.</text>
         </section>
         <section>
           <num>MCC.2.5.040</num>
@@ -417,12 +417,12 @@
           <para>
             <num>(b)</num>
             <heading>To Go into Executive Session.</heading>
-            <text>This motion is used to close the meetings to non-Board Members (except those who have the consent of the Board) as per <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.2.010|(e)">MCC.2.2.010(e)</cite>. Once this motion is made, the Chairman shall ask for the motion to be seconded. If this motion is seconded, the Chairman shall call for a vote, and upon passing with a majority, the Chairman shall announce that the Board is now meeting in executive session and take the necessary steps to assure that non-Board Members are not present. Non-Board Members shall not be present once the Chairman has announced that the Board is now meeting in executive session.</text>
+            <text>This motion is used to close the meetings to non-Board Members (except those who have the consent of the Board) as per <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.2.010|(e)">MCC.2.2.010(e)</cite>. Once this motion is made, the Chairman shall ask for the motion to be seconded. If this motion is seconded, the Chairman shall call for a vote, and upon passing with a majority, the Chairman shall announce that the Board is now meeting in executive session and take the necessary steps to assure that non-Board Members are not present. Non-Board Members shall not be present once the Chairman has announced that the Board is now meeting in executive session.</text>
           </para>
           <para>
             <num>(c)</num>
             <heading>To Leave Executive Session.</heading>
-            <text>This motion is used to close the executive session and open the meeting to non-Board Members pre <cite doc="Lac Courte Oreilles Tribal Code of Law" path="§MCC.2.1.090">MCC.2.1.090</cite>. Once this motion is made, the Chairman shall ask for the motion to be seconded. If this motion is seconded, the Chairman shall call for a vote, and upon passing with a majority, the Chairman shall announce that the meeting is now open.</text>
+            <text>This motion is used to close the executive session and open the meeting to non-Board Members pre <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|MCC.2.1.090">MCC.2.1.090</cite>. Once this motion is made, the Chairman shall ask for the motion to be seconded. If this motion is seconded, the Chairman shall call for a vote, and upon passing with a majority, the Chairman shall announce that the meeting is now open.</text>
           </para>
           <para>
             <num>(d)</num>

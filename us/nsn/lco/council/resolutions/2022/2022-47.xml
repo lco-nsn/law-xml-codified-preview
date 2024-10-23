@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-47" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2022-47</num>
+  <heading>Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law Title XI Property American Rescue Plan Act Homeowner Assistance Fund Policies and Procedures</heading>
+  <meta>
+    <effective>2022-05-17</effective>
+    <history>
+      <adopted>2022-05-17</adopted>
+    </history>
+    <citatations/>
+    <citations>
+      <citation type="res" url="./adopted/2022-47.pdf">Res. No. 2022-47</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians ("Tribe") is a federally recognized Indian tribe organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. § 461, el seq.; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, Section 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, Section 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1">Article V, Section 1</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "To engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Homeowner Assistance Fund (HAF) was established under section 3206 of the American Rescue Plan Act of 2021 (the ARP) to mitigate financial hardships associated with the coronavirus pandemic by providing funds to eligible entities for the purpose of preventing homeowner mortgage delinquencies, defaults, foreclosures, loss of utilities or home energy services, and displacements of homeowners experiencing financial hardship after January 21, 2020, through qua! ified expenses related to mortgages and housing; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe enacted Title XI - Chapter 9, Homeowner Assistance Fund Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians by Resolution No. 2022-08; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Policies must be amended to serve eligible tribal members whose income exceeds that required for participation in the HAF program;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>Title XI, Chapter 9 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law ·'Homeowner Assistance Fund Policies and Procedures" shall be amended as follows:</text>
+      <text>
+        <strong>§ 9.405 <u>Eligibility Requirements.</u></strong>
+      </text>
+      <text>
+        <strong>
+          <u>ADD</u>
+        </strong>
+      </text>
+      <text>
+        <strong>
+          <u>(4) Eligible applicants whose income exceeds 150% of the area median income will be assisted with the Homeowner Assistance Program set-aside of the Tribe's ARPA funds.</u>
+        </strong>
+      </text>
+      <text>
+        <strong>
+          <u>SUBCHAPTER 9.6 - HAF PROGRAM PARTICIPATION</u>
+        </strong>
+      </text>
+      <text>
+        <strong>§ 9.601 <u>Documentation.</u></strong>
+      </text>
+      <text>Once an Applicant is approved for participation in the HAF Program, they must      submit information and documentation of the qualified expenses for which they are seeking HAF Program Funds.<strong><u>ADD Documentation requirements, other than that required for general eligibility, do not apply to those applicants whose income exceeds 150% of the area median income.</u></strong></text>
+    </recital>
+  </recitals>
+  <codify:replace path="|PRP.9.4.050" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.4.050">
+    <section>
+      <num>PRP.9.4.050</num>
+      <heading>Eligibility Requirements</heading>
+      <text>In order to be eligible to apply for the HAF Program, at the time the Applicant applies to the HAF Program, the Applicant must meet the following eligibility requirements:</text>
+      <para>
+        <num>(a)</num>
+        <text>The home must be located within the Lac Courte Oreilles Indian Reservation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The home must be a primary dwelling that has been owned and occupied prior to March 2020.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Dwellings that are finished after this date must be fully completed, occupied and operational.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Eligible applicants whose income exceeds 150% of the area median income will be assisted with the Homeowner Assistance Program set-aside of the Tribe's ARPA funds.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Land lots, non-primary dwelling, or dwelling under construction (initial construction) are not eligible for HAF funding under <cite path="PRP|PRP.9" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-47">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Applicant is a homeowner who has experienced a ﬁnancial hardship after January 21, 2020 and have an income equal to or less than 150% of the area median income.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Applicant attests to the nature of the ﬁnancial hardship experienced after January 21, 2020. The attestation must describe the nature of the ﬁnancial hardship (for example, job loss, reduction in income, or increased costs due to healthcare or the need to care for a family member).</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>HAF Program Funds received by an Applicant must only be used for qualiﬁed expenses set forth in these Policies and Procedures that are related to the Dwelling that is used as the homeowner's primary residence.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="|PRP.9.6.010" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.6.010">
+    <section>
+      <num>PRP.9.6.010</num>
+      <heading>Documentation</heading>
+      <text>Once an Applicant is approved for participation in the HAF Program, they must submit information and documentation of the qualiﬁed expenses for which they are seeking HAF Program Funds. Documentation requirements, other than that required for general eligibility, do not apply to those applicants whose income exceeds 150% of the area median income.</text>
+      <text>Applicants may initially submit the above information and documentation at the same time that they submit their initial program Application.</text>
+      <text>
+        <strong>For Mortgage Assistance:</strong>
+      </text>
+      <text>Same as general eligibility requirements, plus Statement of current inability to resume mortgage payments due to unemployment, underemployment or other continuing hardship. Documentation requirements: Evidence of total balance due, current unredacted past-due notice from servicer.</text>
+      <text>
+        <strong>Delinquent property taxes:</strong>
+      </text>
+      <text>Same as general eligibility requirements plus: Homeowner is at least one installment payment in arrears on one or more property tax charges. Documentation requirements: Evidence of total balance due: current property tax bill or invoice.</text>
+      <text>
+        <strong>Housing Stability Improvements:</strong>
+      </text>
+      <text>Same as general eligibility requirements, plus: (1) At the time repairs begin, homeowner is current on other secured home payment obligations, on an active payment plan or forbearance, and/or getting related HAF assistance for those obligations. Homeowner will be able to afford applicable payments necessary to sustain homeownership (mortgage, taxes, insurance, association dues, etc.) after repairs are completed, based on a financial analysis established at the reasonable discretion of Grantee. (2) Homeowner does not qualify for or has not been able to access affordable home repair financing (self-attestation of applicant's efforts will satisfy). The Tribe will determine, based on a reasonable analysis of homeowner needs data, that homeowners meeting certain criteria (e.g., income at or below a percentage of AMI) are presumed to meet this requirement without requiring homeowner attestation or documentation; and (3) Attestation of financial hardship that homeowner(s) has been impacted by COVID from January 21,2020 to present time.</text>
+    </section>
+  </codify:replace>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>17<sup>th</sup> day of May, 2022</u></strong>; that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>3</u></strong> members, <strong><u>0</u></strong> against, <strong><u>1</u></strong> abstaining, and that said Resolution has not been rescinded or amended in any way.</text>
+    <text>_______________________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
