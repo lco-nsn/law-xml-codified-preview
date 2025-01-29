@@ -103,7 +103,7 @@
         <text>Team members are permitted to share PTO with other Casino staff with approval of the Director/Manager and the Human Resource Director. Employees may cash-out PTO with the Manager and Human Resource Director's approval.</text>
       </section>
     </include>
-    <codify:replace path="PAP.9.7.070|(i)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.9.7.070|(i)">
+    <codify:replace path="PAP.9.7.070|(i)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.9.7.070">
       <para>
         <num>(i)</num>
         <text><u>Sharing of Personal Time Off</u>. Team members are permitted to share PTO with other Casino staff with approval of the Director/Manager and the Human Resource Director. Employees may cash-out PTO with the Manager and Human Resource Director's approval.</text>

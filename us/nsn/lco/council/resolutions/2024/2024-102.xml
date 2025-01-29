@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-102" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2024-102</num>
+  <heading>Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law PRP.9 "American Rescue Plan Act and Homeowner Assistance Fund Polices and Procedures" Amendments</heading>
+  <meta>
+    <effective>2024-10-22</effective>
+    <citations>
+      <citation type="res" url="./adopted/2024-102.pdf">Res. No. 2024-102</citation>
+    </citations>
+    <history>
+      <adopted>2024-10-22</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1">Article V, Section 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to "engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Homeowner Assistance Fund (HAF) was established under section 3206 of the American Rescue Plan Act of 2021 to mitigate financial hardships associated with the coronavirus pandemic by providing funds to eligible entities for the purpose of preventing homeowner mortgage delinquencies, defaults, foreclosures, loss of utilities or home energy services, and displacements of homeowners experiencing financial hardship after January 21, 2020, through qualified expenses related to mortgages and housing; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe enacted LCOTCL <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9">PRP.9</cite> by Resolution 2022-08; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the policies must be amended to include ARPA specific funding requirements and eligibility standards.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby shall amend the LCOTCL <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9">PRP.9</cite> as follows:</text>
+      <text>ADD to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.2.010">PRP.9.2.010</cite> "General Definitions" the following:</text>
+      <para>
+        <num>(o)</num>
+        <text>"Obligation" means a contract or purchase action such as a new contract, modification, change order, interagency agreement, interdepartmental agreement, application for services or benefits, purchase order or any customary means that obligates the Tribe to pay a contractor or vendor; provided, that such contract or purchase action is approved by the Tribal Governing Board or otherwise authorized by an individual to whom the Tribe has expressly delegated the authority to make such an obligation.</text>
+      </para>
+      <codify:replace path="PRP.9.2.010" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.2.010">
+        <section>
+          <num>PRP.9.2.010</num>
+          <heading>General Definitions</heading>
+          <text>Any term not defined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.9.2.010">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall apply to these Policies and Procedures and shall be construed to apply as follows, except where context indicates otherwise:</text>
+          <para>
+            <num>(a)</num>
+            <text><strong>"100% of the Area Median Income"</strong> for a household means two times the income limit for very low-income families, for the relevant household size, as published by the Department of Housing and Urban Development (HUD) in accordance with 42 U.S.C. 1437a(b)(2) for purposes of the HAF Program.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>"100% of the Median Income for the United States"</strong> means the median income of the United States, as published by HUD.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>"150% of the Area Median Income"</strong> for a household means three times the income limit for very low-income families, for the relevant household size, as published by HUD in accordance with 42 U.S.C. 1437a(b)(2) for purposes of the HAF Program.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>"Applicant"</strong> a homeowner who applies for assistance pursuant to this ordinance.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>"ARPA"</strong> means the American Rescue Plan Act.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>"ARPA Program Manager"</strong> means the person employed by the Lac Courte Oreilles Tribe to administer the American Rescue Act Plan programs on behalf of the Band.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><strong>"Broadband Internet Access Service"</strong> in <cite path="cfr 8.1" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-102">47 CFR 8.1</cite>(b) is "a mass market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service, but excluding dial-up internet access service. This term also encompasses any service that the [Federal Communications] Commission ﬁnds to be providing a functional equivalent of the service described in the previous sentence or that is used to evade the protections set forth in this part."</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><strong>"Conforming Loan Limit"</strong> means the applicable limitation governing the maximum original principal obligation of a mortgage secured by a single-family residence, a mortgage by a 2- family residence, a mortgage secured by a 3-family residence, or a mortgage secured by a 4- family residence, as determined and adjusted annually under section 302(b)(2) of the Federal Mortgage Association Charter Act (12 U.S.C. § 1717(b)(2) and section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 US.C. § 1454(a)(2).</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><strong>"COVID-19"</strong> the viral disease known as SARS- CoV-2.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text><strong>"Dwelling"</strong> means any building, structure, or portion thereof that is occupied as, or designed or intended for occupancy as, a residence by one or more individuals.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text><strong>"Eligibly Entity"</strong> under the Homeowner Assistance Fund means (1) a state, (2), the Department of Hawaiian Home Lands, (3) each Indian tribe (or, if applicable, the tribally designated housing entity of an Indian tribe) that was eligible for a grant under Title I of the Native American Housing Assistance and Self- Determination Act of 1996 (25 U.S.C. § 4111 et seq.) for ﬁscal year 2020, and (4) any Indian tribe that opted out of receiving a grant allocation under the Native American Housing Block Grants program formula in ﬁscal year 2020.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text><strong>"Eligible Homeowner"</strong> means for the purpose of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP|PRP.9">this chapter</cite>, an enrolled tribal member of the tribe and they own a pre-existing primary dwelling located on the reservation.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text><strong>"Financial Hardship"</strong> means a material reduction in income or material increase in living expenses associated with the coronavirus pandemic that has created or increased a risk of mortgage delinquency, mortgage default, foreclosure, loss of utilities or home energy services, or displacement for a homeowner.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>"<strong>Household</strong>" means for the purpose of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP|PRP.9">this chapter</cite> a family unit occupying a primary dwelling on the reservation of which the head of household, or the dwelling owner, must be an enrolled member of the tribe.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text><strong>"Indian Tribe"</strong> means a tribe that is a federally recognized tribe or a "State recognized tribe" as those terms are deﬁned in NAHASDA, 25 U.S.C. 4103(13).</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text><strong>"Mortgage"</strong> means any credit transaction (1) that is secured by a mortgage, deed of trust, or other consensual security interest on a principal residence of a borrower that is (a) a one- to four-unit Dwelling, or (b) a residential real property that includes a one- to four-unit Dwelling; and (2) the unpaid principal balance of which was, at the time of origination, not more than the conforming loan limit. For purposes of this deﬁnition, the conforming loan limit means the applicable limitation governing the maximum original principal obligation   of a mortgage secured by a single-family residence, a mortgage secured by a two-family residence, a mortgage secured by a three-family residence, or a mortgage secured by a four- family residence, as determined and adjusted annually under section 302(b)(2) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717(b)(2)) and section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)).</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <text><strong>"Obligation"</strong> means a contract or purchase action such as a new contract, modification, change order, interagency agreement, interdepartmental agreement, application for services or benefits, purchase order or any customary means that obligates the Tribe to pay a contractor or vendor; provided, that such contract or purchase action is approved by the Tribal Governing Board or otherwise authorized by an individual to whom the Tribe has expressly delegated the authority to make such an obligation.</text>
+          </para>
+          <para>
+            <num>(r)</num>
+            <text>"<strong>Primary Dwelling</strong>" means a residence or dwelling which is located on the reservation and is owned by an enrolled member of the tribe.</text>
+          </para>
+          <para>
+            <num>(s)</num>
+            <text>"<strong>Qualified Expenses</strong>" means any determination by the ARPA manger that is deemed compliant under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP|PRP.9">this chapter</cite> in furtherance of the purpose of the HAF program.  Expenses that are not eligible will be projects that cannot be competed under the terms of the chapter, including additional costs, extensive additional repairs beyond the scope of the original determination by the AARPA manager.</text>
+          </para>
+          <para>
+            <num>(t)</num>
+            <text>"<strong>Reasonable Repair</strong>' for the purposes of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP|PRP.9">this chapter</cite> a reasonable repair is a repair to a primary dwelling that is necessary for the safety and health of the occupants.  A repair that cannot be completed under the requirements of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP|PRP.9">this chapter</cite> shall be deemed to be unreasonable and thus not eligible. Repairs that require additional work outside the scope of the original repair is ineligible.  Any repairs that damage or otherwise leave the primary dwelling or building unsafe for the inhabitants shall be deemed ineligible.</text>
+          </para>
+          <para>
+            <num>(u)</num>
+            <text><strong>"Secretary"</strong> means the Secretary of the U.S. Department of Treasury, except where otherwise indicated.</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text><strong>"Socially Disadvantaged Individuals"</strong> means those who have been subject to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities. The social disadvantage must stem from circumstances beyond their control. There is a rebuttable presumption that the following individuals are socially disadvantaged: Black Americans, Hispanic Americans, Native Americans, and Asian Americans and Paciﬁc Islanders. In addition, an individual may be determined to be a socially disadvantaged individual in accordance with the procedures set forth in 13 C.F.R. <cite path="XI|124|124.1|124.103" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-102">§ 124.103</cite><cite path="XI|124|124.1|124.103|(c)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-102">(c)</cite> or <cite path="XI|124|124.1|124.103|(d)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-102">(d)</cite>.</text>
+          </para>
+          <para>
+            <num>(w)</num>
+            <text><strong>"State and Local Fiscal Recovery Funds"</strong> means the program that was established by sections 602 and section 603 of Title VI of the Social Security Act which provides support to State, local, territorial, and Tribal governments to mitigate the fiscal effects of the COVID-19 public health emergency.</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text><strong>"Treasury"</strong> means the U.S. Department of Treasury.</text>
+          </para>
+          <para>
+            <num>(y)</num>
+            <text><strong>"Tribal Member"</strong> means aa enrolled member of the Lac Courte Oreilles Indian Tribe.</text>
+          </para>
+          <para>
+            <num>(z)</num>
+            <text><strong>"Tribe"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+          </para>
+        </section>
+      </codify:replace>
+      <text>ADD the following to the end of the Preamble as follows: "as established under section 3206 of the American Rescue Plan Act of 2021(the ARPA) <em>and to the amended Title VI of the Social Security Act sections 602 and section 603 which established the State and Local Fiscal Recovery Funds (SLRF).</em>"</text>
+      <codify:find-replace path="PRP.9" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.1.010">
+        <find>as established under section 3206 of the American Rescue Plan Act of 2021 (the ARPA).</find>
+        <replace>as established under section 3206 of the American Rescue Plan Act of 2021 (the ARPA) and to the amended Title VI of the Social Security Act sections 602 and section 603 which established the State and Local Fiscal Recovery Funds (SLRF).</replace>
+      </codify:find-replace>
+      <text>ADD the following to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.1.030">PRP.9.1.030</cite> "Purpose" as follows: " received from the U.S. Treasury pursuant to Section 3206 of the American Rescue Plan Act of 2021, P.L.No. 117-2 (March 11, 2021) <em>and to the amended Title VI of the Social Security Act sections 602 and section 603 which established the State and Local Fiscal Recovery Funds.</em>"</text>
+      <codify:replace path="PRP.9.1.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.1.030">
+        <section>
+          <num>PRP.9.1.030</num>
+          <heading>Purpose</heading>
+          <text>It is the purpose of this ordinance to administer the HAF program in a manner that provides for the fair and equitable assistance to all eligible persons who apply for assistance, and provide a means to assure that the Tribe's actions are in full compliance with standards applicable to the Homeowner Assistance Funds ("HAF Program Funds") received from the U.S. Treasury pursuant to Section 3206 of the American Rescue Plan Act of 2021, P.L. No. 117-2 (March 11, 2021) and to the amended Title VI of the Social Security Act sections 602 and section 603 which established the State and Local Fiscal Recovery Funds.</text>
+        </section>
+      </codify:replace>
+      <text>AMEND the date of "September 30, 2026" to "December 31, 2026" in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.1.040">PRP.9.1.040</cite> "Application."</text>
+      <codify:replace path="PRP.9.1.040" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.1.040">
+        <section>
+          <num>PRP.9.1.040</num>
+          <heading>Application</heading>
+          <text>This ordinance shall govern all applications for assistance for HAF Program for qualified expenses that are only for the purpose of preventing homeowner mortgage delinquencies, homeowner mortgage defaults, homeowner mortgage foreclosures, homeowner loss of utilities or home energy services, and displacements of homeowners experiencing financial hardship.</text>
+          <text>Assistance to be provided under the HAF Program is subject to the availability of funds. No applicant or household determined to be eligible is entitled to or has a property right to receive funding under the HAF Program. When funding for the HAF Program is fully expended, the HAF Program will terminate and this ordinance shall be repealed. These Policies and Procedures are based on, and the HAF Program will be carried out, in reliance upon and in accordance with the April 14, 2021, guidance document from the Department of Treasury (entitled "Homeowner Assistance Fund Guidance"), along with any future modiﬁcation, clariﬁcation, or supplementation which the Treasury may provide. These Policies and Procedures, and the administration of the HAF Program shall be subject to change if and when additional guidance is provided.</text>
+          <text>The period of performance for the award of HAF funds begins on the date the Tribe's Financial Assistance Agreement was executed and ends on December 31, 2026. The Tribe shall not incur any obligations to be paid with the funding from this award after such period of performance ends.</text>
+        </section>
+      </codify:replace>
+      <text>ADD to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.2.010">PRP.9.2.010</cite> "General Definitions" the following:</text>
+      <para>
+        <num>(w)</num>
+        <text>"State and Local Fiscal Recovery Funds" means the program that was established by sections 602 and section 603 of Title VI of the Social Security Act which provides support to State, local, territorial, and Tribal governments to mitigate the fiscal effects of the COVID-19 public health emergency.</text>
+      </para>
+      <text>ADD to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.3.030">PRP.9.3.030</cite> "Responsibility of the ARPA Program Manager" as follows:</text>
+      <para>
+        <codify:insert path="PRP.9.3.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.3.030|(d)"/>
+        <num>(d)</num>
+        <text>to Ensure that all grant expenditures of the HAF Program are spent to maximize the available grant funds to the Program and in turn, to tribal members.</text>
+      </para>
+      <text>Remove the following phrase from <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.6.010">PRP.9.6.010</cite> "For Mortgage Assistance" as follows:</text>
+      <text>"Documentation requirements: Evidence of total balance due <s>current unredacted past due notice</s> from servicer."</text>
+      <codify:replace path="PRP.9.6.010" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.6.010">
+        <section>
+          <num>PRP.9.6.010</num>
+          <heading>Documentation</heading>
+          <text>Once an Applicant is approved for participation in the HAF Program, they must submit information and documentation of the qualiﬁed expenses for which they are seeking HAF Program Funds. Documentation requirements, other than that required for general eligibility, do not apply to those applicants whose income exceeds 150% of the area median income.</text>
+          <text>Applicants may initially submit the above information and documentation at the same time that they submit their initial program Application.</text>
+          <text>
+            <strong>For Mortgage Assistance:</strong>
+          </text>
+          <text>Same as general eligibility requirements, plus Statement of current inability to resume mortgage payments due to unemployment, underemployment or other continuing hardship. Documentation requirements: Evidence of total balance due from servicer.</text>
+          <text>
+            <strong>Delinquent property taxes:</strong>
+          </text>
+          <text>Same as general eligibility requirements plus: Homeowner is at least one installment payment in arrears on one or more property tax charges. Documentation requirements: Evidence of total balance due: current property tax bill or invoice.</text>
+          <text>
+            <strong>Housing Stability Improvements:</strong>
+          </text>
+          <text>Same as general eligibility requirements, plus: (1) At the time repairs begin, homeowner is current on other secured home payment obligations, on an active payment plan or forbearance, and/or getting related HAF assistance for those obligations. Homeowner will be able to afford applicable payments necessary to sustain homeownership (mortgage, taxes, insurance, association dues, etc.) after repairs are completed, based on a financial analysis established at the reasonable discretion of Grantee. (2) Homeowner does not qualify for or has not been able to access affordable home repair financing (self-attestation of applicant's efforts will satisfy). The Tribe will determine, based on a reasonable analysis of homeowner needs data, that homeowners meeting certain criteria (e.g., income at or below a percentage of AMI) are presumed to meet this requirement without requiring homeowner attestation or documentation; and (3) Attestation of financial hardship that homeowner(s) has been impacted by COVID from January 21,2020 to present time.</text>
+        </section>
+      </codify:replace>
+      <text>ADD <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.7.040|(b)">PRP.9.7.040(b)</cite> as follows:</text>
+      <para>
+        <num>(b)</num>
+        <text>The ARPA amended Title VI of the Social Security Act which added sections 602 and 603 that established the State and Local Fiscal Recovery Funds (SLRF).</text>
+      </para>
+      <codify:replace path="PRP.9.7.040" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.7.040">
+        <section>
+          <num>PRP.9.7.040</num>
+          <heading>Compliance with Applicable Laws and Regulations</heading>
+          <text>In carrying out the activities funded by the HAF Program Funds, the Tribe will comply with the following laws and regulations.</text>
+          <para>
+            <num>(a)</num>
+            <text>Section 3206 of the American Rescue Plan Act of 2021 relating to the HAF Program and any guidance on the HAF Program issued by Treasury.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The ARPA amended Title VI of the Social Security Act which added sections 602 and 603 that established the State and Local Fiscal Recovery Funds (SLRF).</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, 2 C.F.R. Part 200, other than such provisions as the Secretary may determine are inapplicable to the HAF Program Funds and subject to such exceptions as may be otherwise provided by the Secretary. Subpart F – Audit Requirements of the Uniform Guidance, implementing the Single Audit Act, shall apply to the HAF Program Funds.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Universal Identiﬁer and System for Award Management (SAM), 2 C.F.R. Part 25 and pursuant to which the award term set forth in Appendix A to 2 C.F.R. Part 25 is hereby incorporated by reference.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Reporting Subaward and Executive Compensation Information, 2 C.F.R. Part 170, pursuant to which the award term set forth in Appendix A to 2 C.F.R. Part 170 is hereby incorporated by reference.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>OMB Guidelines to Agencies on Governmentwide Debarment and Suspension (Nonprocurement), 2 C.F.R. Part 180 (including the requirement to include a term or condition in all lower tier covered transactions (contracts and subcontracts described in 2 C.F.R. Part 180, subpart B) that the award is subject to 2 C.F.R. Part 180 and the Treasury's implementing regulation at 31 C.F.R. Part 19.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Title VI of the Civil Rights Act of 1964 and the Fair Housing Act, which prohibit discrimination on the basis of race, color, national origin, sex, familial status, or disability, with the understanding, codiﬁed in regulation at <cite path="cfr 1000.12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-102">24 CFR 1000.12</cite>(d), that Tribes and TDHEs carrying out housing activities satisfy these requirements by their compliance with the Indian Civil Rights Act, 25 U.S.C. §§ 1301-1304 (ICRA), and with the further understanding that, as codiﬁed in 25 U.S.C. §§ 4114(b) and 4131(b), Tribes and TDHEs are permitted to use Indian and Tribal-speciﬁc preference in providing housing services, as well as in contracting and hiring.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>The non-discrimination requirements as applied under Section 504 of the Rehabilitation Act of 1973 and the Department of Housing and Urban Development implementing regulations at 24 CFR Part 8.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>The Age Discrimination Act of 1975, as amended (42 U.S.C. §§ 6101 et seq.) and the Treasury's implementing regulations at 31 C.F.R. Part 23, which prohibit discrimination on the basis of age in programs or activities receiving federal ﬁnancial assistance.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>Conﬂict of Interest. The Tribe agrees that it will maintain in effect a conﬂict of interest policy consistent with 2 C.F.R. <cite path="XI|200|200.3|200.318|(c)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-102">§ 200.318(c)</cite> covering each activity funded under this award. The Tribe shall disclose in writing to Treasury any potential conﬂicts of interest affecting the awarded funds in accordance with 2 C.F.R. <cite path="XI|200|200.1|200.112" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-102">§ 200.112</cite>.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>False Statements. The Tribe understands that false statements or claims made in connection with the HAF Program award is a violation of federal criminal law and may result in ﬁnes, imprisonment, debarment from participating in federal awards or contracts, and/or any other remedy available by law.</text>
+          </para>
+        </section>
+      </codify:replace>
+      <text>ADD to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.8.010">PRP.9.8.010</cite> "Use of Funds" as follows:</text>
+      <text>"…the Guidance for the Homeowner Assistance Fund issued by Treasury on April 14, 2021, as amended from time to time, <em>Title VI of the Social Security Act's section 602 and 603, Compliance and Reporting Guidance for SLRF, 31 CFR Part 35 Interim Rule for SLRF,</em> and any other guidance issued by the Treasury regarding HAF <em>and SLRF</em>."</text>
+      <codify:replace path="PRP.9.8.010" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.8.010">
+        <section>
+          <num>PRP.9.8.010</num>
+          <heading>Use of Funds</heading>
+          <text>The Tribe understands and agrees that the HAF Program Funds may only be used for the purposes set forth in Section 3206 of the American Rescue Plan Act of 2021 and the Guidance for the Homeowner Assistance Fund issued by Treasury on April 14, 2021, as amended from time to time, Title VI of the Social Security Act's section 602 and 603, Compliance and Reporting Guidance for SLRF, 31 CFR Part 35 Interim Rule for SLRF, and any other guidance issued by Treasury regarding the HAF and SLRF.</text>
+        </section>
+      </codify:replace>
+      <text>ADD to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.8.030">PRP.9.8.030</cite> "Program Limitations" the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>"…related to foreclosure prevention or displacement <em>unless allowable through SLRF funding.</em>"</text>
+      </para>
+      <codify:replace path="PRP.9.8.030|(a)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.8.030|(a)">
+        <para>
+          <num>(a)</num>
+          <text>Counseling or Educational Costs. The Tribe may not use more than 5% of the total amount of HAF Program Funds for counseling or educational efforts by housing counseling agencies approved by HUD, or legal services, targeted to households eligible to be served with funding from the HAF Program related to foreclosure prevention or displacement unless allowable through SLRF funding.</text>
+        </para>
+      </codify:replace>
+      <para>
+        <num>(B)</num>
+        <text>"…for qualified expenses, in an aggregate amount <em>unless allowable through SLRF funding.</em>"</text>
+      </para>
+      <codify:replace path="PRP.9.8.030|(b)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.8.030|(b)">
+        <para>
+          <num>(b)</num>
+          <text>Administrative Costs. The Tribe may not use more than 15% of the total amount of HAF Program Funds for planning, community engagement, needs assessment, and administrative expenses related to the Tribe's disbursement of the HAF Program Funds for qualiﬁed expenses, in an aggregate amount unless allowable through SLRF funding.</text>
+        </para>
+      </codify:replace>
+      <text>ADD the following to the end of the last sentence in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.8.050|(b)">PRP.9.8.050(b)</cite> as follows:</text>
+      <text>"The Tribe reserves the right to collect any funds disbursed under this chapter for any project that has been rescinded under this section <em>and in compliance with the Tribe's Rules of Civil Procedure <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2">TCT.2</cite>.</em>"</text>
+      <codify:replace path="PRP.9.8.050|(b)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.8.050|(b)">
+        <para>
+          <num>(b)</num>
+          <text>If any recipient of HAF funds violates the terms of chapter, or interferes with the projects that are authorized under this program, the ARPA Program Manager may rescind the eligibility of the qualified homeowner and cancel any projects that may have approved.  Any funds disbursed on behalf of a qualified homeowner that has been rescinded shall be the responsibility of the qualified homeowner.  The tribe reserves the right to collect any funds disbursed under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP|PRP.9">this chapter</cite> for any project that has been rescinded under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.9.8.050">this section</cite> and in compliance with the Tribe's Rules of Civil Procedure <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2">TCT.2</cite>.</text>
+        </para>
+      </codify:replace>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>6</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>22<sup>nd</sup> day of October, 2024</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>5</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
