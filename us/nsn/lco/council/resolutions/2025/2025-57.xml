@@ -131,11 +131,43 @@
       <para>
         <num>10.</num>
         <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|ELE.1.5.030|(a)|(3)|(A)">ELE.1.5.030(a)(3)(A)</cite> is amended as follows: "(A) The Election Committee shall provide the prospective candidate with an Election Background Waiver when the prospective candidate establishes that fifteen years or more has passed since the disposition and punishment (including sentencing and probation) of the felony or other serious offense charge as established in <cite doc="Lac Courte Oreilles Tribal Code of Law">subs. (3)</cite>, above, that has caused the prospective candidate to fail the background check. Any prospective candidate requesting an Election Background Waiver must complete an "Election Background Waiver Petition" which is attached and incorporated as <cite doc="Election Form K">Attachment "K"</cite> to this ordinance."</text>
-        <codify:replace path="|ELE.1.5.030|(a)|(3)|(A)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|ELE.1.5.030|(a)|(3)|(A)">
-          <para>
-            <num>(A)</num>
-            <text>The Election Committee shall provide the prospective candidate with an Election Background Waiver when the prospective candidate establishes that fifteen years or more has passed since the disposition and punishment (including sentencing and probation) of the felony or other serious offense charge as established in <cite path="ELE.1.5.030|(a)|(3)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-57">subs. (3)</cite>, above, that has caused the prospective candidate to fail the background check. Any prospective candidate requesting an Election Background Waiver must complete an "Election Background Waiver Petition" which is attached and incorporated as <cite doc="Election Form K">Attachment "K"</cite> to this ordinance.</text>
-          </para>
+        <codify:replace path="|ELE.1.5.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|ELE.1.5.030">
+          <section>
+            <num>ELE.1.5.030</num>
+            <heading>Candidate Prerequisites Prior to Being Placed on the Primary Ballot</heading>
+            <para>
+              <num>(a)</num>
+              <text>Prior to a person's acceptance of their nomination to stand for election to the Tribal Governing Board, the following prerequisites as determined by the Election Committee shall be met prior to the candidate's "Prerequisite Certification for Primary Ballot" (<cite doc="Election Form I">Attachment "I"</cite>) being completed:</text>
+              <para>
+                <num>(1)</num>
+                <text>The prospective candidate shall be a member of the Tribe.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The prospective candidate shall have attained the age of twenty-one (21) years on the date of election.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The prospective candidate shall provide consent for the completion of a comprehensive background check within three (3) working days from the day of Caucus. If a comprehensive background check establishes that a prospective candidate has a record of a conviction of election fraud (or other similar classification substantially similar to election fraud) or a felony of any crime in any tribal, county, district, state, or federal court, the Election Committee shall establish that the prospective candidate thereby fails to pass the background check. A prospective candidate that fails to pass the background check shall be prohibited from being placed on the Primary Ballot, unless:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>The Election Committee shall provide the prospective candidate with an Election Background Waiver when the prospective candidate establishes that fifteen years or more has passed since the disposition and punishment (including sentencing and probation) of the felony or other serious offense charge as established in <cite path="ELE.1.5.030|(a)|(3)" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-57">subs. (3)</cite>, above, that has caused the prospective candidate to fail the background check. Any prospective candidate requesting an Election Background Waiver must complete an "Election Background Waiver Petition" which is attached and incorporated as <cite doc="Election Form K">Attachment "K"</cite> to this ordinance.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Upon the Election Committee's review of the prerequisites established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="ELE.1.5.030|(a)">subs. (a)</cite> above and receipt of the results of the comprehensive background check for each candidate, the Election Committee shall notify the LCO Human Resources Director of whether each candidate has satisfied or failed to meet the prerequisites established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="ELE.1.5.030|(a)">subs. (a)</cite> above.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The prospective candidate must contact the LCO Human Resources Department within five (5) working days from the close of the three (3) working day period allowed pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|ELE.1.5.020">ELE.1.5.020</cite> to learn if they have satisfied or failed to meet the prerequisites established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="ELE.1.5.030|(a)">subs. (a)</cite> above.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Tribal Court Challenge to Decision on Meeting Prerequisites. Upon the Election Committee's determination that a prospective candidate has failed to meet the prerequisites established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="ELE.1.5.030|(a)">subs. (a)</cite> above, the prospective candidate may file an appeal of the Election Committee's determination in Tribal Court by filing a typed or written statement setting forth the grounds for and evidence supporting the challenge(s) along with the established court filing fee. Any such challenge shall be filed no later than twenty-four (24) hours following the prospective candidate's notification of the Election Committee's determination from the LCO Human Resources Department. Upon receipt of the filing of the appeal of the Election Committee's determination, the Tribal Court shall provide for a hearing and render a decision within two working days of the appeal. The decision of the tribal court shall be final and not subject to further appeal.</text>
+            </para>
+          </section>
         </codify:replace>
       </para>
       <para>
