@@ -44,7 +44,7 @@
     <text>William Trepanier, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:insert doc="Lac Courte Oreilles Tribal Code of Law" path="PHS" after="PHS.3" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.4.1.010">
+  <codify:insert doc="Lac Courte Oreilles Tribal Code of Law" path="PHS" after="PHS.3" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.4.1.010|annos">
     <container>
       <prefix>Chapter</prefix>
       <num>PHS.4</num>

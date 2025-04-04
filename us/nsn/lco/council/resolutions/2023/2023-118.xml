@@ -40,7 +40,7 @@
     <text>William Trepanier, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:insert path="DMR" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|DMR.7.1.010">
+  <codify:insert path="DMR" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|DMR.7.1.010|annos">
     <container>
       <prefix>Chapter</prefix>
       <num>DMR.7</num>

@@ -156,7 +156,7 @@
         </section>
       </codify:replace>
       <text>ADD the following to the end of the Preamble as follows: "as established under section 3206 of the American Rescue Plan Act of 2021(the ARPA) <em>and to the amended Title VI of the Social Security Act sections 602 and section 603 which established the State and Local Fiscal Recovery Funds (SLRF).</em>"</text>
-      <codify:find-replace path="PRP.9" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.1.010">
+      <codify:find-replace path="PRP.9" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.9.1.010|annos">
         <find>as established under section 3206 of the American Rescue Plan Act of 2021 (the ARPA).</find>
         <replace>as established under section 3206 of the American Rescue Plan Act of 2021 (the ARPA) and to the amended Title VI of the Social Security Act sections 602 and section 603 which established the State and Local Fiscal Recovery Funds (SLRF).</replace>
       </codify:find-replace>

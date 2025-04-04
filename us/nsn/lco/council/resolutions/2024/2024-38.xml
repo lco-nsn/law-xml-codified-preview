@@ -56,7 +56,7 @@
     <text>William Trepanier, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:insert doc="" after="ITP" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TUC.1.1.010">
+  <codify:insert doc="" after="ITP" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TUC.1.1.010|annos">
     <container>
       <prefix>Title</prefix>
       <num>TUC</num>

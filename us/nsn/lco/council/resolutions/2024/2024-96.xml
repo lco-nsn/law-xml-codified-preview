@@ -46,7 +46,7 @@
       <para>
         <num>1.</num>
         <text>Capitalize the term "ordinance" throughout <cite doc="Lac Courte Oreilles Tribal Code of Law" path="GWE.1">GWE.1</cite>.</text>
-        <codify:find-replace path="|GWE.1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GWE.1.1.010">
+        <codify:find-replace path="|GWE.1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GWE.1.1.010|annos">
           <find>ordinance</find>
           <replace>Ordinance</replace>
         </codify:find-replace>

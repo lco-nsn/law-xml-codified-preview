@@ -48,7 +48,7 @@
     <text>Tweed Shuman, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:insert doc="Lac Courte Oreilles Tribal Code of Law" after="LLC" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|ITP.1.1.010">
+  <codify:insert doc="Lac Courte Oreilles Tribal Code of Law" after="LLC" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|ITP.1.1.010|annos">
     <container containing-doc="Lac Courte Oreilles Tribal Code of Law">
       <prefix>Title</prefix>
       <num>ITP</num>

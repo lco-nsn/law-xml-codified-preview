@@ -207,7 +207,7 @@
       </para>
     </para>
   </codify:replace>
-  <codify:find-replace path="GNC.5" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.5.1.010">
+  <codify:find-replace path="GNC.5" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.5.1.010|annos">
     <find>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to require the regular attendance at school of all school age children which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</find>
     <replace>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to require the regular attendance at school of all school age person which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board to "promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and providing for the maintenance of law and order and the administration of justice …"</replace>
   </codify:find-replace>
@@ -353,7 +353,7 @@
     </para>
   </codify:replace>
   <codify:remove path="GNC.5.3.030|(b)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.5.3.030"/>
-  <codify:find-replace path="GNC.5" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.5.1.010">
+  <codify:find-replace path="GNC.5" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.5.1.010|annos">
     <find>Failure to Cause a Child to Attend School Regularly</find>
     <replace>Failure to Cause a Person to Attend School Regularly</replace>
   </codify:find-replace>

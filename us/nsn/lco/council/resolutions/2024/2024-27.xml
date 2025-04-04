@@ -47,7 +47,7 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
       <text>that <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.10.6">PAP.10.6</cite> shall be considered void and unenforceable.</text>
-      <codify:repeal path="PAP.10.6" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.10.6.010"/>
+      <codify:repeal path="PAP.10.6" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.10.6.010|annos"/>
     </recital>
   </recitals>
   <procedural-data>

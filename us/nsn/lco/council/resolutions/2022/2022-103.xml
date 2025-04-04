@@ -49,7 +49,7 @@
     <text>Tweed Shuman, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:insert path="VEH" after="VEH.3" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.1.010">
+  <codify:insert path="VEH" after="VEH.3" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|VEH.4.1.010|annos">
     <container>
       <prefix>Chapter</prefix>
       <num>VEH.4</num>

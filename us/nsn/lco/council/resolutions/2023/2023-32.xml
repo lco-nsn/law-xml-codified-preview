@@ -40,7 +40,7 @@
     <text>Tweed Shuman, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:insert path="PAP" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.22.1.010">
+  <codify:insert path="PAP" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.22.1.010|annos">
     <container>
       <prefix>Chapter</prefix>
       <num>PAP.22</num>
