@@ -49,7 +49,13 @@
       <text>as follows:</text>
       <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|GNC.4.4.060">SECTION GNC.4.4.060</cite> shall be repealed in its entirety as it relates to the civil penalties for possession of marijuana and drug paraphernalia.</text>
     </recital>
-    <codify:repeal path="|GNC.4.4.060" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.4.4.060"/>
+    <codify:replace path="|GNC.4.4.060" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|GNC.4.4.060">
+      <section>
+        <num>GNC.4.4.060</num>
+        <heading>Adoption of State Laws</heading>
+        <text>The provisions of Wisconsin Statutes Section 215.07(4) relating to underage drinking for which the penalties for violations thereof are forfeiture, are adopted as part of <cite path="|GNC.4.4.060" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-22">this Section</cite>. A violoation of <cite path="|GNC.4.4.060" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-22">this Section</cite> will subject the person to forfeiture not to exceed the maximum provided for in the corresponding Wisconsin Statute in addition to other civil penalties prescribed thereby.</text>
+      </section>
+    </codify:replace>
   </recitals>
   <procedural-data>
     <text class="center">CERTIFICATION</text>

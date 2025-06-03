@@ -5,7 +5,9 @@
     <print>
       <volumes>
         <volume start="TCT"/>
-        <volume start="GNC"/>
+        <volume start="DMR"/>
+        <volume start="PRP"/>
+        <volume start="PAP.5"/>
       </volumes>
     </print>
     <recency through="2025-03-24">
