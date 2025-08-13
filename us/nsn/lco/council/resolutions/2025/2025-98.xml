@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-98A" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2025-98A</num>
+  <heading>Approving Amendments to PRP.7.7.050 of the Housing Authority Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
+  <meta>
+    <effective>2025-07-14</effective>
+    <citations>
+      <citation type="res" url="./adopted/2025-98A.pdf">Res. No. 2025-98A</citation>
+    </citations>
+    <history>
+      <adopted>2025-07-14</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)" proof="needed">Article V, § (l)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)" proof="needed">(m)</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Band or residents of the reservation," <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, §1(l)</cite>; and "delegate to subordinate boards, officers, committees or cooperative associations which are open to all members of the Band any of the foregoing powers, reserving the right to review any action taken by virtue of such delegated powers," <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, §1(m)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted the Lac Courte Oreilles Housing Authority Code pursuant to Resolution No. 14-36 and amended the Lac Courte Oreilles Housing Authority Code pursuant to Resolution No. 15-95; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe established and designated the Lac Courte Oreilles Housing Authority ("LCOHA") to provide adequate and affordable housing in safe and healthy environments in compliance with the requirements, rules, and regulations of the Native American Housing Assistance and Self-determination Act of 1996, <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.1.040" proof="needed">PRP.7.1.040</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe appointed a Board of Commissioners ("Housing Board") to effectuate the Housing Authority Code and act independently of the Tribal Governing Board pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(a)" proof="needed">PRP.7.3.010 (a)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on January 16, 2025, the U.S. Department of Housing and Urban Development's Public and Indian Housing Program Office (PIH) released PIH-2025-05 relating to the Administrative Requirements for Investing Indian Housing Block Grant (IHBG) Funds; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(f)|(16)" proof="needed">PRP.7.3.010(f)(16)</cite> the LCOHA is authorized to invest its IHBG funds in accounts at financial institutions in accordance with its Investment Policy at <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050" proof="needed">PRP.7.7.050</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the LCOHA and the Housing Board seek to adopt the PIH policy guidance outlined in PIH-2025-05 and revise its Investment Policy, <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050" proof="needed">PRP.7.7.050</cite>, accordingly; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby determines that it is in the best interest of the Tribe to amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050">PRP.7.7.050</cite> of the Housing Authority Code.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>that Sections of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050|(a)">PRP.7.7.050 (a)</cite>, <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050|(c)">(c)</cite>,  <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050|(d)">(d)</cite>, <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050|(e)">(e)</cite>, and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050|(f)">(f)</cite> are amended and enacted, and Sections <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050|(g)">(g)</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050|(h)">(h)</cite> are added and enacted as an ordinance of the Tribe, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|IV|3">Article IV, § 3 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> as follows:</text>
+      <text>
+        <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.7.050">PRP.7.7.050</cite>
+      </text>
+      <para>
+        <num>(a)</num>
+        <text><u>Authority</u>. Pursuant to Sec. 204 of the Native American Housing Assistance and Self-Determination Act of 1996 (NAHASDA), tribally designated housing entities may, for the purpose of carrying out affordable housing activities, invest Indian Housing Block Grant (IHBG) funds as approved by the Secretary of the Department of Housing and Urban Development. The Secretary has established limitations on the investment of IHBG funds in 24 C.F.R., sec. 1000.58. The Secretary has further prescribed administrative requirements for investing IHBG funds in Public and Indian Housing Notices, as periodically updated, amended, and superseded. The Lac Courte Oreilles Housing Authority (Housing Authority) is authorized to invest funds not needed for immediate disbursement pursuant to Section <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(f)|(16)">PRP.7.3.010(f)(16)</cite> of this ordinance. The Housing Authority may invest IHBG funds so long as it demonstrates to HUD that there are no unresolved significant and material audit findings or exceptions in the most recent annual audit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Funds Eligible for Investment</u>. (1) IHBG funds that are subject to the approval of the Secretary of HUD may be invested pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(f)|(16)">Section PRP.7.3.010(f)(16)</cite>. (2) Other funds may be invested pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(f)|(16)">Section PRP.7.3.010(f)(16)</cite> provided that such investment is permissible under the law relating to the source of the funds and that such investment is performed pursuant to any applicable law and provided further that any such investment is held separately from IHBG funds invested so as to fully comply with 24 C.F.R. 1000.58(d).</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>is amended as follows: <u>Investments Allowed</u>. (1) No investment shall be made which has a duration of more than five years. (2) All IHGB investment accounts shall be held in one or more accounts separate from other funds of the Housing Authority. Each of these accounts shall be subject to a Depository Agreement in a form prescribed by HUD sufficient to implement the regulations in this part and permit HUD to exercise its rights under 24 CFR 1000.60. (3) Prior to drawing down funds for investment purposes, the LCOHA shall do an analysis of anticipated cash needs for the investment period and identify those acceptable investment options or instruments with varying dates of maturity (shorter and longer term) within the projected investment period. The analysis shall be recorded and maintained as investment supporting documentation for accounting reconciliation and compliance monitoring purposes. (4) The Housing Authority shall invest IHBG funds only in: (A) Obligations of the United States; obligation issued by Government sponsored agencies; securities that are guaranteed or insured by the United States; mutual (or other) funds registered with the Securities and Exchange Commission, and which invest only in obligations of the United States or securities that are guaranteed or insured by the United States; or (B) Accounts that are insured by an agency or instrumentality of the United States or accounts that ensure the continuous and full collateralization of deposits that are in excess of FDIC insurance amounts to ensure protection of the funds, even in the event of bank failure. (5) Collateralization shall consist of identifiable U.S. Government securities as prescribed by HUD and specific authority contained in the Depository Agreement permitting HUD to exercise its rights pursuant to 24 C.F.R. Sec. 1000.60.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text><u>Investment Brokers</u>. The Housing Authority may use brokers or dealers to invest IHBG funds if the brokers or dealers invest grant funds exclusively in approved financial instruments outlined at 24 CFR 1000.58. Each broker or dealer must be a member of the Securities Investor Protection Corporation. Selection of a broker or dealer must be made in accordance with the procurement standards at 2 CFR 200.317, while the Housing Authority will continue to be subject to 200.318.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><u>Staff Authority and Duties</u>. Subject to the oversight of the Housing Authority Board of Commissioners, Housing Authority staff is assigned authority to implement this policy as follows: (1) The Executive Director shall serve as the custodian of all investment securities and shall keep such securities separate from the accounting records, the maintenance of which shall be the responsibility of the Housing Authority’s accounting department. (2) The Executive Director shall obtain authorization for all investment transactions from the Housing Authority’s Board of Commissioners. All depository agreements shall be approved by resolution presented to the Board of Commissioners by the Executive Director. All investment transactions shall be documented in the official records of the Housing Authority, which shall be maintained by the Executive Director. (3) The Executive Director shall ensure that safekeeping procedures for the security of investment documents are maintained. (4) The Executive Director shall ensure that all investments are made only in the name of the Lac Courte Oreilles Housing Authority and are maintained in a custodial or trust account, as appropriate. (5) The Executive Director shall ensure that all investments are recorded in detail in an investment ledger. The investment ledger shall identify for each investment the federal award received and expended and the federal program under which it was received; the assistance listings title and number, as applicable; the federal award identification number; year the federal award was issued; and the name of the federal agency or pass-through entity. The investment ledger shall be periodically reconciled. The Executive Director shall ensure a system is in place and used to collect, record, and credit all investment income to the appropriate accounts. The investment records shall be audited annually. (6) The Housing Authority’s accounting department shall maintain an investment maturity schedule evidencing that the investments and proposed investments will mature on the approximate dates the funds will be needed and that the investment maturity dates do not exceed five years.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text><u>Earned Interest</u>. Any interest earned within the five-year timeframe is considered program income earned by the investment(s) and therefore must only be spent on eligible affordable housing activities and is subject to all IHBG Program requirements and other Federal requirements. However, if the amount of income received in a single year by a recipient and all its subrecipients, which would otherwise be considered program income, does not exceed $25,000, such funds may be retained but will not be considered to be or treated as program income.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text><u>Reporting</u>. Investment funds shall be reported quarterly on the Federal Financial Report (SF-425) to identify the balance of each investment instrument, its maturation date, and the last four digits of the account number for identification.</text>
+      </para>
+    </recital>
+  </recitals>
+  <codify:replace path="|PRP.7.7.050" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PRP.7.7.050">
+    <section>
+      <num>PRP.7.7.050</num>
+      <heading>Investment Policy</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Authority</u>. Pursuant to Sec. 204 of the Native American Housing Assistance and Self-Determination Act of 1996 (NAHASDA), tribally designated housing entities may, for the purpose of carrying out affordable housing activities, invest Indian Housing Block Grant (IHBG) funds as approved by the Secretary of the Department of Housing and Urban Development. The Secretary has established limitations on the investment of IHBG funds in 24 C.F.R., sec. 1000.58. The Secretary has further prescribed administrative requirements for investing IHBG funds in Public and Indian Housing Notices, as periodically updated, amended, and superseded. The Lac Courte Oreilles Housing Authority (Housing Authority) is authorized to invest funds not needed for immediate disbursement pursuant to Section <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(f)|(16)">PRP.7.3.010(f)(16)</cite> of this ordinance. The Housing Authority may invest IHBG funds so long as it demonstrates to HUD that there are no unresolved significant and material audit findings or exceptions in the most recent annual audit.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Purpose</u>. The purpose of the Housing Authority's investments is to carry out affordable housing activities.  Such activities shall be consistent with the Housing Authority's current Indian Housing Plan.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Funds Eligible for Investment</u>.</text>
+        <para>
+          <num>(1)</num>
+          <text>IHBG funds that are subject to the approval of the Secretary of HUD may be invested pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(f)|(16)">Section PRP.7.3.010(f)(16)</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Other funds may be invested pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PRP.7.3.010|(f)|(16)">Section PRP.7.3.010(f)(16)</cite> provided that such investment is permissible under the law relating to the source of the funds and that such investment is performed pursuant to any applicable law and provided further that any such investment is held separately from IHBG funds invested so as to fully comply with 24 C.F.R. 1000.58(d).</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><u>Investments Allowed</u>.</text>
+        <para>
+          <num>(1)</num>
+          <text>No investment shall be made which has a duration of more than five years.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All IHGB investment accounts shall be held in one or more accounts separate from other funds of the Housing Authority. Each of these accounts shall be subject to a Depository Agreement in a form prescribed by HUD sufficient to implement the regulations in this part and permit HUD to exercise its rights under 24 CFR 1000.60.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Prior to drawing down funds for investment purposes, the LCOHA shall do an analysis of anticipated cash needs for the investment period and identify those acceptable investment options or instruments with varying dates of maturity (shorter and longer term) within the projected investment period. The analysis shall be recorded and maintained as investment supporting documentation for accounting reconciliation and compliance monitoring purposes.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Housing Authority shall invest IHBG funds only in:</text>
+          <para>
+            <num>(A)</num>
+            <text>Obligations of the United States; obligation issued by Government sponsored agencies; securities that are guaranteed or insured by the United States; mutual (or other) funds registered with the Securities and Exchange Commission, and which invest only in obligations of the United States or securities that are guaranteed or insured by the United States; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Accounts that are insured by an agency or instrumentality of the United States or accounts that ensure the continuous and full collateralization of deposits that are in excess of FDIC insurance amounts to ensure protection of the funds, even in the event of bank failure.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Collateralization shall consist of identifiable U.S. Government securities as prescribed by HUD and specific authority contained in the Depository Agreement permitting HUD to exercise its rights pursuant to 24 C.F.R. Sec. 1000.60.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text><u>Investment Brokers</u>.</text>
+        <text>The Housing Authority may use brokers or dealers to invest IHBG funds if the brokers or dealers invest grant funds exclusively in approved financial instruments outlined at 24 CFR 1000.58. Each broker or dealer must be a member of the Securities Investor Protection Corporation. Selection of a broker or dealer must be made in accordance with the procurement standards at 2 CFR 200.317, while the Housing Authority will continue to be subject to 200.318.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><u>Staff Authority and Duties</u>. Subject to the oversight of the Housing Authority Board of Commissioners, Housing Authority staff is assigned authority to implement this policy as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Executive Director shall serve as the custodian of all investment securities and shall keep such securities separate from the accounting records, the maintenance of which shall be the responsibility of the Housing Authority's accounting department.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Executive Director shall obtain authorization for all investment transactions from the Housing Authority's Board of Commissioners. All depository agreements shall be approved by resolution presented to the Board of Commissioners by the Executive Director. All investment transactions shall be documented in the official records of the Housing Authority, which shall be maintained by the Executive Director.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Executive Director shall ensure that safekeeping procedures for the security of investment documents are maintained.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Executive Director shall ensure that all investments are made only in the name of the Lac Courte Oreilles Housing Authority and are maintained in a custodial or trust account, as appropriate.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Executive Director shall ensure that all investments are recorded in detail in an investment ledger. The investment ledger shall identify for each investment the federal award received and expended and the federal program under which it was received; the assistance listings title and number, as applicable; the federal award identification number; year the federal award was issued; and the name of the federal agency or pass-through entity. The investment ledger shall be periodically reconciled. The Executive Director shall ensure a system is in place and used to collect, record, and credit all investment income to the appropriate accounts. The investment records shall be audited annually.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Housing Authority’s accounting department shall maintain an investment maturity schedule evidencing that the investments and proposed investments will mature on the approximate dates the funds will be needed and that the investment maturity dates do not exceed five years.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text><u>Earned Interest</u>. Any interest earned within the five-year timeframe is considered program income earned by the investment(s) and therefore must only be spent on eligible affordable housing activities and is subject to all IHBG Program requirements and other Federal requirements. However, if the amount of income received in a single year by a recipient and all its subrecipients, which would otherwise be considered program income, does not exceed $25,000, such funds may be retained but will not be considered to be or treated as program income.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text><u>Reporting</u>. Investment funds shall be reported quarterly on the Federal Financial Report (SF-425) to identify the balance of each investment instrument, its maturation date, and the last four digits of the account number for identification.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>7</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>14<sup>th</sup> day of July, 2025</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>6</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Michelle Beaudin, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
