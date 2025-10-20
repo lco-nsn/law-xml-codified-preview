@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-169">
+  <num>2025-169</num>
+  <heading>Amending LCO TCL PHS, Tattoo and Body Piercing Ordinance</heading>
+  <meta>
+    <effective>2025-10-14</effective>
+    <citations>
+      <citation type="res" url="./adopted/2025-169.pdf">Res. No. 2025-169</citation>
+    </citations>
+    <history>
+      <adopted>2025-10-14</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1(n) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board is empowered to "regulate, by enactment of ordinances, the conduct of business within the territory of the band"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1 (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board possesses certain powers, including: "To promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted the Lac Courte Oreilles Tattoo and Body Piercing Ordinance to regulate any related activities on reservation.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby determines that it is in the best interest of the Tribe to amend the Tattoo and Body Piercing Ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the attached amendment Title <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PHS.7">PHS.7</cite> Tattoo and Body Piercing Ordinance of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of the Lac Courte Oreilles Tribal Code of Law, including all Attachments, shall be, and hereby is, amended and enacted as an ordinance of the Tribe, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|IV|3">Article IV, § 3 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> as follows:</text>
+      <para proof="needed">
+        <num>1.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.080" proof="needed">PHS.7.1.080</cite> General Definitions is amended as follows: "(g)" "Tattoo and Body Piercing Regulator or Division" can be used interchangeably and means any agencies or individual(s) designated by the Tribal Governing Board, who shall be authorized to make investigations or inspections of tattooists, body piercers, tattoo establishments and body piercing establishments, including vendors at any venue, and recommend to the Tribe whether an establishment or practitioner be licensed or is in compliance with the requirements of this law;</text>
+        <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.080|(g)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.080|(g)">
+          <para>
+            <num>(g)</num>
+            <text>"Tattoo and Body Piercing Regulator or Division" can be used interchangeably and means any agencies or individual(s) designated by the Tribal Governing Board, who shall be authorized to make investigations or inspections of tattooists, body piercers, tattoo establishments and body piercing establishments, including vendors at any venue, and recommend to the Tribe whether an establishment or practitioner be licensed or is in compliance with the requirements of this law;</text>
+          </para>
+        </codify:replace>
+      </para>
+      <para proof="needed">
+        <num>2.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.080" proof="needed">PHS.7.1.080</cite> General Definitions is amended as follows: "(i)" "Establishment" means a building, structure, venue, area or location where tattooing and/or body piercing is performed;</text>
+        <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.080|(i)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.080|(i)">
+          <para>
+            <num>(i)</num>
+            <text>"Establishment" means a building, structure, venue, area or location where tattooing and/or body piercing is performed;</text>
+          </para>
+        </codify:replace>
+      </para>
+      <para proof="needed">
+        <num>3.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.080" proof="needed">PHS.7.1.080</cite> General Definitions is amended as follows: "(k)" "Department" means the Tribal Governing Board, or any licensing authority, or any individual(s) appointed by the Tribal Governing Board with the authority to implement, administer, and enforce this ordinance;</text>
+        <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.080|(k)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.080|(k)">
+          <para>
+            <num>(k)</num>
+            <text>"Department" means the Tribal Governing Board, or any licensing authority, or any individual(s) appointed by the Tribal Governing Board with the authority to implement, administer, and enforce this ordinance;</text>
+          </para>
+        </codify:replace>
+      </para>
+      <para proof="needed">
+        <num>4.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.080" proof="needed">PHS.7.1.080</cite> General Definitions is amended as follows: "(o)" "Reservation" means all lands and waters within the exterior boundaries of the LCO reservation in Wisconsin, as established by Secretarial Order March 1, 1873, and any lands or waters or interests therein which may be acquired outside of the reservation by or on behalf of LCO, including, but not limited to the 1200 acres of Farm Services Administration land outside the 1873 reservation boundary held by the United States, and the Reservation Proclamation of 2017, adding 2012.77 acres, except as may otherwise be provided by federal law;</text>
+        <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.080|(o)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.080|(o)">
+          <para>
+            <num>(o)</num>
+            <text>"Reservation" means all lands and waters within the exterior boundaries of the LCO reservation in Wisconsin, as established by Secretarial Order March 1, 1873, and any lands or waters or interests therein which may be acquired outside of the reservation by or on behalf of LCO, including, but not limited to the 1200 acres of Farm Services Administration land outside the 1873 reservation boundary held by the United States, and the Reservation Proclamation of 2017, adding 2012.77 acres, except as may otherwise be provided by federal law;</text>
+          </para>
+        </codify:replace>
+      </para>
+      <para proof="needed">
+        <num>5.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.120" proof="needed">PHS.7.1.120</cite> Establishment License is amended as follows: "(c)" "Temporary Establishments" For a temporary tattoo or body piercing establishment or a temporary combined tattoo and body piercing establishment, the operator of the establishment shall pay a fee of $100 per application. The fee shall not be returned if the establishment fails the inspection. For any temporary establishment(s) operating at a venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, the Department/Regulators may waive the fee.</text>
+        <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.120|(c)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.120|(c)">
+          <para>
+            <num>(c)</num>
+            <text>Temporary Establishments. For a temporary tattoo or body piercing establishment or a temporary combined tattoo and body piercing establishment, the operator of the establishment shall pay a fee of $100 per application. The fee shall not be returned if the establishment fails the inspection. For any temporary establishment(s) operating at a venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, the Department/Regulators may waive the fee.</text>
+          </para>
+        </codify:replace>
+      </para>
+      <para proof="needed">
+        <num>6.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.130" proof="needed">PHS.7.1.130</cite> Practitioner License is amended as follows: "(a)" "Requirement" No person may tattoo or body pierce another person, use or assume the title of tattooist or body piercer or designate or represent himself or herself as a tattooist or body piercer unless the person has obtained a practitioner license from the Department by application made upon a form furnished by the Department. An application submitted to the Department shall be accompanied by the fee required under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.130|(d)" proof="needed">Section PHS.7.1.130(d)</cite>, unless waived under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.130|(d)|(3)" proof="needed">Section PHS.7.1.130(d)(3)</cite>. The fee shall be returned in full if the application is denied.</text>
+        <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.130|(a)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.130|(a)">
+          <para>
+            <num>(a)</num>
+            <text>Requirement. No person may tattoo or body pierce another person, use or assume the title of tattooist or body piercer or designate or represent himself or herself as a tattooist or body piercer unless the person has obtained a practitioner license from the Department by application made upon a form furnished by the Department. An application submitted to the Department shall be accompanied by the fee required under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.130|(d)" proof="needed">Section PHS.7.1.130(d)</cite>, unless waived under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.130|(d)|(3)" proof="needed">Section PHS.7.1.130(d)(3)</cite>. The fee shall be returned in full if the application is denied.</text>
+          </para>
+        </codify:replace>
+      </para>
+      <para proof="needed">
+        <num>7.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.130" proof="needed">PHS.7.2.130</cite> Practitioner License is amended as follows: "(d)(3)" For events venues held at the Sevenwinds Casino, Lodge &amp; Conference Center, the Department/Regulators may waive the fee as necessary.</text>
+        <codify:insert doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.130|(d)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.130|(d)|(3)">
+          <para>
+            <num>(3)</num>
+            <text>For events venues held at the Sevenwinds Casino, Lodge &amp; Conference Center, the Department/Regulators may waive the fee as necessary.</text>
+          </para>
+        </codify:insert>
+      </para>
+      <para proof="needed">
+        <num>8.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.140" proof="needed">PHS.7.1.140</cite> Approval of Licenses is amended as follows: "(b)" The Division shall not recommend the Department issue a license to a new tattoo or body-piercing establishment or a new operator at an existing establishment without completing a prior inspection of the establishment to ensure that the establishment complies with the requirements of this law. In the instance that the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, the Division shall be allowed to recommend a license to any vendor, however, the Division must inspect the vendors booth/area and ensure it complies with this ordinance prior to the vendor offering any services.</text>
+        <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.140|(b)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.140|(b)">
+          <para>
+            <num>(b)</num>
+            <text>The Division shall not recommend the Department issue a license to a new tattoo or body-piercing establishment or a new operator at an existing establishment without completing a prior inspection of the establishment to ensure that the establishment complies with the requirements of this law. In the instance that the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, the Division shall be allowed to recommend a license to any vendor, however, the Division must inspect the vendors booth/area and ensure it complies with this ordinance prior to the vendor offering any services.</text>
+          </para>
+        </codify:replace>
+      </para>
+      <para proof="needed">
+        <num>9.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.200" proof="needed">PHS.7.1.200</cite> Physical Facilities and Environment is amended as follows: "(l)" In instances where the Temporary Establishment is located at a venue or event being held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, any specific requirements of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.200" proof="needed">Section PHS.7.1.200</cite> may be waived by the Division, so long as reasonable measures are in place to ensure the safety, cleanliness, and sanitary conditions necessary for the health and well being of any patrons.</text>
+        <codify:insert doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.200" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.200|(l)">
+          <para>
+            <num>(l)</num>
+            <text>In instances where the Temporary Establishment is located at a venue or event being held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, any specific requirements of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.200" proof="needed">Section PHS.7.1.200</cite> may be waived by the Division, so long as reasonable measures are in place to ensure the safety, cleanliness, and sanitary conditions necessary for the health and well being of any patrons.</text>
+          </para>
+        </codify:insert>
+      </para>
+      <para proof="needed">
+        <num>10.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.330" proof="needed">PHS.7.1.330</cite> Temporary Establishments is amended as follows: "(c)" No temporary establishment may be operated without a temporary establishment license, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center. An application for a temporary establishment license shall be made under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.120" proof="needed">Section PHS.7.1.120</cite> and shall be accompanied by the fee required under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.120|(c)" proof="needed">Section PHS.7.1.120(c)</cite>, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center.</text>
+        <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.330|(c)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.330|(c)">
+          <para>
+            <num>(c)</num>
+            <text>No temporary establishment may be operated without a temporary establishment license, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center. An application for a temporary establishment license shall be made under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.120" proof="needed">Section PHS.7.1.120</cite> and shall be accompanied by the fee required under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.120|(c)" proof="needed">Section PHS.7.1.120(c)</cite>, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center.</text>
+          </para>
+        </codify:replace>
+      </para>
+      <para proof="needed">
+        <num>11.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.330" proof="needed">PHS.7.1.330</cite> Temporary Establishments is amended as follows: "(d)" No temporary establishment license shall be issued without a prior inspection, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, in which case the license may be issued but the vendor may not engage in services until inspected and approved to do so by the Division. In either instance, a pre-inspection fee as required under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.100|(b)" proof="needed">Section PHS.7.1.100(b)</cite> shall not be charged.</text>
+        <codify:replace doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.330|(d)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.330|(d)">
+          <para>
+            <num>(d)</num>
+            <text>No temporary establishment license shall be issued without a prior inspection, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, in which case the license may be issued but the vendor may not engage in services until inspected and approved to do so by the Division. In either instance, a pre-inspection fee as required under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.100|(b)" proof="needed">Section PHS.7.1.100(b)</cite> shall not be charged.</text>
+          </para>
+        </codify:replace>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom 4 being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this 14th day of October, 2025, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of _____ members, _____ against, _____ abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Michelle Beaudin, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
