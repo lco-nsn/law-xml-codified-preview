@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-178" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2025-178</num>
+  <heading>Amending LCO TCL PHS, Tattoo and Body Piercing Ordinance</heading>
+  <meta>
+    <effective>2025-10-28</effective>
+    <citations>
+      <citation type="res" url="./adopted/2025-178.pdf">Res. No. 2025-178</citation>
+    </citations>
+    <history>
+      <adopted>2025-10-28</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1(n) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board is empowered to "regulate, by enactment of ordinances, the conduct of business within the territory of the band"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1 (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board possesses certain powers, including: "To promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted the Lac Courte Oreilles Tattoo and Body Piercing Ordinance to regulate any related activities on reservation.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby determines that it is in the best interest of the Tribe to amend the Tattoo and Body Piercing Ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the attached amendment Title <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PHS.7">PHS.7</cite> Tattoo and Body Piercing Ordinance of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of the Lac Courte Oreilles Tribal Code of Law, including all Attachments, shall be, and hereby is, amended and enacted as an ordinance of the Tribe, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|IV|3">Article IV, § 3 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> as follows:</text>
+      <para>
+        <num>1.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.100">PHS.7.1.100</cite> Inspections and Evaluations is amended as follows: "(a)" The Division shall conduct investigations and inspections of practitioners and establishments. The agents of the Division who make recommendations on licenses and conduct investigations or inspections of practitioners and establishments shall be one of the following: (1) recognized by the National Environmental Health Association as a Registered Environmental Health Specialist, also known as a Registered Sanitarian (2) have Bloodborne Pathogen and Biohazard Disposal Certifications, or (3) be certified in WI as a nurse, a nurse practitioner or doctor. (b) Pre-Inspection Fee. The operator of a new permanent establishment or a new operator of an existing permanent establishment shall pay a pre-inspection fee for the inspection of the establishment of $75. The fee shall not be returned if the establishment fails the inspection. Temporary Establishments may be exempt from this fee if approved by the Division.</text>
+        <codify:replace path="|PHS.7.1.100" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.100">
+          <section>
+            <num>PHS.7.1.100</num>
+            <heading>Inspections and Evaluations</heading>
+            <para>
+              <num>(a)</num>
+              <text>The Division shall conduct investigations and inspections of practitioners and establishments. The agents of the Division who make recommendations on licenses and conduct investigations or inspections of practitioners and establishments shall be oone of the following:</text>
+              <para>
+                <num>(1)</num>
+                <text>recognized by the National Environmental Health Association as a Registered Environmental Health Specialist, also known as a Registered Sanitarian;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>have Bloodborne Pathogen and Biohazard Disposal Certifications; or</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>be certified in WI as a nurse, a nurse practitioner or doctor.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Pre-Inspection Fee. The operator of a new permanent establishment or a new operator of an existing permanent establishment shall pay a pre-inspection fee for the inspection of the establishment of $75. The fee shall not be returned if the establishment fails the inspection.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Annual Inspections. All permanent establishments shall pay an annual inspection fee for the inspection of the establishment of $50.</text>
+            </para>
+          </section>
+        </codify:replace>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.210">PHS.7.1.210</cite> Operator is amended as follows: "(e)" these requirements may be waived by the Division, and shall not be required for Temporary Licenses, except as requested by the Division.</text>
+        <codify:replace path="|PHS.7.1.210" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.210">
+          <section>
+            <num>PHS.7.1.210</num>
+            <heading>Operator</heading>
+            <text>An operator shall be present at an establishment at all times during its business hours. The operator shall have the following information available at the establishment for review by the Division at any time:</text>
+            <para>
+              <num>(a)</num>
+              <text>contract or agreement for the disposal of sharps waste and/or other infectious or regulated waste;</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>spore test log and test results;</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>patron records for the preceding three (3) years; and</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>the practitioners of the establishment, including their names, addresses, phone numbers and licenses.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>These requirements may be waived by the Division, and shall not be required for Temporary Licenses, except as requested by the Division.</text>
+            </para>
+          </section>
+        </codify:replace>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.290">PHS.7.1.290</cite> Equipment is amended as follows: "(f)" All tattoo establishments shall either use either single use tools or be equipped with an autoclave which is in good working order and which is manufactured with temperature and pressure gauges marked and visible on the outside of the unit. "(g)" tattoo stencils shall be single-use.</text>
+        <codify:replace path="|PHS.7.1.290" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.290">
+          <section>
+            <num>PHS.7.1.290</num>
+            <heading>Equipment</heading>
+            <para>
+              <num>(a)</num>
+              <text>All surfaces, counters and general-use equipment in the tattoo or body piercing area shall be cleaned and disinfected before a patron is seated. The operating table, chair and supply tables shall be constructed of a material capable of being easily and thoroughly cleaned.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>All tattoo establishments shall have clean towels, washcloths and disposable paper towels.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>A clean towel and washcloth shall be used for each patron.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Clean towels and washcloths shall be stored in a closed, dust-proof container. Soiled towels and washcloths shall be stored in an approved covered container.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>All inks and pigments shall be obtained from sources generally recognized as safe and shall be sterilized before use. Information indicating the sources of all inks and pigments shall be available to the Division upon request. Sterile single-use or sterile individual containers of pigment or ink shall be used for each patron. No pigment or ink in which needles were dipped may be used on another patron. Pigment and ink cups shall be for single-patron use. All bulk materials used for the procedure shall be dispensed with single-use utensils. The remainder of dispensed portions and the cups shall be disposed of after application.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>All tattoo establishments shall either use either single use tools or be equipped with an autoclave which is in good working order and which is manufactured with temperature and pressure gauges marked and visible on the outside of the unit.</text>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text>Tattoo stencils shall be single-use.</text>
+            </para>
+          </section>
+        </codify:replace>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.300">PHS.7.1.300</cite> Cleaning is amended as follows: "(a)" After each use, all non-single use tattooing and body-piercing equipment shall be cleaned to remove blood and tissue residue before sterilization. This may be done with an ultrasonic cleaner or with a probe, needles or brush able to enter the smallest opening of the equipment. After cleaning, equipment shall be rinsed under fresh running tap water.</text>
+        <codify:replace path="|PHS.7.1.300" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.300">
+          <section>
+            <num>PHS.7.1.300</num>
+            <heading>Cleaning</heading>
+            <para>
+              <num>(a)</num>
+              <text>After each use, all non-single use tattooing and body-piercing equipment shall be cleaned to remove blood and tissue residue before sterilization. This may be done with an ultrasonic cleaner or with a probe, needles or brush able to enter the smallest opening of the equipment. After cleaning, equipment shall be rinsed under fresh running tap water.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Reusable equipment shall be placed in a covered stainless steel container of cleaning or disinfectant solution until it can be cleaned and sterilized.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>All containers holding contaminated needles, tubes, reusable body-piercing equipment and container lids shall be cleaned and disinfected at least daily.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>The tattoo machine shall be cleaned and disinfected before each use.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Gloved personnel shall clean needles and tubes prior to sterilization by doing all of the following:</text>
+              <para>
+                <num>(1)</num>
+                <text>Manually pre-cleaning the items with care taken to ensure removal of residue; thoroughly rinsing the items with warm water and then draining the water; cleaning the items by soaking them in a protein-dissolving detergent-enzyme cleaner used according to manufacturer's instructions; and cleaning the items further in an ultrasonic cleaning unit which operates at forty (40) to sixty (60) hertz and is used according to the manufacturer's instructions.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Rinsing and drying the items.</text>
+              </para>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>Prior to autoclaving, all equipment shall be packaged either individually or in quantities appropriate for individual procedures. Packages shall be identifiable and dated.</text>
+            </para>
+          </section>
+        </codify:replace>
+      </para>
+      <para>
+        <num>5.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.310">PHS.7.1.310</cite> Sterilization is amended as follows: "(e)" Each tattoo or body piercing establishment which is not using single use equipment shall maintain sterilization records including spore tests for at least one (1) year from the date of the last entry, which shall include the following information:</text>
+        <codify:replace path="|PHS.7.1.310" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.310">
+          <section>
+            <num>PHS.7.1.310</num>
+            <heading>Sterilization</heading>
+            <para>
+              <num>(a)</num>
+              <text>Equipment requiring sterilization shall be pressure-sterilized at the establishment in an autoclave and in accordance with the manufacturer's instructions. The equipment may be wrapped with an approved paper or plastic or placed in glass or plastic tubes. All packages or containers shall be marked with temperature recording tape or labels and dated with the date of sterilization.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Each batch of sterilized equipment shall be monitored for sterilization by use of heat-sensitive indicators capable of indicating approximate time and temperature achieved.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Autoclaves shall be spore-tested at least monthly. Spore kill test effectiveness shall be conducted by an independent laboratory.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Sterilized equipment shall be wrapped or covered and stored in a manner which will ensure that it will remain sterile until used. All sterilized needles and other equipment not individually wrapped shall be stored in a sterilized and covered glass container or in a stainless steel tray and submerged in an approved sterilizing and disinfecting solution. The Division shall supply all establishments licensed under this ordinance with a list of approved sterilizing and disinfecting solutions.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Each tattoo or body piercing establishment which is not using single use equipment shall maintain sterilization records including spore tests for at least one (1) year from the date of the last entry, which shall include the following information:</text>
+              <para>
+                <num>(1)</num>
+                <text>Date of sterilization.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Name of the person operating the equipment.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Result of heat-sensitive indicator.</text>
+              </para>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>Sterilized equipment shall be re-sterilized if the package is opened, damaged or becomes wet.</text>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text>Autoclaving is the only allowable method of sterilization.</text>
+            </para>
+          </section>
+        </codify:replace>
+      </para>
+      <para>
+        <num>6.</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.330">PHS.7.1.330</cite> Temporary Establishment is amended as follows: "(b)" An agent of the Division who is (1) recognized by the National Environmental Health Association as a Registered Environmental Health Specialist, also known as a Registered Sanitarian (2) have Bloodborne Pathogen and Biohazard Disposal Certifications, or (3) be certified in WI as a nurse, a nurse practitioner or doctor,  may issue temporary establishment and temporary practitioner licenses without the approval of the Department.</text>
+        <codify:replace path="|PHS.7.1.330" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PHS.7.1.330">
+          <section>
+            <num>PHS.7.1.330</num>
+            <heading>Temporary Establishments</heading>
+            <para>
+              <num>(a)</num>
+              <text>In addition to the requirements under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.010">Section PHS.7.1.010</cite> to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.320">Section PHS.7.1.320</cite> that apply to all tattoo and body piercing establishments, the requirements found under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.330">this section</cite> apply specifically to temporary establishments.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>An agent of the Division who is (1) recognized by the National Environmental Health Association as a Registered Environmental Health Specialist, also known as a Registered Sanitarian (2) have Bloodborne Pathogen and Biohazard Disposal Certifications, or (3) be certified in WI as a nurse, a nurse practitioner or doctor,  may issue temporary establishment and temporary practitioner licenses without the approval of the Department.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>No temporary establishment may be operated without a temporary establishment license, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center. An application for a temporary establishment license shall be made under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.120">Section PHS.7.1.120</cite> and shall be accompanied by the fee required under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.120|(c)">Section PHS.7.1.120(c)</cite>, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>No temporary establishment license shall be issued without a prior inspection, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, in which case the license may be issued but the vendor may not engage in services until inspected and approved to do so by the Division. In either instance, a pre-inspection fee as required under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.100|(b)">Section PHS.7.1.100(b)</cite> shall not be charged.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>A practitioner in a temporary establishment shall not tattoo or body pierce another person without obtaining a temporary practitioner's license, but shall not be required to pay the practitioner license fee under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PHS.7.1.130|(d)">Section PHS.7.1.130(d)</cite>.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>A practitioner in a temporary establishment may be issued a temporary practitioner license if he or she:</text>
+              <para>
+                <num>(1)</num>
+                <text>has sufficient proof of a valid permanent license, except as provided for under (b); and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>is tattooing and/or body piercing in a licensed temporary establishment.</text>
+              </para>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text>A practitioner in a temporary establishment who is not required to have a license where he or she permanently practices tattooing and/or body piercing may meet the requirements of (f)(1) if he or she demonstrates knowledge of infection control techniques, application of universal precautions and the requirements of this law by:</text>
+              <para>
+                <num>(1)</num>
+                <text>complying with this law.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>providing proof of a valid certificate for the successful completion of a Bloodborne Pathogen training or Universal Precautions training; or</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>responding correctly to the inspector's questions as they relate to the specific operation of the temporary establishment. This includes explaining:</text>
+                <para>
+                  <num>(A)</num>
+                  <text>the significance of universal precautions;</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>protective actions against bloodborne pathogens, including proper autoclave use; and</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>the proper use of personal protective equipment.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text>An establishment's temporary license along with the temporary license of each on- staff tattooist or body piercer shall be conspicuously displayed in the temporary establishment.</text>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text>The Division may deny a temporary establishment license or may revoke the license of a temporary establishment if the Division finds a violation of any provision of this law.</text>
+            </para>
+            <para>
+              <num>(j)</num>
+              <text>A temporary establishment shall have all of the following:</text>
+              <para>
+                <num>(1)</num>
+                <text>An approved toilet and hand washing facility.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Potable water under pressure.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Hot or tempered water for hand washing and cleaning.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Connection to an approved sewage collection system.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>28<sup>th</sup> day of October, 2025</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Michelle Beaudin, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

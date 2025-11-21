@@ -2887,7 +2887,19 @@
         <heading>Inspections and Evaluations</heading>
         <para>
           <num>(a)</num>
-          <text>The Division shall conduct investigations and inspections of practitioners and establishments. The agents of the Division who make recommendations on licenses and conduct investigations or inspections of practitioners and establishments shall be recognized by the National Environmental Health Association as a Registered Environmental Health Specialist, also known as a Registered Sanitarian.</text>
+          <text>The Division shall conduct investigations and inspections of practitioners and establishments. The agents of the Division who make recommendations on licenses and conduct investigations or inspections of practitioners and establishments shall be oone of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>recognized by the National Environmental Health Association as a Registered Environmental Health Specialist, also known as a Registered Sanitarian;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>have Bloodborne Pathogen and Biohazard Disposal Certifications; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>be certified in WI as a nurse, a nurse practitioner or doctor.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
@@ -2899,6 +2911,7 @@
         </para>
         <annotations>
           <annotation type="Prior Codifications">§PHS.7.1.100 was formerly codified as LCOTCC §7.10</annotation>
+          <annotation app="2025-10-28" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-178" eff="2025-10-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3184,8 +3197,13 @@
           <num>(d)</num>
           <text>the practitioners of the establishment, including their names, addresses, phone numbers and licenses.</text>
         </para>
+        <para>
+          <num>(e)</num>
+          <text>These requirements may be waived by the Division, and shall not be required for Temporary Licenses, except as requested by the Division.</text>
+        </para>
         <annotations>
           <annotation type="Prior Codifications">§PHS.7.1.210 was formerly codified as LCOTCC §7.21</annotation>
+          <annotation app="2025-10-28" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-178" eff="2025-10-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3303,14 +3321,15 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>All tattoo establishments shall be equipped with an autoclave which is in good working order and which is manufactured with temperature and pressure gauges marked and visible on the outside of the unit.</text>
+          <text>All tattoo establishments shall either use either single use tools or be equipped with an autoclave which is in good working order and which is manufactured with temperature and pressure gauges marked and visible on the outside of the unit.</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>Acetate tattoo stencils shall be single-use. The substance used for applying stencils shall be dispensed from a single-use disposable container or with a sterile tongue blade or sterile applicator stick which shall be discarded after each use.</text>
+          <text>Tattoo stencils shall be single-use.</text>
         </para>
         <annotations>
           <annotation type="Prior Codifications">§PHS.7.1.290 was formerly codified as LCOTCC §7.29</annotation>
+          <annotation app="2025-10-28" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-178" eff="2025-10-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3318,7 +3337,7 @@
         <heading>Cleaning</heading>
         <para>
           <num>(a)</num>
-          <text>After each use, tattooing and body-piercing equipment shall be cleaned to remove blood and tissue residue before sterilization. This may be done with an ultrasonic cleaner or with a probe, needles or brush able to enter the smallest opening of the equipment. After cleaning, equipment shall be rinsed under fresh running tap water.</text>
+          <text>After each use, all non-single use tattooing and body-piercing equipment shall be cleaned to remove blood and tissue residue before sterilization. This may be done with an ultrasonic cleaner or with a probe, needles or brush able to enter the smallest opening of the equipment. After cleaning, equipment shall be rinsed under fresh running tap water.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3350,6 +3369,7 @@
         </para>
         <annotations>
           <annotation type="Prior Codifications">§PHS.7.1.300 was formerly codified as LCOTCC §7.30</annotation>
+          <annotation app="2025-10-28" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-178" eff="2025-10-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3373,7 +3393,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Each tattoo or body piercing establishment shall maintain sterilization records including spore tests for at least one (1) year from the date of the last entry, which shall include the following information:</text>
+          <text>Each tattoo or body piercing establishment which is not using single use equipment shall maintain sterilization records including spore tests for at least one (1) year from the date of the last entry, which shall include the following information:</text>
           <para>
             <num>(1)</num>
             <text>Date of sterilization.</text>
@@ -3397,6 +3417,7 @@
         </para>
         <annotations>
           <annotation type="Prior Codifications">§PHS.7.1.310 was formerly codified as LCOTCC §7.31</annotation>
+          <annotation app="2025-10-28" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-178" eff="2025-10-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3427,15 +3448,15 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>An agent of the Division who is a Registered Sanitarian may issue temporary establishment and temporary practitioner licenses without the approval of the Department.</text>
+          <text>An agent of the Division who is (1) recognized by the National Environmental Health Association as a Registered Environmental Health Specialist, also known as a Registered Sanitarian (2) have Bloodborne Pathogen and Biohazard Disposal Certifications, or (3) be certified in WI as a nurse, a nurse practitioner or doctor,  may issue temporary establishment and temporary practitioner licenses without the approval of the Department.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>No temporary establishment may be operated without a temporary establishment license, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center. An application for a temporary establishment license shall be made under <cite path="|PHS.7.1.120" proof="needed">Section PHS.7.1.120</cite> and shall be accompanied by the fee required under <cite path="|PHS.7.1.120|(c)" proof="needed">Section PHS.7.1.120(c)</cite>, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center.</text>
+          <text>No temporary establishment may be operated without a temporary establishment license, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center. An application for a temporary establishment license shall be made under <cite path="|PHS.7.1.120">Section PHS.7.1.120</cite> and shall be accompanied by the fee required under <cite path="|PHS.7.1.120|(c)">Section PHS.7.1.120(c)</cite>, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>No temporary establishment license shall be issued without a prior inspection, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, in which case the license may be issued but the vendor may not engage in services until inspected and approved to do so by the Division. In either instance, a pre-inspection fee as required under <cite path="|PHS.7.1.100|(b)" proof="needed">Section PHS.7.1.100(b)</cite> shall not be charged.</text>
+          <text>No temporary establishment license shall be issued without a prior inspection, unless the temporary establishment is operating at an event or venue held by or at the Sevenwinds Casino, Lodge &amp; Conference Center, in which case the license may be issued but the vendor may not engage in services until inspected and approved to do so by the Division. In either instance, a pre-inspection fee as required under <cite path="|PHS.7.1.100|(b)">Section PHS.7.1.100(b)</cite> shall not be charged.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -3512,6 +3533,7 @@
         <annotations>
           <annotation type="Prior Codifications">§PHS.7.1.330 was formerly codified as LCOTCC §7.33</annotation>
           <annotation app="2025-10-14" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-169" eff="2025-10-14" path="" type="History"/>
+          <annotation app="2025-10-28" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-178" eff="2025-10-28" path="" type="History"/>
         </annotations>
       </section>
       <section>
