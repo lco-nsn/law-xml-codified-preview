@@ -10,8 +10,8 @@
         <volume start="PAP.5"/>
       </volumes>
     </print>
-    <recency through="2025-10-28">
-      <doc id="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-178" type="resolution"/>
+    <recency through="2025-12-16">
+      <doc id="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-215" type="resolution"/>
     </recency>
   </meta>
   <heading>Lac Courte Oreilles Tribal Code of Law</heading>
@@ -646,16 +646,16 @@
     <container>
       <prefix>Chapter</prefix>
       <num>GWE.2</num>
-      <reason>Repealed</reason>
       <heading>General Welfare Services Immediate Assistance Funds</heading>
+      <reason>Repealed</reason>
       <container>
         <prefix>Subchapter</prefix>
         <num>GWE.2.1</num>
         <heading>General Welfare Services Immediate Assistance Funds</heading>
         <section placeholder="Repealed">
-          <reason>Repealed</reason>
           <num>GWE.2.1.010</num>
           <heading>Policy Declaration</heading>
+          <reason>Repealed</reason>
           <text>Repealed.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
@@ -664,9 +664,9 @@
           </annotations>
         </section>
         <section placeholder="Repealed">
-          <reason>Repealed</reason>
           <num>GWE.2.1.020</num>
           <heading>Tribal Governing Board Responsibilities</heading>
+          <reason>Repealed</reason>
           <text>Repealed.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
@@ -675,9 +675,9 @@
           </annotations>
         </section>
         <section placeholder="Repealed">
-          <reason>Repealed</reason>
           <num>GWE.2.1.030</num>
           <heading>Budget Allocations</heading>
+          <reason>Repealed</reason>
           <text>Repealed.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
@@ -686,9 +686,9 @@
           </annotations>
         </section>
         <section placeholder="Repealed">
-          <reason>Repealed</reason>
           <num>GWE.2.1.040</num>
           <heading>Procedure</heading>
+          <reason>Repealed</reason>
           <text>Repealed.</text>
           <annotations>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>

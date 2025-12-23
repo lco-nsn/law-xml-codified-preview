@@ -52,274 +52,274 @@
     <text>William Trepanier, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:replace path="MCC.1|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1">
+  <codify:replace path="MCC.1|heading">
     <heading>Chapter MCC.1 Tribal Government Code of Conduct of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.1|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1">
+  <codify:replace path="MCC.1.1|heading">
     <heading>Introduction</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.1.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.010">
+  <codify:replace path="MCC.1.1.010|heading">
     <heading>Title</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.1.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.020">
+  <codify:replace path="MCC.1.1.020|heading">
     <heading>Authority</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.1.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.030">
+  <codify:replace path="MCC.1.1.030|heading">
     <heading>Purpose</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.1.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.040">
+  <codify:replace path="MCC.1.1.040|heading">
     <heading>Effective Date</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.1.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.050">
+  <codify:replace path="MCC.1.1.050|heading">
     <heading>Interpretation</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.1.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.060">
+  <codify:replace path="MCC.1.1.060|heading">
     <heading>Limited Waiver of Individual Immunity</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.1.070|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.070">
+  <codify:replace path="MCC.1.1.070|heading">
     <heading>Severability and Non-Liability</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.1.080|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.080">
+  <codify:replace path="MCC.1.1.080|heading">
     <heading>Repeal of Inconsistent Tribal Ordinances</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.2|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.2">
+  <codify:replace path="MCC.1.2|heading">
     <heading>General Definitions</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.2.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.2.010">
+  <codify:replace path="MCC.1.2.010|heading">
     <heading>General Definitions</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.3|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3">
+  <codify:replace path="MCC.1.3|heading">
     <heading>Principles</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.3.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.010">
+  <codify:replace path="MCC.1.3.010|heading">
     <heading>Conduct in Conformity with Applicable Rules and Laws</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.3.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.020">
+  <codify:replace path="MCC.1.3.020|heading">
     <heading>Equal Representation</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.3.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.030">
+  <codify:replace path="MCC.1.3.030|heading">
     <heading>Integrity</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.3.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.040">
+  <codify:replace path="MCC.1.3.040|heading">
     <heading>Confidentiality</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.3.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.050">
+  <codify:replace path="MCC.1.3.050|heading">
     <heading>Responsibility</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.3.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.060">
+  <codify:replace path="MCC.1.3.060|heading">
     <heading>Competence</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.3.070|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.3.070">
+  <codify:replace path="MCC.1.3.070|heading">
     <heading>Accountability</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.4|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.4">
+  <codify:replace path="MCC.1.4|heading">
     <heading>Conflict of Interest</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.4.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.4.010">
+  <codify:replace path="MCC.1.4.010|heading">
     <heading>Conflict of Interest</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.4.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.4.020">
+  <codify:replace path="MCC.1.4.020|heading">
     <heading>Anti-Nepotism</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.4.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.4.030">
+  <codify:replace path="MCC.1.4.030|heading">
     <heading>Conflict of Interest Statements and Official Action</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.5|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5">
+  <codify:replace path="MCC.1.5|heading">
     <heading>Fiduciary Duty</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.5.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.010">
+  <codify:replace path="MCC.1.5.010|heading">
     <heading>Economic Interests</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.5.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.020">
+  <codify:replace path="MCC.1.5.020|heading">
     <heading>Tribal Government Contracts: Restrictions and Bid Requirements</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.5.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.030">
+  <codify:replace path="MCC.1.5.030|heading">
     <heading>Awards, Loans, Reimbursements and Campaign Contributions</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.5.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.040">
+  <codify:replace path="MCC.1.5.040|heading">
     <heading>Tribal Entity Monetary Benefits</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.5.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.050">
+  <codify:replace path="MCC.1.5.050|heading">
     <heading>Purchase Policy</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.5.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.5.060">
+  <codify:replace path="MCC.1.5.060|heading">
     <heading>Travel Policy</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6">
+  <codify:replace path="MCC.1.6|heading">
     <heading>Employment, Compensation and Benefits</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.010">
+  <codify:replace path="MCC.1.6.010|heading">
     <heading>Compensation</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.020">
+  <codify:replace path="MCC.1.6.020|heading">
     <heading>Work Site Accommodations</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.030">
+  <codify:replace path="MCC.1.6.030|heading">
     <heading>Personnel Files</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.040">
+  <codify:replace path="MCC.1.6.040|heading">
     <heading>Medical Documentation</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.050">
+  <codify:replace path="MCC.1.6.050|heading">
     <heading>Hours of Work</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.060">
+  <codify:replace path="MCC.1.6.060|heading">
     <heading>Pay Period</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.070|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.070">
+  <codify:replace path="MCC.1.6.070|heading">
     <heading>Attendance</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.080|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.080">
+  <codify:replace path="MCC.1.6.080|heading">
     <heading>Compensatory Time</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.090|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.090">
+  <codify:replace path="MCC.1.6.090|heading">
     <heading>Payroll Deductions</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.100|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.100">
+  <codify:replace path="MCC.1.6.100|heading">
     <heading>Bank Deposits or Payroll Deductions</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.110|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.110">
+  <codify:replace path="MCC.1.6.110|heading">
     <heading>Workers' Compensation</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.120|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.120">
+  <codify:replace path="MCC.1.6.120|heading">
     <heading>Available Benefits</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.130|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.130">
+  <codify:replace path="MCC.1.6.130|heading">
     <heading>Group Health Insurance / Cobra</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.140|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.140">
+  <codify:replace path="MCC.1.6.140|heading">
     <heading>Holiday Leave</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.150|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.150">
+  <codify:replace path="MCC.1.6.150|heading">
     <heading>Personal Time Off</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.160|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.160">
+  <codify:replace path="MCC.1.6.160|heading">
     <heading>Sharing Personal Time Off</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.170|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.170">
+  <codify:replace path="MCC.1.6.170|heading">
     <heading>Additional Paid Leave</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.180|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.180">
+  <codify:replace path="MCC.1.6.180|heading">
     <heading>Unpaid Leave</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.190|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.190">
+  <codify:replace path="MCC.1.6.190|heading">
     <heading>Family and Medical Leave</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.200|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.200">
+  <codify:replace path="MCC.1.6.200|heading">
     <heading>Life Insurance, Disability Insurance and Retirement Plan</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.210|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.210">
+  <codify:replace path="MCC.1.6.210|heading">
     <heading>Employee Assistance Program</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.220|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.220">
+  <codify:replace path="MCC.1.6.220|heading">
     <heading>Christmas Bonus</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.230|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.230">
+  <codify:replace path="MCC.1.6.230|heading">
     <heading>Alcohol and Drugs</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.240|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.240">
+  <codify:replace path="MCC.1.6.240|heading">
     <heading>Drug Free Workplace Act Compliance</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.250|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.250">
+  <codify:replace path="MCC.1.6.250|heading">
     <heading>Drug and Alcohol Testing Procedures</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.260|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.260">
+  <codify:replace path="MCC.1.6.260|heading">
     <heading>Inspection and Search</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.270|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.270">
+  <codify:replace path="MCC.1.6.270|heading">
     <heading>Workplace Violence</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.6.280|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.280">
+  <codify:replace path="MCC.1.6.280|heading">
     <heading>Off-Duty Misconduct</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.7|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7">
+  <codify:replace path="MCC.1.7|heading">
     <heading>Confidentiality</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.7.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7.010">
+  <codify:replace path="MCC.1.7.010|heading">
     <heading>Confidentiality</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.7.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7.020">
+  <codify:replace path="MCC.1.7.020|heading">
     <heading>Media Inquiries</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.7.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7.030">
+  <codify:replace path="MCC.1.7.030|heading">
     <heading>Security Measures / Limited Access Control Areas</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.7.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7.040">
+  <codify:replace path="MCC.1.7.040|heading">
     <heading>Internet and Telephones</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.7.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.7.050">
+  <codify:replace path="MCC.1.7.050|heading">
     <heading>Policy Regarding Use of Social Media by Elected Officials</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.9|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9">
+  <codify:replace path="MCC.1.9|heading">
     <heading>Vehicle Driver Certification</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.9.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.010">
+  <codify:replace path="MCC.1.9.010|heading">
     <heading>Purpose</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.9.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.020">
+  <codify:replace path="MCC.1.9.020|heading">
     <heading>Scope</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.9.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.030">
+  <codify:replace path="MCC.1.9.030|heading">
     <heading>Policy</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.9.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.040">
+  <codify:replace path="MCC.1.9.040|heading">
     <heading>Procedures</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.9.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.050">
+  <codify:replace path="MCC.1.9.050|heading">
     <heading>Minimum Certification Requirements</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.9.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.9.060">
+  <codify:replace path="MCC.1.9.060|heading">
     <heading>Recordkeeping</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.10|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.10">
+  <codify:replace path="MCC.1.10|heading">
     <heading>Miscellaneous</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.10.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.10.010">
+  <codify:replace path="MCC.1.10.010|heading">
     <heading>Amendments to the Governmental Code of Conduct</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.11|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11">
+  <codify:replace path="MCC.1.11|heading">
     <heading>Implementation and Compliance</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.11.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.010">
+  <codify:replace path="MCC.1.11.010|heading">
     <heading>Filing of Complaints</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.11.020|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.020">
+  <codify:replace path="MCC.1.11.020|heading">
     <heading>Notice</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.11.030|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.030">
+  <codify:replace path="MCC.1.11.030|heading">
     <heading>Determination to Proceed</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.11.040|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.040">
+  <codify:replace path="MCC.1.11.040|heading">
     <heading>Response to Notice</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.11.050|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.050">
+  <codify:replace path="MCC.1.11.050|heading">
     <heading>Fair Hearings</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.11.060|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.060">
+  <codify:replace path="MCC.1.11.060|heading">
     <heading>Administrative Decision</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.11.070|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.070">
+  <codify:replace path="MCC.1.11.070|heading">
     <heading>Appeals</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.11.080|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.080">
+  <codify:replace path="MCC.1.11.080|heading">
     <heading>Statute of Limitations</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.11.090|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.11.090">
+  <codify:replace path="MCC.1.11.090|heading">
     <heading>Retaliation Prohibited</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.12|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.12">
+  <codify:replace path="MCC.1.12|heading">
     <heading>Sanctions and Penalties</heading>
   </codify:replace>
-  <codify:replace path="MCC.1.12.010|heading" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.12.010">
+  <codify:replace path="MCC.1.12.010|heading">
     <heading>Administrative Sanctions</heading>
   </codify:replace>
-  <codify:find-replace path="MCC.1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.010|annos">
+  <codify:find-replace path="MCC.1">
     <find>Preamble</find>
     <replace/>
   </codify:find-replace>
-  <codify:find-replace path="MCC.1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.010|annos">
+  <codify:find-replace path="MCC.1">
     <find>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians relating to the operation of the Tribal Government and the delivery of governmental services, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III">Articles III</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V">V</cite> of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians, empowers the Tribal Governing Board to: "determine its own procedures" <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|6">Article III, § 6</cite>; and "to regulate, by enactment of ordinances, the conduct of business within the territory of the Band," <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1 (n)</cite>. As leaders of the Odaawa-Zaaga'iganing Nation, the Tribal Governing Board will represent the citizens (members) by acknowledging the traditional and cultural values of Wisdom, Love, Respect, Bravery, Honesty, Humility, and Truth. The Tribal Governing Board shall exhibit the highest level of integrity and fairness while representing the needs of the entire Tribe. The Tribal Governing Board shall provide effective leadership while being held accountable to make fair and informed decisions. The Tribal Governing Board shall strengthen government-to-government by enacting legislation further protecting Tribal Sovereignty. This ordinance sets forth standards by which Elected Officials will conduct themselves in order to protect and promote Tribal integrity and to enhance the ability of the Tribe to achieve its objectives in a manner consistent with all applicable laws and regulations. This ordinance is also intended to guide and direct all Elected Officials in dealing with situations they may encounter while in office thereby assisting Elected Officials in making the right choices when confronted with difficult decisions.</find>
     <replace/>
   </codify:find-replace>
-  <codify:repeal path="MCC.1" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.1.010|annos"/>
+  <codify:repeal path="MCC.1"/>
 </document>

@@ -4159,18 +4159,18 @@
         <heading>Method Specifications</heading>
         <para>
           <num>(a)</num>
-          <heading>Purchases that are Less than $3,000:</heading>
+          <text>Purchases that are less than $10,000:</text>
           <para>
             <num>(1)</num>
-            <text>For purchase of less than three thousand dollars ($3,000), the TGB shall set the guideline allowing the tribe the ability to purchase without soliciting competitive quotations if the CPO or designee considers the price to be reasonable.</text>
+            <text>For purchases of less than ten thousand dollars ($10,000), the Tribal Governing Board shall set the guideline allowing the Tribe the ability to purchase without soliciting competitive quotations if the CPO or designee considers the price to be reasonable.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>A Requisition Request must be used for all purchases less than three thousand dollars ($3,000). The CPO or designee must determine reasonableness based on prior purchase of a similar nature or other source of information. When the purchase order is signed, it signifies that the cost has been determined to be reasonable.</text>
+            <text>A Requisition Request must be used for all purchases less than ten thousand dollars ($10,000). The CPO or designee must determine reasonableness based on prior purchase of a similar nature or other source of information. When the purchase order is signed, it signifies that the cost has been determined to be reasonable.</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>For purchase of less than three thousand dollars ($3,000), only one bid is required, provided it is determined to be reasonable. Estimates may be based upon recent purchases of similar items, obtained from catalogs, the internet, emails, fax or verbally but must be documented. If the purchase is made for reasons other than price, the file must clearly describe the reason for the purchase.  Under no circumstances will a purchase be broken down into more than one action in order to meet the less than three thousand dollars ($3,000) purchase threshold.  The purchase must be documented by the CPO or designee.</text>
+            <text>For purchases of less than ten thousand dollars ($10,000), only one bid is required, provided it is determined to be reasonable. Estimates may be based upon recent purchases of similar items, obtained from catalogs, the internet, emails, fax or verbally but must be documented. If the purchase is made for reasons other than price, the file must clearly describe the reason for the purchase. Under no circumstances will a purchase be broken down into more than one action in order to meet the less than ten thousand dollars ($10,000) purchase threshold. The purchase must be documented by the CPO or designee.</text>
           </para>
         </para>
         <para>
@@ -4178,14 +4178,14 @@
           <heading>Requisition Purchase:</heading>
           <para>
             <num>(1)</num>
-            <text>Requisition Purchase Procurement: For purchases of three thousand and one dollars ($3,001) but less than one hundred and fifty thousand ($150,000) dollars, also known as Requisition Purchases, supporting documentation documenting at least three price quotations is required. Under no circumstance may a purchase be broken down into more than one action in order to meet the Requisition Purchase threshold. The Requisition Purchase must be documented by an authorized Requisition Form. During the Requisition sign off review the CPO may request additional quotes. The CPO at their discretion may audit any purchase by requesting additional quotes.</text>
+            <text>Requisition Purchase Procurement: For purchases of ten thousand and one dollars ($10,001) but less than two hundred and fifty thousand ($250,000) dollars, also known as Requisition Purchases, supporting documentation documenting at least three price quotations is required. Under no circumstance may a purchase be broken down into more than one action in order to meet the Requisition Purchase threshold. The Requisition Purchase must be documented by an authorized Requisition Form. During the Requisition sign off review the CPO may request additional quotes. The CPO at their discretion may audit any purchase by requesting additional quotes.</text>
           </para>
           <para>
             <num>(2)</num>
             <text>Purchases utilizing the Requisition Request form shall be restricted to staff designated by the CPO or his/her designee.</text>
             <para>
               <num>(A)</num>
-              <text>All purchases/acquisitions exceeding $3,000 must utilize the Requisition Request form which shall be reviewed by the Tribal Legal Department upon the discretion of the CPO or CPO Representative.</text>
+              <text>All purchases/acquisitions exceeding $10,000 must utilize the Requisition Request form which shall be reviewed by the Tribal Legal Department upon the discretion of the CPO or CPO Representative.</text>
             </para>
             <para>
               <num>(B)</num>
@@ -4230,7 +4230,7 @@
           <heading>Purchase Order:</heading>
           <para>
             <num>(1)</num>
-            <text>Any Purchase Procurement valued at three thousand and one dollars ($3,001) up to the small purchase threshold may be conducted in accordance with the Purchase Order purchase procedures authorized in <cite path="|PAP.2.5.030">this section</cite>. Contract requirements shall not be artificially divided so as to constitute a purchase order under <cite path="|PAP.2.5.030">this section</cite>.</text>
+            <text>Any Purchase Procurement valued at ten thousand and one dollars ($10,001) up to the small purchase threshold may be conducted in accordance with the Purchase Order purchase procedures authorized in <cite path="|PAP.2.5.30">PAP.2.5.30</cite> Method Specifications, <cite>Subpara (a)</cite>. Contract requirements shall not be artificially divided so as to constitute a purchase order under <cite path="C:\Users\Dyllan\Documents\PAP.2.5.030">PAP.2.5.030</cite> Method Specifications.</text>
             <para>
               <num>(A)</num>
               <text><u>Obtaining Quotes</u>. The Department wishing to make the procurement shall solicit price quotations by phone, letter or other informal procedures that allows participants by reasonable number of competitive sources.  When soliciting quotations the Department shall inform the sources solicited of the specific item being procured, the time by which quotations must be submitted, and the information required to be submitted with each quotation. The Department shall obtain written quotation such as a letter or email; however the written quotation may be a confirmation of a previous oral quotation only if it is submitted within ten (10) days of the oral quotation or by the date for submitting quotation. The names, addresses, and/or telephone numbers of the offerors and person contacted, and the date and amount of each quotation shall be recorded and maintained as a public record.</text>
@@ -4253,7 +4253,7 @@
             </para>
             <para>
               <num>(D)</num>
-              <text><u>Soliciting Proposals</u>.  For the purpose of soliciting written proposals for small purchases under the $150,000 threshold, one or more of the following methods may be used:</text>
+              <text><u>Soliciting Proposals</u>.  For the purpose of soliciting written proposals for small purchases under the $250,000 threshold, one or more of the following methods may be used:</text>
               <para>
                 <num>(i)</num>
                 <text>Advertisement placed in a newspaper and/or newsletter of general circulation;</text>
@@ -4280,6 +4280,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-30"/>
           <annotation type="Prior Codifications">§PAP.2.5.030 was formerly codified as XIV LCOTCL §2.503</annotation>
+          <annotation app="2025-12-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-207" eff="2025-12-09" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4336,50 +4337,47 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Purchases for three thousand dollars (<strong>$</strong>3,000) or less may be executed by CPO or a representative designated by the CPO;</text>
+          <text>Purchases for ten thousand dollars ($10,000) or less may be executed by CPO or a representative designated by the CPO;</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>Purchases in excess of three thousand and one dollars ($3,001) but less than one hundred and fifty thousand (<strong>$</strong>150,000) dollars shall be reviewed by the Tribe's Legal Department upon the discretion of the CPO or CPO Representative.</text>
+          <text>Purchases in excess of ten thousand and one dollars ($10,001) but less than two hundred and fifty thousand ($250,000) dollars shall be reviewed by the Tribe's Legal Department upon the discretion of the CPO or CPO Representative.</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>Purchases in excess of one hundred and fifty thousand ($150,000) dollars shall be approved by the TGB upon review by the Tribe's Legal Department;</text>
+          <text>Purchases in excess of two hundred and fifty thousand ($250,000) dollars may be approved by the TGB after review by the Tribe's Legal Department;</text>
           <text>
-            <em>(Note: The table below is the $ amounts of purchases and whom are authorized to approve the purchases.)</em>
-          </text>
-          <text>
-            <table>
+            <table class="layout-table">
               <tbody>
                 <tr>
                   <td>Amount of Purchase</td>
-                  <td proof="needed">
+                  <td>
                     <p>Authorized by</p>
                     <p>CPO</p>
                     <p>Designee</p>
                   </td>
                   <td>Authorized by<br/>CPO</td>
-                  <td proof="needed">
+                  <td>
                     <p>Authorized by</p>
                     <p>LCO TGB</p>
                   </td>
                 </tr>
                 <tr>
-                  <td>$1 - $3,000</td>
+                  <td>$1 - $10,000</td>
                   <td>X</td>
                   <td>X</td>
-                  <td proof="needed"/>
+                  <td/>
                 </tr>
                 <tr>
-                  <td>$3,001 - $150,000</td>
-                  <td proof="needed"/>
+                  <td>$10,001 - $250,000</td>
+                  <td/>
                   <td>X</td>
-                  <td proof="needed"/>
+                  <td/>
                 </tr>
                 <tr>
-                  <td class="text-indent-1">$150,000</td>
-                  <td proof="needed"/>
-                  <td proof="needed"/>
+                  <td>$250,000</td>
+                  <td/>
+                  <td/>
                   <td>X</td>
                 </tr>
               </tbody>
@@ -4388,14 +4386,14 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>The purchase order is used as the primary contract document for contracts, single material and supply purchases of one hundred and fifty thousand ($150,000) dollars or less. At all times the procedures for Informal Solicitations shall be followed.  For all purchases in excess of one hundred and fifty thousand ($150,000) dollars, a Purchase Order shall be assigned to the contract.  Note the following exceptions:</text>
+          <text>The purchase order is used as the primary contract document for contracts, single material and supply purchases of one hundred and fifty thousand ($150,000) dollars or less. At all times the procedures for Informal Solicitations shall be followed. For all purchases in excess of one hundred and fifty thousand ($150,000) dollars, a Purchase Order shall be assigned to the contract. Note the following exceptions:</text>
           <para>
             <num>(1)</num>
             <text>Procurements that are expected to exceed five thousand dollars ($5,000) and include labor shall be prepared utilizing a Request for Contract document and shall be administered by the Chief Procurement Officer (CPO);</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Procurements that are expected to exceed three thousand ($3,000) dollars but not exceed one hundred and fifty thousand ($150,000) dollars <u>and</u> do not include labor shall be prepared utilizing the Tribes informal solicitations Invitation For Bids (IFB) or Request For Proposals (RFP) format or the Requisition Request and shall be coordinated through the CPO;</text>
+            <text>Procurements that are expected to exceed ten thousand ($10,000) dollars but not exceed two hundred and fifty thousand ($250,000) dollars and do not include labor shall be prepared utilizing the Tribes informal solicitations Invitation For Bids (IFB) or Request For Proposals (RFP) format or the Requisition Request and shall be coordinated through the CPO;</text>
           </para>
           <para>
             <num>(3)</num>
@@ -4495,110 +4493,17 @@
           <text>Procedures:</text>
           <para>
             <num>(1)</num>
-            <heading>Purchase Orders:</heading>
-            <text>
-              <strong>Less than $3,000</strong>
-            </text>
-            <para>
-              <num>(A)</num>
-              <text><u>Authorized Personnel</u>. CPO or CPO designee should ensure that all procurement is in compliance with these procedures:</text>
-              <para>
-                <num>(i)</num>
-                <text>The Purchase Order will be filled out legibly by hand, typewritten, or computer generated;</text>
-              </para>
-              <para>
-                <num>(ii)</num>
-                <text>All information pertinent to the purchase shall be identified on the Purchase Order;</text>
-              </para>
-              <para>
-                <num>(iii)</num>
-                <text>All purchase descriptions shall fully detail what is being purchased;</text>
-              </para>
-              <para>
-                <num>(iv)</num>
-                <text>All individual prices shall be noted and all prices shall be extended and totaled;</text>
-              </para>
-              <para>
-                <num>(v)</num>
-                <text>Proper coding shall be noted;</text>
-              </para>
-              <para>
-                <num>(vi)</num>
-                <text>The original, shall be given to the vendor, all other copies forwarded as described above or on the Purchase Order; and</text>
-              </para>
-              <para>
-                <num>(vii)</num>
-                <text>If there are any attachments to the Purchase Order, ensure copies of the attachment accompany all copies of the Purchase Order.</text>
-              </para>
-            </para>
-            <para>
-              <num>(B)</num>
-              <text>Procedures Performed by the Finance Department.  Purchase Orders, numbered sequentially, shall be stored in a safe and secure location until assigned.</text>
-            </para>
-            <para>
-              <num>(C)</num>
-              <text>The Procurement Department shall maintain a Purchase Order Log identifying which numbered Purchase Orders are given to whom;</text>
-            </para>
-            <para>
-              <num>(D)</num>
-              <text>The receiving or responsible Department shall verify receipt of a purchase. It will be the responsibility of each dept. to maintain a sub-log of the Purchase Orders received and to whom they are assigned or to which vendors they have been issued.</text>
-            </para>
-            <para>
-              <num>(E)</num>
-              <text>If the purchase is for non-expendable, capitalized equipment with a value greater than five thousand ($5,000) dollars the Receiving Clerk shall identify the capital equipment on both the original and the copy of the receiving document. The CPO shall ensure a pre-numbered Tribal decal or barcode label is issued to the recipient of the item. It shall be the responsibility of the recipient to ensure the decal is affixed to the piece of equipment in such a manner as to prohibit removal by unauthorized personnel.</text>
-            </para>
-            <para>
-              <num>(F)</num>
-              <text>Upon receipt of the Finance copy of the Purchase Order and the vendor's original receipt, the Finance office shall ensure that the items are correctly charged against the specific account or ID No. for which they were purchased. ALL purchases shall be encumbered against the proper account(s). Items purchased for re-stocking inventory shall be charged to the general ledger account for such purchases.</text>
-            </para>
+            <text>Purchase Orders: Less than $10,000:</text>
           </para>
           <para>
             <num>(2)</num>
-            <heading>Purchase Order:</heading>
-            <text>
-              <strong>Greater than $3,000</strong>
-            </text>
-            <para>
-              <num>(A)</num>
-              <text><u>Authorized Personnel.</u> The CPO or their designee ensures that all procurement is in compliance with procedures found later in this document.</text>
-            </para>
-            <para>
-              <num>(B)</num>
-              <text>The Purchase Order will be filled out legibly by hand, typewritten, or computer generated;</text>
-            </para>
-            <para>
-              <num>(C)</num>
-              <text>All information pertinent to the purchase shall be identified on the Purchase Order;</text>
-            </para>
-            <para>
-              <num>(D)</num>
-              <text>All purchase descriptions fully detail what is being purchased;</text>
-            </para>
-            <para>
-              <num>(E)</num>
-              <text>All individual prices are noted and all prices are extended and totaled;</text>
-            </para>
-            <para>
-              <num>(F)</num>
-              <text>Proper coding has been noted;</text>
-            </para>
-            <para>
-              <num>(G)</num>
-              <text>The Purchase Order shall be forwarded to the Tribe's Legal Department for review upon the discretion of the CPO or CPO Representative.</text>
-            </para>
-            <para>
-              <num>(H)</num>
-              <text>Upon review of the Purchase Order by the Tribe's Legal Department, the Purchase Order must be signed by the CPO  and then processed;</text>
-            </para>
-            <para>
-              <num>(I)</num>
-              <text>Ensure the original Purchase Order is given to the vendor and upon receipt of the goods, all other copies forwarded to the appropriate department as described above for processing.</text>
-            </para>
+            <text>Purchase Order: Greater than $10,000:</text>
           </para>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-30"/>
           <annotation type="Prior Codifications">§PAP.2.5.050 was formerly codified as XIV LCOTCL §2.505</annotation>
+          <annotation app="2025-12-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-207" eff="2025-12-09" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -28196,12 +28101,12 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>PAP.10.6</num>
-      <reason>Repealed</reason>
       <heading>Grants Management</heading>
+      <reason>Repealed</reason>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.010</num>
         <heading>Separate Accounting</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28210,9 +28115,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.020</num>
         <heading>Expenditures</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28221,9 +28126,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.030</num>
         <heading>Compliance Requirement</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28232,9 +28137,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.040</num>
         <heading>Department Proposals</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28243,9 +28148,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.050</num>
         <heading>Review of Proposals</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28254,9 +28159,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.060</num>
         <heading>Grants/Contracts Proposed as Pass Thru</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28265,9 +28170,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.070</num>
         <heading>Grants/Contracts Reviews Completed</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28276,9 +28181,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.080</num>
         <heading>New Grants/Contracts Applications</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28287,9 +28192,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.090</num>
         <heading>Departmental Programs and Projects</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28298,9 +28203,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.100</num>
         <heading>Approved Proposals</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28309,9 +28214,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.110</num>
         <heading>Notice of Award Selection</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28320,9 +28225,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.120</num>
         <heading>Advance or Reimbursement from a Funding Agency</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28331,9 +28236,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.130</num>
         <heading>Incurring Costs Against an Award</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28342,9 +28247,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.140</num>
         <heading>Requests to Move Contract/Grant Funds</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28353,9 +28258,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.150</num>
         <heading>Technical Assistance Request</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28364,9 +28269,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.160</num>
         <heading>Denial of Approval to Submit Grant/Contract Application</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28375,9 +28280,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.170</num>
         <heading>Internal Audit and Self-Monitoring</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28386,9 +28291,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.180</num>
         <heading>Memorandums of Understanding</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>
@@ -28397,9 +28302,9 @@
         </annotations>
       </section>
       <section placeholder="Repealed">
-        <reason>Repealed</reason>
         <num>PAP.10.6.190</num>
         <heading>Drawdowns</heading>
+        <reason>Repealed</reason>
         <text>Repealed.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 17-41"/>

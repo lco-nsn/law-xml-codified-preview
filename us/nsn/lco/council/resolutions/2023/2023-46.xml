@@ -115,7 +115,7 @@
     <text/>
     <include>
       <section>
-        <codify:replace path="MCC.1.6.160" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|MCC.1.6.160"/>
+        <codify:replace path="MCC.1.6.160"/>
         <num>MCC.1.6.160</num>
         <heading>Sharing of Personal Time Off</heading>
         <text>Elected Officials are permitted to share PTO.</text>
