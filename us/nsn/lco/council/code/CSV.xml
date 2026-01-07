@@ -13360,10 +13360,11 @@
       <section>
         <num>CSV.7.1.030</num>
         <heading>Findings of Fact</heading>
-        <text>Uncontrolled use of the shorelands and pollution of the navigable waters of the Lac Courte Oreilles Reservation would adversely affect the public health, safety and general welfare of Lac Courte Oreilles citizens (members). The Lac Courte Oreilles Tribal Governing Board has the responsibility to promote the health, safety, and welfare, of Lac Courte Oreilles citizens (members); to further the maintenance of safe and healthful conditions; prevent and control water pollution; protect spawning grounds, fish and aquatic life; control building sites, placement of structures; and to preserve shore cover and natural beauty. This ordinance has been adopted for the purpose of protecting the environment of the Lac Courte Oreilles Reservation.</text>
+        <text>Uncontrolled use of the shorelands and pollution of the navigable waters of the Lac Courte Oreilles Reservation would adversely affect the public health, safety and general welfare of Lac Courte Oreilles citizens (members). The Lac Courte Oreilles Tribal Governing Board has the responsibility to promote the health, safety, and welfare, of Lac Courte Oreilles citizens (members); to further the maintenance of safe and healthful conditions; prevent and control water pollution; prevent shoreline erosion, protect spawning grounds, fish and aquatic life; control building sites, placement of structures; and to preserve shore cover and natural  beauty. This ordinance has been adopted for the purpose of protecting the environment of the Lac Courte Oreilles Reservation.</text>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-32"/>
           <annotation type="Prior Codifications">§CSV.7.1.030 was formerly codified as VI LCOTCL §7.103</annotation>
+          <annotation app="2025-12-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-221" eff="2025-12-16" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -13396,7 +13397,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Preserve shore cover and natural beauty through:</text>
+          <text>Preserve shore cover, natural beauty, and prohibit unnecessary shoreline erosion through:</text>
           <para>
             <num>(1)</num>
             <text>Restricting the removal of natural shoreland cover;</text>
@@ -13413,10 +13414,15 @@
             <num>(4)</num>
             <text>Regulating the placement of structures.</text>
           </para>
+          <para>
+            <num>(5)</num>
+            <text>Prohibiting operation of watercraft to create an artificial wake as is found under <cite path="|CSV.7.5.070">CSV.7.5.070</cite> Wake Protection.</text>
+          </para>
         </para>
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-32"/>
           <annotation type="Prior Codifications">§CSV.7.1.040 was formerly codified as VI LCOTCL §7.104</annotation>
+          <annotation app="2025-12-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-221" eff="2025-12-16" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14036,6 +14042,65 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-32"/>
           <annotation type="Prior Codifications">§CSV.7.5.060 was formerly codified as VI LCOTCL §7.506</annotation>
+        </annotations>
+      </section>
+      <section>
+        <num>CSV.7.5.070</num>
+        <heading>Wake Protection</heading>
+        <para>
+          <num proof="done">(a)</num>
+          <text>Prohibited Equipment. No person may use or employ ballast tanks, ballast bags or fins to cause a boat to operate in a bow-high manner, or which increases or enhances a boat's wake.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Prohibited Operation. No person may operate a boat in an artificially bow-high manner having the effect of increasing the boat's wake. Such prohibited operation shall include:</text>
+          <para>
+            <num>(1)</num>
+            <text>wake in excess of 24 inches above the waterline.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>wake enhancement by use of ballast tanks, or ballast bags or fins.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>continuous operation at transition speed (the speed below planing speed in which a boat is operating in plowing mode). For the purpose of this provision, "continuous operation" shall mean operation that is not acceleration for the purpose of achieving a state of planing."</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In no event shall any of the following operations be deemed a violation of this Ordinance, provided such operations do not create an artificial wake by continuous operation below planning speed, use or employ ballast tanks, ballast bags or wake enhancing fins:</text>
+          <para>
+            <num>(i)</num>
+            <text>water skiing;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>tubing;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>wake boarding employing a tow rope;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>brief transition operation to empty a boat of bilge water, or;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>brief transition operation of a boat accelerating into a planing condition.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Penalties.</text>
+          <para>
+            <num>(1)</num>
+            <text>For each instance where an individual or entity violates the restrictions above, the Tribe, acting through its Conservation Department Wardens, or Police Department's Officers, may cite and impose a civil penalty not to exceed five-thousand dollars ($5,000) per violation/occurrence on any person or entity who violates this ordinance.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2025-12-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-221" eff="2025-12-16" path="" type="History"/>
         </annotations>
       </section>
     </container>

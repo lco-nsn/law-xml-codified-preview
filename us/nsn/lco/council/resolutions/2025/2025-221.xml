@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-221" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2025-221</num>
+  <heading>Amending Chapter CSV.7 Shoreline Protection Code</heading>
+  <meta>
+    <effective>2025-12-16</effective>
+    <citations>
+      <citation type="res" url="./adopted/2025-221.pdf">Res. No. 2025-221</citation>
+    </citations>
+    <history>
+      <adopted>2025-12-16</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1(n) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board is empowered to "regulate, by enactment of ordinances, the conduct of business within the territory of the band"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1 (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board possesses certain powers, including: "To promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted the Lac Courte Oreilles Conservation Code to regulate any related activities within the jurisdiction of the Tribe.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board passed Resolution 16-32 establishing the Shoreland Protection Code (<cite doc="Lac Courte Oreilles Tribal Code of Law" path="CSV.7">CSV.7</cite>) under Title CSV Conservation of the Lac Courte Oreilles Tribal Code of Law.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Governing Board now wishes to amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="CSV.7">CSV.7</cite> to include sections related to the wake of watercraft on waterbodies within the jurisdiction of the Tribe.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby determines that it is in the best interest of the Tribe to amends <cite doc="Lac Courte Oreilles Tribal Code of Law" path="CSV.7">CSV.7</cite> to include the following additional sections as are found below.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the attached amendments to Title <cite doc="Lac Courte Oreilles Tribal Code of Law" path="CSV.7">CSV.7</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of the Lac Courte Oreilles Tribal Code of Law, shall be, and hereby is, amended and enacted as an ordinance of the Tribe, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|IV|3">Article IV, § 3 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> as follows:</text>
+      <para>
+        <num>1</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CSV.7.1.030">CSV.7.1.030</cite> Findings of Fact is amended as follows:</text>
+        <include>
+          <text>Uncontrolled use of the shorelands and pollution of the navigable waters of the Lac Courte Oreilles Reservation would adversely affect the public health, safety and general welfare of Lac Courte Oreilles citizens (members). The Lac Courte Oreilles Tribal Governing Board has the responsibility to promote the health, safety, and welfare, of Lac Courte Oreilles citizens (members); to further the maintenance of safe and healthful conditions; prevent and control water pollution; prevent shoreline erosion, protect spawning grounds, fish and aquatic life; control building sites, placement of structures; and to preserve shore cover and natural  beauty. This ordinance has been adopted for the purpose of protecting the environment of the Lac Courte Oreilles Reservation.</text>
+        </include>
+        <codify:replace path="CSV.7.1.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.7.1.030">
+          <section>
+            <num>CSV.7.1.030</num>
+            <heading>Findings of Fact</heading>
+            <text>Uncontrolled use of the shorelands and pollution of the navigable waters of the Lac Courte Oreilles Reservation would adversely affect the public health, safety and general welfare of Lac Courte Oreilles citizens (members). The Lac Courte Oreilles Tribal Governing Board has the responsibility to promote the health, safety, and welfare, of Lac Courte Oreilles citizens (members); to further the maintenance of safe and healthful conditions; prevent and control water pollution; prevent shoreline erosion, protect spawning grounds, fish and aquatic life; control building sites, placement of structures; and to preserve shore cover and natural  beauty. This ordinance has been adopted for the purpose of protecting the environment of the Lac Courte Oreilles Reservation.</text>
+          </section>
+        </codify:replace>
+      </para>
+      <para>
+        <num>2</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CSV.7.1.040">CSV.7.1.040</cite> Purpose is amended as follows:</text>
+        <include>
+          <text>The purpose of this ordinance is to promote the health, safety, and welfare of Lac Courte Oreilles citizens (members). As such, this ordinance has been established to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Further the maintenance of safe and healthful conditions and prevent and control water pollution through:</text>
+            <para>
+              <num>(1)</num>
+              <text>Controlling filling and grading to prevent serious soil erosion problems.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Protect spawning grounds, fish and aquatic life through:</text>
+            <para>
+              <num>(1)</num>
+              <text>Preserving wetlands and other fish and aquatic habitat;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Regulating pollution sources;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Controlling shoreline alterations, dredging and lagooning.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Preserve shore cover, natural beauty, and prohibit unnecessary shoreline erosion through:</text>
+            <para>
+              <num>(1)</num>
+              <text>Restricting the removal of natural shoreland cover;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Preventing shoreline encroachment by structures;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Controlling shoreland excavation and other earth moving activities; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Regulating the placement of structures.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Prohibiting operation of watercraft to create an artificial wake as is found under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CSV.7.5.070">CSV.7.5.070</cite> Wake Protection.</text>
+            </para>
+          </para>
+        </include>
+        <codify:replace path="CSV.7.1.040" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.7.1.040">
+          <section>
+            <num>CSV.7.1.040</num>
+            <heading>Purpose</heading>
+            <text>The purpose of this ordinance is to promote the health, safety, and welfare of Lac Courte Oreilles citizens (members). As such, this ordinance has been established to:</text>
+            <para>
+              <num>(a)</num>
+              <text>Further the maintenance of safe and healthful conditions and prevent and control water pollution through:</text>
+              <para>
+                <num>(1)</num>
+                <text>Controlling filling and grading to prevent serious soil erosion problems.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Protect spawning grounds, fish and aquatic life through:</text>
+              <para>
+                <num>(1)</num>
+                <text>Preserving wetlands and other fish and aquatic habitat;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Regulating pollution sources;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Controlling shoreline alterations, dredging and lagooning.</text>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Preserve shore cover, natural beauty, and prohibit unnecessary shoreline erosion through:</text>
+              <para>
+                <num>(1)</num>
+                <text>Restricting the removal of natural shoreland cover;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Preventing shoreline encroachment by structures;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Controlling shoreland excavation and other earth moving activities; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Regulating the placement of structures.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Prohibiting operation of watercraft to create an artificial wake as is found under <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CSV.7.5.070">CSV.7.5.070</cite> Wake Protection.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+      </para>
+      <para>
+        <num>3</num>
+        <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|CSV.7.5.070">CSV.7.5.070</cite> Wake Protection is enacted as follows:</text>
+        <include>
+          <para>
+            <num proof="done">(a)</num>
+            <text>Prohibited Equipment. No person may use or employ ballast tanks, ballast bags or fins to cause a boat to operate in a bow-high manner, or which increases or enhances a boat's wake.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Prohibited Operation. No person may operate a boat in an artificially bow-high manner having the effect of increasing the boat's wake. Such prohibited operation shall include:</text>
+            <para>
+              <num>(1)</num>
+              <text>wake in excess of 24 inches above the waterline.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>wake enhancement by use of ballast tanks, or ballast bags or fins.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>continuous operation at transition speed (the speed below planing speed in which a boat is operating in plowing mode). For the purpose of this provision, "continuous operation" shall mean operation that is not acceleration for the purpose of achieving a state of planing."</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>In no event shall any of the following operations be deemed a violation of this Ordinance, provided such operations do not create an artificial wake by continuous operation below planning speed, use or employ ballast tanks, ballast bags or wake enhancing fins: i) water skiing, ii) tubing, iii) wake boarding employing a tow rope; iv) brief transition operation to empty a boat of bilge water, or v) brief transition operation of a boat accelerating into a planing condition.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Penalties.</text>
+            <para>
+              <num>(1)</num>
+              <text>For each instance where an individual or entity violates the restrictions above, the Tribe, acting through its Conservation Department Wardens, or Police Department's Officers, may cite and impose a civil penalty not to exceed five-thousand dollars ($5,000) per violation/occurrence on any person or entity who violates this ordinance.</text>
+            </para>
+          </para>
+        </include>
+        <codify:insert path="CSV.7.5" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|CSV.7.5.070">
+          <section>
+            <num>CSV.7.5.070</num>
+            <heading>Wake Protection</heading>
+            <para>
+              <num proof="done">(a)</num>
+              <text>Prohibited Equipment. No person may use or employ ballast tanks, ballast bags or fins to cause a boat to operate in a bow-high manner, or which increases or enhances a boat's wake.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Prohibited Operation. No person may operate a boat in an artificially bow-high manner having the effect of increasing the boat's wake. Such prohibited operation shall include:</text>
+              <para>
+                <num>(1)</num>
+                <text>wake in excess of 24 inches above the waterline.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>wake enhancement by use of ballast tanks, or ballast bags or fins.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>continuous operation at transition speed (the speed below planing speed in which a boat is operating in plowing mode). For the purpose of this provision, "continuous operation" shall mean operation that is not acceleration for the purpose of achieving a state of planing."</text>
+              </para>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>In no event shall any of the following operations be deemed a violation of this Ordinance, provided such operations do not create an artificial wake by continuous operation below planning speed, use or employ ballast tanks, ballast bags or wake enhancing fins:</text>
+              <para>
+                <num>(i)</num>
+                <text>water skiing;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>tubing;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>wake boarding employing a tow rope;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>brief transition operation to empty a boat of bilge water, or;</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>brief transition operation of a boat accelerating into a planing condition.</text>
+              </para>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Penalties.</text>
+              <para>
+                <num>(1)</num>
+                <text>For each instance where an individual or entity violates the restrictions above, the Tribe, acting through its Conservation Department Wardens, or Police Department's Officers, may cite and impose a civil penalty not to exceed five-thousand dollars ($5,000) per violation/occurrence on any person or entity who violates this ordinance.</text>
+              </para>
+            </para>
+          </section>
+        </codify:insert>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>7</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>16<sup>th</sup> day of December, 2025</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>6</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Michelle Beaudin, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
