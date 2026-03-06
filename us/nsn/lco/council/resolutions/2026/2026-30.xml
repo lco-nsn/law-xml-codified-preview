@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-30" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2026-30</num>
+  <heading>Rescinding Pap.2 and Pap.10</heading>
+  <meta>
+    <effective>2026-02-24</effective>
+    <citations>
+      <citation type="res" url="./adopted/2026-30.pdf">Res. No. 2026-30</citation>
+    </citations>
+    <history>
+      <adopted>2026-02-24</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1" proof="needed">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)" proof="needed">Article V, § 1(n) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board is empowered to "regulate, by enactment of ordinances, the conduct of business within the territory of the band"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)" proof="needed">Article V, Section 1 (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board possesses certain powers, including: "To promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted the Lac Courte Oreilles Property and Procurement Policies and Procedures as well as the Governmental Fiscal Policies and Procedures to regulate any related activities within the jurisdiction of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board would now like the aforementioned Ordinances to be amended to policies and procedures, and as of today have enacted new accounting policies and procedures which shall apply.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby rescinds <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.2" proof="needed">PAP.2</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.10" proof="needed">PAP.10</cite> and replaces such accounting guidance with the new duly approved Accounting Policies and Procedures which shall take effect immediately.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>as follows: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.2" proof="needed">PAP.2</cite> and <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.10" proof="needed">PAP.10</cite> shall be rescinded and removed from the Lac Courte Oreilles Tribal Code of Law, and new Accounting Policies and Procedures, which do not constitute ordinances of the Tribe are hereby enacted.</text>
+      <codify:remove path="PAP.2" warning="false" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.1.1.010|annos"/>
+      <codify:remove path="PAP.10" warning="false" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.1.1.010|annos"/>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom 7 being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this 24th day of February, 2026, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of 6 members, 0 against, 0 abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Michelle Beaudin, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

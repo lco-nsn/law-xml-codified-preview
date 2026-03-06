@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-26" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2026-26</num>
+  <heading>Amending Chapter TCT.2 Rules of Civil Procedure Code</heading>
+  <meta>
+    <effective>2026-02-24</effective>
+    <citations>
+      <citation type="res" url="./adopted/2026-26.pdf">Res. No. 2026-26</citation>
+    </citations>
+    <history>
+      <adopted>2026-02-24</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1(n) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board is empowered to "regulate, by enactment of ordinances, the conduct of business within the territory of the band"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1 (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board possesses certain powers, including: "To promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted the Lac Courte Oreilles Rules of Civil Procedure Code to regulate any related activities within the jurisdiction of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board passed Resolution 17-36 establishing the Rules of Civil Procedure Code (<cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2">TCT.2</cite>) under Title TCT Tribal Court of the Lac Courte Oreilles Tribal Code of Law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Governing Board now wishes to amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2">TCT.2</cite> to include sections related to allowing students at ABA Accredited law schools, and graduates to provide legal services to the Tribe, including in Tribal Court, on behalf Office of the Attorney General, as well as to allow for remote appearances in Tribal Court.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby determines that it is in the best interest of the Tribe to amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2">TCT.2</cite> to include the amendments to the following sections as are found below.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the attached amendments to Title <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2">TCT.2</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of the Lac Courte Oreilles Tribal Code of Law, shall be, and hereby is, amended and enacted as an ordinance of the Tribe, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|IV|3">Article IV, § 3 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> as follows:</text>
+    </recital>
+  </recitals>
+  <para>
+    <num>1</num>
+    <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.6.010">TCT.2.6.010</cite> Appointment of Attorney General / Prosecutor is amended as follows:</text>
+    <text>The Title of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.6.010">Section TCT.2.6.010</cite> shall be amended to Appointment of Office of the Attorney General Staff.</text>
+    <text>The Section shall be amended as follows:</text>
+    <include>
+      <text>OAG Staff, including but not limited to the Attorney General, Deputy Attorney General(s), Assistant Attorney(s) General and Tribal Prosecutors shall be appointed by the Tribal Governing Board, for such term and upon such conditions as are determined by the Tribal Governing Board. The Tribal Governing Board or the Attorney General may also appoint such deputy, assistant, special, or pro tempore Attorney General(s) / Prosecutors, interns/externs, or OAG staff, as it deems advisable to perform any of the duties of the Tribal Prosecutor. The Attorney General and Deputy Attorney General may also appoint such special or pro tempore prosecutors when advisable to perform any of the duties of the Tribal Prosecutor. All such OAG staff and appointed individuals shall be automatically admitted to practice as attorneys in the Tribal Court, including law students and recent graduates from ABA accredited law schools who may not yet be admitted to a State Bar.</text>
+    </include>
+  </para>
+  <codify:replace path="TCT.2.6.010" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TCT.2.6.010">
+    <section>
+      <num>TCT.2.6.010</num>
+      <heading>Appointment of Office of the Attorney General Staff</heading>
+      <text>OAG Staff, including but not limited to the Attorney General, Deputy Attorney General(s), Assistant Attorney(s) General and Tribal Prosecutors shall be appointed by the Tribal Governing Board, for such term and upon such conditions as are determined by the Tribal Governing Board. The Tribal Governing Board or the Attorney General may also appoint such deputy, assistant, special, or pro tempore Attorney General(s) / Prosecutors, interns/externs, or OAG staff, as it deems advisable to perform any of the duties of the Tribal Prosecutor. The Attorney General and Deputy Attorney General may also appoint such special or pro tempore prosecutors when advisable to perform any of the duties of the Tribal Prosecutor. All such OAG staff and appointed individuals shall be automatically admitted to practice as attorneys in the Tribal Court, including law students and recent graduates from ABA accredited law schools who may not yet be admitted to a State Bar.</text>
+    </section>
+  </codify:replace>
+  <para>
+    <num>2</num>
+    <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.8.030">TCT.2.8.030</cite> Procedure for Admission is amended as follows:</text>
+    <include>
+      <para>
+        <num>(a)</num>
+        <text>An attorney for the purposes of <cite doc="Lac Courte Oreilles Tribal Code of Law">this subchapter</cite> shall be a person who has graduated from an American Bar Association accredited institution and has been admitted to a court or jurisdiction, unless the individual is employed by the Office of the Attorney General (OAG), or engaging in an internship or externship with the OAG, in which case the attorney may be a current law student or a graduate of an ABA accredited law school without being admitted to any State Bar. A Lay Advocate is a person who has completed certified training in the practice of law in tribal courts. A Lay advocate cannot be an attorney who is inactive or is not in current standing in another jurisdiction. Any person who is not an employee, or intern or extern of the OAG (who are expressly exempted from the admission requirements of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.8.030|(a)">this Section</cite>, as well as Subsections (b)(1) and (b)(3) below, to be granted licensure to the Tribal Court), wishing to practice before the Tribal Court, shall file a written request for admission with the Clerk of Court, accompanied by a Certificate of Good Standing from the State Bar or Supreme Court of the State in which such attorney is duly licensed to practice law. Such request shall be accompanied by an admission fee as determined by the Court rule pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.8.030|(b)|(1)">Section TCT.2.8.030(b)(1)</cite>, below.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Attorneys may appear on behalf of any party in any action or proceeding before the Tribal Court, provided they are licensed to practice law before the Tribal Court. Such license shall be issued upon compliance with the following, unless expressly exempted as OAG staff, interns or externs:</text>
+        <para>
+          <num>(1)</num>
+          <text>Filing with the Clerk of Court an affidavit that the applicant is licensed to practice law and provides evidence that the attorney is in good standing before the highest court of any state; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Filing with the Clerk of Court an affidavit that the applicant has studied and is familiar with the Constitution and By-Laws of the Tribe, this Code, the Lac Courte Oreilles Tribal Code of Law (LCOTCL), Title 25 of the United States Code and Title 25 of the Code of Federal Regulations; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Paying an annual license fee of one hundred dollars ($100.00); and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Taking the following oath before the Clerk of Court, either in person or by affidavit:</text>
+          <include>
+            <text>"I do solemnly swear (or affirm) that I will support the laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians;</text>
+            <text>I will maintain the respect due to the Tribal Court and its judicial officers;</text>
+            <text>I will not counsel or maintain any suit or proceeding which shall appear to me unjust, nor any defense except such as I believe to be honestly valid or debatable under the law;</text>
+            <text>I will employ confidentiality for the purpose of maintaining the causes confided to me, and such means only as are consistent with truth and honor, and I will never seek to mislead any judge or magistrate, or by false statement or misrepresentation of fact or law;</text>
+            <text>I will employ in the conduct of my duties the highest degree of ethics and moral standards with which my profession is charged, and I will be guided at all times by the quest for truth and justice;</text>
+            <text>In the conduct of my duties as an attorney, I will not impugn the morals, character, honesty, good faith, or competence of any person, nor advance any fact prejudicial to the honor or reputation of any person, unless required by the justice of the cause with which I am charged."</text>
+          </include>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any lay advocate wishing to practice before the Tribal Court shall file a written request for admission with the Clerk of Court, accompanied by an affidavit reciting the qualification of such spokesman to represent another before the Court.</text>
+        <para>
+          <num>(1)</num>
+          <text>Filing an affidavit with the Clerk of Court which states that the applicant has studied and is familiar with Constitution and By-Laws of the Tribe, this Code, the Lac Courte Oreilles Tribal Code of Law (LCOTCL), Title 25 of the United States Code and Title 25 of the Code of Federal Regulations; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Paying an annual license fee of $50; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Taking the following oath before the Clerk of Court either in person or by affidavit:</text>
+          <include>
+            <text>"I do solemnly swear (or affirm) that I will support all laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians;</text>
+            <text>I will maintain the respect due to the Tribal Court and its judicial officers; and</text>
+            <text>I will employ confidentiality for the purposes of maintaining the causes confided to me, and such means only as are consistent with truth and honor, and I will never seek to mislead any judge, justice, jury or elder by any artifice, or by false statement or misrepresentation of fact or law; and</text>
+            <text>I will conduct myself in an orderly, courteous and respectful manner and shall not misbehave or disrupt, obstruct, or otherwise interfere with the conduct of any proceeding by the Court or the administration of justice by the Lac Courte Oreilles Tribal Court."</text>
+          </include>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Upon the successful determination of admission to the practice an attorney shall be issued a bar number which shall be required on all documents submitted to the Tribal Court.</text>
+        <para>
+          <num>(1)</num>
+          <text>Attorneys shall be number LCO1001;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Lay advocates shall be numbered LCOA1001; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Attorneys admitted Pro Hac Vice shall be numbered LCOT1001.</text>
+        </para>
+      </para>
+    </include>
+  </para>
+  <codify:replace path="TCT.2.8.030" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TCT.2.8.030">
+    <section>
+      <num>TCT.2.8.030</num>
+      <heading>Procedure for Admission</heading>
+      <para>
+        <num>(a)</num>
+        <text>An attorney for the purposes of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.8">this subchapter</cite> shall be a person who has graduated from an American Bar Association accredited institution and has been admitted to a court or jurisdiction, unless the individual is employed by the Office of the Attorney General (OAG), or engaging in an internship or externship with the OAG, in which case the attorney may be a current law student or a graduate of an ABA accredited law school without being admitted to any State Bar. A Lay Advocate is a person who has completed certified training in the practice of law in tribal courts. A Lay advocate cannot be an attorney who is inactive or is not in current standing in another jurisdiction. Any person who is not an employee, or intern or extern of the OAG (who are expressly exempted from the admission requirements of <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.8.030">this Section</cite>, as well as Subsections (b)(1) and (b)(3) below, to be granted licensure to the Tribal Court), wishing to practice before the Tribal Court, shall file a written request for admission with the Clerk of Court, accompanied by a Certificate of Good Standing from the State Bar or Supreme Court of the State in which such attorney is duly licensed to practice law. Such request shall be accompanied by an admission fee as determined by the Court rule pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.8.030|(b)|(1)">Section TCT.2.8.030(b)(1)</cite>, below.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Attorneys may appear on behalf of any party in any action or proceeding before the Tribal Court, provided they are licensed to practice law before the Tribal Court. Such license shall be issued upon compliance with the following, unless expressly exempted as OAG staff, interns or externs:</text>
+        <para>
+          <num>(1)</num>
+          <text>Filing with the Clerk of Court an affidavit that the applicant is licensed to practice law and provides evidence that the attorney is in good standing before the highest court of any state; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Filing with the Clerk of Court an affidavit that the applicant has studied and is familiar with the Constitution and By-Laws of the Tribe, this Code, the Lac Courte Oreilles Tribal Code of Law (LCOTCL), Title 25 of the United States Code and Title 25 of the Code of Federal Regulations; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Paying an annual license fee of one hundred dollars ($100.00); and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Taking the following oath before the Clerk of Court, either in person or by affidavit:</text>
+          <include>
+            <text>"I do solemnly swear (or affirm) that I will support the laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians;</text>
+            <text>I will maintain the respect due to the Tribal Court and its judicial officers;</text>
+            <text>I will not counsel or maintain any suit or proceeding which shall appear to me unjust, nor any defense except such as I believe to be honestly valid or debatable under the law;</text>
+            <text>I will employ confidentiality for the purpose of maintaining the causes confided to me, and such means only as are consistent with truth and honor, and I will never seek to mislead any judge or magistrate, or by false statement or misrepresentation of fact or law;</text>
+            <text>I will employ in the conduct of my duties the highest degree of ethics and moral standards with which my profession is charged, and I will be guided at all times by the quest for truth and justice;</text>
+            <text>In the conduct of my duties as an attorney, I will not impugn the morals, character, honesty, good faith, or competence of any person, nor advance any fact prejudicial to the honor or reputation of any person, unless required by the justice of the cause with which I am charged."</text>
+          </include>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any lay advocate wishing to practice before the Tribal Court shall file a written request for admission with the Clerk of Court, accompanied by an affidavit reciting the qualification of such spokesman to represent another before the Court.</text>
+        <para>
+          <num>(1)</num>
+          <text>Filing an affidavit with the Clerk of Court which states that the applicant has studied and is familiar with Constitution and By-Laws of the Tribe, this Code, the Lac Courte Oreilles Tribal Code of Law (LCOTCL), Title 25 of the United States Code and Title 25 of the Code of Federal Regulations; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Paying an annual license fee of $50; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Taking the following oath before the Clerk of Court either in person or by affidavit:</text>
+          <include>
+            <text>"I do solemnly swear (or affirm) that I will support all laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians;</text>
+            <text>I will maintain the respect due to the Tribal Court and its judicial officers; and</text>
+            <text>I will employ confidentiality for the purposes of maintaining the causes confided to me, and such means only as are consistent with truth and honor, and I will never seek to mislead any judge, justice, jury or elder by any artifice, or by false statement or misrepresentation of fact or law; and</text>
+            <text>I will conduct myself in an orderly, courteous and respectful manner and shall not misbehave or disrupt, obstruct, or otherwise interfere with the conduct of any proceeding by the Court or the administration of justice by the Lac Courte Oreilles Tribal Court."</text>
+          </include>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Upon the successful determination of admission to the practice an attorney shall be issued a bar number which shall be required on all documents submitted to the Tribal Court.</text>
+        <para>
+          <num>(1)</num>
+          <text>Attorneys shall be number LCO1001;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Lay advocates shall be numbered LCOA1001; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Attorneys admitted Pro Hac Vice shall be numbered LCOT1001.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <para>
+    <num>3</num>
+    <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|TCT.2.9.080">TCT.2.9.080</cite> Telephone and Audiovisual Proceedings is amended as follows:</text>
+    <include>
+      <para>
+        <num>(a)</num>
+        <text>The Lac Courte Oreilles Office of the Attorney General, including all attorneys, and prosecutors as employed by the Tribe, as well as special, or pro tempore attorneys/prosecutors, interns or externs , and any necessary witnesses in matters involving the OAG shall be allowed to appear by telephone or audiovisual means if requested in writing.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>On motion, any party other than Office of the Attorney General staff may request that the Court conduct any proceeding by telephone or audiovisual means. Any party seeking to appear in person or by counsel by telephone or audiovisual means under this subsection shall secure the written consent of the Court. Any party to the matter may object to such appearance, and the Court shall then determine if such appearance shall be allowed. Any party wishing to present evidence by telephone or audiovisual means under this subsection shall either secure the consent of the other party or provide notice to the other party that unless objection is received within the time set by the Court, the Court may receive such evidence by telephone or audiovisual means.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In instances determining whether to conduct a proceeding, allow an appearance, or allow evidence to be presented by telephone or audiovisual means, the Court shall consider the following unless otherwise exempted by Subsection (b) above:</text>
+        <para>
+          <num>(1)</num>
+          <text>Whether the parties have requested or consented to such procedure;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The availability of adequate equipment of the Parties and the Court;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Whether any undue surprise or prejudice would result;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Whether there is good reason for the individual appearing by telephone or audiovisual means not to be physically present in court;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The convenience and expense to the Court, parties, and witnesses;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Whether the appearance of a witness by telephone or audiovisual means will allow full and effective cross-examination and access to relevant documents and other exhibits.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The importance of presenting the testimony of a witness in open court, in order to observe demeanor, or in order to maintain the solemnity of proceedings and impress on the witness the duty to testify truthfully;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Where the judge is participating by telephone or audiovisual means, the above factors as applicable, and the cost/benefit comparison of proceeding by telephone or audiovisual means or otherwise; and</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Any other factor the Court deems relevant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If testimony is offered by telephone or audiovisual means, the proceedings shall be simultaneously recorded either by stenographic or electronic means. Any proceeding required to be conducted in open court shall be conducted in such a way that any interested observers may hear the proceedings.</text>
+      </para>
+    </include>
+  </para>
+  <codify:replace path="TCT.2.9.080" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|TCT.2.9.080">
+    <section>
+      <num>TCT.2.9.080</num>
+      <heading>Telephone and Audiovisual Proceedings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Lac Courte Oreilles Office of the Attorney General, including all attorneys, and prosecutors as employed by the Tribe, as well as special, or pro tempore attorneys/prosecutors, interns or externs , and any necessary witnesses in matters involving the OAG shall be allowed to appear by telephone or audiovisual means if requested in writing.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>On motion, any party other than Office of the Attorney General staff may request that the Court conduct any proceeding by telephone or audiovisual means. Any party seeking to appear in person or by counsel by telephone or audiovisual means under this subsection shall secure the written consent of the Court. Any party to the matter may object to such appearance, and the Court shall then determine if such appearance shall be allowed. Any party wishing to present evidence by telephone or audiovisual means under this subsection shall either secure the consent of the other party or provide notice to the other party that unless objection is received within the time set by the Court, the Court may receive such evidence by telephone or audiovisual means.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In instances determining whether to conduct a proceeding, allow an appearance, or allow evidence to be presented by telephone or audiovisual means, the Court shall consider the following unless otherwise exempted by Subsection (b) above:</text>
+        <para>
+          <num>(1)</num>
+          <text>Whether the parties have requested or consented to such procedure;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The availability of adequate equipment of the Parties and the Court;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Whether any undue surprise or prejudice would result;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Whether there is good reason for the individual appearing by telephone or audiovisual means not to be physically present in court;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The convenience and expense to the Court, parties, and witnesses;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Whether the appearance of a witness by telephone or audiovisual means will allow full and effective cross-examination and access to relevant documents and other exhibits.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The importance of presenting the testimony of a witness in open court, in order to observe demeanor, or in order to maintain the solemnity of proceedings and impress on the witness the duty to testify truthfully;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Where the judge is participating by telephone or audiovisual means, the above factors as applicable, and the cost/benefit comparison of proceeding by telephone or audiovisual means or otherwise; and</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Any other factor the Court deems relevant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If testimony is offered by telephone or audiovisual means, the proceedings shall be simultaneously recorded either by stenographic or electronic means. Any proceeding required to be conducted in open court shall be conducted in such a way that any interested observers may hear the proceedings.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom 7 being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this 24th day of February, 2026, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of 6 members, 0 against, 0 abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Michelle Beaudin, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

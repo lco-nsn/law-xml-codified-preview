@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-01" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2026-01</num>
+  <heading>Amending LCO TCL Pap.22 LCO Day Care – Genawendaawasong Policies and Procedures</heading>
+  <meta>
+    <effective>2026-01-06</effective>
+    <citations>
+      <citation type="res" url="./adopted/2026-01.pdf">Res. No. 2026-01</citation>
+    </citations>
+    <history>
+      <adopted>2026-01-06</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1(n) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board is empowered to "regulate, by enactment of ordinances, the conduct of business within the territory of the band"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1 (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board possesses certain powers, including: "To promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted the Lac Courte Oreilles LCO Day Care – Genawendaawasong Personnel Policies and Procedures to regulate the LCO Day Care – Genawendaawasong program.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board passed Resolution 2023-32 establishing the LCO Day Care – Genawendaawasong Personnel Policies and Procedures under Title <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.22">PAP.22</cite> of the Lac Courte Oreilles Tribal Code of Law.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Governing Board now wishes to amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.22">PAP.22</cite> to include sections related to employee drug and alcohol testing.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby determines that it is in the best interest of the Tribe to amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.22">PAP.22</cite> to include the following additional sections as are found below.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the attached amendments to Title <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.22">PAP.22</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of the Lac Courte Oreilles Tribal Code of Law, shall be, and hereby is, amended and enacted as an ordinance of the Tribe, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|IV|3">Article IV, § 3 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> as follows:</text>
+    </recital>
+  </recitals>
+  <para>
+    <num>1</num>
+    <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.22.7.050|(a)">PAP.22.7.050(a)</cite> of Drug and Alcohol Testing Procedures is amended as follows:</text>
+    <include>
+      <text>General Drug and Alcohol Testing Procedures. As a condition of continued employment employees may be required to submit to testing for the presence of alcohol or drugs including instances where the Director of the Day Care requests any employee or employees to periodically test to ensure the safety of the program, the children, and the families to whom services are provided, as well as instances involving reasonable suspicion, pre-employment, return-to-duty, pursuant to the subsections found below, and the following procedures shall apply:</text>
+    </include>
+  </para>
+  <codify:replace path="PAP.22.7.050|(a)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.22.7.050|(a)">
+    <para>
+      <num>(a)</num>
+      <text>General Drug and Alcohol Testing Procedures. As a condition of continued employment employees may be required to submit to testing for the presence of alcohol or drugs including instances where the Director of the Day Care requests any employee or employees to periodically test to ensure the safety of the program, the children, and the families to whom services are provided, as well as instances involving reasonable suspicion, pre-employment, return-to-duty, pursuant to the subsections found below, and the following procedures shall apply:</text>
+    </para>
+  </codify:replace>
+  <para>
+    <num>2</num>
+    <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.22.7.050|(a)|(7)">PAP.22.7.050(a)(7)</cite> of Drug and Alcohol Testing Procedures is enacted as follows:</text>
+    <include>
+      <text>In relation to general periodic testing, the Director of the Day Care may direct employees to engage in periodic drug and alcohol testing if they reasonably determine that it is in the best interests of the Day Care to test any employee or employees to ensure the safety of the program, as well as the children and families it serves.</text>
+    </include>
+  </para>
+  <codify:insert path="PAP.22.7.050|(a)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.22.7.050|(a)|(7)">
+    <para>
+      <num>(7)</num>
+      <text>In relation to general periodic testing, the Director of the Day Care may direct employees to engage in periodic drug and alcohol testing if they reasonably determine that it is in the best interests of the Day Care to test any employee or employees to ensure the safety of the program, as well as the children and families it serves.</text>
+    </para>
+  </codify:insert>
+  <para>
+    <num>3</num>
+    <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.22.7.050|(e)|(1)|(A)">PAP.22.7.050(e)(A)</cite> of Drug and Alcohol Testing Procedures is enacted as follows:</text>
+    <include>
+      <text>The employee will be informed of a first offense in writing, and at a minimum shall be suspended for three (3) days without pay and shall not return without providing a negative drug test, and at a maximum, in instances with concurrence of the Day Care Director and the Human Resource Director pursuant to their sole discretion, the employee may be terminated if the directors mutually determine that the circumstances warrant such action.</text>
+    </include>
+  </para>
+  <codify:replace path="PAP.22.7.050|(e)|(1)|(A)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.22.7.050|(e)|(1)|(A)">
+    <para>
+      <num>(A)</num>
+      <text>The employee will be informed of a first offense in writing, and at a minimum shall be suspended for three (3) days without pay and shall not return without providing a negative drug test, and at a maximum, in instances with concurrence of the Day Care Director and the Human Resource Director pursuant to their sole discretion, the employee may be terminated if the directors mutually determine that the circumstances warrant such action.</text>
+    </para>
+  </codify:replace>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom 5 being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this 6th day of January, 2026, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of 4 members, 0 against, 0 abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Michelle Beaudin, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
