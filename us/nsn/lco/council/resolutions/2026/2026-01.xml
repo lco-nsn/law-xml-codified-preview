@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-01" codify:doc="Lac Courte Oreilles Tribal Code of Law">
   <num>2026-01</num>
-  <heading>Amending LCO TCL Pap.22 LCO Day Care – Genawendaawasong Policies and Procedures</heading>
+  <heading>Amending LCO TCL PAP.22 LCO Day Care – Genawendaawasong Policies and Procedures</heading>
   <meta>
     <effective>2026-01-06</effective>
     <citations>
@@ -89,8 +89,8 @@
     </para>
   </codify:replace>
   <procedural-data>
-    <text>CERTIFICATION</text>
-    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom 5 being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this 6th day of January, 2026, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of 4 members, 0 against, 0 abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>5</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>6<sup>th</sup> day of January, 2026</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>4</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
     <text>___________________________________</text>
     <text>Michelle Beaudin, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
