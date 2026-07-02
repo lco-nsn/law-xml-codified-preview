@@ -10,8 +10,8 @@
         <volume start="PAP.5"/>
       </volumes>
     </print>
-    <recency through="2026-02-24">
-      <doc id="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-30" type="resolution"/>
+    <recency through="2026-06-30">
+      <doc id="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-103" type="resolution"/>
     </recency>
   </meta>
   <heading>Lac Courte Oreilles Tribal Code of Law</heading>
@@ -39,8 +39,8 @@
           <heading>Title</heading>
           <text>This Ordinance shall be known as the General Welfare Exclusion Ordinance of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians (hereinafter "Tribe").</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -48,8 +48,9 @@
           <heading>Authority</heading>
           <text>This Ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(h)">Article V, § 1 (h)</cite> and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(j)">(j)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to: "engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people" and pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(j)">Article V, §1(j)</cite> "to administer any funds within  the control of the Band; to make expenditures from available funds for public purposes…All expenditures by the Governing Board shall be in accord with a previously approved budget, and the amount so paid shall be a matter of public record at all times." On September 18, 2014, the Tribal General Welfare Exclusion Act of 2014 passed both houses of Congress, and was signed into law on September 29, 2014. The Tribal Governing Board now expressly embraces the forgoing principles as an integral part of this Ordinance and as guiding principles in construing the Tribe's compliance with Code Section 139E, the Safe Harbor Rules, and the General Test. The assistance payments and services authorized by this Ordinance are intended to qualify for favorable tax treatment under the general welfare doctrine, generally, and Code Section 139E, specifically, to the fullest extent permitted by law and shall be construed accordingly.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.1.020" type="History"/>
           </annotations>
         </section>
         <section>
@@ -65,8 +66,9 @@
             <text>The Tribal Governing Board has a long history of providing critical benefits to Tribal Members, and these programs are fundamental to the sovereignty and cultural integrity of the Tribe. The Tribe is in the best position to determine the needs of its members and provide for the general welfare of its tribal citizens and communities.</text>
           </para>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.1.030|(b)" type="History"/>
           </annotations>
         </section>
         <section>
@@ -74,8 +76,8 @@
           <heading>Effective Date</heading>
           <text>Except as otherwise provided in specific sections, the provisions of this Ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -95,8 +97,8 @@
             <text>Does not waive the sovereign immunity of the Tribe in any respect.</text>
           </para>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -104,8 +106,8 @@
           <heading>Severability and Non-Liability</heading>
           <text>If any section, provision or portion of this Ordinance is adjudged unconstitutional or invalid by a Court of competent jurisdiction, the remainder of this Ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this Ordinance.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -113,8 +115,8 @@
           <heading>Repeal of Inconsistent Tribal Ordinances</heading>
           <text>All Ordinances and resolutions inconsistent with this Ordinance are hereby repealed. To the extent that this Ordinance imposes greater restrictions than those contained in any other tribal law, code, Ordinance or regulation, the provisions of this Ordinance shall govern.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -122,8 +124,9 @@
           <heading>Ratification of Prior Acts</heading>
           <text>This Ordinance is intended to memorialize and confirm existing procedures used in the administration of general welfare assistance programs and services. Assistance provided prior to the enactment of this Ordinance is hereby ratified and confirmed as general welfare assistance and intended to satisfy the requirement needed for the General Welfare Exclusion to apply.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -131,8 +134,9 @@
           <heading>Federal Trust Fund Obligations; Executive Orders</heading>
           <text>The Tribe reserves the right to provide Assistance including circumstances where federal funding is insufficient to operate federal programs designed to benefit Tribal Members and when federal funding is insufficient to adequately and consistently fulfill federal trust obligations. The Tribe's adoption of Approved Programs is not intended to relieve or diminish the federal government of its funding and trust responsibilities. Nothing herein shall waive the Tribe's right to seek funding shortfalls or to enforce the trust rights of the Tribe and its Members. The Tribe shall be entitled to government-to-government consultation and coordination rights regarding this Ordinance.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -140,8 +144,9 @@
           <heading>Governing Law</heading>
           <text>All rights and liabilities associated with the enactment of this Ordinance, or the Assistance made hereunder shall be construed and enforced according to the laws of the Tribe.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.1" type="History"/>
           </annotations>
         </section>
       </container>
@@ -254,8 +259,9 @@
             <text><strong>"Tribal Governing Board"</strong>  means Lac Courte Oreilles Tribal Governing Board</text>
           </para>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.2.010" type="History"/>
           </annotations>
         </section>
       </container>
@@ -268,8 +274,9 @@
           <heading>Non-Binding Designation</heading>
           <text>Assistance provided for hereunder are paid from assets of the Tribal Governing Board; all Assistance is based on budget availability, and the Tribal Governing Board does not guarantee any Assistance hereunder. Assistance paid hereunder on the basis of need shall not be treated as a resource of the Member for any purpose. The Tribal Governing Board reserves the right to cancel, adjust, modify, or revoke any Assistance that is treated as a resource of the Tribal Member.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.3.010" type="History"/>
           </annotations>
         </section>
         <section>
@@ -277,8 +284,9 @@
           <heading>Indian General Welfare Benefits (Code Section 139E)</heading>
           <text>Programs providing Assistance meeting the criteria for exemption under Code Section 139E shall not require a demonstration of individual need.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.3.020" type="History"/>
           </annotations>
         </section>
         <section>
@@ -306,8 +314,9 @@
             <text>Program benefits are not Compensation for services.</text>
           </para>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.3.030" type="History"/>
           </annotations>
         </section>
         <section>
@@ -315,8 +324,9 @@
           <heading>Ceremonial Activities</heading>
           <text>Any items of cultural significance, reimbursement of costs, or cash honorarium for participation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as Compensation for services.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.3.040" type="History"/>
           </annotations>
         </section>
         <section>
@@ -324,8 +334,8 @@
           <heading>Special Effective Dates</heading>
           <text>Code Section 139E is effective for Assistance in taxable years for which the period of limitations on a refund or credit under Code Section 6511 has not expired. If the period of limitation on a refund or credit resulting from the application of Code Section 139E (a) would otherwise expire before the one-year period beginning on the date of the enactment of Code Section 139E, a refund or credit (to the extent attributed thereto) may be made or allowed if a claim is filed before the close of such one-year period.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -333,8 +343,8 @@
           <heading>Safe Harbor Programs</heading>
           <text>Programs that meet the following general criteria for safe harbor treatment, and provide qualifying safe harbor benefits, shall be treated as non-taxable Assistance under the General Welfare Exclusion without the applicant having to demonstrate individual need.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -366,8 +376,9 @@
             <text>The Assistance is not Lavish or Extravagant under the facts and circumstances</text>
           </para>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.3.070" type="History"/>
           </annotations>
         </section>
         <section>
@@ -495,8 +506,9 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.3.080" type="History"/>
           </annotations>
         </section>
         <section>
@@ -504,8 +516,9 @@
           <heading>Non-Safe Harbor Programs</heading>
           <text>Nothing in this ordinance or the IRS guidance shall limit the Tribe's right to develop non-safe harbor Programs.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.3" type="History"/>
           </annotations>
         </section>
       </container>
@@ -518,8 +531,9 @@
           <heading>Tax Treatment of Non-Safe Harbor Programs</heading>
           <text>Any non-safe harbor program developed by the Tribe will be treated as non-taxable if they meet the requirements of Code Section 139E set forth in <cite path="GWE.1.3.030" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96">GWE.1.3.030</cite>.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.4.010" type="History"/>
           </annotations>
         </section>
         <section>
@@ -527,8 +541,8 @@
           <heading>Individual Needs</heading>
           <text>Individual Needs. Certain Programs may be based on individual need, rather than an overall need of the Tribe. For those Programs, the Tribal Governing Board may establish income guidelines unique to the Tribe or may use readily available income guidelines used by state or federal programs to demonstrate individual or family need. When individual or family need must be shown, the Program may take into account individual circumstances or extraordinary need to overcome presumptions based on income alone.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -536,8 +550,9 @@
           <heading>Community Needs</heading>
           <text>Certain Programs may be based on community needs, which are so important to the self-determination, culture and traditions of the Tribe that Assistance may be deemed necessary regardless of individual income or wealth. For example, states provide public education to all citizens regardless of individual income or wealth. Some Programs may address both individual and community-based needs. The Tribal Governing Board reserves the right to require any applicant applying for consideration based on non-financial or community-based needs to demonstrate how the Program benefits will benefit the tribal community as a whole, including preservation of culture, tradition and self-determination. Approval based on non-financial need criteria is made on a facts and circumstances basis and will be guided by traditional values and culture. A Program may be deemed to be based on community or non-financial needs if so designated by the Tribal Governing Board.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.4.030" type="History"/>
           </annotations>
         </section>
         <section>
@@ -545,8 +560,8 @@
           <heading>Purpose of the Program</heading>
           <text>All Assistance disbursed pursuant to this Ordinance shall be designed to promote the general welfare, self-determination, culture and tradition of the Tribe. The Tribal Governing Board shall establish objectives for the furtherance of the general welfare, self-determination, culture and tradition of the Tribe and assess progress on said objectives in connection with its budgeting and/or strategic planning process. Approved Programs shall be renewed, established, modified, or terminated based upon the needs of the Tribe as compared to the objectives set by the Tribal Governing Board from time to time hereunder. All Programs hereunder shall provide a social benefit for the promotion of the general welfare of the Band and be limited to purposes consistent with treatment under this Ordinance. Such purposes may include, for example, and not by way of limitation, assistance for medical care, food, shelter, health, education, subsistence, housing, elder and disabled care, assistance to meet cultural, traditional and religious needs of the Tribe and its membership, and assistance to promote self-sufficiency, self-determination, Tribal image, entrepreneurship, and the employment of Tribal Members. Designation by the Tribal Governing Board if a Program as falling under this Ordinance shall be conclusive evidence that the Tribal Governing Board, following a good faith review of Tribal needs and goals, has determined that said Program is established to achieve a social benefit and to promote the general welfare of the Tribe.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -554,8 +569,8 @@
           <heading>Eligibility and Application Procedures</heading>
           <text>Each approved Program shall set forth the specific eligibility rules and limitations applied to that Program. Each designated department shall present program descriptions, which include eligibility rules and limitations, along with application forms and procedures, for approval by the Tribal Governing Board or its designee. Only those descriptions, application forms and procedures which are approved by the Tribal Governing Board or its designee shall be in force and effect. Program guidelines may limit benefits to an identified group of Members or Qualified Nonmembers, as applicable. All Programs may be limited by budget availability. In the absence of specific Program guidelines to the contrary, all Programs shall be deemed to incorporate eligibility criteria necessary for compliance with Code Section 139E.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -563,8 +578,9 @@
           <heading>Assistance Program Compliance</heading>
           <text>All Assistance disbursed or provided pursuant to this Ordinance must be used for the purpose stated in the approved Program description, and any application for the applicable Assistance. The Tribe or its designee shall keep books or records deemed appropriate to demonstrate compliance with the Ordinance. Recipients of benefits hereunder are responsible for maintaining books or records as may be required for substantiation to the IRS for individual income tax purposes. In the event that Assistance payments and/or services are used or pledged for a purpose inconsistent with the purpose set forth in the applicable approved Program or the Member's application, the Tribal Governing Board or designee may require the repayment of the Assistance. The Tribal Governing Board or designee is authorized to offset any other payments owed to a Tribal member if such an offset is necessary to secure repayment of Assistance in accordance with <cite path="GWE.1.4.030">this Section</cite>.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.4.060" type="History"/>
           </annotations>
         </section>
         <section>
@@ -572,8 +588,9 @@
           <heading>Limitations on Welfare Assistance Payments</heading>
           <text>The Tribal Governing Board, within its annual budgets, by resolution, may adopt guidelines establishing the maximum Assistance payments to be made to Tribal members for certain specified purposes or programs or may delegate the establishment of such limitations to the program level. Such guidelines may also include, by way of example, factors to be considered in determining whether deviations from the general payment limitations should be permitted. Departments charged with administering particular programs may be delegated authority to adopt program guidelines to the extent not contrary to the overall guidelines and limitations established by the Tribal Governing Board. In no event shall Assistance be lavish or extravagant.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.4.070" type="History"/>
           </annotations>
         </section>
         <section>
@@ -581,8 +598,8 @@
           <heading>Annual Budgeting: Unfunded Program</heading>
           <text>The Tribal Governing Board, through its annual budgeting process, by resolution or by motion, shall designate those funding sources that are available for the payment of Assistance benefits. Notwithstanding anything to the contrary, the Assistance payments authorized hereunder shall be “unfunded” for tax purposes and no Beneficiary shall have an interest in or right to any funds budgeted for or set aside for Assistance payments until actually paid. Assistance benefits shall remain assets of the Tribe until distributed, and the Approved Programs shall be administered to avoid premature taxation through the doctrines of constructive receipt and/or economic benefit.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -590,8 +607,8 @@
           <heading>Forfeiture</heading>
           <text> Notwithstanding anything herein to the contrary, Assistance benefits may be revoked or forfeited for any Beneficiary who is found to have misapplied program funds or to have made any misrepresentations during the application process. Assistance may also be forfeited should said benefits be treated as a resource to the detriment of the Tribe or a Beneficiary. The Tribe shall have a right of recovery with regard to any excess or improper payments hereunder.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -599,8 +616,11 @@
           <heading>Programs Not Limited to Means Testing</heading>
           <text>Programs that qualify under Code Section 139E shall not require a showing of individual need or means testing in order to achieve non-taxable treatment under the General Welfare Exclusion. The Tribe also reserves the right to provide community-based Programs and Programs based on non-financial need under the General Test that are not individually means tested. The Tribe recognizes that means testing can distort certain tribal cultural and community values. The Tribe has participated in consultation with the United States Treasury Department and IRS and will evaluate Programs periodically as guidance is further developed through consultation with the Tribe.</text>
           <annotations>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
             <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
             <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.4.100" type="History"/>
           </annotations>
         </section>
         <section>
@@ -608,8 +628,8 @@
           <heading>Other Tax Exemptions</heading>
           <text>Notwithstanding anything herein to the contrary, the Tribe reserves the right to waive income limits or needs basis criteria, to the extent otherwise applicable, for expenditures that otherwise qualify for tax exemptions including tax exemptions under Titles 25 or 26 of the United States Code so long as the conditions for exemption are met. Without limitation, this includes Member medical benefits exempt under Section 9021 of the Patient Protection and Affordable Care Act of 2010 (Code Section 139D) and per capita expenses exempt under 25 U.S.C. Sections 1407 and 1408.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
           </annotations>
         </section>
         <section>
@@ -617,8 +637,9 @@
           <heading>Benefits Shall Not be Treated as an Entitlement</heading>
           <text>The Programs authorized pursuant to this Ordinance are not entitlement programs. The Tribe has made or may make provisions to fund the Programs by establishing the funds for the Programs within the Tribal budget, but the Program may be changed or eliminated as determined to be necessary or appropriate.  No Tribal Member or his or her estate has any vested interest in potential or unused benefits available under the Programs. Receipt of benefits or Program resources does not create a vested right in the Members, the Member's household, their estate or their lawful heirs. Further, a Tribal Member's rights and eligibility to receive Assistance under this Ordinance are not subject to anticipation, alienation, sale, transfer, assignment, pledge, encumbrance, or attachment of the Tribal Member or his or her beneficiaries.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.4" type="History"/>
           </annotations>
         </section>
         <section>
@@ -626,8 +647,9 @@
           <heading>Government-to-Government Relationship: Executive Order 13175</heading>
           <text>Coordination with the IRS and the United States Department of the Treasury on general welfare matters shall be grounded on a government-to-government relationship that recognizes the unique relationship between the federal government and the tribal government. The federal government, as a result of its treaty obligations and trust responsibility, as committed to providing education, housing, clean water, and many other basic needs for the Tribe. Through a conscientious shift in policy in recent decades, the federal government has encouraged the Tribe itself to provide for such needs in partnership with the federal government and, increasingly in recent years, instead of the federal government. Essential to the government-to-government relationship is mutual respect and deference to the Tribal governance decisions. Future consultations on general welfare matters should reflect these concerns and the fact that the Tribal government, through its own policy setting process, is best situated to determine the needs of the Tribe and its Members and the appropriate policy solutions. All references to Executive Order 13175 shall include any future amendments thereto.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.4" type="History"/>
           </annotations>
         </section>
         <section>
@@ -635,14 +657,15 @@
           <heading>Privacy; Information Sharing</heading>
           <text>The Tribe will maintain records regarding sensitive Tribal and Tribal Member matters, including Tribal customs, religion, and traditions, confidential from third party disclosures to the fullest extent permitted by law. If information is requested by IRS or other governmental agencies or third parties during a compliance review or examination, disclosures shall be limited to the extent necessary and required by law pending an effort to address such requests through consultation and other rights under Executive Order 13175 on a government-to-government basis. Confidential Tribal information shall not be shared in a manner that would open up additional disclosure, for example, under the information sharing agreements the recipient may be subject to or under the Freedom of Information Act.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
+            <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1.4" type="History"/>
           </annotations>
         </section>
       </container>
-      <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" type="History"/>
+      <annotation app="2024-10-17" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-96" eff="2024-10-17" path="" target-path="|GWE.1" type="History"/>
     </container>
-    <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
+    <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
     <container>
       <prefix>Chapter</prefix>
       <num>GWE.2</num>
@@ -658,9 +681,9 @@
           <reason>Repealed</reason>
           <text>Repealed.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" type="History"/>
-            <annotation app="2024-09-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" eff="2024-09-09" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" target-path="GWE" type="History"/>
+            <annotation app="2024-09-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" eff="2024-09-09" path="" target-path="GWE.2" type="History"/>
           </annotations>
         </section>
         <section placeholder="Repealed">
@@ -669,9 +692,9 @@
           <reason>Repealed</reason>
           <text>Repealed.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" type="History"/>
-            <annotation app="2024-09-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" eff="2024-09-09" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" target-path="GWE" type="History"/>
+            <annotation app="2024-09-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" eff="2024-09-09" path="" target-path="GWE.2" type="History"/>
           </annotations>
         </section>
         <section placeholder="Repealed">
@@ -680,9 +703,9 @@
           <reason>Repealed</reason>
           <text>Repealed.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" type="History"/>
-            <annotation app="2024-09-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" eff="2024-09-09" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" target-path="GWE" type="History"/>
+            <annotation app="2024-09-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" eff="2024-09-09" path="" target-path="GWE.2" type="History"/>
           </annotations>
         </section>
         <section placeholder="Repealed">
@@ -691,14 +714,14 @@
           <reason>Repealed</reason>
           <text>Repealed.</text>
           <annotations>
-            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" type="History"/>
-            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" type="History"/>
-            <annotation app="2024-09-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" eff="2024-09-09" path="" type="History"/>
+            <annotation app="2023-10-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-125" eff="2023-10-10" path="" target-path="" type="History"/>
+            <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" target-path="GWE" type="History"/>
+            <annotation app="2024-09-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" eff="2024-09-09" path="" target-path="GWE.2" type="History"/>
           </annotations>
         </section>
       </container>
-      <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" type="History"/>
-      <annotation app="2024-09-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" eff="2024-09-09" path="" type="History"/>
+      <annotation app="2023-10-23" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-129" eff="2023-10-23" path="" target-path="GWE" type="History"/>
+      <annotation app="2024-09-09" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-94" eff="2024-09-09" path="" target-path="GWE.2" type="History"/>
     </container>
   </container>
   <xi:include href="./ELE.xml"/>
@@ -731,7 +754,7 @@
           <heading>Title</heading>
           <text>This policy and procedure manual shall be known as the Lac Courte Oreilles Information and Technology Policy.</text>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -739,7 +762,7 @@
           <heading>Authority</heading>
           <text>This policy and procedure manual is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians to promote the traditional value that children are the most important asset of the Tribe, which predates its Treaties of 1825, 1826, 1837, 1842, 1847 and 1854 with the United States Government. In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(q)">Article V, § 1 (q),</cite> <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">(s)</cite>, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">(t)</cite>, and <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(u)">(u)</cite> of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowered the Tribal Governing Board to establish a Children's Court Division of the Lac Courte Oreilles Tribal Court..."</text>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -747,7 +770,7 @@
           <heading>Purpose</heading>
           <text>The Tribe depends heavily on its information resources today and will become even more dependent on them in the future. Information is one of the Tribe's most important assets. Protection of information assets is necessary to establish and maintain trust between Tribal members, Tribal Departments and Entities,  Tribal leadership, and third-party  vendors . The security of the Tribe's systems and information is essential to its safety and to the privacy of Tribal financial information. The purpose of this policy is to establish general guidelines for maintaining a computing environment within the Tribe that is controlled, consistent and secure. The policy's primary objective is to enhance the productivity of users by optimizing network performance, reducing wasted use of resources and the risk of legal liability caused by illegal or inappropriate use of the Network, and to provide for Network security and safety. The Tribe is establishing standards relating to administrative, technical, and physical safeguards for Tribal records and information. These safeguards are to ensure the security and confidentiality of Tribal records and information, protect against any anticipated threats or hazards to the security or integrity of these records, and protect against unauthorized access to or use of these records or information that would result in substantial harm or inconvenience to the Tribe or a Tribal member. Attacks frequently compromise personal and business data; it is critical for the Tribe to respond quickly and effectively when security breaches occur by implementing an Incident Response Program that responds to incidents in a consistent manner so that the appropriate actions are taken. These incident response measures help personnel to minimize loss or theft of information and disruption of services, including the ability to use information gained during the incident to better prepare for handling future incidents and to provide stronger protection for systems and data.</text>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -755,7 +778,7 @@
           <heading>Effective Date</heading>
           <text>Except as otherwise provided in specific sections, the provisions of this policy and procedural manual shall be effective on the date adopted by the Tribal Governing Board.</text>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -779,7 +802,7 @@
             <text>Shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of this ordinance, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court may use tribal law, federal law, or the State law for guidance.</text>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -805,7 +828,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -813,7 +836,7 @@
           <heading>Severability and Non-Liability</heading>
           <text>If any section, provision, or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby. The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -821,7 +844,7 @@
           <heading>Repeal of Inconsistent Tribal Ordinances</heading>
           <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed. To the extent that this ordinance imposes greater restrictions than those contained in any other tribal law, code, ordinance or regulation, the provisions of this ordinance shall govern.</text>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -874,7 +897,7 @@
             <text><strong>"Tribal Governing Board"</strong> shall mean the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -924,7 +947,7 @@
             <text>The Tribe shall implement an ongoing security process and shall assign clear and appropriate roles and responsibilities to the Tribal Governing Board, management, and employees. The process shall be designed to identify, measure, manage and control the risks to system and data availability, integrity, and confidentiality, and ensure accountability for system actions.</text>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -947,7 +970,7 @@
             <text>Rank the risks present due to threats and vulnerabilities to determine the appropriate level of training, controls, and testing necessary for effective mitigation.</text>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -967,7 +990,7 @@
             <text>Educating officers and employees in implementing the information security program.</text>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1280,7 +1303,7 @@
             <text>When equipment is retired from use, the hard drive shall be removed and stored or deleted and cleaned with software of a Department of Defense grade. Other equipment such as copiers, printers, and multi-function machines Shall have memory or other data storage devices deleted or destroyed. Equipment shall then be recycled, disposed of, or donated with no software or data.</text>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1300,7 +1323,7 @@
             <text>Using test results to evaluate whether security objectives are met.</text>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1319,7 +1342,7 @@
             <text>To complete the goals of (a) and (b) the Tribe shall utilize malware, antivirus, and other security programs.</text>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1327,7 +1350,7 @@
           <heading>Reporting</heading>
           <text>Employees that become aware of any system misuse; potential threat, intrusion, or unexplained occurrence; or violations of this IT policy, shall inform a member of the IT Department immediately.</text>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1466,7 +1489,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -1531,7 +1554,7 @@
             <text>Employees utilizing web sites and social media sites at work for personal use shall do so during break and lunch times in a professional manner as to not interfere with their job duties and responsibilities. Excessive use, as deemed by their supervisor and/or management, shall result in loss of privilege for the user and possibly other disciplinary action as outlined in this agreement.</text>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1650,7 +1673,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1659,7 +1682,7 @@
           <text>The Tribe recognizes that employees may post personal information on the Internet through personal websites, social media, blogs and/or uploading content to websites and the like. The Tribe respects our employee's interest in participating in these forms of personal expression on their own time. Employees should be aware; however, that problems can arise when personal postings identify or appear to be associated with the Tribe, or when a personal posting is used in ways that violate the Tribe's rights or the rights of other employees.</text>
           <text>Each employee is legally responsible for content they post on the Internet, whether on a social network, website or otherwise. You can be held personally liable for defaming others, revealing trade secrets, confidential information or proprietary information, etc. Tribal policies apply to what you post on the Internet. For example, you may not use personal postings to harass or threaten other employees or reveal confidential tribal information. Embarrassing or unkind comments about tribal employees or members, customers, or competitors are also inappropriate. Posting anonymously or under a pseudonym, does not protect your real identity; it can be discovered relatively easily.</text>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1667,7 +1690,7 @@
           <heading>Violations</heading>
           <text>Users who violate any of the guidelines set in this agreement may be subject to disciplinary action including written warnings, revocation of access privileges, and termination. Unacceptable use of personal electronic devices will result in the immediate confiscation of the involved device(s) or media as appropriate. Depending upon the nature and severity of the violation, the confiscated device(s) or media may be held as evidence indefinitely. The Tribe also retains the right to perform personal property searches in relation to any guideline violation and report any illegal violations to the appropriate authorities.</text>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -1719,12 +1742,12 @@
             <text>The servers or equipment that are performing the backups shall be in a locked and restricted location. These servers or equipment shall also be on Uninterruptible Power Supply (UPS) to help mitigate problems resulting from power fluctuations or short power outages.</text>
           </para>
           <annotations>
-            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+            <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
     </container>
-    <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" type="History"/>
+    <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-42" eff="2023-05-10" path="" target-path="" type="History"/>
   </container>
   <container>
     <prefix>Title</prefix>
@@ -1748,7 +1771,7 @@
           <heading>Effective Date</heading>
           <text>The provisions of this Code shall be effective on the date adopted by the Governing Board.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1764,7 +1787,7 @@
             <text>Shall not be deemed a limitation or repeal of any other tribal power or authority.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1772,7 +1795,7 @@
           <heading>Severability and Non-Liability</heading>
           <text>If any section, provision or portion of this Code is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Code shall not be affected thereby.  The Tribe further asserts immunity on its part and that of its agencies, employees, and/or agents from any action or damages that may occur as a result of reliance upon and conformance with this Code.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1780,7 +1803,7 @@
           <heading>Repeal of Inconsistent Tribal Codes</heading>
           <text>All Codes and resolutions inconsistent with this Code are hereby repealed.  To the extent that this Code imposes greater restrictions than those contained in any other tribal law, Code or regulation, the provisions of this Code shall govern.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1883,7 +1906,7 @@
             <text><strong>"Utility Service"</strong> means the production, transmission, delivery or furnishing of heat, light, water or power to one or more customers.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -1901,7 +1924,7 @@
           <heading>Establishment of Tribal Utility Commission</heading>
           <text>The Lac Courte Oreille Band of Lake Superior Chippewa Indians Utility Commission ("Commission") is hereby established.  The Governing Board shall appoint the Commission Members and the Commission shall be operated and governed in accordance with the provisions of this Code, the Tribe's Constitution as well as any subsequent amendments to this Code.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1909,7 +1932,7 @@
           <heading>Mission of the Commission</heading>
           <text>The Commission's mission is to regulate Utilities located, operating, or providing services within the Reservation for the benefit of the Tribe and its members, and in furtherance of promoting the general welfare of the Tribe and its members.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1940,7 +1963,7 @@
             <text>The Commission shall elect from among its members a Chairperson, Vice-Chairperson, and a Secretary- Treasurer.  The Chairperson, or in the Chairman's absence, the Vice-Chairperson, shall preside over all Commission meetings and hearings.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1963,7 +1986,7 @@
             <text>A Commissioner may be removed by the Governing Board for serious inefficiency or neglect of duty, or for malfeasance, misfeasance, or nonfeasance or for misconduct in office, as determined solely by Governing Board.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -1971,7 +1994,7 @@
           <heading>Compensation</heading>
           <text>Compensation of Commissioners, if any, shall be determined by the Governing Board and shall be paid from the Tribe's General Fund.  All fees received or charged by the Commission for any act or service rendered by the Commission in its official capacity, shall be accounted for and paid monthly to the Tribe and shall be credited to the Tribe's General Fund.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2018,7 +2041,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -2062,7 +2085,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2070,7 +2093,7 @@
           <heading>Supervision of Utility Rates and Tariffs</heading>
           <text>The Commission shall supervise all rates, tariffs, and charges of all Utilities located or operating within the Reservation.  It shall have the power, after notice and hearing as set forth herein, to establish, modify, adjust, promulgate, and enforce all rates (including rates associated with depreciation), tariffs, and charges of all Utilities.  Whenever the Commission, after hearing, shall find any existing Rates, tariffs, charges, or schedule unjust, unreasonable, insufficient, unjustly discriminatory, or otherwise in violation of any of the provisions of <cite path="TUC">this Title</cite>, the Commission by order shall fix reasonable Rates, joint Rates, wheeling Rates, charges, or schedules to be followed in the future in lieu of those found to be unjust, unreasonable, insufficient, unjustly discriminatory, or otherwise in violation of any provision of law.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2078,7 +2101,7 @@
           <heading>Power of Commission to Regulate Services</heading>
           <text>Whenever the Commission shall find, after hearing that the rules and regulations, practices, facilities or services of any Utility or the methods of manufacture, distribution, transmission, storage, or supply employed by it are unjust, unreasonable, unsafe, improper, inadequate, or insufficient, the Commission shall determine the just, reasonable, safe, proper, adequate, or sufficient rules or regulations, services or methods to be observed, enforced or employed and, after hearing, shall fix the same by its orders, rule or regulation.  On demand, such utility shall furnish such commodity and render such service within the time and upon the conditions provided in such rules and regulations.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2086,7 +2109,7 @@
           <heading>Accounting Systems</heading>
           <text>The Commission shall establish a system of accounts to be kept by Utilities subject to its jurisdiction.  A Utility which maintains its accounts in accordance with the system of accounts prescribed by a federal agency or authority shall be deemed to be in compliance with the system of accounts prescribed by the Commission.  Where optional accounting is prescribed by a federal agency or authority, the Commission may prescribe which option is to be followed.  Every Utility engaged directly or indirectly in any other business than that of the production, transmission or furnishing of natural gas or electrical service shall, if required by the Commission, keep and render separately to the Commission in like manner and form the accounts of all the other business, in which case all provisions of <cite path="TUC">this Title</cite> shall apply to the books, accounts, papers, and records of the other business.  Every Utility is required to keep and render its books, accounts, papers, and records accurately and faithfully in the manner and form prescribed by the Commission and to comply with all directions of the Commission relating to these books, accounts, papers, and records.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2094,7 +2117,7 @@
           <heading>Annual Reports</heading>
           <text>The Commission may require any Utility to file annual reports in such form and content as the Commission may require, and special reports concerning any matter about which the Commission is authorized to inquire or to keep itself informed.  The Commission may require the reports to be verified.  The basic financial statements in the annual report of a Utility may, at the direction of the Commission, be examined by an independent certified public accountant and the opinion thereof included in the annual report filed with the Commission.  The Commission may require the examination and audit of all accounts, and all items shall be allocated to the accounts in the manner prescribed by the Commission.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2102,7 +2125,7 @@
           <heading>Right of Entrance and Inspection</heading>
           <text>The Commissioners and duly authorized agents, officers, and employees of the Commission, during regular business hours, may enter upon any premises of a Utility for the purpose of making examinations and tests and to inspect the accounts, books, papers, and documents, of any Utility for the purpose of exercising any power or duty provided for in this Code, and may set up and use on the premises any apparatus necessary therefore.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2110,7 +2133,7 @@
           <heading>Production of Records</heading>
           <text>The Commission may require, by Order, any Utility to produce at a reasonable time and place as the Commission designates, the records, accounts, books or papers of the Utility relating to its business or affairs within the Reservation, pertinent to any lawful inquiry regardless of whether the records are kept within or outside of the Reservation.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2118,7 +2141,7 @@
           <heading>Investigation</heading>
           <text>The Commission, upon complaint or its own initiative and whenever it may deem necessary in the performance of its duties or exercise of its authority, may investigate and examine the condition and operation of any Utility.  In conducting the investigation, the Commission may proceed with or without a hearing, but it shall make no order without affording the affected parties notice and an opportunity for a hearing.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2126,7 +2149,7 @@
           <heading>Standards; Classifications</heading>
           <text>The Commission may ascertain and fix just and reasonable standards, classifications, rules or practices to be observed and followed by any or all public Utilities with respect to the service to be furnished; ascertain and fix adequate and reasonable standards for the measurement of the quantity, quality pressure, initial voltage, or other condition pertaining to the supply of the service; prescribe reasonable rules for the examination and testing of the service and for the measurement thereof; establish or approve reasonable rules, specifications, and standards to secure the accuracy of all meters, instruments and equipment used for the measurement of any service of any Utility.  Any standards, classifications, rules, or practices now or hereafter observed or followed by any Utility may be followed by it with the Commission, and the same shall continue in force until amended by the Utility or until changed by the Commission as herein provided.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2177,7 +2200,7 @@
             <text>Every Commissioner shall have the right at any reasonable time to inspect and copy all books, records, and documents, and to inspect the physical properties of the Commission.  No Commission Member shall use or disseminate any non-public information obtained as a result of any such inspection, or otherwise in his or her capacity as a Commission Member, for his or her own personal gain, to the detriment of the Commission or to the detriment of any competitors of any entity with which the Commission Member is affiliated except in connection with the enforcement of a tariff, contract or applicable law and consistent with the Commission policy regarding confidential information.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2185,7 +2208,7 @@
           <heading>Oversight and Directives of the Governing Board</heading>
           <text>The Commission shall serve under the Governing Board and shall comply with all directives of the Governing Board not inconsistent with this Code.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2204,7 +2227,7 @@
             <text>Commissioners must avoid conflicts of interest and shall exercise reasonable prudence and diligence in identifying actual or possible conflicts of interest.  A Commissioner shall recuse his or herself in any matter or decision in which one or more of the Commissioners or their employers has a material financial interest, a familial interest, or any other interest that creating a reasonably foreseeable conflict preventing the Commissioner from exercising sound and objective judgment over the matter in question.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -2236,7 +2259,7 @@
             <text>The Commission shall give the Utility and the Complainant at least fourteen (14) days' notice of time and place when and where the hearing will be held and such matters to be considered and determined.  Both the Utility and complainant shall be entitled to be heard and to be represented by legal counsel.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2244,7 +2267,7 @@
           <heading>Witnesses and Subpoenas</heading>
           <text>The Commission may issue subpoenas and all necessary process in proceedings pending before the Commission; and each process shall extend to all parts of the Reservation and may be served by any person authorized to serve a summons and complaint pursuant to the Lac Courte Oreille Band Rules of Civil Procedure.  The Commission may adopt procedural rules not inconsistent with the provisions of this Code governing the requests for and service of subpoenas for the production of documents or testimony at a hearing or deposition setting.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2252,7 +2275,7 @@
           <heading>Enforcement</heading>
           <text>In case of failure on the part of any Person to comply with any subpoena, or in the case of the refusal of any witness to testify concerning any matter on which a witness may be interrogated lawfully, the Tribal Court, on application of the Commission, may compel obedience by proceedings for contempt as in the case of disobedience to the requirements of a subpoena issued from the Tribal Court or a refusal to testify therein.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2260,7 +2283,7 @@
           <heading>Oaths</heading>
           <text>The Commission or Commissioners may administer oaths and examine witnesses in proceedings pending before the Commission.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2268,7 +2291,7 @@
           <heading>Orders and Findings in Writing</heading>
           <text>Every order, finding, authorization, or certificate issued or approved by the Commission under any provisions of <cite path="TUC">this Title</cite> shall be in writing and filed with the Commission.  A Certificate under seal of the Commission that any order, finding, authorization or certificate has not been modified, stayed, suspended or revoked, shall be received as evidence in any proceeding as to the facts therein stated.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2283,7 +2306,7 @@
             <text>Whenever the Commission shall find any regulations, measurements, practices, acts or service to be unjust, unreasonable, insufficient, preferential, unjustly discriminatory or otherwise unreasonable or unlawful, or shall find any service which can be reasonably demanded cannot be obtained, the Commission shall determine and by order fix reasonable measurements, regulations, acts, practices or service to be furnished, imposed, observed and followed in the future in lieu of those found to be unreasonable, inadequate or otherwise unlawful, and shall make any other order respecting measurements, regulations, acts, practices or services as shall be just and reasonable.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2291,7 +2314,7 @@
           <heading>Excessive or Discriminatory Charges; Reparation</heading>
           <text>When a complaint has been made to the Commission concerning any Rate or charge for any product or commodity furnished or service performed by any Utility, and the Commission has found, after notice and a hearing has been given as required by <cite path="TUC">this Title</cite>, that the Utility has charged an excessive or discriminatory amount for such product or service, in excess of the schedules, Rates and tariffs on file with the Commission, or that the Utility has discriminated under such schedules against the complainant, the Commission may order that Utility make due reparation to the complainant therefore, with interest from the date of collection, if no discrimination will result for such reparation.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2299,7 +2322,7 @@
           <heading>Rescission or Amendment</heading>
           <text>The Commission may, at any time, on its own motion or upon motion of an interested party, and upon notice to the Utility after opportunity to be heard, rescind, alter or amend any order or decision made by the Commission and may reopen any case following the issuance of an order or decision therein, or the taking of further evidence or for any other purpose.  Any order rescinding, altering, amending, or reopening a prior decision shall have the same effect as an original order or decision.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2307,7 +2330,7 @@
           <heading>Effective Date of Orders and Decisions</heading>
           <text>Every decision made by the Commission constituting an order or decision shall be effective and enforced fourteen (14) days after it has been filed and has been served by personal delivery or by mailing a copy thereof to all parties to the proceeding in which the decision was made or to their attorneys, unless the Commission specifies a different date upon which the order or decision shall be effective.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2326,7 +2349,7 @@
             <text>The grant or denial of a rehearing shall be discretionary with the Commission.  A request for rehearing shall not be deemed a condition precedent to judicial review of a final administrative order or decision.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2334,7 +2357,7 @@
           <heading>Public Records</heading>
           <text>All decisions, transcripts, and orders of the Commission shall be public records.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2342,7 +2365,7 @@
           <heading>Transcription to be Kept</heading>
           <text>A full and complete record shall be kept of all proceedings at any formal hearing of the Commission and all testimony shall be taken down by a reporter appointed by the Commission.  A copy of the transcript shall be furnished on demand to any party to the proceedings upon payment of reasonable costs of reproduction.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2350,7 +2373,7 @@
           <heading>Appeal</heading>
           <text>Any party to any proceedings heard by the Commission who is aggrieved by the decision or by the entry of any final order or decision of the Commission therein may seek judicial review in the Tribal Court.  The rules of civil procedure and the civil provisions of this Code shall be fully applicable to any such judicial review.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2401,7 +2424,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2409,7 +2432,7 @@
           <heading>Stay on Judicial Review; Bond</heading>
           <text>In case the order or decision of the Commission is stayed or suspended by order of the Tribal Court, the order of the Tribal Court shall not become effective until a bond first shall have been executed and filed with and approved by the Tribal Court, payable to the Commission, and sufficient in amount and security to insure the prompt payment by the party appealing of all damages assessed by the Commission's decision, as well as all costs and expenses related to or caused by the delay in the enforcement of the order or decision of the Commission and of all monies which any Person may be compelled to pay pending appeal or review, for transportation, transmission, product, commodity, or service including attorney's fees and costs, as well as damages, in excess of the charges fixed by the order or decision of the Commission, in case such order or decision is sustained.  The Tribal Court, in case it stays or suspends the order or decision of the Commission in any matter affecting Rates, also by order shall direct the Utility affected to pay into the Court, from time to time, there to be impounded until the final decision of the case, under such conditions as the Tribal Court may prescribe, all sums of money which may collect from any Person in excess of the sum which such Person would have been compelled to pay if the order or decision of the Commission had not been stayed or suspended.  Upon a final determination of the Tribal Court, the Court shall make an appropriate order disposing of the impounded funds in accordance with such determination.  In the event the Utility fails to comply with the conditions of the stay bond, the Commission may sue thereon for the use and benefit of the patrons or others who have suffered damage by reason of the stay.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2417,7 +2440,7 @@
           <heading>Step-in Rights and Other Remedies Under Tribal Law</heading>
           <text>Nothing in <cite path="TUC">this Title</cite> shall be construed to limit or supersede any remedies available under any Tribal law or the jurisdiction of the Tribe over property and conduct on the Reservation.  In the event the Tribe assumes ownership or control over any Utility Personal Property in accordance with Tribal law, it shall be unlawful for any Person to interfere with the Tribe's or any agent of the Tribe's access to or operation of said Utility Personal Property.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -2430,7 +2453,7 @@
           <heading>Adequate Service and Reasonable Rates</heading>
           <text>All Public Utilities shall furnish reasonably adequate service and facilities. The charge made by any Public Utility for any heat, light, water, telecommunications service or power produced, transmitted, delivered or furnished or for any service rendered or to be rendered in connection therewith shall be reasonable and just, and every unjust or unreasonable charge for such service is prohibited and declared unlawful.  In the case of a public utility furnishing water, the commission shall include, in the determination of water rates, the cost of fluoridating the water in the area served by the public utility furnishing water if the governing body of the city, village or town which owns or is served by the public utility furnishing water authorizes the fluoridation of water by the public utility furnishing water.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2438,7 +2461,7 @@
           <heading>Maintenance of Utility Personal Property</heading>
           <text>All Utilities shall maintain Utility Personal Property under its ownership or control in a manner that minimizes danger to the public and adverse environmental impacts while upholding all requirements under <cite path="TUC.2.4.010">Section TUC.2.4.010</cite> that may apply.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2446,7 +2469,7 @@
           <heading>Duty of Non-Discrimination</heading>
           <text>It shall be unlawful for any Utility to deny service, set rates, or develop plans for the improvement, development, or expansion of infrastructure, or engage in any preferential treatment of customers or prospective customers on the basis of race, gender, age, sexual orientation, disability, political affiliation, political classification, or tribal membership. Notwithstanding anything to the contrary under <cite path="TUC">this title</cite>, the Tribal Court shall have original jurisdiction over any claim alleging violation of <cite path="|TUC.2.4.020">this Section</cite>.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2454,7 +2477,7 @@
           <heading>Access to Land</heading>
           <text>Nothing in <cite path="TUC">this Title</cite> shall be construed as a grant of a right of access to Tribal or restricted Indian land.  Access, use, and occupation of Tribal or restricted Indian land shall be governed by federal and tribal law governing easements, rights-of-way, and leases on said lands.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2489,7 +2512,7 @@
             <text>If the Commission receives a Complaint alleging violation of <cite path="|TUC.2.4.050">this Section</cite>, the Commission shall issue an Interim Order within two (2) business days after receipt of the Complaint, in which the Commission shall determine whether the Utility must continue to provide Energy Service pending the outcome of the Complaint.  The Commission shall set a forthwith hearing on the Complaint for no more than fourteen (14) days after the Complaint is received by the Commission.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -2502,7 +2525,7 @@
           <heading>Filing Tariffs</heading>
           <text>Every Utility operating or conducting business on the Reservation shall keep on file with the commission a tariff for each Utility Service provided on the Reservation, containing all the rules, rates and classifications used by it in the provision of its Utility Services.  Tariffs shall provide notice of any limitations on liability claimed by the Utility.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2510,7 +2533,7 @@
           <heading>Time to File Tariffs</heading>
           <text>Tariffs shall be filed with the Commission within sixty (60) days after the appointment of the Commission pursuant to the provisions of <cite path="TUC">this Title</cite>.  Upon appointment, the Commission or its duly delegated agent or representative shall publish a notice of commencement of the 60-day period to submit tariffs.  Failure to file tariffs within the prescribed time period shall result in a late fee of $250 per day for fourteen (14) days, and $500 per day each day thereafter.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2518,7 +2541,7 @@
           <heading>Publication of Tariffs</heading>
           <text>The Commission shall publish all Utility tariffs through one or more physical or digital media that is freely accessible to the public.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2562,7 +2585,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2570,7 +2593,7 @@
           <heading>Cooperative Associations</heading>
           <text>Tariff Alterations by Cooperative Associations shall not be subject to the procedures under <cite path="|TUC.2.5.040">Section TUC.2.5.040</cite>; <em>provided </em>that Cooperative Association tariffs maintained on file with the Commission contain procedures to ensure a Cooperative Association's membership receives adequate notice and a reasonable opportunity to be heard in relation to a proposed Tariff Alteration.  If a Cooperative Association fails to include procedures that meet these minimum requirements in its publicly filed tariffs, the Cooperative Association shall be required to undergo the procedures set forth in <cite path="|TUC.2.5.040">Section TUC.2.5.040</cite> prior to establishing or implementing any Tariff Alteration.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -2583,7 +2606,7 @@
           <heading>Certificate of Public Convenience and Necessity Required</heading>
           <text>A Utility may not begin construction of an Electric Facility within the Reservation, without first having obtained a Certificate of Public Convenience and Necessity from the Commission pursuant to this Subhapter.  The Electric Facility must be constructed, operated, and maintained in conformity with the Certificate and any terms, conditions, or modifications of the Certificate.  A Certificate may be transferred, subject to the prior approval of the Commission, to any person who agrees to comply with its terms, conditions, and modifications.  Certificates shall have a term prescribed by the Commission.  The Commission may renew a Certificate in accordance with the Commission's duly adopted rules and regulations.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2726,7 +2749,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2782,7 +2805,7 @@
             <text>Any input from other Tribal agencies and departments.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2918,7 +2941,7 @@
             <text>The impact upon military installations, assets, and operations.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2970,7 +2993,7 @@
             <text>Strength of the Utility's labor relations track record.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2978,7 +3001,7 @@
           <heading>Effect of Issuance of Certificate</heading>
           <text>The issuance of a Certificate or a Permit shall be the sole approval required to be obtained from the Commission prior to commencing construction of an Electric Facility on the Reservation.  A Utility's receipt of a Certificate shall not establish an easement or other property right on or across Tribal trust lands or restricted Indian lands subject to Title 25, Part 169 of the United States Code of Federal Regulations.  Utilities that have acquired a valid Certificate under <cite path="TUC.2">this Chapter</cite> and any other required permits or land use rights, may proceed to construct or improve the site covered under the Certificate for the purposes set forth therein; provided, that if such construction and improvement commences more than four (4) years after a Certificate has been issued, then the Utility must certify to the Commission that such site and associated proposed Facilit(ies) continue to meet the conditions upon which the Certificate was issued.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2986,7 +3009,7 @@
           <heading>Rules and Regulations</heading>
           <text>The Commission may adopt rules and regulations in conformity with the provisions of <cite path="TUC.2.6">this Subchapter</cite> and prescribe methods and procedures required therewith.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -2994,7 +3017,7 @@
           <heading>Complaint and Hearing</heading>
           <text>Any Person aggrieved by the proposed issuance of a Certificate of Public Necessity and Convenience, a proposed Certificate transfer, or a proposed Recertification of an existing Certificate pursuant to <cite path="TUC.2.6">this Subchapter</cite> may file a Complaint with the Commission within thirty (30) days after publication of the Application notice or Recertification notice.  A Person's right to challenge a proposed Certificate or Recertification shall be deemed waived; provided, that the Commission may accept a late filing at its discretion for good cause shown.  Unless otherwise provided in <cite path="|TUC.2.6.080">this Section</cite>, the Commission shall conduct a hearing on the Complaint pursuant to the procedures set forth herein and in the duly adopted rules and regulations of the Commission.  Applicable timelines associated with the Certificate, transfer, or Recertification application shall be held in abeyance pending the outcome of the hearing process as set forth in <cite path="|TUC.2.6.080">this Section</cite>.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3018,7 +3041,7 @@
             <text>A determination by the Tribal Court.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3045,7 +3068,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3060,7 +3083,7 @@
             <text>The Commission may issue a temporary approval or variance without the necessity of notice, publication, or hearing with any additional terms, conditions, or modifications deemed necessary to minimize impacts.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3068,7 +3091,7 @@
           <heading>Use by One Utility of the Facilities of Another Utility</heading>
           <text>Whenever upon hearing, after due notice, the Commission has found that the public convenience and necessity requires the use by one Electric Utility of the conduits, wires, poles, pipes or other equipment or any part thereof on, over or under any street highway and belonging to another Electric Utility, and that such use will not result in irreparable injury to the owner or other users of such equipment, nor any substantial detriment to the service, and that such Electric utilities have failed to agree upon such use or terms and conditions or compensation for the same, the Commission, by order, may direct that such use be permitted, and prescribe reasonable compensation and reasonable terms and conditions for such joint use.  If such use is directed, the Electric Utility to which the use is permitted shall be liable to the owner or other users of such equipment for such damages as may result therefrom to the property of such owner or other users thereof.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -3086,7 +3109,7 @@
           <heading>Establishment of the Lac Courte Oreilles Tribal Utility Authority</heading>
           <text>The Lac Courte Oreille Tribal Utility Authority ("Authority") is hereby established.  The actions, responsibilities, and limitations of the Authority are established under the terms of this Code, as the same may be amended in the future.  The Authority is established as an incorporated enterprise of the Tribal Government.  It is the intent of the Tribe that the Authority shall at all times be an instrumentality of the Tribal Government and shall serve under the direction of the Governing Board.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3094,7 +3117,7 @@
           <heading>Constitutional Authority</heading>
           <text>The Authority is established pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(l)">Article V, Section 1(l) of the Constitution and By Laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</cite>, which authorizes the Tribe's Governing Board to "organize, charter and regulate any association or group, including a housing authority, for the purpose of providing social or economic benefits to the members of the Tribe or residents of the reservation."</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3102,7 +3125,7 @@
           <heading>Sovereign Immunity</heading>
           <text>As an instrumentality of the Tribe, the inherent sovereign immunity of the Tribe is extended to the Authority pursuant to <cite path="|TCT.1.3.020">Section TCT.1.3.020</cite> of the Sovereign Immunity Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and the laws of the United States ("Sovereign Immunity Code").  The Authority may waive its sovereign immunity from suit only in accordance with the processes set forth in <cite path="|TCT.1.2.030">Section TCT.1.2.030</cite> of the Sovereign Immunity Code.  Except as otherwise expressly authorized by the Governing Board, any waiver of the Authority's immunity of suit shall be limited to the Authority and shall not extend to any other department, agency, or instrumentality of the Tribe, and such waiver shall further be limited to judgments effecting the assets and/or revenue streams of the Authority.  Notwithstanding anything herein to the contrary, the sovereign immunity of the Authority shall not apply to actions commenced against the Authority under the provisions of this Code.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3110,7 +3133,7 @@
           <heading>Mission of the Authority</heading>
           <text>The Authority's mission is to provide and manage Utility Services, as defined herein, to customers within and around the Reservation in furtherance of Tribal self-determination, the economic growth of the Tribe and its members, and promoting reliable access to Utility Services on the Reservation, and to furnish, provide, and maintain such service, instrumentalities, equipment, and facilities to promote the safety, health, comfort, and convenience of its customers, employees, and the public, and as shall be in all respects adequate, convenient, just, and reasonable, and without any unjust discrimination or preference.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -3155,7 +3178,7 @@
             <text>Performing all duties incident to the position of Director and such other duties as from time to time may be assigned by the Governing Board.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3163,7 +3186,7 @@
           <heading>Other Authority Employees</heading>
           <text>Nothing in this Code shall be construed to restrict the authority of the Governing Board to hire employees to a position not specifically identified herein to assist in carrying out the functions and mission of the Authority.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
@@ -3223,7 +3246,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3246,7 +3269,7 @@
             <text>Every Commissioner shall have the right at any reasonable time to inspect and copy all books, records, and documents, and to inspect the physical properties of the Authority.  No Commissioner shall use or disseminate any non-public information obtained as a result of any such inspection, or otherwise in his or her capacity as a Commissioner, for his or her own personal gain, to the detriment of the Authority or to the detriment of any competitors of any entity with which the Commissioner is affiliated except in connection with the enforcement of a tariff, contract or applicable law and consistent with the Authority policy regarding confidential information.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3278,7 +3301,7 @@
             <text>Any other information requested by the Governing Board;</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3349,7 +3372,7 @@
             </para>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3357,7 +3380,7 @@
           <heading>Revenue Allocation Plan</heading>
           <text>All revenue generated from the activities of the Authority shall be allocated in accordance with an Allocation Plan approved by the Governing Board.</text>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3372,12 +3395,12 @@
             <text>A proposed Annual Budget shall be developed by the Director and shall be presented to the Governing Board for its approval prior to the commencement of the Tribe's fiscal year.</text>
           </para>
           <annotations>
-            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+            <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
           </annotations>
         </section>
       </container>
     </container>
-    <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" type="History"/>
+    <annotation app="2024-03-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-38" eff="2024-03-18" path="" target-path="" type="History"/>
   </container>
   <xi:include href="./PAP.xml"/>
   <xi:include href="./attachments/index.xml"/>

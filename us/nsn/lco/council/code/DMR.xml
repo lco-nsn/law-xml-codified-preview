@@ -295,7 +295,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
           <annotation type="Prior Codifications">§DMR.1.2.010 was formerly codified as VII LCOTCL §1.201</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-24" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-24" eff="2024-02-12" path="" target-path="|DMR.1.2.010|(n)" type="History"/>
         </annotations>
       </section>
     </container>
@@ -482,7 +482,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-87"/>
           <annotation type="Prior Codifications">§DMR.1.3.080 was formerly codified as VII LCOTCL §1.308</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-25" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-25" eff="2024-02-12" path="" target-path="|DMR.1.3.080|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2971,7 +2971,7 @@
           <text>A guardian ad litem may remain on the approved Lac Courte Oreilles panel of approved guardians ad litem if the guardian ad litem has met the Wisconsin Supreme Court Rule 36 which allows for a guardian ad litem to obtain a lifetime qualification as a guardian ad litem once the guardian ad litem as obtained thirty credit hours of GAL education approved courses in his or her lifetime.</text>
         </para>
         <annotations>
-          <annotation app="2023-08-07" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-102" eff="2023-08-07" path="" type="History"/>
+          <annotation app="2023-08-07" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-102" eff="2023-08-07" path="" target-path="DMR.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3170,7 +3170,7 @@
           <text><em>Additional rights and powers in other cases</em>. For good cause shown, a guardian ad litem may petition the court for additional authority.</text>
         </para>
         <annotations>
-          <annotation app="2023-08-07" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-102" eff="2023-08-07" path="" type="History"/>
+          <annotation app="2023-08-07" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-102" eff="2023-08-07" path="" target-path="DMR.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3197,10 +3197,10 @@
           <text>The formal complaint must specify whether or not the alleged malfeasance of duty was brought to the attention of the Court.</text>
         </para>
         <annotations>
-          <annotation app="2023-08-07" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-102" eff="2023-08-07" path="" type="History"/>
+          <annotation app="2023-08-07" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-102" eff="2023-08-07" path="" target-path="DMR.1" type="History"/>
         </annotations>
       </section>
-      <annotation app="2023-08-07" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-102" eff="2023-08-07" path="" type="History"/>
+      <annotation app="2023-08-07" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-102" eff="2023-08-07" path="" target-path="DMR.1" type="History"/>
     </container>
   </container>
   <container>
@@ -8024,7 +8024,7 @@
         <heading>Title.</heading>
         <text>This ordinance shall be known as the Foster Care Licensing Policies and Procedures of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians (hereinafter "Tribe").</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8032,7 +8032,7 @@
         <heading>Authority.</heading>
         <text>This ordinance is enacted pursuant to the inherent sovereign authority of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.  In the implementation of this inherent sovereign authority, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(t)">Article V, §1 (t) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> empowers the Tribal Governing Board "[t]o provide for the regulation of child custody and domestic relations matters by ordinances or resolution."</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8041,7 +8041,7 @@
         <text>Indian Child Welfare Foster Parents are the main providers for children placed in their home. They are expected to have the necessary knowledge and skills required to deliver safe nurturing care in their homes, as well as an understanding of Lac Courte Oreilles values, cultural teachings, and events.  They shall have patience, flexibility, confidence, self-awareness, and intelligence to develop and carry out any treatment plan for each child.  They shall also have "common sense."  Foster Parents need to be open to ongoing learning and growth and must be willing to work cooperatively with other members of the Indian Child Welfare Department as well as the children's medical and mental health providers, schools, or any others that are vested with the health, safety, and welfare, of Lac Courte Oreilles children.</text>
         <text>Those who join Indian Child Welfare to become licensed foster families shall operate in accordance with Tribal law and ordinances, as well as follow guidelines under the Indian Child Welfare Act ("ICWA").LCO Indian Child Welfare foster parents shall also pass a background check to be compliant with the Native American Children's Safety Act.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8049,7 +8049,7 @@
         <heading>Effective Date.</heading>
         <text>The provisions of this ordinance shall be effective on the date adopted by the Tribal Governing Board.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8065,7 +8065,7 @@
           <text>Shall not be deemed a limitation or repeal of any tribal power or authority.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8073,7 +8073,7 @@
         <heading>Severability and Non-Liability.</heading>
         <text>If any section, provision or portion of this ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be affected thereby.  The Tribe further asserts immunity on its part and that of its agencies, employees, and agents from any action or damages that may occur as a result of reliance upon and conformance with this ordinance.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8081,7 +8081,7 @@
         <heading>Repeal of Inconsistent Tribal Ordinances.</heading>
         <text>All ordinances and resolutions inconsistent with this ordinance are hereby repealed.  To the extent that this ordinance imposes greater restrictions than those contained in any other tribal ordinance, the provisions of this ordinance shall govern.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8198,7 +8198,7 @@
           <text>"<strong>Tribal Court</strong>" means the Lac Courte Oreilles Tribal Court unless otherwise specified.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8222,7 +8222,7 @@
           <text>A home providing care and supervision only for one unrelated child of sixteen (16) or seventeen (17) years of age who has been independently placed by themselves or their relative for purposes of education or work.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8235,7 +8235,7 @@
         <heading>Forms.</heading>
         <text>The person or persons seeking a license shall submit forms approved by the Tribal Governing Board or Indian Child Welfare.  The Indian Child Welfare Department shall determine eligibility once such the completed forms are received by the department.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8266,7 +8266,7 @@
           <text><u>Residence</u>.  Applicants shall reside in Sawyer County.  One of the applicants in the home shall be an enrolled tribal member, or the applicants live within Reservation Boundaries, which is important for the cultural aspect for children to maintain their connections to the Lac Courte Oreilles Tribal Community.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8373,7 +8373,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8381,7 +8381,7 @@
         <heading>Authority of Tribal Governing Board; Exceptions.</heading>
         <text>The Tribal Governing Board may make, or may delegate the authority to make, exceptions to any of the rules for licensing foster homes when the Tribal Governing Board is assured that granting such exceptions is not detrimental to the health, safety or welfare of children.  However, no exceptions shall violate P.L. 114-165, "The Native American Children's Safety Act."</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8453,7 +8453,7 @@
           <text>To ensure the safety of the home for foster children, there shall be periodic intervals at which the home or institution shall be subject to recertification.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8486,7 +8486,7 @@
           <text>Gender of children to be in the home.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8501,7 +8501,7 @@
           <text>Prior to the expiration of a license, background checks and character information shall be updated and reviewed, if a renewal of license is being sought.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8534,7 +8534,7 @@
           <text>Any other reason that would have an adverse effect on the emotional or physical well-being of foster children.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8542,7 +8542,7 @@
         <heading>Right to Appeal.</heading>
         <text>Any applicant whose application is denied or not renewed may appeal to the Tribal Court pursuant to the procedures set forth in this code.  Indian Child Welfare shall notify the applicant of denial by letter, which shall state the grounds for the action and inform the applicant of their right to appeal the action.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8590,7 +8590,7 @@
           <text>A foster home shall have a heating system that is capable of maintaining a comfortable temperature of not less than 68° F., or 20° C. in living areas.  Unvented gas, oil or kerosene space heaters may not be used in a foster home.  Each floor of the home shall have working fire extinguishers and Carbon Monoxide Detectors.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8633,7 +8633,7 @@
           <text>Foster parents are required to complete training regarding "Safe Sleep" .</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8648,7 +8648,7 @@
           <text>The home shall have space for indoor play and access to outdoor play space.  The foster parent shall provide for the safety of children in recreation and play areas.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8656,7 +8656,7 @@
         <heading>Care of Children.</heading>
         <text>Every foster child shall be treated as a member of the foster family.  The foster child shall share in the privileges and responsibilities of the home as appropriate to the child's age and abilities.  Activities shall foster the optimum physical, emotional, social, and mental development of the children.  Activities that enhance and support the child's appreciation of their cultural heritage shall be supported and encouraged.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8675,7 +8675,7 @@
           <text>No foster children shall be left unsupervised overnight.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8718,7 +8718,7 @@
           <text>Foster parents shall notify the assigned Indian Child Welfare staff member of the reason and method of discipline used for the child by the end of the next business day.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8726,7 +8726,7 @@
         <heading>Work performed by children.</heading>
         <text>Foster children shall have opportunities to assume responsibility in household chores appropriate to the child's age, maturity, mental capability, health, and physical ability.  These duties shall not interfere with a child's school attendance, family visits, night-time sleep schedule, studies, recreation, or religious/cultural practices.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8734,7 +8734,7 @@
         <heading>Education.</heading>
         <text>It is the foster parent's responsibility to make every effort to make sure the children in their care attend school regularly, unless otherwise excused by school officials.  Any issues with attendance or performance at school shall be brought to the Indian Child Welfare Department immediately.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8753,7 +8753,7 @@
           <text>Foster parents are prohibited from forcing a foster child to attend religious services/functions, or ceremonies that the child and the child's biological family does not approve of.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8773,7 +8773,7 @@
         </para>
         <text>When applicable, foster parents shall ensure that each foster child's nutritional needs are met with respect to the foster child's religious or cultural beliefs.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8781,7 +8781,7 @@
         <heading>Clothing.</heading>
         <text>Foster parents shall ensure that funds allocated for the purchase of clothing for foster children are used in such a manner that foster children in their care are comfortably dressed within the limits of the funds.  Children's clothing shall be maintained in a state of good repair and cleanliness.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8800,7 +8800,7 @@
           <text>The foster parent shall report immediately to the Indian Child Welfare Department the occurrence of an unusual accident such as the death or serious injury or serious illness of any foster child.  A serious injury or illness shall be defined as one requiring a medical professional.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8808,7 +8808,7 @@
         <heading>Substitute Care.</heading>
         <text>In the event a foster parent has to leave their home temporarily, for reasons such as prolonged illness or temporary absence, the foster children shall be cared for by a responsible adult agreed upon by Indian child Welfare Department or worker.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8860,7 +8860,7 @@
           <text>Use caution with posting children on social media in photos.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8915,7 +8915,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8947,7 +8947,7 @@
           <text>The Appeals and Fair Hearing Process shall be used if any disagreements or differences arise between the foster parent(s) and the Agency, or the foster parents and legal guardian, that cannot be resolved between the parties.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8967,7 +8967,7 @@
           <text>Complaints made against Foster Parents shall be reported to the Indian Child Welfare Department or to Sawyer County Health and Human Services.   Investigations alleging abuse or neglect of  foster children by their foster parents shall be conducted independent of the tribe and residing county to prevent bias and to preserve the relationship between the agencies and foster homes.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8975,7 +8975,7 @@
         <heading>Investigation.</heading>
         <text>Investigations shall be done by the Indian Child Welfare Department as soon as possible after receiving a complaint.  The agency shall determine whether the complaint is valid, and if a Fair Hearing is necessary in accordance with this Code.  For the purpose of investigating complaints concerning the health and safety of the foster children, the investigating agency(ies) shall have access to the home at any time during the twenty-four (24) -hour day.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -8995,7 +8995,7 @@
           <text>The agency shall give the licensee written notice of any revocation and the grounds for revocation.  The written notice shall be given at least thirty (30) days prior to any revocation.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
@@ -9008,7 +9008,7 @@
         <heading>Foster parent right to appeal.</heading>
         <text>Foster Parents or applicants shall have the right to appeal by petition to the Tribal Court for any denial, revocation, nonrenewal of licenses, or any unresolved grievances between a foster home and the agency.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -9016,7 +9016,7 @@
         <heading>Request for hearing.</heading>
         <text>The request for hearing shall be made in writing to the Tribal Court.  Such requests shall be made within thirty (30) days from the date of the notification of denial, nonrenewal or revocation.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -9035,7 +9035,7 @@
           <text>A record of the proceedings shall be kept which shall include testimony, exhibits, papers, other evidence presented as part of the hearing process, and the decision rendered.</text>
         </para>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
       <section>
@@ -9043,10 +9043,10 @@
         <heading>Decisions.</heading>
         <text>The decision on the hearing shall be rendered by the Tribal Court with or without the presence of the claimant.  If the decision is rendered without their presence, a copy of the decision shall be mailed to them.  A copy of the decision shall be forwarded to the Agency.</text>
         <annotations>
-          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+          <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
         </annotations>
       </section>
     </container>
-    <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" type="History"/>
+    <annotation app="2023-09-25" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-118" eff="2023-09-25" path="" target-path="DMR" type="History"/>
   </container>
 </container>

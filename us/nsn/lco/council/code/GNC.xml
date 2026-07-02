@@ -816,7 +816,7 @@
         <heading>Banning of Electric Devices</heading>
         <text>Whoever uses, sells, or possesses electronic smoking devices at any tribal building, or any business located within the Reservation, shall receive a citation in the amount of one hundred dollars ($100).</text>
         <annotations>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-43" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-43" eff="2023-05-10" path="" target-path="GNC.4.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1001,7 +1001,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.4.060 was formerly codified as LCOTCC §4.32</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-22" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-22" eff="2024-02-12" path="" target-path="|GNC.4.4.060" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1066,7 +1066,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.6.010 was formerly codified as LCOTCC §4.36</annotation>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" target-path="GNC.4.6" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1081,7 +1081,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.6.020 was formerly codified as LCOTCC §4.37</annotation>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" target-path="GNC.4.6" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1096,7 +1096,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.6.030 was formerly codified as LCOTCC §4.38</annotation>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" target-path="GNC.4.6" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1111,7 +1111,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.6.040 was formerly codified as LCOTCC §4.39</annotation>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" target-path="GNC.4.6" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1126,7 +1126,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.6.050 was formerly codified as LCOTCC §4.40</annotation>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" target-path="GNC.4.6" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1141,7 +1141,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.6.060 was formerly codified as LCOTCC §4.41</annotation>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" target-path="GNC.4.6" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1156,10 +1156,10 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.6.070 was formerly codified as LCOTCC §4.42</annotation>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" target-path="GNC.4.6" type="History"/>
         </annotations>
       </section>
-      <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" type="History"/>
+      <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-45" eff="2023-05-10" path="" target-path="GNC.4.6" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1178,7 +1178,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.010 was formerly codified as LCOTCC §4.43</annotation>
-          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" target-path="GNC.4.7" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1193,7 +1193,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.020 was formerly codified as LCOTCC §4.44</annotation>
-          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" target-path="GNC.4.7" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1208,7 +1208,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.030 was formerly codified as LCOTCC §4.45</annotation>
-          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" target-path="GNC.4.7" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1223,7 +1223,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.040 was formerly codified as LCOTCC §4.46</annotation>
-          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" target-path="GNC.4.7" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1238,7 +1238,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.050 was formerly codified as LCOTCC §4.47</annotation>
-          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" target-path="GNC.4.7" type="History"/>
         </annotations>
       </section>
       <section placeholder="Repealed">
@@ -1253,10 +1253,10 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-25"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 07-45"/>
           <annotation type="Prior Codifications">§GNC.4.7.060 was formerly codified as LCOTCC §4.48</annotation>
-          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
+          <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" target-path="GNC.4.7" type="History"/>
         </annotations>
       </section>
-      <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" type="History"/>
+      <annotation app="2022-09-26" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-99" eff="2022-09-26" path="" target-path="GNC.4.7" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2320,7 +2320,7 @@
           </para>
           <annotations>
             <annotation type="Prior Codifications">§GNC.4.11.080 was formerly codified as VIII LCOTCL §I</annotation>
-            <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-116" eff="2022-11-21" path="" type="History"/>
+            <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-116" eff="2022-11-21" path="" target-path="|GNC|GNC.4|GNC.4.11|1|GNC.4.11.080|(f)" type="History"/>
           </annotations>
         </section>
       </container>
@@ -2349,7 +2349,7 @@
           </para>
           <annotations>
             <annotation type="Prior Codifications">§GNC.4.11.090 was formerly codified as VIII LCOTCL §II</annotation>
-            <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-116" eff="2022-11-21" path="" type="History"/>
+            <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-116" eff="2022-11-21" path="" target-path="|GNC|GNC.4|GNC.4.11|2|GNC.4.11.090|(b)" type="History"/>
           </annotations>
         </section>
         <section>
@@ -3546,7 +3546,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.010 was formerly codified as VIII LCOTCL §5.101</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3556,7 +3556,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.020 was formerly codified as VIII LCOTCL §5.102</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3566,7 +3566,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.030 was formerly codified as VIII LCOTCL §5.103</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.1.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3576,7 +3577,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.040 was formerly codified as VIII LCOTCL §5.104</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3602,7 +3603,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.050 was formerly codified as VIII LCOTCL §5.105</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.1.050|(a)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3612,7 +3614,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.060 was formerly codified as VIII LCOTCL §5.106</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3622,7 +3624,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.1.070 was formerly codified as VIII LCOTCL §5.107</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3669,7 +3671,10 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.2.010 was formerly codified as VIII LCOTCL §5.201</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.2.010|(a)" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.2.010|(c)" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.2.010|(d)" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3695,7 +3700,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.3.010 was formerly codified as VIII LCOTCL §5.301</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.3.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3744,7 +3750,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.3.020 was formerly codified as VIII LCOTCL §5.302</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.3.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3781,7 +3788,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.3.030 was formerly codified as VIII LCOTCL §5.303</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.3.030|(a)" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.3.030|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3818,7 +3827,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 15-75"/>
           <annotation type="Prior Codifications">§GNC.5.3.040 was formerly codified as VIII LCOTCL §5.304</annotation>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.3.040|(a)" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.3.040|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3837,10 +3848,11 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
+          <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5.3" type="History"/>
         </annotations>
       </section>
     </container>
-    <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" type="History"/>
+    <annotation app="2022-09-02" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-85" eff="2022-09-02" path="" target-path="GNC.5" type="History"/>
   </container>
 </container>

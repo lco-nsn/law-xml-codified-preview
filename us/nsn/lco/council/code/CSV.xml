@@ -13322,7 +13322,7 @@
           <text>Violators  will pay $250 for each offense of this ordinance.</text>
         </para>
         <annotations>
-          <annotation app="2023-04-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-34" eff="2023-04-03" path="§1" type="History"/>
+          <annotation app="2023-04-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-34" eff="2023-04-03" path="§1" target-path="CSV.2.14" type="History"/>
         </annotations>
       </section>
     </container>
@@ -13364,7 +13364,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-32"/>
           <annotation type="Prior Codifications">§CSV.7.1.030 was formerly codified as VI LCOTCL §7.103</annotation>
-          <annotation app="2025-12-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-221" eff="2025-12-16" path="" type="History"/>
+          <annotation app="2025-12-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-221" eff="2025-12-16" path="" target-path="CSV.7.1.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -13422,7 +13422,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 16-32"/>
           <annotation type="Prior Codifications">§CSV.7.1.040 was formerly codified as VI LCOTCL §7.104</annotation>
-          <annotation app="2025-12-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-221" eff="2025-12-16" path="" type="History"/>
+          <annotation app="2025-12-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-221" eff="2025-12-16" path="" target-path="CSV.7.1.040" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14100,7 +14100,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2025-12-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-221" eff="2025-12-16" path="" type="History"/>
+          <annotation app="2025-12-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2025-221" eff="2025-12-16" path="" target-path="CSV.7.5" type="History"/>
         </annotations>
       </section>
     </container>
@@ -14124,8 +14124,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.1.010 was formerly codified as VI LCOTCL §8.101</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.1.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14135,8 +14135,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.1.020 was formerly codified as VI LCOTCL §8.102</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.1.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14173,9 +14173,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.1.030 was formerly codified as VI LCOTCL §8.103</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.1|CSV.8.1.030" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.1.030" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.1|CSV.8.1.030" target-path="CSV.8.1.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14213,9 +14213,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.1.040 was formerly codified as VI LCOTCL §8.104</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.1|CSV.8.1.040" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.1.040" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.1|CSV.8.1.040" target-path="CSV.8.1.040" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14225,9 +14225,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.1.050 was formerly codified as VI LCOTCL §8.105</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.1|CSV.8.1.050" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.1.050" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.1|CSV.8.1.050" target-path="CSV.8.1.050" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14237,8 +14237,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.1.060 was formerly codified as VI LCOTCL §8.106</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.1.060" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14260,9 +14260,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.1.070 was formerly codified as VI LCOTCL §8.107</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.1|CSV.8.1.070" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.1.070" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.1|CSV.8.1.070" target-path="CSV.8.1.070" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14272,8 +14272,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.1.080 was formerly codified as VI LCOTCL §8.108</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.1.080" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14283,8 +14283,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.1.090 was formerly codified as VI LCOTCL §8.109</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.1.090" type="History"/>
         </annotations>
       </section>
     </container>
@@ -14524,10 +14524,10 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.2.010 was formerly codified as VI LCOTCL §8.201</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§2" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.2|CSV.8.2.010" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§2" target-path="CSV.8.2.010" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.2.010" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.2|CSV.8.2.010" target-path="CSV.8.2.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -14549,9 +14549,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.3.010 was formerly codified as VI LCOTCL §8.301</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.3|CSV.8.3.010" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.3.010" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.3|CSV.8.3.010" target-path="CSV.8.3.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14572,9 +14572,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.3.020 was formerly codified as VI LCOTCL §8.302</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.3|CSV.8.3.020" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.3.020" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.3|CSV.8.3.020" target-path="CSV.8.3.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14607,8 +14607,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.3.030 was formerly codified as VI LCOTCL §8.303</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.3.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14618,9 +14618,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.3.040 was formerly codified as VI LCOTCL §8.304</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.3|CSV.8.3.040" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.3.040" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.3|CSV.8.3.040" target-path="CSV.8.3.040" type="History"/>
         </annotations>
       </section>
     </container>
@@ -14650,8 +14650,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.4.010 was formerly codified as VI LCOTCL §8.401</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.4.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14680,8 +14680,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.4.020 was formerly codified as VI LCOTCL §8.402</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.4.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14811,9 +14811,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.4.030 was formerly codified as VI LCOTCL §8.403</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.4|CSV.8.4.030" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.4.030" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.4|CSV.8.4.030" target-path="CSV.8.4.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14823,8 +14823,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.4.040 was formerly codified as VI LCOTCL §8.404</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.4.040" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14834,8 +14834,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.4.050 was formerly codified as VI LCOTCL §8.405</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.4.050" type="History"/>
         </annotations>
       </section>
       <section>
@@ -14845,8 +14845,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.4.060 was formerly codified as VI LCOTCL §8.406</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.4.060" type="History"/>
         </annotations>
       </section>
     </container>
@@ -14976,10 +14976,10 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.5.010 was formerly codified as VI LCOTCL §8.501</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§10" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.5|CSV.8.5.010" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§10" target-path="CSV.8.5.010|(i)" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.5.010" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.5|CSV.8.5.010" target-path="CSV.8.5.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15065,11 +15065,11 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.5.020 was formerly codified as VI LCOTCL §8.502</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§3" type="History"/>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§11" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.5|CSV.8.5.020" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§3" target-path="CSV.8.5.020|(b)" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§11" target-path="CSV.8.5.020" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.5.020" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.5|CSV.8.5.020" target-path="CSV.8.5.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15170,9 +15170,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.5.030 was formerly codified as VI LCOTCL §8.503</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.5|CSV.8.5.030" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.5.030" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.5|CSV.8.5.030" target-path="CSV.8.5.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15189,8 +15189,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.5.040 was formerly codified as VI LCOTCL §8.504</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.5.040" type="History"/>
         </annotations>
       </section>
     </container>
@@ -15349,12 +15349,12 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.6.010 was formerly codified as VI LCOTCL §8.601</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§4" type="History"/>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§5" type="History"/>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§6" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.6|CSV.8.6.010" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§4" target-path="CSV.8.6.010|(e)|(2)" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§5" target-path="CSV.8.6.010|(e)|(6)" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§6" target-path="CSV.8.6.010|(e)" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.6.010" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.6|CSV.8.6.010" target-path="CSV.8.6.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15395,16 +15395,16 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.6.020 was formerly codified as VI LCOTCL §8.602</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.6|CSV.8.6.020" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.6.020" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.6|CSV.8.6.020" target-path="CSV.8.6.020" type="History"/>
         </annotations>
       </section>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>CSV.8.7</num>
-      <heading>Disposal of Non-Compliant Hemp<annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§7" type="History"/><annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.7" type="History"/></heading>
+      <heading>Disposal of Non-Compliant Hemp<annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§7" target-path="CSV.8.7|heading" type="History"/><annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.7" target-path="CSV.8.7|heading" type="History"/></heading>
       <section>
         <num>CSV.8.7.010</num>
         <heading>Procedures for Disposal of Non-Compliant Hemp</heading>
@@ -15475,11 +15475,11 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.7.010 was formerly codified as VI LCOTCL §8.701</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§9" type="History"/>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§8" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.7|CSV.8.7.010" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§9" target-path="CSV.8.7.010|(c)|(7)" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§8" target-path="CSV.8.7.010" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.7.010" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.7|CSV.8.7.010" target-path="CSV.8.7.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -15510,9 +15510,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.8.010 was formerly codified as VI LCOTCL §8.801</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.8|CSV.8.8.010" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.8.010" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.8|CSV.8.8.010" target-path="CSV.8.8.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15581,9 +15581,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.8.020 was formerly codified as VI LCOTCL §8.802</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.8|CSV.8.8.020" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.8.020" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.8|CSV.8.8.020" target-path="CSV.8.8.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15608,9 +15608,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.8.030 was formerly codified as VI LCOTCL §8.803</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.8|CSV.8.8.030" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.8.030" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.8|CSV.8.8.030" target-path="CSV.8.8.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -15653,8 +15653,8 @@
           <text>The Agricultural Division is hereby authorized to enforce any penalty authorized under this ordinance in Tribal Court.</text>
         </para>
         <annotations>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.8|CSV.8.8.040" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.8|CSV.8.8.040" target-path="CSV.8.8" type="History"/>
         </annotations>
       </section>
     </container>
@@ -15688,9 +15688,9 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.9.010 was formerly codified as VI LCOTCL §8.901</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.9|CSV.8.9.010" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.9.010" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.9|CSV.8.9.010" target-path="CSV.8.9.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -15712,8 +15712,8 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.10.010 was formerly codified as VI LCOTCL §8.1001</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.10.010" type="History"/>
         </annotations>
       </section>
     </container>
@@ -15799,12 +15799,12 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 37-2020"/>
           <annotation type="Prior Codifications">§CSV.8.11.010 was formerly codified as VI LCOTCL §8.1101</annotation>
-          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" type="History"/>
-          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.11|CSV.8.11.010" type="History"/>
+          <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-47" eff="2023-05-10" path="" target-path="CSV.8.11.010" type="History"/>
+          <annotation app="2024-01-16" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-07" eff="2024-01-16" path="attachments|law|CSV.8|CSV.8.11|CSV.8.11.010" target-path="CSV.8.11.010" type="History"/>
         </annotations>
       </section>
     </container>
-    <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" type="History"/>
+    <annotation app="2023-03-06" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-16" eff="2023-03-06" path="§1" target-path="CSV.8" type="History"/>
   </container>
 </container>

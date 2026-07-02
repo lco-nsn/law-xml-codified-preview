@@ -7,19 +7,21 @@
     <prefix>Chapter</prefix>
     <num>CMP.1</num>
     <heading>Gaming Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</heading>
-    <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+    <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>CMP.1.1</num>
       <heading>Introduction</heading>
-      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
       <section>
         <num>CMP.1.1.010</num>
         <heading>Title</heading>
         <text>This Code shall be known as the "Lac Courte Oreilles Gaming Code".</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -27,8 +29,10 @@
         <heading>Repeal of Prior Authority</heading>
         <text>This Code hereby repeals all other previously enacted gaming codes to the extent that the previous gaming codes are inconsistent with this Code.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -36,8 +40,10 @@
         <heading>Authority</heading>
         <text>This Code is enacted pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|I|(n)">Article V, Section I (n)</cite> of the <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|I|(n)">Constitution and By-Laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, as amended.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -69,8 +75,10 @@
           <text>To the extent that qualified members of the Tribe, their spouses, or children are not available to fill a position, preference shall be given first to qualified members of other Tribes of Chippewa Indians and then to qualified members of any other Indian Tribe.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -90,8 +98,10 @@
           <text>Shall be construed consistent with the provisions of the National Indian Gaming Regulatory Act, 25 U.S.C. Section 2701, <strong><u>et seq</u></strong>., and the 1991 Tribal-State Gaming Compact (governing Class III games) between the Tribe and the State of Wisconsin and such Gaming Management Contracts as the Tribe may enter into.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -99,8 +109,10 @@
         <heading>Ownership of Gaming</heading>
         <text>The Lac Courte Oreilles Tribe shall have the sole proprietary interest in and responsibility for the conduct of any gaming operation authorized by this ordinance.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -116,8 +128,10 @@
           <text>If the Tribe elects to make per capita payments to tribal members, it shall authorize such payments only upon approval of a plan submitted to the Secretary of the Interior under 25 U.S.C. Section 2710 (b).</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -132,8 +146,10 @@
           <text>All gaming-related contracts that result in the purchase of supplies, services, or concessions in excess of $25,000.00 annually, except contracts for professional legal and accounting services, shall be specifically included within the scope of the audit that is described in <cite path="CMP.1.1.080|(a)">subsection (a)</cite> above.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -141,8 +157,10 @@
         <heading>Protection of the Environment and Public Health and Safety</heading>
         <text>Lac Courte Oreilles Class II gaming facilities shall be constructed, maintained, and operated in a manner that adequately protects the environment and the public health and safety.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -150,8 +168,10 @@
         <heading>Notices to Agent</heading>
         <text>The Secretary of the Lac Courte Oreilles Tribe shall be designated as agent for service of any official determination, order, or notice of violation pursuant to 25 CFR Section 522.2(g).</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -159,7 +179,7 @@
       <prefix>Subchapter</prefix>
       <num>CMP.1.2</num>
       <heading>Definitions</heading>
-      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
       <section>
         <num>CMP.1.2.010</num>
         <heading>General Definitions</heading>
@@ -287,8 +307,10 @@
           <text><strong>"Tribal Gaming Liaison"</strong> means the tribal official designated to interact between the gaming operations, the Tribal Governing Board, and the Tribal Gaming Commission.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.2" type="History"/>
         </annotations>
       </section>
     </container>
@@ -296,7 +318,7 @@
       <prefix>Subchapter</prefix>
       <num>CMP.1.3</num>
       <heading>Administration</heading>
-      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
       <section>
         <num>CMP.1.3.010</num>
         <heading>Duties of the Tribal Governing Board</heading>
@@ -353,8 +375,10 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -377,8 +401,10 @@
           <text>Applicants shall submit to a background investigation for a determination of suitability by the Tribal Governing Board. Applicants shall be required to cooperate with the fingerprint process and provide all relevant information to facilitate the investigation.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -442,8 +468,10 @@
           <text>Shall have some gaming experience through education, experience, and/or interest.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -475,8 +503,10 @@
           <text>The Tribal Governing Board may remove appointed Gaming Commission members when required by conflict of interest, non-participation, misfeasance, malfeasance, death, or resignation.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -484,8 +514,10 @@
         <heading>Officers</heading>
         <text>Gaming Commission Officers shall be Chairman, Vice-Chairman, and Secretary/ Treasurer. The Chairman shall serve for two-year periods. The Vice-Chairman and Secretary/Treasurer shall serve one-year periods. The Tribal Gaming Commission shall elect its own Officers.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -517,8 +549,10 @@
           <text>To enforce this Code upon all gaming operations and licensed gaming activities located within the territorial boundaries of the Lac Courte Oreilles Tribe, except as otherwise exempted by tribal law, ordinance, or code.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -542,8 +576,10 @@
           <text>Establish a fee schedule for license applicants and vendors doing business with Tribally licensed gaming facilities.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -598,8 +634,10 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -607,8 +645,10 @@
         <heading>Reporting of Commission</heading>
         <text>The Gaming Commission shall submit regular monthly reports of every Gaming Commission meeting to the Tribal Governing Board consisting of at least minutes of meetings, summary data of investigative activity, dispute resolution actions, and Gaming Commission activities.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -631,8 +671,10 @@
           <text>Commissioners shall be prohibited from charging or receiving actual or inkind compensation, fees, or $fts from license applicants, vendors, and Tribally licensed gaming facility</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -659,8 +701,10 @@
           <text>Nothing in this Code authorizes the Tribal Gaming Commission to interfere with gaming management, operations, and employment relations or to overturn any decision of employee grievance boards.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -675,8 +719,10 @@
           <text>The Gaming Commission, as a delegated body of the Tribal Governing Board pursuant to the Lac Courte Oreilles Constitution, <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|I|(m)">Article V, Section I (m),</cite> is immune, as is the Tribe, from suit and legal process, including but not limited to, levy, seizure, execution, and sale. Notwithstanding any provision of this Code, the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin does not waive any aspect of its sovereign immunity.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -684,8 +730,10 @@
         <heading>Review</heading>
         <text>Notwithstanding any other provisions of this Code, all activities, actions, powers exercised, requirements, restrictions, and the like of this Gaming Commission, are subject to the review by the Tribal Governing Board, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(m)">Article V, Section I(m),</cite> of the Lac Courte Oreilles Tribal Constitution. In the event any corrective action appears necessary by reason of, for example, debilitating litigation or conduct that compromises the integrity of the tribe, which threaten the existence or stability of the Gaming Commission and/or the Lac Courte Oreilles Casino or gaming activities and/or the Tribe, this right may be exercised by the Tribal Governing Board, and, as such is hereby reserved. This right will not be arbitrarily, discriminatorily, politically, vindictively, or capriciously exercised, but will be exercised with restraint so that the Gaming Commission may duly fulfill its purpose. Each member of the Gaming Commission shall be given notice of the Tribal Governing Board's intent to exercise this right.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.3" type="History"/>
         </annotations>
       </section>
     </container>
@@ -693,7 +741,7 @@
       <prefix>Subchapter</prefix>
       <num>CMP.1.4</num>
       <heading>Tribal Games</heading>
-      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
       <section>
         <num>CMP.1.4.010</num>
         <heading>General</heading>
@@ -750,8 +798,10 @@
           <text>No person shall be licensed to offer, operate, supervise, or manage tribal games whose prior activities, criminal record, reputation, habits and associations pose a threat to the public interest or to the effective regulation of gaming, or who creates or enhances the dangers of unsuitable, unfair or illegal practices and methods and activities in the conduct of gaming.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -766,8 +816,10 @@
           <text>Profits from tribal bingo operations shall be utilized for tribal purposes as determined by the Board. Specific bingo events may be held for the benefit or a particular tribal organization, a public cause of interest to the Tribe or needy tribal members.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -858,8 +910,10 @@
           <text>Alcohol beverages may be served at locations where games are conducted only during the hours prescribed in sec. 125.315(3), Wis. Stats. Alcohol beverages may not be sold for the purpose of off-premises consumption at locations where games are conducted.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -878,8 +932,10 @@
           <text>These procedures will be made available to players and customers.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -914,8 +970,10 @@
           <text>The Tribal Gaming Enforcement Official will also contact a sufficient number of the persons listed on the Felony Waiver Petition and others including, but not limited to: current and past Probation/Parole Officers, counselors, psychotherapists, neighbors and others.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.4" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1217,8 +1275,10 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.4" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1226,7 +1286,7 @@
       <prefix>Subchapter</prefix>
       <num>CMP.1.5</num>
       <heading>Licensing for Non-tribal Games</heading>
-      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
       <section>
         <num>CMP.1.5.010</num>
         <heading>Prohibition Against Non-Tribal Games</heading>
@@ -1240,8 +1300,10 @@
           <text>Single events involving no more than eight (8) persons wherein there is no sponsor or odds favoring only one particular player and individual winnings do not exceed fifty dollars ($50.00.).</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1276,8 +1338,10 @@
           <text>The Board shall appoint and supervise the Tribal Gaming Commission to oversee such gaming operations as may be licensed under the authority of the Tribe and to authorize the licensing procedures and the collection of all license fees and assessments.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1348,8 +1412,10 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1373,8 +1439,10 @@
           <text>Such bond as may be required by the Tribal Governing Board.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1382,8 +1450,10 @@
         <heading>Investigation</heading>
         <text>Upon receipt of an application for a license to conduct gaming activities, the Gaming Commission shall cause to conduct a background investigation on the primary management officials and key employees of the applicant and determine whether the interests of the Tribe will be met through the issuance of such license and shall make recommendations to the Tribal Governing Board, which shall take final action. The Gaming Enforcement Officer shall notify the Commission of the results of any background investigation.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1418,8 +1488,10 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1463,8 +1535,10 @@
           <text>To hold the Tribe, the Tribal Governing Board and tribal officers harmless as to all claims associated with the conduct of the licensed gaming operations and to indemnify each as to all expenses including legal fees utilized to defend against such claims.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1500,8 +1574,10 @@
           <text>The report shall be signed by an individual responsible for the proper utilization of gross receipts for the gaming occasion.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1516,8 +1592,10 @@
           <text>If the financial statement filed by a licensee is not fully, accurately, and truthfully completed, the Commission may suspend a license until such time as a statement in proper form has been filed.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1525,8 +1603,10 @@
         <heading>Gaming Account</heading>
         <text>Each licensee shall maintain one (l) account which shall be designated as the "Gaming Account. " All gross receipts derived from the conduct of gaming operations shall be deposited into the gaming account. No other receipts shall be deposited into the gaming account.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1541,8 +1621,10 @@
           <text>The columnar book, deposit books, savings account pass books, canceled checks, checkbooks, deposit slips, and bank statements of gaming operations and all other books and accounts shall be available at reasonable times for examination by the Tribe or its authorized representative. All documents supporting the entries made in the books of accounts shall be kept by the licensee for a period of not less than four (4) years. Such documents shall include, but are not limited to, bank statements, canceled checks, deposit slips and invoices for all expenditures.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1569,8 +1651,10 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1578,8 +1662,10 @@
         <heading>Monitoring</heading>
         <text>The Tribal Gaming Commission and the Tribal Gaming Enforcement Officer are hereby designated and empowered to monitor the gaming activities of any licensee, to investigate the backgrounds of management officials and key employees, to investigate the backgrounds of vendor license applicants and felony waiver petitioners, to enforce the provisions of this Code, and to report criminal violations of state, federal or tribal laws to the Tribal Gaming Commission.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.5" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1587,7 +1673,7 @@
       <prefix>Subchapter</prefix>
       <num>CMP.1.6</num>
       <heading>Gaming Assessment</heading>
-      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
       <section>
         <num>CMP.1.6.010</num>
         <heading>Gaming Activities Assessed</heading>
@@ -1620,8 +1706,10 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.6" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1629,7 +1717,7 @@
       <prefix>Subchapter</prefix>
       <num>CMP.1.7</num>
       <heading>Bingo</heading>
-      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
       <section>
         <num>CMP.1.7.010</num>
         <heading>Sale of Bingo Cards</heading>
@@ -1646,8 +1734,10 @@
           <text>Regular bingo cards, extra regular cards and special bingo cards and video bingo cards shall each be assigned a specific price, and the price shall remain the same during a bingo occasion. At any time during a bingo occasion, a card may be changed between games at no additional cost. Cards shall be sold or rented only on the premises at which bingo is being conducted. A price list shall be posted where the regular bingo cards are distributed, setting for the price of each type of card. Only the posted price may be charged. The regular bingo cards and the extra regular cards shall be readily distinguishable from each other.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1678,8 +1768,10 @@
           <text>The particular arrangement of numbers required to be covered in order to win and the amount of the prize for each game shall be clearly described and audibly announced to the players immediately before each game. The amount of the prize for each bingo game also shall be posted where the regular bingo cards are distributed.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1694,8 +1786,10 @@
           <text>At the time a winner is determined, any player may call for verification of all numbers and of the objects remaining in the receptacle and not yet drawn, This verification shall be made in the immediate presence of the supervising members and at least one disinterested player.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1710,8 +1804,10 @@
           <text>When more than one winner is found to be a winner on the call of the same number in the same bingo game, a cash prize shall be divided equally, to the nearest nickel, among the winners, except that any licensed organization may elect to set a minimum prize of not exceeding $5.00 for each winner. When equal division of a merchandise prize is not possible, identical substitute prizes whose aggregate retail value is approximately equal to that of the designated prize may be awarded or a cash prize equal to the retail value may be divided to the nearest nickel.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1726,8 +1822,10 @@
           <text>All persons conducting or assisting in the conduct of bingo shall conform to such policies and procedures as may be adopted by the Tribal Governing Board.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1735,8 +1833,10 @@
         <heading>Operation as Part of Network</heading>
         <text>Bingo may be conducted as part of a network consisting of other sites and operators and common prizes only upon approval of the Tribal Governing Board.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.7" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1744,14 +1844,16 @@
       <prefix>Subchapter</prefix>
       <num>CMP.1.8</num>
       <heading>Severability and Non-Liability</heading>
-      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
       <section>
         <num>CMP.1.8.010</num>
         <heading>Severability</heading>
         <text>If any section, provision or portion of this Code is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Code shall not be affected thereby.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1762,8 +1864,10 @@
           <img alt="Embedded Image" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAEAAMDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDE/wCGGfDP/Q+/ED/wcRf/ABiiiigD/9k="/>
         </text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.8" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1771,13 +1875,15 @@
       <prefix>Subchapter</prefix>
       <num>CMP.1.9</num>
       <heading>Amendments</heading>
-      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+      <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
       <section>
         <num>CMP.1.9.010</num>
         <text>This Code may be amended solely by the Tribal Governing Board by a majority vote of the entire existing Tribal Governing Board at any special or regular meeting of the Tribal Governing Board provided, however, that consideration of the proposed amendment(s) shall be provided to the Tribal Gaming Commission at least seventy-two (72) hours prior to said meeting of the Tribal Governing Board.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1.9" type="History"/>
         </annotations>
       </section>
     </container>
@@ -1801,7 +1907,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.1.010 was formerly codified as XII LCOTCL §2.101</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -1811,7 +1917,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.1.020 was formerly codified as XII LCOTCL §2.102</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -1934,7 +2040,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.1.030 was formerly codified as XII LCOTCL §2.103</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -1944,7 +2050,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.1.040 was formerly codified as XII LCOTCL §2.104</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -1993,7 +2099,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.1.050 was formerly codified as XII LCOTCL §2.105</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2003,7 +2109,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.1.060 was formerly codified as XII LCOTCL §2.106</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2013,7 +2119,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.1.070 was formerly codified as XII LCOTCL §2.107</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2054,7 +2160,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.1.080 was formerly codified as XII LCOTCL §2.108</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -2169,7 +2275,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.2.010 was formerly codified as XII LCOTCL §2.201</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -2184,7 +2290,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.010 was formerly codified as XII LCOTCL §2.301</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2194,7 +2300,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.020 was formerly codified as XII LCOTCL §2.302</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2204,7 +2310,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.030 was formerly codified as XII LCOTCL §2.303</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2214,7 +2320,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.040 was formerly codified as XII LCOTCL §2.304</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2225,7 +2331,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.050 was formerly codified as XII LCOTCL §2.305</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2327,7 +2433,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.060 was formerly codified as XII LCOTCL §2.306</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2348,7 +2454,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.070 was formerly codified as XII LCOTCL §2.307</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2378,7 +2484,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.080 was formerly codified as XII LCOTCL §2.308</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2417,7 +2523,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.090 was formerly codified as XII LCOTCL §2.309</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2531,7 +2637,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.100 was formerly codified as XII LCOTCL §2.310</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2541,7 +2647,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.110 was formerly codified as XII LCOTCL §2.311</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2606,7 +2712,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.120 was formerly codified as XII LCOTCL §2.312</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2616,7 +2722,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.3.130 was formerly codified as XII LCOTCL §2.313</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -2666,7 +2772,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.4.010 was formerly codified as XII LCOTCL §2.401</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2735,7 +2841,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.4.020 was formerly codified as XII LCOTCL §2.402</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2800,7 +2906,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.4.030 was formerly codified as XII LCOTCL §2.403</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2929,7 +3035,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.4.040 was formerly codified as XII LCOTCL §2.404</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2946,7 +3052,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.4.050 was formerly codified as XII LCOTCL §2.405</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2956,7 +3062,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation>§CMP.2.4.060 was formerly codified as XII LCOTCL §2.406</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2966,7 +3072,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.4.070 was formerly codified as XII LCOTCL §2.407</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -2976,7 +3082,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.4.080 was formerly codified as XII LCOTCL §2.408</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -2996,7 +3102,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.6.010 was formerly codified as XII LCOTCL §2.601</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3014,7 +3120,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.6.020 was formerly codified as XII LCOTCL §2.602</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3056,7 +3162,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.6.030 was formerly codified as XII LCOTCL §2.603</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3066,7 +3172,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.6.040 was formerly codified as XII LCOTCL §2.604</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3095,7 +3201,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.6.050 was formerly codified as XII LCOTCL §2.605</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3128,7 +3234,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.6.060 was formerly codified as XII LCOTCL §2.606</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3145,7 +3251,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.6.070 was formerly codified as XII LCOTCL §2.607</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -3160,7 +3266,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.7.010 was formerly codified as XII LCOTCL §2.701</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3257,7 +3363,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.7.020 was formerly codified as XII LCOTCL §2.702</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3374,7 +3480,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.7.030 was formerly codified as XII LCOTCL §2.703</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3463,7 +3569,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.7.040 was formerly codified as XII LCOTCL §2.704</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -3510,7 +3616,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.8.010 was formerly codified as XII LCOTCL §2.801</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3520,7 +3626,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.8.020 was formerly codified as XII LCOTCL §2.802</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3546,7 +3652,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.8.030 was formerly codified as XII LCOTCL §2.803</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3556,7 +3662,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.8.040 was formerly codified as XII LCOTCL §2.804</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3566,7 +3672,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.8.050 was formerly codified as XII LCOTCL §2.805</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3576,7 +3682,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.8.060 was formerly codified as XII LCOTCL §2.806</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3586,7 +3692,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.8.070 was formerly codified as XII LCOTCL §2.807</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -3612,7 +3718,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.9.010 was formerly codified as XII LCOTCL §2.901</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3629,7 +3735,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.9.020 was formerly codified as XII LCOTCL §2.902</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3647,7 +3753,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.9.030 was formerly codified as XII LCOTCL §2.903</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3673,7 +3779,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.9.040 was formerly codified as XII LCOTCL §2.904</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3774,7 +3880,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.9.050 was formerly codified as XII LCOTCL §2.905</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3835,7 +3941,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.9.060 was formerly codified as XII LCOTCL §2.906</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -3850,7 +3956,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.10.010 was formerly codified as XII LCOTCL §2.1001</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3860,7 +3966,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.10.020 was formerly codified as XII LCOTCL §2.1002</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3870,7 +3976,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.10.030 was formerly codified as XII LCOTCL §2.1003</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3888,7 +3994,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.10.040 was formerly codified as XII LCOTCL §2.1004</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3952,7 +4058,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.10.050 was formerly codified as XII LCOTCL §2.1005</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -3967,7 +4073,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.11.010 was formerly codified as XII LCOTCL §2.1101</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3977,7 +4083,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.11.020 was formerly codified as XII LCOTCL §2.1102</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -3987,7 +4093,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.11.030 was formerly codified as XII LCOTCL §2.1103</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4005,7 +4111,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.11.040 was formerly codified as XII LCOTCL §2.1104</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4060,7 +4166,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.11.050 was formerly codified as XII LCOTCL §2.1105</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -4075,7 +4181,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.12.010 was formerly codified as XII LCOTCL §2.1201</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4085,7 +4191,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.12.020 was formerly codified as XII LCOTCL §2.1202</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4095,7 +4201,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.12.030 was formerly codified as XII LCOTCL §2.1203</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4113,7 +4219,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.12.040 was formerly codified as XII LCOTCL §2.1204</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4159,7 +4265,7 @@
         <annotations>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 93-2021"/>
           <annotation type="Prior Codifications">§CMP.2.12.050 was formerly codified as XII LCOTCL §2.1205</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -4177,7 +4283,7 @@
         <heading>Purpose</heading>
         <text>By the adoption of this Ordinance, the Tribal Governing Board of Lac Courte Oreilles Band of Lake Superior Chippewa Indians intends to provide the benefits outlined herein to Employees of the Lac Courte Oreilles Tribe and Enterprises located on the Lac Courte Oreilles Reservation, for all injuries or illness resulting out of the employment relationship with the Employer. The effective date of this Ordinance is October 14, 2005.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4186,7 +4292,7 @@
         <text>When no other liability exists for compensable liability, all Employees are covered for compensable bodily injuries or illness when on the Employer's premise or where Employer has instructed Employee to leave the premise in conjunction with duties associated with his/her job.</text>
         <text>The Lac Courte Oreilles Tribal Government's sovereign immunity applies to this ordinance. The use of benefits and rights under this Ordinance are the Employees' exclusive remedy against Lac Courte Oreilles Tribal Government and Enterprises.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -4273,7 +4379,7 @@
           <text>Weekly wage is arrived at by multiplying the daily wage by the number of days or fraction of days normally worked</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -4314,7 +4420,7 @@
           <text>Any payments to or on account of a minor dependent beneficiary collected under this Ordinance terminate when such a dependent child/children reach the age of 18 years, unless the dependent child/children is physically or mentally incapacitated or is under the age of 25 years and enrolled as a full-time student at a high school, college, university, vocational or technical school. (If the dependent child is physically or mentally incapacitated, payments continue until he/she shall cease to be dependent. If an enrolled full-time student, payments terminate when the dependent child/children reach the age of 25 years or ceases to be a full-time student, whichever occurs first.)</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4390,7 +4496,7 @@
           <text>Act by a third person or fellow employee intended to injure the Employee for personal reasons, and not directly against the Employee as an Employee or because of employment</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4400,7 +4506,7 @@
         <text>If the Employee proceeds against a person other than the Employer with respect to such an injury or condition and recovers any amount, that action shall constitute an irrevocable election to proceed against such person and the Employee shall have no rights to any compensation from the Employer under this Ordinance with respect to such injury or condition.</text>
         <text>If benefits have been awarded or paid under this Ordinance, and the Employee has suffered damages for which a person other than the Employer is legally liable on account of the same injury or condition for which benefits were paid, the Employer may collect in its own name or that of the injured Employee an amount equal to the amount of benefits paid by the Employer to the Employee. Acceptance of benefits under this Ordinance constitutes an assignment of the Employee's rights to the Employer to the extent benefits are paid or payable.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -4414,7 +4520,7 @@
         <text>Under this Ordinance, all claims made by the Employee for work related injuries/illness must be submitted to his/her immediate Supervisor/Director/Manager as soon as possible, but no later than three workdays after the incident occurs. The Employee is to complete a <em><u>First Report of Injury/Illness</u></em> form and a <em><u>Patient Authorization for Release of Information</u></em> form and submit them to their Supervisor/Director/Manager, who then co-signs the <em><u>First Report of Injury/Illness</u></em> form and immediately forwards both forms on to the Employer's Insurance Office. The Insurance Office will review the Report, and if warranted, will then, in a timely manner, forward the Report to the Claims Administrator/Managed Care Provider for evaluation and determination as to whether it is a valid claim under this Ordinance. The Claims Administrator/Managed Care Provider will, within fourteen (14) workdays of their receipt of the Report, provide written notice to the Employer's Insurance Office as to whether the claim has been approved or denied. The Insurance Office will notify the appropriate personnel of the decision. If approved, the Employer's Insurance Office will process payment of benefits due and related health care expenses incurred as a result of this injury/illness.</text>
         <text>If denied, the Claims Administrator shall forward a written notice to the Employee and Plan Administrator. This notice shall contain the specific reason for the denial and clearly state the facts forming the basis of the denial. The denial must include information identifying the Employee, date of claimed injury, claim number, and instructions to the Employee of the rules and time limitations involved in the appeal process. The burden of proof of these facts is on the Employer. The facts arising under <cite path="|CMP.6.4.010">this section</cite> shall be determined by a preponderance of the evidence.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4424,7 +4530,7 @@
         <text>The Plan Administrator shall supply the Employee's Supervisor/Director/Manager with any forms that may be required for completion, specifically the<u> Report of Work Ability</u> form that must be completed and submitted after each visit by the Employee with their Medical Provider. It is the responsibility of the Supervisor/Director/Manager to give such forms to the Employee for completion by either the Employee, their primary physician or approved Medical Provider. It is the responsibility of the Employee to return all completed forms to their Supervisor/Director/Manager, who will then immediately forward them on to the Plan Administrator.</text>
         <text>All medical records are to be forwarded to the Claims Administrator/Managed Care Provider. The Employee must continue to keep the Employer notified and advised during the course of treatment The Employee must cooperate with Employer in obtaining all related medical records. A failure to do so may result in the termination of benefits. The Employee shall not return to work without a written release from the primary physician or approved Medical Provider and the authorization from the Plan Administrator.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -4545,7 +4651,7 @@
           <text>As determined by the Plan Administrator, payments to the legal spouse shall be for a maximum of one (1) year, terminating upon the remarriage or death of the spouse, whichever comes first. Payments to a dependent child/children shall be made until the dependent child/children reaches the age of 18 unless the dependent child/children is a full-time student or determined by medical evidence to be physically or mentally incapable of self-support, in which case payment shall be made to age 25.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -4558,7 +4664,7 @@
         <heading>Fraudulent Claims/Reporting and Investigations</heading>
         <text>If the Employer, Plan Administrator or Claims Administrator/Managed Care Provider has evidence that a claim is false or fraudulent the claim shall be denied and the Plan Administrator shall report the matter to the Lac Courte Oreilles Insurance Appeal Board designated by the Lac Courte Oreilles Tribal Governing Board within 10 business days. The Lac Courte Oreilles Insurance Appeal Board may require an investigation for an allegedly false or fraudulent claim. On any investigation, the results shall be reported to the Lac Courte Oreilles Insurance Appeal Board. If based on the investigation, the Lac Courte Oreilles Insurance Appeal Board has a reasonable basis to believe that a violation of a State or Federal criminal code has occurred; the Lac Courte Oreilles Insurance Appeal Board may refer the results of the investigation to the Lac Courte Oreilles Tribal Court for final resolution.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4567,7 +4673,7 @@
         <text>If the Employee is dissatisfied with the decision of the Claims Administrator/Managed Care Provider relative to a denial of claimed injury, the Employee may request a hearing before the Lac Courte Oreilles Insurance Appeal Board designated by the Lac Courte Oreilles Tribal Governing Board. The request must be in writing and the Employee must file it within thirty days (30) of the denial date. The decision of the Lac Courte Oreilles Insurance Appeal Board is final and the Employee can pursue no further action.</text>
         <text>All testimony at any hearing held under this Ordinance shall be recorded by a recording machine and said duplicate of such recordings will be made available to the Employee or Employer upon written request to the Lac Courte Oreilles Insurance Appeal Board.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4576,7 +4682,7 @@
         <text>If it is established at the Lac Courte Oreilles Insurance Appeal Board hearing that two (2) or more parties have each contributed to a physical or mental condition for which benefits would be otherwise due, liability for such benefits shall be apportioned according to the proof of the relative contribution to disability resulting from the injury or illness.</text>
         <text>If after the Lac Courte Oreilles Insurance Appeal Board hearing, it has been determined that an injured Employee is entitled to compensation but that there remains in dispute only the issue of which of two (2) or more parties are liable for that compensation and one of the parties is the Employer, the Lac Courte Oreilles Insurance Appeal Board may recommend that the Employer pay the prorated share in an amount, time and manner as determined. If the Lac Courte Oreilles Insurance Appeal Board later determines another party is liable for compensation, reimbursement will be sought from the responsible party.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4602,7 +4708,7 @@
           <text>The Federal or State Department of Revenue requests the record for the purpose of locating a person, who has failed to file tax returns, who has under reported taxable income or who is a delinquent taxpayer, identifying fraudulent tax returns; or providing information for tax-related prosecutions.</text>
         </para>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4610,7 +4716,7 @@
         <heading>Maximum Limitations</heading>
         <text>The maximum medical benefits under this Ordinance available to Employees is limited to one (1) year from the first date of injury or illness with a 26 week maximum for combined Temporary Total Disability and Temporary Partial Disability benefits.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4708,7 +4814,7 @@
           </table>
         </text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4717,7 +4823,7 @@
         <text>Positions will be held for an Employee with legitimate compensable injury or illness for up to three (3) months for the return of the Employee. The Employer, at the end of three (3) months, can reassess the Employee's position and may fill that position with a permanent replacement Employee. Prior to return to work, the Employee must be cleared for return to work through the primary physician or approved Medical Provider, and a completed <em><u>Report of Work Ability</u></em> form must be submitted as set forth in <cite path="|CMP.6.4.020">Section CMP.6.4.020</cite> of this Ordinance.</text>
         <text>The Employer will make every effort to provide light duty and modified work to the injured Employee after the injured employee has sought medical treatment and has provided the Employer with the appropriate <em><u>Return to Work Restrictions</u></em> paperwork. If an injured Employee refuses the light duty or modified work position offered by the Employer, all medical and other benefits will cease immediately. Light duties will be facilitated through the Employer when deemed appropriate by the Claims Administrator/Managed Care Provider.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
       <section>
@@ -4726,10 +4832,10 @@
         <text>By approval of this Ordinance, the Lac Courte Oreilles Band of Lake Superior Chippewa Indians in no way waives its inherent sovereignty and retains all rights and privileges, including but not limited to, sovereign immunity.</text>
         <text>WHEN THE RETURN TO WORK DOCUMENT INDICATES THE EMPLOYEE CAN RETURN TO WORK WITH NO RESTRICTIONS, ALL BENEFITS RELATED TO THE INJURY/ILLNESS SHALL CEASE.</text>
         <annotations>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
         </annotations>
       </section>
     </container>
   </container>
-  <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" type="History" display="false"/>
+  <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-23" eff="2024-02-12" path="" target-path="CMP.1" type="History" display="false"/>
 </container>

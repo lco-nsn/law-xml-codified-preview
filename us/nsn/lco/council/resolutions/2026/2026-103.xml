@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-103" codify:doc="Lac Courte Oreilles Tribal Code of Law">
+  <num>2026-103</num>
+  <heading>Amending PAP.5 Community Health Center Personnel Policies and Procedures</heading>
+  <meta>
+    <effective>2026-06-30</effective>
+    <citations>
+      <citation type="res" url="./adopted/2026-103.pdf">Res. No. 2026-103</citation>
+    </citations>
+    <history>
+      <adopted>2026-06-30</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1(n) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board is empowered to "regulate, by enactment of ordinances, the conduct of business within the territory of the band"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1 (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board possesses certain powers, including: "To promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board duly enacted the Lac Courte Oreilles Community Health Center Personnel Policies and Procedures to regulate employment at the Community Health Center; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board passed Resolution 16-104 establishing the Policies and Procedures which were subsequently assigned (<cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5">PAP.5</cite>) under Title TCT Tribal Court of the Lac Courte Oreilles Tribal Code of Law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Governing Board now wishes to amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5">PAP.5</cite> to amend sections related to the Human Resources Director and disciplinary action to allow for the reorganization and restructuring of Human Resources to allow for a unified HR for the Health Center and Tribal Government.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby determines that it is in the best interest of the Tribe to amend <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5">PAP.5</cite> to include the amendments to the following sections as are found below.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the attached amendments to Title <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5">PAP.5</cite> of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of the Lac Courte Oreilles Tribal Code of Law, shall be, and hereby is, amended and enacted as an ordinance of the Tribe, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|IV|3">Article IV, § 3 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite> as follows.</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.2.010">PAP.5.2.010</cite> General Definitions are hereby amended as follows:</text>
+    <include>
+      <para>
+        <num>(k)</num>
+        <text><strong>"Human Resources Director" </strong>means the Tribal Government Director of Human Resources, who shall have the ability to designate any Tribal Government Human Resources Employee to complete any act arising under this ordinance requiring the approval of the Human Resources Director.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text><strong>"Immediate Family Member"</strong> means Husband, Wife, Son, Daughter, Mother, Father, Brother, Sister, Grandparent, Grandchild, Niece, Nephew, Aunt and Uncle (including great-grandparents, in-laws, and step-relationship etc.). Immediate family member may also include a partner who has been in a relationship for a period of time or in relationship under Ojibwe tradition and practices.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text><strong>"Independent Contractor"</strong> means an individual who is not an employee of the LCO-CHC, but rather has entered into a contract with the LCO-CHC, which defines the scope of services. Independent contractors are not employees, do not receive benefits, are not subject to this personnel policy and procedural manual and are governed by a written or verbal contract.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text><strong>"Management" </strong>means the Health Director, Department Director(s), and any employee who is assigned permanent or temporary supervisory or decision making authority.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text><strong>"Non-Exempt Employee"</strong> means an employee who the Human Resource Director, or designee, categorizes as being non-exempt from accruing compensatory time.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text><strong>"Part-time Employee"</strong> means an employee regularly scheduled to work less than thirty-two (32) hours per week. Part-time employees are not eligible for any fringe benefits offered by the LCO-CHC, unless otherwise provided for in an Employment Contract with the LCO-CHC or mandated by law. Employees who work 16 hours a week are eligible for the FEHB insurance.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text><strong>"Positive Test Result"</strong> means a Blood Alcohol Concentration determined to be under the influence as established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5.2.010">Section PAP.5.2.010(x)</cite> and<cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5.8.080">Section PAP.5.8.080(c)</cite> .</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text><strong>"Probationary Employee"</strong> means an employee who has not successfully completed their required probationary period. Probationary employees are eligible for holiday leave and funeral leave. Probationary employees accrue PTO leave, however probationary employees will not be able to use PTO during their probationary period unless it is for extreme circumstances with approval of their department head or director and concurrence of the Health Director. If an employee does not complete the probationary period for any reason, the employee forfeits all accrued but unused benefits.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text><strong>"Seasonal Employee"</strong> means an employee hired for an established period usually during peak workloads or seasonal demands. Seasonal workers may not be eligible for all employee benefits.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text><strong>"Serious Health Condition"</strong> means a condition which requires inpatient care at a hospital, hospice, or residential medical care facility, or a condition which requires continuing care by a licensed health care provider. This policy covers illnesses of a serious and long-term nature, as documented by a licensed health care professional, resulting in recurring or lengthy absences. Generally, a chronic or long term health condition which, if left untreated, would result in a period of incapacity of more than three (3) days would be considered a serious health condition.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text><strong>"Temporary Employee"</strong> means an employee hired for a period of ninety (90) days or less. Temporary employees may work a full-time or part-time schedule and are not eligible for employee benefits and paid leave.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text><strong>"Tribe"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text><strong>"Tribal Court"</strong> means the Court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text><strong>"Under the Influence of Alcohol</strong>, <strong>Illegal Drugs or Controlled Substances"</strong> means the following: a Blood Alcohol Concentration that indicates a positive test result as established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5.8.080">Section PAP.5.8.080(c)</cite>; or are results that confirm the presence of illegal substance; or are results that confirm the presence of a controlled substances that an employee does not have a valid prescription for or the levels exceed the prescribed dosage.</text>
+      </para>
+      <para>
+        <num>(z)</num>
+        <text><strong>"Valid Prescription"</strong> means a prescription that is current and issued for a medical purpose in the usual course of professional practice by a practitioner or a covering practitioner who has conducted at least 1 in-person medical evaluation of the patient.</text>
+      </para>
+    </include>
+    <codify:replace path="|PAP.5.2.010" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.5.2.010">
+      <section>
+        <num>PAP.5.2.010</num>
+        <heading>General Definitions</heading>
+        <text>Any term not defined in <cite path="|PAP.5.2.010" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-103">this section</cite> shall be given its ordinary meaning. The following terms, wherever used in this ordinance, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <para>
+          <num>(a)</num>
+          <text><strong>"Compensatory Time" and "Compensatory Time Off" </strong>means paid time off, which is not counted as hours worked during the applicable workweek, or other work period for purposes of overtime compensation, and for which the non-exempt employee is compensated at the non-exempt employee's regular rate. All compensatory time must be pre-approved by the Health Director.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><strong>"Contracted Employee"</strong> means an employee who has entered into a written contract, which has been properly authorized and signed by a signatory of the LCO-CHC and the employee and which defines the employment relationship. The contract will be for a specified period, and will outline benefits, pay and other conditions of employment. The terms and conditions of employment for contracted employees may differ from the terms in this personnel policy and procedural manual, and this manual may be incorporated by reference in the Contracted Employee's written contract.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><strong>"Employee" </strong>means an employee of the LCO-CHC including:  Exempt Employee, Non-exempt Employee, Full-time Employee, Part-time Employee, Seasonal Employee, or Temporary Employee.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><strong>"Exempt Employee"</strong> means an employee who the Human Resources Director, or designee, categorizes as being exempt from accruing compensatory time, and includes executive, administrative, and professional employees who are compensated on a salary basis.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><strong>"Extreme Circumstance"</strong> means an unscheduled or unplanned circumstance exceeding an ordinary, usual, or expected event.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><strong>"Full-time Employee"</strong> means an employee regularly scheduled to work thirty-two to forty (32-40) hours per week who has completed the ninety (90) day probationary period. Full-time employees are eligible for employee benefits subject to the limitations of the applicable benefit plans.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><strong>"Fringe Benefit"</strong> means an extra benefit supplementing an employee's salary, such as: health insurance, Worker's compensation, 401(k) benefits, short-term and long-term disability.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text><strong>"Habitual Absenteeism"</strong> means the repeated practice or habit of being absent from work without a verifiable reason as established in this manual.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text><strong>"Health Center" </strong>or<strong> "LCO-CHC"</strong> means the Community Health Center of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text><strong>"Health Director"</strong> means the individual employed by the Tribal Governing Board to manage the affairs of the Lac Courte Oreilles Community Health Center as provided for in this manual, the Community Health Center Code, and other relevant documents.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text><strong>"Human Resources Director" </strong>means the Tribal Government Director of Human Resources, who shall have the ability to designate any Tribal Government Human Resources Employee to complete any act arising under this ordinance requiring the approval of the Human Resources Director.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text><strong>"Immediate Family Member"</strong> means Husband, Wife, Son, Daughter, Mother, Father, Brother, Sister, Grandparent, Grandchild, Niece, Nephew, Aunt and Uncle (including great-grandparents, in-laws, and step-relationship etc.). Immediate family member may also include a partner who has been in a relationship for a period of time or in relationship under Ojibwe tradition and practices.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text><strong>"Independent Contractor"</strong> means an individual who is not an employee of the LCO-CHC, but rather has entered into a contract with the LCO-CHC, which defines the scope of services. Independent contractors are not employees, do not receive benefits, are not subject to this personnel policy and procedural manual and are governed by a written or verbal contract.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text><strong>"Management" </strong>means the Health Director, Department Director(s), and any employee who is assigned permanent or temporary supervisory or decision making authority.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text><strong>"Non-Exempt Employee"</strong> means an employee who the Human Resource Director, or designee, categorizes as being non-exempt from accruing compensatory time.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text><strong>"Part-time Employee"</strong> means an employee regularly scheduled to work less than thirty-two (32) hours per week. Part-time employees are not eligible for any fringe benefits offered by the LCO-CHC, unless otherwise provided for in an Employment Contract with the LCO-CHC or mandated by law. Employees who work 16 hours a week are eligible for the FEHB insurance.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text><strong>"Positive Test Result"</strong> means a Blood Alcohol Concentration determined to be under the influence as established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5.2.010">Section PAP.5.2.010(x)</cite> and<cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5.8.080">Section PAP.5.8.080(c)</cite> .</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text><strong>"Probationary Employee"</strong> means an employee who has not successfully completed their required probationary period. Probationary employees are eligible for holiday leave and funeral leave. Probationary employees accrue PTO leave, however probationary employees will not be able to use PTO during their probationary period unless it is for extreme circumstances with approval of their department head or director and concurrence of the Health Director. If an employee does not complete the probationary period for any reason, the employee forfeits all accrued but unused benefits.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text><strong>"Seasonal Employee"</strong> means an employee hired for an established period usually during peak workloads or seasonal demands. Seasonal workers may not be eligible for all employee benefits.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text><strong>"Serious Health Condition"</strong> means a condition which requires inpatient care at a hospital, hospice, or residential medical care facility, or a condition which requires continuing care by a licensed health care provider. This policy covers illnesses of a serious and long-term nature, as documented by a licensed health care professional, resulting in recurring or lengthy absences. Generally, a chronic or long term health condition which, if left untreated, would result in a period of incapacity of more than three (3) days would be considered a serious health condition.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text><strong>"Temporary Employee"</strong> means an employee hired for a period of ninety (90) days or less. Temporary employees may work a full-time or part-time schedule and are not eligible for employee benefits and paid leave.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text><strong>"Tribe"</strong> means the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <text><strong>"Tribal Court"</strong> means the Court of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text><strong>"Tribal Governing Board"</strong> means the Tribal Governing Board of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians.</text>
+        </para>
+        <para>
+          <num>(y)</num>
+          <text><strong>"Under the Influence of Alcohol</strong>, <strong>Illegal Drugs or Controlled Substances"</strong> means the following: a Blood Alcohol Concentration that indicates a positive test result as established in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PAP.5.8.080">Section PAP.5.8.080(c)</cite>; or are results that confirm the presence of illegal substance; or are results that confirm the presence of a controlled substances that an employee does not have a valid prescription for or the levels exceed the prescribed dosage.</text>
+        </para>
+        <para>
+          <num>(z)</num>
+          <text><strong>"Valid Prescription"</strong> means a prescription that is current and issued for a medical purpose in the usual course of professional practice by a practitioner or a covering practitioner who has conducted at least 1 in-person medical evaluation of the patient.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030|(a)|(2)">PAP.5.12.030(a)(2)</cite> Suspension is amended as follows:</text>
+    <include>
+      <para>
+        <num>(2)</num>
+        <text><u>Suspension</u>.</text>
+        <para>
+          <num>(A)</num>
+          <text>An employee may be recommended for suspension by their supervisor when the employee's behavior warrants such disciplinary action. The recommendation must be written in a manner that clearly states the justifiable reason and forwarded to the Human Resources Director, or their designee. The Human Resources Director, or their designee, will consult with the Supervisor to ensure the reason for suspension is justified and clearly stated. If the Human Resources Director, or their designee, is satisfied that all of the information is contained in the documentation and that there is a clear substantiated reason for the suspension, the same will be forwarded to the Health Director for final approval or denial. All suspensions are without pay. Suspensions are appealable pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.040">Section PAP.5.12.040</cite> of this manual.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Upon return from suspension, the department head or director will meet with an employee regarding the nature of the problem. A corrective action plan will be developed with the employee including specific timelines for completion.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Human Resource Director, or their designee, shall document all suspensions and maintain all corrective action plans in the employee's personnel file in the event that further progressive discipline is necessary.</text>
+        </para>
+      </para>
+    </include>
+    <codify:replace path="|PAP.5.12.030|(a)|(2)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.5.12.030|(a)|(2)">
+      <para>
+        <num>(2)</num>
+        <text><u>Suspension</u>.</text>
+        <para>
+          <num>(A)</num>
+          <text>An employee may be recommended for suspension by their supervisor when the employee's behavior warrants such disciplinary action. The recommendation must be written in a manner that clearly states the justifiable reason and forwarded to the Human Resources Director, or their designee. The Human Resources Director, or their designee, will consult with the Supervisor to ensure the reason for suspension is justified and clearly stated. If the Human Resources Director, or their designee, is satisfied that all of the information is contained in the documentation and that there is a clear substantiated reason for the suspension, the same will be forwarded to the Health Director for final approval or denial. All suspensions are without pay. Suspensions are appealable pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.040">Section PAP.5.12.040</cite> of this manual.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Upon return from suspension, the department head or director will meet with an employee regarding the nature of the problem. A corrective action plan will be developed with the employee including specific timelines for completion.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Human Resource Director, or their designee, shall document all suspensions and maintain all corrective action plans in the employee's personnel file in the event that further progressive discipline is necessary.</text>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030|(a)|(3)">PAP.5.12.030(a)(3)</cite> Probationary Period in lieu of Termination is amended as follows:</text>
+    <include>
+      <para>
+        <num>(3)</num>
+        <text><u>Probationary Period in lieu of Termination</u>.</text>
+        <para>
+          <num>(A)</num>
+          <text>In lieu of termination an employee may be placed on a probationary period for a serious violation of this personnel policy and procedural manual, as recommended by a Supervisor and agreed to and evidenced by the signature of the employee on a "Waiver of Appeal Process" form. The Supervisor must follow the same procedures as outlined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030|(a)|(2)">Section PAP.5.12.030(a)(2)</cite>. During this probationary period, the LCO-CHC will evaluate the employee's continued suitability for employment. If during this period an employee has not shown improvement or adequately addressed the issues surrounding the probationary period in lieu of termination the Supervisor may recommend the termination of the employee's employment, without the ability of the employee to appeal the decision, subject to the approval of the Health Director.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Employees placed on a probationary period pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030">this section</cite> are eligible for holiday leave and funeral leave. Probationary employees pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030">this section</cite> shall accrue Personal Time Off. Such employees cannot use Personal Time Off until the completion of their probationary period, unless authorized by their immediate supervisor with concurrence from the Health Director and only for medical reasons or extreme circumstances.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>At the end of the probationary period pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030">this section</cite>, the employee’s Supervisor will prepare a written performance evaluation and discuss with the employee the curative conduct of the employee pertaining to the problem causing the probationary period as well as the employee's overall job performance.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The Tribal Human Resource Director, or designee, shall document all probationary periods pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030">this section</cite> and maintain all written performance evaluations pertaining to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030">this section</cite> in the employee's personnel file in the event that further progressive discipline is necessary.</text>
+        </para>
+      </para>
+    </include>
+    <codify:replace path="|PAP.5.12.030|(a)|(3)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.5.12.030|(a)|(3)">
+      <para>
+        <num>(3)</num>
+        <text><u>Probationary Period in lieu of Termination</u>.</text>
+        <para>
+          <num>(A)</num>
+          <text>In lieu of termination an employee may be placed on a probationary period for a serious violation of this personnel policy and procedural manual, as recommended by a Supervisor and agreed to and evidenced by the signature of the employee on a "Waiver of Appeal Process" form. The Supervisor must follow the same procedures as outlined in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030|(a)|(2)">Section PAP.5.12.030(a)(2)</cite>. During this probationary period, the LCO-CHC will evaluate the employee's continued suitability for employment. If during this period an employee has not shown improvement or adequately addressed the issues surrounding the probationary period in lieu of termination the Supervisor may recommend the termination of the employee's employment, without the ability of the employee to appeal the decision, subject to the approval of the Health Director.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Employees placed on a probationary period pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030">this section</cite> are eligible for holiday leave and funeral leave. Probationary employees pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030">this section</cite> shall accrue Personal Time Off. Such employees cannot use Personal Time Off until the completion of their probationary period, unless authorized by their immediate supervisor with concurrence from the Health Director and only for medical reasons or extreme circumstances.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>At the end of the probationary period pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030">this section</cite>, the employee’s Supervisor will prepare a written performance evaluation and discuss with the employee the curative conduct of the employee pertaining to the problem causing the probationary period as well as the employee's overall job performance.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The Tribal Human Resource Director, or designee, shall document all probationary periods pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030">this section</cite> and maintain all written performance evaluations pertaining to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030">this section</cite> in the employee's personnel file in the event that further progressive discipline is necessary.</text>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.030|(a)|(4)">PAP.5.12.030(a)(4)</cite> Termination is amended as follows:</text>
+    <include>
+      <para>
+        <num>(4)</num>
+        <text><u>Termination</u>.</text>
+        <para>
+          <num>(A)</num>
+          <text>An employee may be recommended for termination from employment by their Supervisor at any time, depending upon the severity of the offense. The recommendation must be written by the Supervisor in a manner that clearly states the justifiable reason and shall be forwarded to the Human Resources Director, or their designee. The Human Resources Director, or their designee, will consult with the Supervisor to ensure the reason is justified and clearly stated. If the Human Resources Director, or their designee, is satisfied that all the information is contained in the documentation and that there is a clear substantiated reason for the termination, the written recommendation shall be forwarded with written approval by the Human Resources Director, or their designee, to the Health Director for final approval or denial. All terminations are appealable pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.040">Section PAP.5.12.040</cite> of this manual.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The department head or director shall document all terminations and provide a copy of all documentation to the Human Resource Director, or their designee.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The LCO-CHC retains the sole discretion to determine what behavior warrants disciplinary action and what type of disciplinary action will be imposed. The LCO-CHC reserves the right to terminate employees at any time for any reason that does not violate applicable law with or without notice and with or without prior resort to other means of discipline.</text>
+      </para>
+    </include>
+    <codify:replace path="|PAP.5.12.030|(a)|(4)" codified:doc="Lac Courte Oreilles Tribal Code of Law" codified:path="|PAP.5.12.030|(a)|(4)">
+      <para>
+        <num>(4)</num>
+        <text><u>Termination</u>.</text>
+        <para>
+          <num>(A)</num>
+          <text>An employee may be recommended for termination from employment by their Supervisor at any time, depending upon the severity of the offense. The recommendation must be written by the Supervisor in a manner that clearly states the justifiable reason and shall be forwarded to the Human Resources Director, or their designee. The Human Resources Director, or their designee, will consult with the Supervisor to ensure the reason is justified and clearly stated. If the Human Resources Director, or their designee, is satisfied that all the information is contained in the documentation and that there is a clear substantiated reason for the termination, the written recommendation shall be forwarded with written approval by the Human Resources Director, or their designee, to the Health Director for final approval or denial. All terminations are appealable pursuant to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="|PAP.5.12.040">Section PAP.5.12.040</cite> of this manual.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The department head or director shall document all terminations and provide a copy of all documentation to the Human Resource Director, or their designee.</text>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>6</u></strong>  being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>30<sup>th</sup> day of June, 2026</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>5</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Michelle Beaudin, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

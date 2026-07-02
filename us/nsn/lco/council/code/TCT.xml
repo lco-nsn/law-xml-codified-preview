@@ -811,7 +811,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-37"/>
           <annotation type="Prior Codifications">§TCT.2.6.010 was formerly codified as II LCOTCL §1.601</annotation>
-          <annotation app="2026-02-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-26" eff="2026-02-24" path="" type="History"/>
+          <annotation app="2026-02-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-26" eff="2026-02-24" path="" target-path="TCT.2.6.010" type="History"/>
         </annotations>
       </section>
       <section>
@@ -975,7 +975,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-37"/>
           <annotation type="Prior Codifications">§TCT.2.8.030 was formerly codified as II LCOTCL §1.803</annotation>
-          <annotation app="2026-02-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-26" eff="2026-02-24" path="" type="History"/>
+          <annotation app="2026-02-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-26" eff="2026-02-24" path="" target-path="TCT.2.8.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1331,7 +1331,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-37"/>
           <annotation type="Prior Codifications">§TCT.2.9.080 was formerly codified as II LCOTCL §1.908</annotation>
-          <annotation app="2026-02-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-26" eff="2026-02-24" path="" type="History"/>
+          <annotation app="2026-02-24" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-26" eff="2026-02-24" path="" target-path="TCT.2.9.080" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1729,7 +1729,7 @@
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-15"/>
           <annotation type="History" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 19-37"/>
           <annotation type="Prior Codifications">§TCT.2.13.020 was formerly codified as II LCOTCL §1.1302</annotation>
-          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-26" eff="2024-02-12" path="" type="History"/>
+          <annotation app="2024-02-12" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-26" eff="2024-02-12" path="" target-path="|TCT.2.13.020" type="History"/>
         </annotations>
       </section>
       <section>
@@ -1975,7 +1975,7 @@
           <text>The Court shall not waive fees and costs for any Tribal member who is incarcerated at the time of filing a cause of action, or who has an incarceration date pending within thirty days of filing.</text>
         </para>
         <annotations>
-          <annotation app="2023-04-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-33" eff="2023-04-03" path="§1" type="History"/>
+          <annotation app="2023-04-03" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-33" eff="2023-04-03" path="§1" target-path="TCT.2.15" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3183,7 +3183,7 @@
         <heading>Applicability</heading>
         <text><cite path="TCT.5">This Chapter</cite> applies only to appeals from administrative decisions rendered by the Financial Services Regulatory Authority.</text>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3206,8 +3206,8 @@
           <text><u>Constitutionality</u><em><u>.</u></em> In an administrative appeal properly filed under <cite path="TCT.5">this Chapter</cite> the jurisdiction of the Tribal Court shall include the authority to determine the constitutionality of acts of any Person, the Governing Board, or any Tribal subdivision or Agency.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-49" eff="2023-05-10" path="§1" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-49" eff="2023-05-10" path="§1" target-path="|TCT.5.1.020|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3215,7 +3215,7 @@
         <heading>Laws Applicable to Administrative Appeals</heading>
         <text>In all administrative appeals, the Tribal Court shall first apply the Tribal ordinance authorizing the administrative appeal, then any other applicable Tribal law as well as any applicable federal laws and regulations. Where Tribal law and applicable federal laws are silent, the Tribal Court may look to federal court authority from the United States Court of Appeals, Seventh Circuit, or from any federal district court in Wisconsin, subject to modification by the Tribal Court, if necessary, to reflect the customs, traditions, values, and policies of the Tribe. The Tribal Court may of its own motion or that of a Party, adopt any other source of law as persuasive authority and may apply any such source with or without modification.</text>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3230,7 +3230,7 @@
           <text>Disqualification, Recusal, or Removal of Judge shall be according to <cite path="|TCT.2.4.050">§TCT.2.4.050</cite>.  Upon disqualification, recusal, or removal, the Clerk shall assign another judge.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3241,7 +3241,7 @@
           <text>Any person admitted to practice before the Lac Courte Oreilles Tribal Court pursuant to <cite path="TCT.2.8">Subchapter TCT.2.8</cite> may appear in an administrative appeal.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3305,7 +3305,7 @@
           <text>Any term not defined in <cite path="|TCT.5.2.010">this Section</cite> or in <cite path="|TCT.2.2.010">§TCT.2.2.010</cite> shall be given its ordinary meaning.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3345,7 +3345,7 @@
           <text><u>Electronic documents.</u> Unless granted leave by the Tribal Court, all documents shall be filed and served electronically in a manner prescribed by the Tribal Court or via email.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3361,7 +3361,7 @@
           <text><u>Proof of Service.</u> All documents filed and served shall include proof of service that describes the document(s), the date of filing and service, the means of filing and service, and the recipients of the filing and service. The proof of service shall be signed by the person effectuating service, the Party, or the Party's legal counsel.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3432,7 +3432,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3471,7 +3471,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3510,7 +3510,7 @@
           <text>The Tribal Court shall issue a written order deciding each motion.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3561,7 +3561,7 @@
           <text>Amicus Briefs are not allowed.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3592,7 +3592,7 @@
           <text>Adjournment; Reconvening. For good cause, the Tribal Court may adjourn and reconvene oral argument. The Tribal Court may call for additional oral arguments.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3600,7 +3600,7 @@
         <heading>Post Hearing Briefing</heading>
         <text>Upon motion or stipulation by either Party, or upon its own, the Tribal Court may order post hearing briefs on questions or issues that arose during oral argument and which the parties have not already had an opportunity to brief.</text>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3731,8 +3731,8 @@
           <text>The Clerk shall, within two days of their filing, furnish copies of the decision and any order of the Tribal Court to the Agency and the Parties.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
-          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-49" eff="2023-05-10" path="§2" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
+          <annotation app="2023-05-10" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-49" eff="2023-05-10" path="§2" target-path="|TCT.5.3.090|(e)|(1)" type="History"/>
         </annotations>
       </section>
     </container>
@@ -3745,10 +3745,10 @@
         <heading>Enforcement.</heading>
         <text>Following exhaustion, an administrative decision is enforceable in the same manner as a Tribal Court judgment pursuant to <cite path="TCT.1.2.010">§TCT.1.2.010</cite>.</text>
         <annotations>
-          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+          <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
         </annotations>
       </section>
     </container>
-    <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" type="History"/>
+    <annotation app="2022-11-21" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-118" eff="2022-11-21" path="" target-path="TCT" type="History"/>
   </container>
 </container>
