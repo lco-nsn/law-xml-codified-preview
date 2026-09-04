@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-138" codify:doc="Lac Courte Oreilles Tribal Governing Board Drafting Manual">
+  <num>2026-138</num>
+  <heading>Amending the Lac Courte Oreilles Tribal Governing Board Drafting Manual</heading>
+  <meta>
+    <effective>2026-08-18</effective>
+    <citations>
+      <citation type="res" url="./adopted/2026-138.pdf">Res. No. 2026-138</citation>
+    </citations>
+    <history>
+      <adopted>2026-08-18</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(n)">Article V, § 1(n) of the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board is empowered to "regulate, by enactment of ordinances, the conduct of business within the territory of the band"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, Section 1 (s) of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, the Tribal Governing Board possesses certain powers, including: "To promulgate and enforce ordinances governing the conduct of members of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin and providing for the maintenance of law and order and the administration of justice by establishing a tribal court and defining its duties and powers."; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Open Law Library ("OLL") is a 501(c)(3) non-profit with the mission to help governments make all their official laws freely and openly accessible to the public and OLL develops and maintains software systems for the performance of this mission; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to facilitate access for community members and governmental operations and to enhance economic opportunity and investment, the Tribal Governing Board passed Resolution No. 2022-68, authorizing the Tribe to work with OLL to recodify its ordinances as the Lac Courte Oreilles Tribal Code of Law ("Code" or "LCOTCL") and publish them in a new electronic tribal law library at https://law.lco-nsn.gov; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe worked with OLL to establish publication requirements ("Lac Courte Oreilles Tribal Governing Board Drafting Manual" or "Drafting Manual") and works with OLL to ensure that the publication of the Code is preservable, authenticatable, and accessible; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Governing Board now wishes to amend the Drafting Manual to allow amendments to entire Chapters and entire Subchapters.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby determines that it is in the best interest of the Tribe to amend the Drafting Manual.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the Drafting Manual, shall be, and hereby is, amended, pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|IV|3">Article IV, § 3 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, as follows:</text>
+      <text>
+        <strong>Section 4(d)(1)(C) is hereby amended as follows:</strong>
+      </text>
+      <text>(C) Amend: ‘Chapter WWW.X. of the Lac Courte Oreilles Tribal Code of Law is amended as follows:’</text>
+      <codify:replace path="4|(d)|(1)|(C)">
+        <para>
+          <num>(C)</num>
+          <text>Amend: 'Chapter WWW.X. of the Lac Courte Oreilles Tribal Code of Law is amended as follows:'</text>
+        </para>
+      </codify:replace>
+      <text>
+        <strong>Section 4(d)(2)(C) is hereby amended as follows:</strong>
+      </text>
+      <text>(C) Amend: ‘Subchapter WWW.W.Y of the Lac Courte Oreilles Tribal Code of Law is amended as follows:’</text>
+      <codify:replace path="4|(d)|(2)|(C)">
+        <para>
+          <num>(C)</num>
+          <text>Amend: 'Subchapter WWW.W.Y of the Lac Courte Oreilles Tribal Code of Law is amended as follows:'</text>
+        </para>
+      </codify:replace>
+      <text>
+        <strong>Section 4(f) is hereby amended as follows:</strong>
+      </text>
+      <text>When an existing Chapter, Subchapter, or Section of the code that does not conform to this manual is amended, the Chapter, Subchapter, or Section shall be amended in its entirety to bring it into conformance with this manual.</text>
+      <codify:replace path="4|(f)">
+        <para>
+          <num>(f)</num>
+          <text>When an existing Chapter, Subchapter, or Section of the code that does not conform to this manual is amended, the Chapter, Subchapter, or Section shall be amended in its entirety to bring it into conformance with this manual.</text>
+        </para>
+      </codify:replace>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>6</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>18th day of August, 2026</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>5</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Michelle Beaudin, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>

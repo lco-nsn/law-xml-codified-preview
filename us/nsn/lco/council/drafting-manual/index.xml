@@ -410,8 +410,8 @@
         </para>
         <para>
           <num>(C)</num>
-          <heading>Amend:</heading>
-          <text>Amendment of a Chapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a Chapter title: 'The title of Chapter WWW.X of the Lac Courte Oreilles Tribal Code of Law is amended as follows: "Chapter Title".'</text>
+          <text>Amend: 'Chapter WWW.X. of the Lac Courte Oreilles Tribal Code of Law is amended as follows:'</text>
+          <annotation app="2026-08-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-138" eff="2026-08-18" path="" target-path="4|(d)|(1)|(C)" type="History"/>
         </para>
         <para>
           <num>(D)</num>
@@ -439,8 +439,8 @@
         </para>
         <para>
           <num>(C)</num>
-          <heading>Amend:</heading>
-          <text>Amendment of a Subchapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a Subchapter title: 'The title of Subchapter WWW.X.Y of the Lac Courte Oreilles Tribal Code of Law is amended as follows: "Subchapter Title".'</text>
+          <text>Amend: 'Subchapter WWW.W.Y of the Lac Courte Oreilles Tribal Code of Law is amended as follows:'</text>
+          <annotation app="2026-08-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-138" eff="2026-08-18" path="" target-path="4|(d)|(2)|(C)" type="History"/>
         </para>
         <para>
           <num>(D)</num>
@@ -532,8 +532,8 @@
     </para>
     <para>
       <num>(f)</num>
-      <heading>Amendment of existing code.</heading>
-      <text>When an existing section of the code that does not conform to this manual is amended, the section shall be amended in its entirety to bring it into conformance with this manual.</text>
+      <text>When an existing Chapter, Subchapter, or Section of the code that does not conform to this manual is amended, the Chapter, Subchapter, or Section shall be amended in its entirety to bring it into conformance with this manual.</text>
+      <annotation app="2026-08-18" doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2026-138" eff="2026-08-18" path="" target-path="4|(f)" type="History"/>
     </para>
   </section>
 </document>
